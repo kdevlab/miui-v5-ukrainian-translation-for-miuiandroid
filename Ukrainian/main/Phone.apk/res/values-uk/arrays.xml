@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+  <!--This file translated by KOJAN Development Group with ATE2-->
+    <string-array name="clir_display_values">
+        <item>Налаштування мережі за замовчуванням</item>
+        <item>Приховати номер</item>
+        <item>Показувати номер</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>LTE</item>
+        <item>Global</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>Тільки EvDo</item>
+        <item>CDMA без EvDo</item>
+        <item>CDMA / EvDo (автоматичний режим)</item>
+        <item>GSM / WCDMA (автоматичний режим)</item>
+        <item>Тільки WCDMA</item>
+        <item>Тільки GSM</item>
+        <item>GSM / WCDMA (краща мережа)</item>
+    </string-array>
+        <string-array name="list_language_entries">
+        <item>Англійська</item>
+        <item>Французький</item>
+        <item>Іспанська</item>
+        <item>Японський</item>
+        <item>Корейська</item>
+        <item>Китайський</item>
+        <item>Іврит</item>
+    </string-array>
+    <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (автоматичний режим)</item>
+        <item>Тільки WCDMA</item>
+        <item>Тільки GSM</item>
+        <item>GSM/WCDA (переважно WCDMA)</item>
+    </string-array>
+    <string-array name="cdma_system_select_choices">
+        <item>Тільки домашня</item>
+        <item>Автоматично</item>
+    </string-array>
+    <string-array name="cdma_roaming_mode_choices">
+        <item>Тільки домашні мережі</item>
+        <item>Афілійовані мережі</item>
+        <item>Будьяка мережа</item>
+    </string-array>
+   <string-array name="cdma_network_preferences_choices">
+        <item>CDMA/EvDo</item>
+        <item>Тільки CDMA</item>
+        <item>Тільки EvDo</item>
+    </string-array>
+    <string-array name="tty_mode_entries">
+    <item>Телетайп вимкнений</item>
+    <item>Повнофункціональний телетайп</item>
+    <item>Телетайп з можливістю чути співрозмовника</item>
+    <item>Телетайп з можливістю передачі голосу</item>
+  </string-array>
+<string-array name="dtmf_tone_entries">
+        <item>Звичайні</item>
+        <item>Довгі</item>
+    </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Завжди</item>
+        <item>Якщо без звуку</item>
+        <item>Ніколи</item>
+    </string-array>
+</resources>

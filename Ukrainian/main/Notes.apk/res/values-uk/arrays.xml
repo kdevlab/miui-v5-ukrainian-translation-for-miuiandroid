@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="menu_share_ways">
+        <item>Повідомлення</item>
+        <item>E-mail</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>Ім\'я</item>    
+        <item>Нік</item>
+        <item>Телефон</item>	
+        <item>E-mail</item>	
+        <item>Організація</item>
+        <item>IM</item>
+        <item>Інтернет-телефон</item>
+        <item>День нарождення</item>
+        <item>Сайт</item>
+        <item>Адреса</item>
+        <item>Нотатка</item>
+    </string-array>	
+</resources>

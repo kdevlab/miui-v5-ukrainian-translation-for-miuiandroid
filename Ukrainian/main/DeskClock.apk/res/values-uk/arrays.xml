@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Будильник задзвонить менш ніж за хвилину</item>
+        <item>Будильник задзвонить через %1$s</item>
+        <item>Будильник задзвонить через %2$s</item>
+        <item>Будильник задзвонить через %1$s та %2$s</item>
+        <item>Будильник задзвонить через %3$s</item>
+        <item>Будильник задзвонить через %1$s та %3$s</item>
+        <item>Будильник задзвонить через %2$s та %3$s</item>
+        <item>Будильник задзвонить через %1$s, %2$s та %3$s</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Відключено</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>15 хвилин</item>
+        <item>20 хвилин</item>
+        <item>25 хвилин</item>
+        <item>30 хвилин</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Ні</item>
+        <item>Відкласти</item>
+        <item>Вимкнути</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Будильник задзвонить менш ніж за хвилину</item>
+        <item>Будильник задзвонить через %1$s</item>
+        <item>Будильник задзвонить через %2$s</item>
+        <item>Будильник задзвонить через %1$s та %2$s</item>
+        <item>Будильник задзвонить через %3$s</item>
+        <item>Будильник задзвонить через %1$s та %3$s</item>
+        <item>Будильник задзвонить через %2$s та %3$s</item>
+        <item>Будильник задзвонить через %1$s, %2$s та %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Вчора</item>
+        <item>Сьогодні</item>
+        <item>Завтра</item>
+    </string-array>
+</resources>

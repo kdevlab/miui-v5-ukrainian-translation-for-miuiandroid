@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="accessibility_nfc_enabled">NFC включен.</string>
+  <string name="app_name">NFC службы</string>
+  <string name="inbound_me_profile_text">Нажмите, чтобы добавить человека в список</string>
+  <string name="inbound_me_profile_title">Полученные контакты NFC</string>
+  <string name="nfcUserLabel">NFC</string>
+  <string name="outbound_me_profile_text">Нажмите, чтобы дать этому человеку свои контактные данные</string>
+  <string name="outbound_me_profile_title">Выполнен в результате взаимодействия NFC</string>
+  <string name="touch">Нажмите, чтобы отправить.</string>
+</resources>

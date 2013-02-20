@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="defalut_dest_list_activity">
+        <item>Контакти</item>
+        <item>Новий Email</item>
+        <item>Новий номер телефону</item>
+    </string-array>
+</resources>

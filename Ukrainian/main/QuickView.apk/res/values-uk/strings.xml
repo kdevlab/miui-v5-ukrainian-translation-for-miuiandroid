@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="APKTOOL_DUMMY_0038">false</string>
+  <string name="CURRENTDESTINATION_REMOVE">Видалити</string>
+  <string name="CURRENTDESTINATION_REPLACE">Замінити</string>
+  <string name="DEST_CURRENTDEST">"Поточне
+  призначення "</string>
+  <string name="DEST_NEWEMAIL">"Новий
+ Email "</string>
+  <string name="DEST_NEWNUMBER">"Новий
+  номер "</string>
+  <string name="DEST_ONLINEALBUM">"Онлайн альбом"</string>
+  <string name="DEST_PHONEBOOK">"Телефонна
+книга "</string>
+  <string name="DEST_RECENTRECIPIENT">"Останній
+  одержувач "</string>
+  <string name="Dialog_No">Ні</string>
+  <string name="Dialog_Yes">Так</string>
+  <string name="My_Album_Online">Мій онлайн альбом</string>
+  <string name="OK_STRING">OK</string>
+  <string name="OPTION_1">Опція 1</string>
+  <string name="OPTION_2">Опція 2</string>
+  <string name="OPTION_3">Опція 3</string>
+  <string name="Send_to">Надіслати до</string>
+  <string name="Title_Dest">"Призначення
+за замовчуванням"</string>
+  <string name="Title_SetDefDest">Встановити призначення за замовчуванням</string>
+  <string name="already_exists">Вже існує</string>
+  <string name="app_name">QuickView</string>
+  <string name="app_new_email">Новий Email</string>
+  <string name="app_new_number">Новий номер</string>
+  <string name="app_recent_recipients">Останні лауреати</string>
+  <string name="camera_history">Історія</string>
+  <string name="camera_more">Ще</string>
+  <string name="camera_set">Встановити як</string>
+  <string name="camera_share">Поділитися</string>
+  <string name="camera_toss">Видалити</string>
+  <string name="confirm_delete_message">Зображення буде видалено</string>
+  <string name="confirm_delete_title">Видалити?</string>
+  <string name="confirm_delete_video_message">Відеозапис буде видалена</string>
+  <string name="failed_to_rename">Не вдалося перейменувати</string>
+  <string name="gridview_cancelbutton_text">Скасувати</string>
+  <string name="include_default_destination">Призначення за замовчуванням</string>
+  <string name="invalid_character">Невірний символ</string>
+  <string name="max_char_reached_msg">Досягнуто максимальну кількість символів</string>
+  <string name="media_scanner_running">Запущено сканування...</string>
+  <string name="menu_kodak">Kodak</string>
+  <string name="menu_snapfish">Snapfish</string>
+  <string name="name_is_empty">Ім\'я пусте</string>
+  <string name="no_have_video">"Відео файл не існує або невірний файл"</string>
+  <string name="no_media_found">Немає записів</string>
+  <string name="no_sdcard">SD карта не виявлена</string>
+  <string name="no_way_to_share_image">Немає відповідної програми</string>
+  <string name="no_way_to_share_video">Немає відповідної програми</string>
+  <string name="preparing_sd">Підготовка SD карти...</string>
+  <string name="remove_dialog">Ви впевнені, що хочете видалити?</string>
+  <string name="remove_dialog_canceled">Скасовано</string>
+  <string name="remove_dialog_removed">Вилучено</string>
+  <string name="rename">Перейменувати</string>
+  <string name="rename_dialog_message">Введіть нове ім\'я файлу</string>
+  <string name="sendImage">Надіслати картинку по</string>
+  <string name="sendVideo">Відправити відео по</string>
+  <string name="setImage">Встановити зображення як</string>
+  <string name="unable_to_rename">Неможливо перейменувати</string>
+  <string name="video_play">Відтворити</string>
+</resources>

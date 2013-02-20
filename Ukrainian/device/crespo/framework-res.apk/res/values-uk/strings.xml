@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="CLIRDefaultOnNextCallOff">Caller ID по умолчанию устанавливается на "частный". Следующий вызов: не ограничен</string>
+  <string name="CLIRDefaultOnNextCallOn">Caller ID по умолчанию устанавливается на "частный". Следующий вызов: зарегестрирован</string>
+  <string name="CLIRPermanent">Вы не можете изменить идентификатор звонящего.</string>
+  <string name="CfMmi">Переадресация</string>
+  <string name="ClipMmi">Caller ID для входящих вызовов</string>
+  <string name="ClirMmi">Caller ID на исходящие звонки</string>
+  <string name="CnipMmi">Номер телефона, с которого делаются запросы.</string>
+  <string name="CnirMmi">Посмотреть номер звонящего</string>
+  <string name="CwMmi">Ожидание вызова</string>
+  <string name="DndMmi">Не беспокоить</string>
+  <string name="PinMmi">Изменить PIN</string>
+  <string name="PwdMmi">Изменение пароля</string>
+  <string name="RestrictedChangedTitle">Изменены ограничения доступа</string>
+  <string name="RestrictedOnAllVoice">Все голосовые услуги заблокированы.</string>
+  <string name="RestrictedOnData">Служба данных заблокирована.</string>
+  <string name="RestrictedOnEmergency">Службы экстренного вызова блокируется.</string>
+  <string name="RestrictedOnNormal">Голосовой сервис заблокирован.</string>
+  <string name="RestrictedOnSms">SMS заблокирован.</string>
+  <string name="ThreeWCMmi">Комбинация из трех абонентов</string>
+  <string name="VideoView_error_button">ОК</string>
+  <string name="VideoView_error_text_invalid_progressive_playback">К сожалению, это видео не подходит для потокового воспроизведения</string>
+  <string name="VideoView_error_text_unknown">К сожалению, нельзя воспроизвести это видео</string>
+  <string name="VideoView_error_title">Не удается воспроизвести видео</string>
+  <string name="abbrev_month">%-b</string>
+  <string formatted="false" name="abbrev_month_day">%-e %b</string>
+  <string formatted="false" name="abbrev_month_day_year">%d.%m.%Y</string>
+  <string formatted="false" name="abbrev_month_year">%b %Y</string>
+  <string name="abbrev_wday_month_day_no_year">EEE, d MMMM</string>
+  <string name="abbrev_wday_month_day_year">EEE, d MMM yyyy</string>
+  <string name="am">AM</string>
+  <string name="android_system_label">Система Android</string>
+  <string name="badPin">PIN-код введён неверно.</string>
+  <string name="badPuk">PUK-код введен неверно.</string>
+  <string name="byteShort">B</string>
+  <string name="cancel">Отменить</string>
+  <string name="cfTemplateForwarded">{0}: {1}</string>
+  <string name="cfTemplateForwardedTime">{0}: {1} в {2} секунды</string>
+  <string name="cfTemplateRegisteredTime">{0}: nieprzekierowane</string>
+  <string name="contentServiceSync">Синхронизация</string>
+  <string name="contentServiceSyncNotificationTitle">Синхронизация</string>
+  <string name="copy">Скопировать</string>
+  <string name="copyUrl">Скопировать адрес URL</string>
+  <string name="cut">Вырезать</string>
+  <string formatted="false" name="date1_date2">%2$s-%5$s</string>
+  <string formatted="false" name="date1_time1_date2_time2">%2$s %3$s-%5$s %6$s</string>
+  <string formatted="false" name="date_and_time">%d.%m.%Y %H:%M:%S</string>
+  <string formatted="false" name="date_time">%1$s %2$s</string>
+  <string name="day_of_week_long_friday">пятница"&gt;sobota</string>
+  <string name="day_of_week_long_monday">понедельник</string>
+  <string name="day_of_week_long_sunday">воскресенье</string>
+  <string name="day_of_week_long_thursday">четверг</string>
+  <string name="day_of_week_long_tuesday">вторик</string>
+  <string name="day_of_week_long_wednesday">среда</string>
+  <string name="day_of_week_medium_friday">пят.</string>
+  <string name="day_of_week_medium_monday">пон.</string>
+  <string name="day_of_week_medium_saturday">суб.</string>
+  <string name="day_of_week_medium_sunday">вос.</string>
+  <string name="day_of_week_medium_thursday">чет.</string>
+  <string name="day_of_week_medium_tuesday">вт.</string>
+  <string name="day_of_week_medium_wednesday">ср.</string>
+  <string name="day_of_week_short_friday">пят.</string>
+  <string name="day_of_week_short_monday">пон.</string>
+  <string name="day_of_week_short_saturday">суб.</string>
+  <string name="day_of_week_short_sunday">вос.</string>
+  <string name="day_of_week_short_thursday">чет.</string>
+  <string name="day_of_week_short_tuesday">вт.</string>
+  <string name="day_of_week_short_wednesday">ср.</string>
+  <string name="day_of_week_shortest_friday">П</string>
+  <string name="day_of_week_shortest_monday">П</string>
+  <string name="day_of_week_shortest_saturday">С</string>
+  <string name="day_of_week_shortest_sunday">В</string>
+  <string name="day_of_week_shortest_thursday">Ч</string>
+  <string name="day_of_week_shortest_tuesday">В</string>
+  <string name="day_of_week_shortest_wednesday">С</string>
+  <string name="defaultMsisdnAlphaTag">MSISDN1</string>
+  <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
+  <string name="dialog_alert_title">Внимание</string>
+  <string name="ellipsis">…</string>
+  <string name="ellipsis_two_dots">‥</string>
+  <string name="emptyPhoneNumber">(Нет телефона)</string>
+  <string name="fcComplete">Код объекта.</string>
+  <string name="fcError">Проблема подключения или неверный код функции.</string>
+  <string formatted="false" name="fileSizeSuffix">%1$s %2$s</string>
+  <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
+  <string name="gigabyteShort">GB</string>
+  <string name="global_action_lock">Блокировка экрана</string>
+  <string name="global_action_power_off">Отключить</string>
+  <string name="global_action_silent_mode_off_status">Звук включен</string>
+  <string name="global_action_silent_mode_on_status">Звук выключен</string>
+  <string name="global_action_toggle_silent_mode">Тихий режим</string>
+  <string name="global_actions">Параметры телефона</string>
+  <string name="global_actions_airplane_mode_off_status">Режим полета отключен</string>
+  <string name="global_actions_airplane_mode_on_status">Режим полета включен</string>
+  <string name="global_actions_toggle_airplane_mode">Режим полета</string>
+  <string formatted="false" name="hour_minute_24">%-k:%M</string>
+  <string formatted="false" name="hour_minute_ampm">%-l:%M %p</string>
+  <string formatted="false" name="hour_minute_cap_ampm">%-l:%M %^p</string>
+  <string name="httpError">Ошибка сети.</string>
+  <string name="httpErrorAuth">Неудачная аутентификация.</string>
+  <string name="httpErrorBadUrl">Вы не можете открыть страницу, потому что адрес введён неправильно</string>
+  <string name="httpErrorConnect">Не удалось подключиться к серверу.</string>
+  <string name="httpErrorFailedSslHandshake">Не удалось установить безопасное соединение.</string>
+  <string name="httpErrorFile">Вы не можете получить доступ к файлу.</string>
+  <string name="httpErrorFileNotFound">Запрашиваемый файл не найден.</string>
+  <string name="httpErrorIO">Неудачное подключение к Серверу. Пожалуйста, повторите попытку позже.</string>
+  <string name="httpErrorLookup">Не удалось найти адресURL.</string>
+  <string name="httpErrorOk">ОК</string>
+  <string name="httpErrorProxyAuth">Неудачная авторизация на прокси-сервер.</string>
+  <string name="httpErrorRedirectLoop">На сайте содержится слишком много переадресаций.</string>
+  <string name="httpErrorTimeout">Слишком долгое время ожидания для соединения с сервером.</string>
+  <string name="httpErrorTooManyRequests">Обрабатывается слишком много запросов. Пожалуйста, повторите попытку позже.</string>
+  <string name="httpErrorUnsupportedAuthScheme">Схема проверки подлинности не поддерживается.</string>
+  <string name="httpErrorUnsupportedScheme">Протокол не поддерживается</string>
+  <string name="invalidPin">Введите PIN-код длиной от 4 до 8 цифр.</string>
+  <string name="invalidPuk">Введите код PUK состоит как минимум из 8 цифр.</string>
+  <string name="kilobyteShort">KB</string>
+  <string name="low_memory">Память телефона заполнена! Удалите некоторые файлы, чтобы освободить место.</string>
+  <string name="me">Я</string>
+  <string name="megabyteShort">MB</string>
+  <string name="mismatchPin">PIN-коды, которые не являются идентичными.</string>
+  <string name="mmiComplete">MMI был завершен.</string>
+  <string name="mmiError">Проблема подключения или неверный код MMI.</string>
+  <string name="mmiFdnError">Эта операция ограничена на стационарные номера.</string>
+  <string name="month">%-B</string>
+  <string formatted="false" name="month_day">%-e %B</string>
+  <string formatted="false" name="month_day_year">%-e %B %Y</string>
+  <string name="month_long_april">апрель</string>
+  <string name="month_long_august">август</string>
+  <string name="month_long_december">декабрь</string>
+  <string name="month_long_february">февраль</string>
+  <string name="month_long_january">январь</string>
+  <string name="month_long_july">июль</string>
+  <string name="month_long_june">июнь</string>
+  <string name="month_long_march">март</string>
+  <string name="month_long_may">май</string>
+  <string name="month_long_november">ноябрь</string>
+  <string name="month_long_october">октябрь</string>
+  <string name="month_long_september">сентябрь</string>
+  <string name="month_long_standalone_april">апрель</string>
+  <string name="month_long_standalone_august">август</string>
+  <string name="month_long_standalone_december">декабрь</string>
+  <string name="month_long_standalone_february">февраль</string>
+  <string name="month_long_standalone_january">январь</string>
+  <string name="month_long_standalone_july">июль</string>
+  <string name="month_long_standalone_june">июнь</string>
+  <string name="month_long_standalone_march">март</string>
+  <string name="month_long_standalone_may">май</string>
+  <string name="month_long_standalone_november">ноябрь</string>
+  <string name="month_long_standalone_october">октябрь</string>
+  <string name="month_long_standalone_september">сентябрь</string>
+  <string name="month_medium_april">апр</string>
+  <string name="month_medium_august">авг</string>
+  <string name="month_medium_december">дек</string>
+  <string name="month_medium_february">фев</string>
+  <string name="month_medium_january">янв</string>
+  <string name="month_medium_july">июль</string>
+  <string name="month_medium_june">июнь</string>
+  <string name="month_medium_march">мар</string>
+  <string name="month_medium_may">май</string>
+  <string name="month_medium_november">нояб</string>
+  <string name="month_medium_october">окт</string>
+  <string name="month_medium_september">сень</string>
+  <string name="month_shortest_april">а</string>
+  <string name="month_shortest_august">а</string>
+  <string name="month_shortest_december">д</string>
+  <string name="month_shortest_february">ф</string>
+  <string name="month_shortest_january">я</string>
+  <string name="month_shortest_july">и</string>
+  <string name="month_shortest_june">и</string>
+  <string name="month_shortest_march">м</string>
+  <string name="month_shortest_may">м</string>
+  <string name="month_shortest_november">н</string>
+  <string name="month_shortest_october">о</string>
+  <string name="month_shortest_september">с</string>
+  <string formatted="false" name="month_year">%-B %Y</string>
+  <string name="needPuk">SIM-карта заблокирована. Введите код PUK, чтобы разблокировать.</string>
+  <string name="needPuk2">Введите PUK2 код для разблокировки SIM-карты.</string>
+  <string name="no">Отменить</string>
+  <string name="no_recent_tasks">Не часто используемые приложения.</string>
+  <string name="notification_title">Ошибка при входе в свой аккаунт%1$s</string>
+  <string formatted="false" name="numeric_date">%d.%m.%Y</string>
+  <string name="numeric_date_format">dd.MM.yyyy</string>
+  <string formatted="false" name="numeric_date_template">%s.%s.%s</string>
+  <string formatted="false" name="numeric_md1_md2">%3$s.%2$s-%8$s.%7$s</string>
+  <string formatted="false" name="numeric_md1_time1_md2_time2">%3$s.%2$s %5$s-%8$s.%7$s %10$s</string>
+  <string formatted="false" name="numeric_mdy1_mdy2">%3$s.%2$s.%4$s-%8$s.%7$s.%9$s</string>
+  <string formatted="false" name="numeric_mdy1_time1_mdy2_time2">%3$s.%2$s.%4$s %5$s-%8$s.%7$s.%9$s %10$s</string>
+  <string formatted="false" name="numeric_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s.%2$s %5$s-%6$s, %8$s.%7$s %10$s</string>
+  <string formatted="false" name="numeric_wday1_md1_wday2_md2">%1$s, %3$s.%2$s-%6$s, %8$s.%7$s</string>
+  <string formatted="false" name="numeric_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s.%2$s.%4$s %5$s-%6$s, %8$s.%7$s.%9$s %10$s</string>
+  <string formatted="false" name="numeric_wday1_mdy1_wday2_mdy2">%1$s, %3$s.%2$s.%4$s-%6$s, %8$s.%7$s.%9$s</string>
+  <string name="ok">ОК</string>
+  <string name="passwordIncorrect">Неверный пароль.</string>
+  <string name="paste">Вставить</string>
+  <string name="permgroupdesc_costMoney">Разрешить приложениям выполнять платные операции.</string>
+  <string name="permgroupdesc_messages">Чтение и запись текстовых сообщений, электронной почты и других</string>
+  <string name="permgrouplab_costMoney">Платные услуги</string>
+  <string name="permgrouplab_messages">Ваши сообщения</string>
+  <string name="petabyteShort">PB</string>
+  <string name="pm">PM</string>
+  <string name="power_dialog">Параметры телефона</string>
+  <string name="power_off">Выключить</string>
+  <string name="recent_tasks_title">Последний</string>
+  <string name="roamingText0">Индикатор роуминга включен</string>
+  <string name="roamingText11">Баннер роуминга включен</string>
+  <string name="roamingText12">Баннер роуминге с</string>
+  <string name="roamingText2">Мигающий индикатор роуминга</string>
+  <string name="roamingText3">В другой области</string>
+  <string name="roamingText4">Из офиса</string>
+  <string name="roamingTextSearching">Поиск Услуги</string>
+  <string name="safeMode">Безопасный режим</string>
+  <string formatted="false" name="same_month_md1_md2">%3$s-%8$s %2$s</string>
+  <string formatted="false" name="same_month_md1_time1_md2_time2">%3$s %2$s %5$s-%8$s %7$s %10$s</string>
+  <string formatted="false" name="same_month_mdy1_mdy2">%3$s-%8$s %2$s %9$s</string>
+  <string formatted="false" name="same_month_mdy1_time1_mdy2_time2">%3$s %2$s %4$s %5$s-%8$s %7$s %9$s %10$s</string>
+  <string formatted="false" name="same_month_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s %2$s %5$s-%6$s, %8$s %7$s %10$s</string>
+  <string formatted="false" name="same_month_wday1_md1_wday2_md2">%1$s, %3$s %2$s-%6$s, %8$s %7$s</string>
+  <string formatted="false" name="same_month_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s %2$s %4$s %5$s-%6$s, %8$s %7$s %9$s %10$s</string>
+  <string formatted="false" name="same_month_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s %4$s-%6$s, %8$s %7$s %9$s</string>
+  <string formatted="false" name="same_year_md1_md2">%3$s %2$s-%8$s %7$s</string>
+  <string formatted="false" name="same_year_md1_time1_md2_time2">%3$s %2$s %5$s-%8$s %7$s %10$s</string>
+  <string formatted="false" name="same_year_mdy1_mdy2">%3$s %2$s-%8$s %7$s %9$s</string>
+  <string formatted="false" name="same_year_mdy1_time1_mdy2_time2">%3$s %2$s %4$s %5$s-%8$s %7$s %9$s %10$s</string>
+  <string formatted="false" name="same_year_wday1_md1_time1_wday2_md2_time2">%1$s, %3$s %2$s %5$s-%6$s, %8$s %7$s %10$s</string>
+  <string formatted="false" name="same_year_wday1_md1_wday2_md2">%1$s, %3$s %2$s-%6$s, %8$s %7$s</string>
+  <string formatted="false" name="same_year_wday1_mdy1_time1_wday2_mdy2_time2">%1$s, %3$s %2$s %4$s %5$s-%6$s, %8$s %7$s %9$s %10$s</string>
+  <string formatted="false" name="same_year_wday1_mdy1_wday2_mdy2">%1$s, %3$s %2$s-%6$s, %8$s %7$s %9$s</string>
+  <string name="screen_lock">Блокировка экрана</string>
+  <string name="search_go">Поиск</string>
+  <string name="selectAll">Выбрать все</string>
+  <string name="selectTextMode">Выделить текст</string>
+  <string name="serviceClassData">Данные</string>
+  <string name="serviceClassDataAsync">Асинхронные данные</string>
+  <string name="serviceClassDataSync">Синхронизация</string>
+  <string name="serviceClassFAX">ФАКС</string>
+  <string name="serviceClassPAD">PAD</string>
+  <string name="serviceClassPacket">Пакет</string>
+  <string name="serviceClassSMS">SMS</string>
+  <string name="serviceClassVoice">Голосовать</string>
+  <string name="serviceDisabled">Услуга была отключена.</string>
+  <string name="serviceEnabled">Служба была активирована.</string>
+  <string name="serviceEnabledFor">Услуга была включена для:</string>
+  <string name="serviceErased">Удаление успешно завершено.</string>
+  <string name="serviceNotProvisioned">Услуга не предоставляется.</string>
+  <string name="serviceRegistered">Регистрация была завершена успешно.</string>
+  <string name="short_format_month">%b</string>
+  <string name="shutdown_confirm">Телефон отключается</string>
+  <string name="shutdown_confirm_question">Вы хотите отключить?</string>
+  <string name="shutdown_progress">Отключение...</string>
+  <string name="silent_mode">Тихий режим</string>
+  <string name="silent_mode_silent">Тихир режим</string>
+  <string name="silent_mode_vibrate">Режим вибрации</string>
+  <string name="status_bar_notification_info_overflow">&gt;999</string>
+  <string name="terabyteShort">TB</string>
+  <string formatted="false" name="time1_time2">%1$s-%2$s</string>
+  <string formatted="false" name="time_date">%1$s %3$s</string>
+  <string formatted="false" name="time_of_day">%H:%M:%S</string>
+  <string formatted="false" name="time_wday">%1$s %2$s</string>
+  <string formatted="false" name="time_wday_date">%1$s %2$s, %3$s</string>
+  <string name="today">Сегодня</string>
+  <string name="tomorrow">Завтра</string>
+  <string name="turn_off_radio">Отключить беспроводное соединение</string>
+  <string name="turn_on_radio">Включить беспроводной связи</string>
+  <string name="twelve_hour_time_format">h:mm a</string>
+  <string name="twenty_four_hour_time_format">H:mm</string>
+  <string name="unknownName">(Неизвестный)</string>
+  <string name="untitled">&lt;без названия&gt;</string>
+  <string formatted="false" name="wday1_date1_time1_wday2_date2_time2">%1$s, %2$s %3$s-%4$s, %5$s %6$s</string>
+  <string formatted="false" name="wday1_date1_wday2_date2">%1$s, %2$s-%4$s, %5$s</string>
+  <string formatted="false" name="wday_date">%2$s, %3$s</string>
+  <string name="yes">ОК</string>
+  <string name="yesterday">Вчера</string>
+</resources>

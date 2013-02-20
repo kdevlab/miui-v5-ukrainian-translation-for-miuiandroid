@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="about">Про програму:</string>
+  <string name="about_btn">Про програму Ліхтарик</string>
+  <string name="about_close">Закрити</string>
+  <string name="about_title">Про програму</string>
+  <string name="app_name">Ліхтарик</string>
+  <string name="brightwarn">"Повна яскравість успішно тестувалася на 30 хвилинах, але дуже нагрівається, і починає блимати (тимчасово) на 45 хвилинах. Тривалі операції призведуть до непередбачуваних наслідків.
+
+Віджети поки не підтримуються.
+
+Натисніть \'Прийняти\' якщо ви хочете використовувати це на свій страх і ризик"</string>
+  <string name="brightwarn_accept">Прийняти</string>
+  <string name="brightwarn_negative">Ні, дякую</string>
+  <string name="brightwarn_title">"Пов. яскравість \'Вкл\' увімкнена!"</string>
+  <string name="description">"Ця програма управляє світлодіодом камери.
+  "</string>
+  <string name="label_frequency">Частота: (посуньте, щоб змінити)</string>
+  <string name="label_high">Висока яскравість</string>
+  <string name="label_off">Відключено</string>
+  <string name="label_on">Включено</string>
+  <string name="label_strobe">Стробоскоп</string>
+  <string name="license">"Оригінальний код програми взято з телефону Nexus One від Ben Buxton, реалізовано на правах GPL, v3
+http://n1torch.googlecode.com/
+
+Спасибі Девіду Прієто (David Prieto) за новий дизайн.
+
+Змінено для CyanogenMod Стівом Кондик (Steve Kondik)
+
+"</string>
+  <string name="not_torch_summary">Зараз ліхтарик включений</string>
+  <string name="not_torch_title">Ліхтарик включений</string>
+  <string name="setting_add_widget">Додати віджет</string>
+  <string name="setting_frequency_dialog">Частота</string>
+  <string name="setting_frequency_hz">Hz</string>
+  <string name="setting_frequency_summary">Частота світла спалаху</string>
+  <string name="setting_frequency_title">Частота стробоскопа</string>
+  <string name="setting_widget_bright">Віджет яскравості</string>
+  <string name="setting_widget_strobe">Віджет стробоскопа</string>
+  <string name="torch_message">"Ліхтарик можна швидко включити, утримуючи HOME, на екрані блокування
+  "</string>
+  <string name="warning">"Обережно: Довге світіння світлодіода викличе його перегрів.
+
+Повна яскравість \'Завжди включено\' успішно тестувалася на 30 хвилинах, але існує ймовірність пошкодити світлодіод
+"</string>
+  <string name="warning_label">Обережно</string>
+  <string name="widget_label">Ліхтарик</string>
+  <string name="widget_options">Основні налаштування</string>
+</resources>

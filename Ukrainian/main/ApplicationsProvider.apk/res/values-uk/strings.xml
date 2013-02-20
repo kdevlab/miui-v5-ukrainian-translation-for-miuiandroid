@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="app_label">Програми</string>
+  <string name="application_desc">Програми</string>
+  <string name="search_label">Програми</string>
+  <string name="settings_description">Пошук програм</string>
+</resources>

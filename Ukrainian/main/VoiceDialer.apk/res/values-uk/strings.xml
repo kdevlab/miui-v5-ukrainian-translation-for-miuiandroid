@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <!--Translated by KDev Group (main repository)-->
+  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
+  <string name="at_home">" , домашній"</string>
+  <string name="at_other">" , інший номер"</string>
+  <string name="at_work">" , робота"</string>
+  <string name="bluetooth_title">Голосовий набір Bluetooth</string>
+  <string name="examples">" Зразки: "</string>
+  <string name="failure">Помилка</string>
+  <string name="goodbye_tts">До побачення</string>
+  <string name="headset_connection_lost">Зв\'язок з навушниками втрачена</string>
+  <string name="initializing">Підготовка до роботи</string>
+  <string name="invalid_choice_tts">Невірний вибір</string>
+  <string name="listening">Слухаю...</string>
+  <string name="logging_disabled">Журнал Голосового набору вимкнено</string>
+  <string name="logging_enabled">Журнал Голосового набору увімкнено</string>
+  <string name="no_results_tts">Безрезультатно, повторіть спробу</string>
+  <string name="on_mobile">" , мобільній"</string>
+  <string name="please_try_again">Спробуйте ще</string>
+  <string name="recognition_error">Можна також перезапустити телефон</string>
+  <string name="speak_now_tts">Говоріть</string>
+  <string name="title">Голосовий набір</string>
+  <string name="tool_tip_message">Натисніть і утримуйте зелену кнопку \"Виклик\", Щоб відкрити голосовий набір</string>
+  <string name="tool_tip_title">Чи знаєте ви…</string>
+  <string name="voiceDialer">Голосовий набір</string>
+</resources>
