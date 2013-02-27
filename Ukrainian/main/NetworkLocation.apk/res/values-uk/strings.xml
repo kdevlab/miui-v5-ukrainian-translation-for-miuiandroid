@@ -1,10 +1,9 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="utf-8"?>
+<!--Merged with KDG BigBlackBox-->
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="agree">Приймаю</string>
-  <string name="app_label">Розташування мережі</string>
-  <string name="disagree">Не приймаю</string>
-  <string name="location_warning_message">Дозволити службі геопозиціонування Google збирати анонімні дані про місце розташування. Деякі з них можуть зберігатися на пристрої. Збір відомостей може проходити навіть тоді, коли жодна з програм не запущено</string>
-  <string name="location_warning_title">Дозволити відстеження?</string>
+	<string name="location_warning_title">Дозволити відстеження?</string>
+	<string name="app_label">Розташування мережі</string>
+	<string name="disagree">Не приймаю</string>
+	<string name="location_warning_message">Дозволити службі геопозиціонування Google збирати анонімні дані про місце розташування. Деякі з них можуть зберігатися на пристрої. Збір відомостей може проходити навіть тоді, коли жодна з програм не запущено</string>
+	<string name="agree">Приймаю</string>
 </resources>
