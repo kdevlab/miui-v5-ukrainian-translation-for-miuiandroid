@@ -19,7 +19,7 @@
   <string name="cert_storage_size">Мало пам\'яті для зберігання, видаліть деякі файли, щоб звільнити місце і повторіть установку сертифікату</string>
   <string name="cert_tips">Вам необхідно встановити сертифікат на пристрій для забезпечення захисту</string>
   <string name="cert_title">Встановлення цифрового сертифікату</string>
-  <string name="cert_verify_fail_tips">签名校验不一致，无法继续操作。</string>
+  <string name="cert_verify_fail_tips">Помилка провірки сертифікату</string>
   <string name="confirm_finish">Платіж не було завершено, вийти із програми?</string>
   <string name="confirm_finish_install_cert">Встановлення сертифікату ще не завершено, вийти із програми?</string>
   <string name="confirm_install_hint">Поради для встановлення</string>
@@ -29,7 +29,7 @@
   <string name="ensure">Визначити</string>
   <string name="error_dialog">Помилка</string>
   <string name="error_network">Помилка мережі</string>
-  <string name="error_tips">系统繁忙，请稍后重试。</string>
+  <string name="error_tips">Система зайнята, будь-ласка, повторіть пізніше</string>
   <string name="exception_info">Служба неочікувано завершила роботу, будь-ласка повторіть запит</string>
   <string name="install">Встановити</string>
   <string name="memo_failed">Операція неуспішна</string>
