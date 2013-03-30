@@ -1,21 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="No">Ні</string>
   <string name="StrConfirmPayTitle">Підказка</string>
   <string name="Yes">Так</string>
   <string name="app_name">Alipay Mobile Security Pay</string>
   <string name="cancel">Скасувати</string>
-  <string name="card_No">cardNo</string>
-  <string name="cert_checked">系统已检测到您的数字证书。</string>
+  <string name="card_No">№ карти</string>
+  <string name="cert_checked">Знайдено сертифікат</string>
   <string name="cert_checking">Пошук цифрового сертифікату, будь-ласка, зачекайте…</string>
   <string name="cert_install">Встановлення…</string>
   <string name="cert_install_fail">Встановлення неуспішне</string>
   <string name="cert_install_immediately">Встановити зараз</string>
   <string name="cert_install_success">Встановлено</string>
   <string name="cert_manager">Менеджер сертифікатів</string>
-  <string name="cert_not_exist">检测不到您的数字证书，请重新安装。</string>
+  <string name="cert_not_exist">Сертифікат не знайдено</string>
   <string name="cert_ready">Ви згідні встановити цифровий сертифікат…</string>
   <string name="cert_storage_size">Мало пам\'яті для зберігання, видаліть деякі файли, щоб звільнити місце і повторіть установку сертифікату</string>
   <string name="cert_tips">Вам необхідно встановити сертифікат на пристрій для забезпечення захисту</string>
@@ -24,12 +23,8 @@
   <string name="confirm_finish">Платіж не було завершено, вийти із програми?</string>
   <string name="confirm_finish_install_cert">Встановлення сертифікату ще не завершено, вийти із програми?</string>
   <string name="confirm_install_hint">Поради для встановлення</string>
-  <string name="confirm_update">"Для забезпечення безпеки ваших операцій, програму необхідно обновити.
-
-Натисніть ОК, щоб оновити."</string>
-  <string name="confirm_update_must">"Для забезпечення безпеки ваших операцій, програму необхідно обновити.
-
-Натисніть ОК, щоб оновити."</string>
+  <string name="confirm_update">"Для забезпечення безпеки ваших операцій, програму необхідно оновити.\n\nНатисніть ОК, щоб оновити."</string>
+  <string name="confirm_update_must">"Для забезпечення безпеки ваших операцій, програму необхідно оновити.\n\nНатисніть ОК, щоб оновити."</string>
   <string name="cont">Продовжити</string>
   <string name="ensure">Визначити</string>
   <string name="error_dialog">Помилка</string>
@@ -42,17 +37,15 @@
   <string name="network_error_code">"Сталась мережна помилка, код помилки: "</string>
   <string name="network_redo">Сталась помилка мережі. Будь-ласка, натисніть "Повторити" або "Скасувати", щоб повернутись.</string>
   <string name="network_timeout">Тайм-аут підключення до мережі, будь-ласка, попробуйте ще раз</string>
-  <string name="network_wait">"
-Будь-ласка, повторіть ще раз пізніше або зверніться в службу обслуговування клієнтів: 0571–88156688"</string>
+  <string name="network_wait">"Будь-ласка, повторіть ще раз пізніше або зверніться в службу обслуговування клієнтів: 0571–88156688"</string>
   <string name="not_null">Не може бути порожнім</string>
   <string name="processing">Обробка, будь-ласка, зачекайте…</string>
   <string name="quit">Вийти</string>
   <string name="redo">Повторити</string>
   <string name="remote_service_stopped">Віддалений сервіс зупинено</string>
   <string name="service_exception">Обслуговування винятків</string>
-  <string name="sid">1000032</string>
   <string name="ssl_error_redo">Підключення до сервера не вдаєтся, перевірте дату в телефоні. Встановіть правильну дату і натисніть "Повторити", або натисніть "Скасувати" для повернення назад.</string>
-  <string name="terminate">停止支付</string>
+  <string name="terminate">Скасувати платіж</string>
   <string name="update_Title">Версія оновлення</string>
   <string name="update_downloading">Завантаження нової версії…</string>
   <string name="update_hint">Оновлення, повторіть пізніше</string>
