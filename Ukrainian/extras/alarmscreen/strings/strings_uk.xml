@@ -1,0 +1,4 @@
+<strings>
+    <string name="slider_text" value="відключити будильник" />
+    <string name="snooze_message" value="Відкласти на %d хв." />
+</strings>
