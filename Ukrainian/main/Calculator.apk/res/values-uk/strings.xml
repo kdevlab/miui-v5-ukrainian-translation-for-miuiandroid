@@ -1,30 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged with KDG BigBlackBox-->
+<!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="rightParen">)</string>
-	<string name="cos">cos</string>
-	<string name="text_copied_toast">Текст скопійований</string>
-	<string name="basic">Основна панель</string>
 	<string name="advanced">Додаткова панель</string>
-	<string name="lg">log</string>
-	<string name="tan">tan</string>
-	<string name="ln">ln</string>
 	<string name="app_name">Калькулятор</string>
-	<string name="clear">CLR</string>
-	<string name="digit6">6</string>
-	<string name="digit5">5</string>
-	<string name="digit8">8</string>
-	<string name="digit7">7</string>
-	<string name="digit9">9</string>
-	<string name="leftParen">(</string>
-	<string name="digit0">0</string>
-	<string name="del">DEL</string>
-	<string name="digit2">2</string>
-	<string name="digit1">1</string>
-	<string name="digit4">4</string>
-	<string name="digit3">3</string>
+	<string name="basic">Основна панель</string>
 	<string name="clear_history">Очистити історію</string>
-	<string name="e">e</string>
+	<string name="eDesc">Число Эйлера</string>
 	<string name="error">Помилка</string>
-	<string name="sin">sin</string>
+	<string name="factorialDesc">Факториал</string>
+	<string name="leftParenDesc">Левая скобка</string>
+	<string name="lgDesc">Логарифм</string>
+	<string name="lnDesc">Натуральный логарифм</string>
+	<string name="minusDesc">Минус</string>
+	<string name="rightParenDesc">Правая скобка</string>
+	<string name="scientific">Научный</string>
+	<string name="sqrtDesc">Квадратный корень</string>
+	<string name="text_copied_toast">Текст скопійований</string>
 </resources>
