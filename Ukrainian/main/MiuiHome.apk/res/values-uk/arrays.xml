@@ -17,7 +17,7 @@
         <item>Вправо</item>
     </string-array>
 	<string-array name="gadget_weather_theme_type_entries">
-        <item>Стандартный</item>
-        <item>Классический</item>
+        <item>Стандартний</item>
+        <item>Класичний</item>
     </string-array>
 </resources>

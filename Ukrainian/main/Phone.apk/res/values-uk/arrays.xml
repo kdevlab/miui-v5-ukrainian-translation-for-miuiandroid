@@ -42,7 +42,7 @@
     <string-array name="cdma_roaming_mode_choices">
         <item>Тільки домашні мережі</item>
         <item>Афілійовані мережі</item>
-        <item>Будьяка мережа</item>
+        <item>Будь-яка мережа</item>
     </string-array>
    <string-array name="cdma_network_preferences_choices">
         <item>CDMA/EvDo</item>

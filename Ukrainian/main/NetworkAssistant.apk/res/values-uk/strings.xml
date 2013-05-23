@@ -10,7 +10,7 @@
 	<string name="adjust_traffic_carrier_settings_title">Оператор</string>
 	<string name="adjust_traffic_carrier_summary_more_onemonth_before">Не оновлювалось більше місяця</string>
 	<string name="adjust_traffic_carrier_summary_more_oneweek_before">Не оновлювалось більше тижня</string>
-	<string name="adjust_traffic_carrier_summary_oneweek_before">Обовлено тиждень тому</string>
+	<string name="adjust_traffic_carrier_summary_oneweek_before">Оновлено тиждень тому</string>
 	<string name="adjust_traffic_carrier_summary_three_day_before">Оновлено 3 дні тому</string>
 	<string name="adjust_traffic_carrier_summary_today">Оновлено сьогодні о %1$02d:%2$02d</string>
 	<string name="adjust_traffic_carrier_summary_yesterday">Оновлено вчора о %1$02d:%2$02d</string>
@@ -59,7 +59,7 @@
 	<string name="force_stop_dlg_text">Завершення програми може призвести до помилок</string>
 	<string name="force_stop_dlg_title">Завершити?</string>
 	<string name="i_known_button">OK</string>
-	<string name="input_hint">Будь ласка, введіть</string>
+	<string name="input_hint">Будь-ласка, введіть</string>
 	<string name="loading_app">Завантаження...</string>
 	<string name="manual_input_used_traffic_hint">Обсяг використаного трафіку</string>
 	<string name="manual_input_used_traffic_title">Введіть обсяг використаного трафіку</string>
@@ -80,7 +80,7 @@
 	<string name="mobile_traffic">2G/3G: %s</string>
 	<string name="mobile_type">2G/3G</string>
 	<string name="month_traffic_settings_title">Налаштування місячного трафіку</string>
-	<string name="notify_carrier_settings_title">"Выи не налаштували постачальника послуг зв'язку. Налаштувати зараз?"</string>
+	<string name="notify_carrier_settings_title">"Ви не налаштували постачальника послуг зв'язку. Налаштувати зараз?"</string>
 	<string name="notify_traffic_settings_cancel_hint">Сповіщення і контроль за трафіком будуть вимкнені. Вийти зараз?</string>
 	<string name="notify_traffic_settings_title">Ви не налаштували ваш тарифний план. Налаштувати зараз?</string>
 	<string name="overseas_menu_traffic_adjust">Налаштування вручну</string>
@@ -125,7 +125,7 @@
 	<string name="sync_traffic_no_cmd_title">Немає шаблону</string>
 	<string name="sync_traffic_success">Інформація про пакети трафіку отримана, налаштування оновлені</string>
 	<string name="text_done">Готово</string>
-	<string name="text_save">Сохранить</string>
+	<string name="text_save">Зберегти</string>
 	<string name="traffic_none">Немає даних</string>
 	<string name="traffic_remain">Залишилось</string>
 	<string name="traffic_settings_error">Є помилка в налаштуваннях Вашого щомісячного безплатного трафіку. Згідно налаштувань, щомісячний безплатний трафік: %1$s і залишиться трафік: %2$s.</string>
@@ -141,7 +141,7 @@
 	<string name="unknown_traffic_hint">Межа трафіку не встановлена, ви хочете встановити її зараз?</string>
 	<string name="unknown_version">Невідома версія</string>
 	<string name="update_fail">Помилка оновлення</string>
-	<string name="update_no_network">Ошибка обновления. Пожалуйста, проверьте настройки сети.</string>
+	<string name="update_no_network">Помилка оновлення. Будь ласка, перевірте налаштування мережі.</string>
 	<string name="update_success">Успішно оновлено</string>
 	<string name="updating">Оновлення...</string>
 	<string name="used_flux">Трафік</string>

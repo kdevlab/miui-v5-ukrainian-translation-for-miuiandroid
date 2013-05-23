@@ -54,7 +54,7 @@
 	<string name="incoming_file_confirm_timeout_content">У процесі прийому файлу від \"%1$s\" відбувся тайм-аут</string>
 	<string name="incoming_file_confirm_timeout_ok">ОК</string>
 	<string name="incoming_file_confirm_title">Надсилання файлу</string>
-	<string name="incoming_file_toast_msg">Вхідний файл з іншого пристрою. Підтвердіть, що хочете завантажити його.</string>
+	<string name="incoming_file_toast_msg">Вхідний файл з іншого пристрою. Підтвердіть, якщо бажаєте завантажити його.</string>
 	<string name="insert_record">Вставити запис</string>
 	<string name="localPhoneName">Моя назва</string>
 	<string name="no_transfers">Немає даних</string>
@@ -76,12 +76,12 @@
 	<string name="pbap_authentication_timeout_message">"Вичерпано час очікування введення ключа сеансу для зв'язку з %1$s."</string>
 	<string name="pbap_session_key_dialog_header">Необхідний ключ сеансу Bluetooth</string>
 	<string name="pbap_session_key_dialog_title">Введіть ключ сеансу для %1$s</string>
-	<string name="permdesc_bluetoothShareManager">Програма отримає доступ до диспетчера обміну файлами по Bluetooth і зможе використовувати його для передачі файлів.</string>
-	<string name="permdesc_bluetoothWhitelist">Разрешает приложениям временный дуступ к белому списоку Bluetooth устройства. Позволяет устройствам отправлять файлы без подтверждения пользователя.</string>
-	<string name="permdesc_handoverStatus">Позволяет получать информацию статуса передачи Bluetooth</string>
-	<string name="permlab_bluetoothShareManager">Доступ до диспетчера завантажень</string>
-	<string name="permlab_bluetoothWhitelist">Белый список доступа устройства Bluetooth</string>
-	<string name="permlab_handoverStatus">Получать BT передачи вещания</string>
+	<string name="permdesc_bluetoothShareManager">Програма отримає доступ до диспечера обміну файлами по Bluetooth і зможе використовувати його для передачі файлів.</string>
+	<string name="permdesc_bluetoothWhitelist">Дозволяє додаткам тимчасовий доступ до білого списку Bluetooth пристрою. Дозволяє пристроям відправляти файли без підтвердження користувача.</string>
+	<string name="permdesc_handoverStatus">Дозволяє отримувати інформацію статусу передачі Bluetooth</string>
+	<string name="permlab_bluetoothShareManager">Доступ до диспечера завантажень</string>
+	<string name="permlab_bluetoothWhitelist">Білий список доступу пристрою Bluetooth</string>
+	<string name="permlab_handoverStatus">Отримувати BT передачі мовлення</string>
 	<string name="start_server">Запустити TCP-сервер</string>
 	<string name="status_canceled">Надсилання скасовано</string>
 	<string name="status_connection_error">"Не вдалося встановити з'єднання"</string>

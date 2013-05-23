@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="helps">
-        <item>打电话</item>
-        <item>发短信</item>
-        <item>联系人</item>
-        <item>设置提醒</item>
-        <item>打开应用</item>
-        <item>上网搜索</item>
-        <item>餐饮美食</item>
-        <item>音乐搜索</item>
-        <item>火车航班</item>
-        <item>天气</item>
-        <item>地图导航</item>
-        <item>聊天</item>
-        <item>翻译</item>
+        <item>Телефон</item>
+        <item>Texting</item>
+        <item>Зв'язатися</item>
+        <item>Встановити нагадування</item>
+        <item>Відкрийте додатки</item>
+        <item>Пошук в інтернеті</item>
+        <item>Продовольчі та напої</item>
+        <item>Пошук музики</item>
+        <item>Поїзд рейси</item>
+        <item>Погода</item>
+        <item>Карта навігації</item>
+        <item>Чат</item>
+        <item>Переклад</item>
     </string-array>
     <string-array name="help_tel">
-        <item>打电话给张若涵</item>
-        <item>呼叫张若涵</item>
-        <item>拨通10086</item>
+        <item>Зателефонуйте Чжан Ruohan</item>
+        <item>зателефонуйте Zhangruo Хан</item>
+        <item>набирати номер10086</item>
     </string-array>
     <string-array name="help_sms">
-        <item>发短信给张若涵</item>
-        <item>给10086发短信</item>
-        <item>告诉张若涵，晚上晚点回去</item>
+        <item>Відправлення текстових повідомлень Чжан Ruohan</item>
+        <item>На 10086 SMS</item>
+        <item>Сказав Чжан Ruohan, повернутися пізно вночі</item>
     </string-array>
     <string-array name="help_contact">
         <item>查看张若涵的号码</item>
@@ -88,9 +88,9 @@
         <item>周六</item>
     </string-array>
     <string-array name="report_method_entries">
-        <item>При подключении наушников</item>
-        <item>Всегда</item>
-        <item>Никогда</item>
+        <item>При підключенні наушників</item>
+        <item>Завжди</item>
+        <item>Ніколи</item>
     </string-array>
     <string-array name="report_method_entry_values">
         <item>0</item>

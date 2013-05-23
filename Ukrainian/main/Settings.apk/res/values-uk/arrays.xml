@@ -56,13 +56,13 @@
         <item>Повільно</item>
         <item>Нормально</item>
         <item>Швидко</item>
-        <item>Очень быстро</item>
+        <item>Дуже швидко</item>
     </string-array>
     <string-array name="tts_pitch_entries">
-        <item>Очень слабо</item>
-        <item>Слабо</item>
+        <item>Дуже повільно</item>
+        <item>Повільно</item>
         <item>Нормально</item>
-        <item>Высоко</item>
+        <item>Швидко</item>
         <item>Дуже швидко</item>
     </string-array>
     <string-array name="tts_demo_strings">
@@ -305,10 +305,10 @@
         <item>Червоний</item>
         <item>Синій</item>
         <item>Жовтий</item>
-        <item>Голубий</item>
+        <item>Блакитний</item>
         <item>Фіолетовий</item>
         <item>Рожевий</item>
-        <item>Оранжевий</item>
+        <item>Помаранчевий</item>
     </string-array>
     <string-array name="led_color_values_for_mione">
         <item>blue</item>
@@ -329,7 +329,7 @@
         <item>Фіолетовий</item>
         <item>Пурпуровий</item>
         <item>Смарагдовий</item>
-        <item>Голубий</item>
+        <item>Блакитний</item>
         <item>Сапфір</item>
     </string-array>
     <string-array name="multi_sim_entries">

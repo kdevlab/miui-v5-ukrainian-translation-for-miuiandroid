@@ -2,12 +2,12 @@
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="app_label">Сховище контактів</string>
-	<string name="call_log_provider_label">Журнал вызовов</string>
+	<string name="call_log_provider_label">Журнал викликів</string>
 	<string name="create_contact">Створити новий контакт</string>
 	<string name="default_directory">Контакти</string>
 	<string name="edit_contact">Додати до контакту</string>
 	<string name="local_invisible_directory">Інше</string>
-	<string name="pound_search_tip">Пошук номера, вводіть після \"#\"</string>
+	<string name="pound_search_tip">Пошук номера, введіть після \"#\"</string>
 	<string name="provider_label">Контакти</string>
 	<string name="read_write_all_voicemail_description">Дозволяє програмам зберігати і витягувати всі голосові повідомлення, до яких цей пристрій має доступ.</string>
 	<string name="read_write_all_voicemail_label">Доступ до всієї голосової пошти</string>

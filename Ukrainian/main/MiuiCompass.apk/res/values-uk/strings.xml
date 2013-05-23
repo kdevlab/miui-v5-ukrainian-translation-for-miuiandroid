@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="altitude_title">Высота</string>
+	<string name="altitude_title">Висота</string>
 	<string name="altitude_unit">м</string>
 	<string name="app_label">Компас</string>
 	<string name="calibrate_failed_no_location">Помилка калібрування: Неможливо отримати дані</string>
@@ -10,10 +10,10 @@
 	<string name="cannot_get_location">Неможливо отримати дані про ваше місцезнаходження</string>
 	<string name="dialog_calibrat_altitude">Калібрування через інтеренет-підключення.</string>
 	<string name="dialog_title_no_network">Мереж не знайдено, підключіться до Wi-Fi або увімкніть мобільний інтернет</string>
-	<string name="direction_east">В</string>
-	<string name="direction_north">С</string>
-	<string name="direction_south">Ю</string>
-	<string name="direction_west">З</string>
+	<string name="direction_east">Сх</string>
+	<string name="direction_north">Пн</string>
+	<string name="direction_south">Пд</string>
+	<string name="direction_west">Зх</string>
 	<string name="getting_location">Отримання координат...</string>
 	<string name="latitude">LAT</string>
 	<string name="location_east">%s Сх</string>
@@ -23,6 +23,6 @@
 	<string name="longitude">LON</string>
 	<string name="menu_calibrate">Калібрувати</string>
 	<string name="menu_calibrate_altitude">Калібрування висоти</string>
-	<string name="pressure_title">Давление</string>
+	<string name="pressure_title">Тиск</string>
 	<string name="pressure_unit">гПа</string>
 </resources>

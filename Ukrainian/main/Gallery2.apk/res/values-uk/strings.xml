@@ -50,7 +50,7 @@
   <string name="fail_to_load">Не завантажено</string>
   <string name="file_size">Розмір файла</string>
   <string name="filllight">Освітлення</string>
-  <string name="fisheye">Риб\'яче око</string>
+  <string name="fisheye">Риб'яче око</string>
   <string name="flash">Спалах</string>
   <string name="flash_off">Без спалаху</string>
   <string name="flash_on">Зі спалахом</string>
@@ -63,7 +63,7 @@
   <string name="grayscale">Ч/Б</string>
   <string name="group_by">Згрупувати</string>
   <string name="group_by_album">За альбомами</string>
-  <string name="group_by_faces">За ім\'ям</string>
+  <string name="group_by_faces">За ім'ям</string>
   <string name="group_by_location">За місцем зйомки</string>
   <string name="group_by_size">За розміром</string>
   <string name="group_by_tags">За тегами</string>
@@ -101,7 +101,7 @@
   <string name="photo_saved">Фотографія збережена в альбомі \"%s\"</string>
   <string name="photoeditor_name">Фотостудія</string>
   <string name="picasa_posts">Записи</string>
-  <string name="posterize">Постеризация</string>
+  <string name="posterize">Постеризація</string>
   <string name="process_caching_requests">Обробка запитів на кешування</string>
   <string name="redeye">Червоні очі</string>
   <string name="redeye_tooltip">Натисніть для усунення ефекту червоних очей</string>

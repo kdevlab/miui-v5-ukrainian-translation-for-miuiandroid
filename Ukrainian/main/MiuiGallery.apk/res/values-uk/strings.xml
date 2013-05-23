@@ -2,17 +2,17 @@
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="Import">Імпорт</string>
-	<string name="action_fail_unknown_error">Не удалось завершить операцию из-за неизвестной ошибки.</string>
+	<string name="action_fail_unknown_error">Не вдалося завершити операцію через невідому помилки.</string>
 	<string name="activity_not_found">Дія не підтримується ні в одній програмі</string>
 	<string name="add_account">Додати акаунт</string>
 	<string name="add_to_cloud_album">Додати в хмару (альбом)</string>
-	<string name="add_to_cloud_fail_too_many_items">Ошибка завершения операции. Возможно выбрано слишком много пунктов.</string>
+	<string name="add_to_cloud_fail_too_many_items">Помилка завершення операції. Можливо вибрано занадто багато пунктів.</string>
 	<string name="add_to_cloud_folder">Додати в хмару (папка)</string>
 	<string name="albums">Альбоми</string>
 	<string name="albumset_page_title_separator"> | </string>
 	<string name="alert">Увага</string>
 	<string name="alert_message_initial_cloud">"Система буде автоматично завантажувати старі и нові фотографії і скріншоти тільки тоді, коли є Wi-Fi з'єднання"</string>
-	<string name="alert_message_open_sync">Необходима синхронизация. Вы хотите включить ее сейчас?</string>
+	<string name="alert_message_open_sync">Необхідна синхронізація. Ви хочете включити її зараз?</string>
 	<string name="aperture">Діафрагма</string>
 	<string name="app_name">Галерея</string>
 	<string name="appwidget_empty_text">Немає фотографій</string>
@@ -24,7 +24,7 @@
 	<string name="autofix">Авто</string>
 	<string name="big_screen_alertdialog_title">Проектор</string>
 	<string name="bigscrren_slide_exit">Вийти із слайд-шоу через TV</string>
-	<string name="browse_category">Просмотр изображений</string>
+	<string name="browse_category">Перегляд зображень</string>
 	<string name="camera_connected">Камера підключена.</string>
 	<string name="camera_disconnected">Камера відключена.</string>
 	<string name="camera_folder_display_name">Фотографії</string>
@@ -38,12 +38,12 @@
 	<string name="clear_thumbnail_cache_summary">"При перегляді галереї створюються ескізи. Видалення кешу очищує пам'ять"</string>
 	<string name="click_to_enter_camera">Відкрити камеру</string>
 	<string name="close">Закрити</string>
-	<string name="cloud_album_more_settings">Облачные альбомы</string>
+	<string name="cloud_album_more_settings">Хмарові альбоми</string>
 	<string name="cloud_album_set_create">Новий</string>
 	<string name="cloud_albums">Хмарові альбоми</string>
 	<string name="cloud_camera_display_name">Не відсортовані</string>
 	<string name="cloud_gallery_no_pictures">Фотогрії не знайдені в MiCloud</string>
-	<string name="cloud_gallery_recyclebin_full">Кошик в хмарі заповнений. Будь-ласка очистіть його, зайшовши на i.xiaomi.com.</string>
+	<string name="cloud_gallery_recyclebin_full">Кошик в хмарі заповнений. Будь ласка очистіть його, зайшовши на i.xiaomi.com.</string>
 	<string name="cloud_gallery_space_full">Помилка відправки - онлайн-сховище заповнене</string>
 	<string name="cloud_media_set_set">Хмарові альбоми</string>
 	<string name="cloud_screenshots_display_name">Скріншоти</string>
@@ -53,7 +53,7 @@
 	<string name="cloudfolder_already_exists">Така папка вже існує</string>
 	<string name="confirm_delete">Видалити</string>
 	<string name="confirm_delete_album" formatted="false">Ви впевнені, що хочете видалити альбоми (%s) (Включно %s штук)?</string>
-	<string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографий в %s альбомах, вы уверены, что хотите удалить?</string>
+	<string name="confirm_delete_cloud_all_item_page" formatted="false">%s фотографій в %s альбомах, ви впевнені, що хочете видалити?</string>
 	<string name="confirm_delete_folders_and_pictures">Ви впевнені, що хочете видалити %s?</string>
 	<string name="confirm_delete_folders_including" formatted="false">%s папок (включаючи %s)</string>
 	<string name="confirm_delete_including_null">0 штук</string>
@@ -74,9 +74,9 @@
 	<string name="damaged_file">Файл пошкоджений</string>
 	<string name="defalt_local_mobile">Мобільний</string>
 	<string name="delete">Видалити</string>
-	<string name="delete_fail_too_many_items">Ошибка удаления. Возможно выбрано слишком много пунктов.</string>
+	<string name="delete_fail_too_many_items">Помилка видалення. Можливо вибрано занадто багато пунктів.</string>
 	<string name="deleting_files">Видалення файлів...</string>
-	<string name="demo_video_folder_display_name">Демо-видео</string>
+	<string name="demo_video_folder_display_name">Демо-відео</string>
 	<string name="description">Опис</string>
 	<string name="details">Відомості</string>
 	<string name="details_title">Елементів %1$d з %2$d:</string>
@@ -89,14 +89,14 @@
 	<string name="edit">Змінити</string>
 	<string name="edited_photo_bucket_name">Змінені</string>
 	<string name="empty_album">Немає фото / відео</string>
-	<string name="error_should_not_select_image">Увага: будь-ласка, не вибирайте файл зображення</string>
-	<string name="error_should_not_select_video">Увага: будь-ласка, не вибирайте файл відео</string>
+	<string name="error_should_not_select_image">Увага: будь ласка, не вибирайте файл зображення</string>
+	<string name="error_should_not_select_video">Увага: будь ласка, не вибирайте файл відео</string>
 	<string name="exposure_time">Витримка</string>
 	<string name="external_sd_card">SD-карта</string>
 	<string name="external_usb_device">USB-накопичувач</string>
 	<string name="facelift">Сяйво</string>
 	<string name="facetan">Засмага</string>
-	<string name="fail_init_gallery_db_helper">Помилка выдкривання бази галереї. Диск заповнений. Програма буде закрита</string>
+	<string name="fail_init_gallery_db_helper">Помилка відкривання бази галереї. Диск заповнений. Програма буде закрита</string>
 	<string name="file_size">Розмір файла</string>
 	<string name="filllight">Освітлення</string>
 	<string name="fisheye">"Риб'яче око"</string>
@@ -130,8 +130,8 @@
 	<string name="how_many_videos">Відео: %d</string>
 	<string name="import_complete">Імпорт завершено</string>
 	<string name="import_fail">Збій імпорту</string>
-	<string name="initial_cloud_button_text">Начать использование</string>
-	<string name="initial_cloud_text">Организовывайте и просматривайте свои фотографии</string>
+	<string name="initial_cloud_button_text">Почати використання</string>
+	<string name="initial_cloud_text">Організовуйте і переглядайте свої фотографії</string>
 	<string name="input_cloudfolder_name">"Ім'я хмарової папки"</string>
 	<string name="internal_camera_folder_display_name">Фотографії внутрішньї камери</string>
 	<string name="internal_miui_capture_screen_folder_display_name">Внутрішні скріншоти</string>
@@ -140,7 +140,7 @@
 	<string name="loading">Триває завантаження...</string>
 	<string name="loading_failure">Не вдалося завантажити фото</string>
 	<string name="loading_thumbnail">Завантаження ескізів</string>
-	<string name="local_albums">Локальные альбомы</string>
+	<string name="local_albums">Локальні альбоми</string>
 	<string name="location">Місце зйомки</string>
 	<string name="locations">Місця</string>
 	<string name="lomoish">Ломо</string>
@@ -179,19 +179,19 @@
 	<string name="no_thumbnail">Немає зменшеного зображення</string>
 	<string name="none_picture">Немає фотографій в Галереї</string>
 	<string name="not_auto_create_recent_album">Неавтоматичне створення останніх альбомів</string>
-	<string name="not_show_hidden_albums">Не показывать скрытые альбомы</string>
-	<string name="open">Открыть</string>
+	<string name="not_show_hidden_albums">Не показувати приховані альбоми</string>
+	<string name="open">Відкрити</string>
 	<string name="open_single_image_failure">Помилка завантаження зображення!</string>
-	<string name="open_sync_title">Пожалуйста, включите синхронизацию</string>
+	<string name="open_sync_title">Будь ласка, включіть синхронізацію</string>
 	<string name="operation_refresh">Оновити</string>
 	<string name="operation_rename">Перейменувати</string>
 	<string name="orientation">Орієнтація</string>
 	<string name="other_category">Інші налаштування</string>
 	<string name="path">Шлях</string>
 	<string name="people">Люди</string>
-	<string name="photo_page_save_image">Сохранить</string>
-	<string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
-	<string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры</string>
+	<string name="photo_page_save_image">Зберегти</string>
+	<string name="photo_page_save_uri_image_fail">Не вдалося зберегти фотографію</string>
+	<string name="photo_page_save_uri_image_ok">Зображення збережено в директорію фотокамери</string>
 	<string name="photo_saved">Фотографія збережена в альбомі \"%s\"</string>
 	<string name="photoeditor_name">Фотостудія</string>
 	<string name="photos">Фотографії</string>
@@ -202,7 +202,7 @@
 	<string name="remove_hidden_album">Скасувати приховування</string>
 	<string name="remove_recent_album">Видалити з останніх альбомів</string>
 	<string name="rename_failed">Не вдалося перейменувати</string>
-	<string name="rename_failed_duplicated_name">"Ім'я вже існує, не перейменовано"</string>
+	<string name="rename_failed_duplicated_name">"Назва вже існує, не перейменовано"</string>
 	<string name="rotate">Поворот</string>
 	<string name="rotate_tooltip">Щоб повернути фото, перетягніть його край</string>
 	<string name="saturation">Насиченість</string>
@@ -220,7 +220,7 @@
 	<string name="select_video">Вибрати відео</string>
 	<string name="send">Відправити</string>
 	<string name="send_multiple_files_hint_format">Надіслати декілька файлів (%s)</string>
-	<string name="send_to_cloud_failed_message">Этот пункт не может быть добавлен в облачные альбомы</string>
+	<string name="send_to_cloud_failed_message">Цей пункт не може бути додано до хмарні альбоми</string>
 	<string name="sepia">Сепія</string>
 	<string name="set_hidden_album">Прихований альбом</string>
 	<string name="set_image">Установити картинку як</string>
@@ -233,12 +233,12 @@
 	<string name="set_recent_album">Створити новий альбом</string>
 	<string name="set_wallpaper">На робочий стіл</string>
 	<string name="settings">Налаштування</string>
-	<string name="settings_i_xiaomi_com">Войдите на сайт i.xiaomi.com, чтобы просмотреть ваши синхронизированные изображения на компьютере</string>
+	<string name="settings_i_xiaomi_com">Увійдіть на сайт i.xiaomi.com, щоб переглянути ваші синхронізовані зображення на комп'ютері</string>
 	<string name="shadow">Затемнення</string>
 	<string name="sharpen">Різкість</string>
 	<string name="show_all">Зображення та відео</string>
 	<string name="show_hidden_album">Показати приховані альбоми</string>
-	<string name="show_hidden_albums">Показать скрытые альбомы</string>
+	<string name="show_hidden_albums">Показати приховані альбоми</string>
 	<string name="show_images_only">Тільки зображення</string>
 	<string name="show_on_map">Показати на карті</string>
 	<string name="show_videos_only">Тільки відео</string>

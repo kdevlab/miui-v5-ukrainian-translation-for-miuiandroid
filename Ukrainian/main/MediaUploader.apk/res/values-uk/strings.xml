@@ -13,7 +13,7 @@
   <string name="destination_format">%1$s \"%2$s\"</string>
   <string name="dialog_first_cleanup">Всі завершені та невдалі завантаження будуть вилучені зі списку</string>
   <string name="dialog_first_cleanup_title">Очищення</string>
-  <string name="dialog_first_wifi">Великі файли будуть завантажуватися тільки по з\'єднанню Wi-Fi</string>
+  <string name="dialog_first_wifi">Великі файли будуть завантажуватися тільки по з'єднанню Wi-Fi</string>
   <string name="dialog_first_wifi_title">Завантаження великого файлу</string>
   <string name="drop_box_name">Альбом без назви</string>
   <string name="enter_a_title">Введіть назву альбому</string>

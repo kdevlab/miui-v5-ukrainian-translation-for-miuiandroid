@@ -3,6 +3,6 @@
 <resources>
 	<string name="app_label">"Пам'ять номерів/SMS/MMS"</string>
 	<string name="mms_provider_label">MMS</string>
-	<string name="mms_sms_provider_label">Сообщения</string>
+	<string name="mms_sms_provider_label">Повідомлення</string>
 	<string name="sms_provider_label">SMS</string>
 </resources>

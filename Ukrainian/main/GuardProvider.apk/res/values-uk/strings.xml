@@ -2,6 +2,6 @@
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
 	<string name="app_name">Антивірус Jinshan</string>
-	<string name="hello_world">Привет мир!</string>
+	<string name="hello_world">Привіт світ!</string>
 	<string name="menu_settings">Налаштування</string>
 </resources>

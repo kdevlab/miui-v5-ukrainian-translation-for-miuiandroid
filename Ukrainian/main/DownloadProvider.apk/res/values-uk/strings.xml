@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Merged and sorted with KDG BigBlackBox-->
 <resources>
-	<string name="app_label">Диспетчер завантажень</string>
-	<string name="auto_restart_under_wifi">Автоматически загрузить этот файл через Wi-Fi</string>
+	<string name="app_label">Диспечер завантажень</string>
+	<string name="auto_restart_under_wifi">Автоматично завантажити цей файл через Wi-Fi</string>
 	<string name="button_cancel_download">Скасувати</string>
 	<string name="button_queue_for_wifi">Додати в чергу</string>
 	<string name="button_start_now">Запустити</string>

@@ -60,9 +60,9 @@
 	<string name="HIPS_Action_Accept_Colored">Разрешить</string>
 	<string name="HIPS_Action_Accept_Count">Дозволені: %1$d</string>
 	<string name="HIPS_Action_Prompt">Запитати</string>
-	<string name="HIPS_Action_Prompt_Colored">Спрашивать</string>
+	<string name="HIPS_Action_Prompt_Colored">Запитувати</string>
 	<string name="HIPS_Action_Reject">Заборонити</string>
-	<string name="HIPS_Action_Reject_Colored">Запретить</string>
+	<string name="HIPS_Action_Reject_Colored">Заборонити</string>
 	<string name="HIPS_Action_Reject_Count">Заборонені: %1$d</string>
 	<string name="HIPS_Group_DataPrivacy">Конфіденційність</string>
 	<string name="HIPS_Group_Expense">Безпека</string>
@@ -152,7 +152,7 @@
 	<string name="HIPS_Perm_WIFINetwork_Desc">Доступ в Інтернет по Wi-Fi</string>
 	<string name="HIPS_Perm_WIFINetwork_Hint">%1$s програми які мають доступ до Інтернету</string>
 	<string name="HIPS_SecurityPrompt_Accept">Дозволено (%d)</string>
-	<string name="HIPS_SecurityPrompt_AcceptRoot">Дозводити</string>
+	<string name="HIPS_SecurityPrompt_AcceptRoot">Дозволити</string>
 	<string name="HIPS_SecurityPrompt_Caption">Попередження безпеки</string>
 	<string name="HIPS_SecurityPrompt_Next">Далі</string>
 	<string name="HIPS_SecurityPrompt_ROOT_Caption">Увага!</string>
@@ -180,7 +180,7 @@
 	<string name="Privacy_App_Uninstall">Видалення</string>
 	<string name="Privacy_Perm_Count">Дозволено: %1$d Заборонено: %2$d</string>
 	<string name="Su_Enable_Dialog">%1$s намагається отримати доступ з правами суперкористувача, який за замовчуванням відключений для забезпечення безпеки системи. Якщо вам необхідно включити цю функцію, перейдіть в налаштування Менеджера доступу</string>
-	<string name="Su_Unavailable">Права администратора не доступны в стабильной версии MIUI. Пожалуйста, установите версию для разработчиков.</string>
+	<string name="Su_Unavailable">Права адміністратора не доступні в стабільній версії MIUI. Будь ласка, встановіть версію для розробників.</string>
 	<string name="SysOpt_Boost_AutoStart">Дозвіл автозавантаження</string>
 	<string name="SysOpt_Boost_AutoStart_Group">Автозавантаження</string>
 	<string name="SysOpt_Boost_Boot">завантаження</string>

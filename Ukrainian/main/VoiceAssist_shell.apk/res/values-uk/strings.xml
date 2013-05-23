@@ -2,9 +2,9 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="app_name">Голосовой помощник</string>
-  <string name="cancel">Нет</string>
+  <string name="app_name">Голосовий помічник</string>
+  <string name="cancel">Ні</string>
   <string name="confirm">Да</string>
-  <string name="content">Голосовой помощник не установлен, загрузить из Маркета？</string>
-  <string name="title_activity_check">Установить голосовой помощник</string>
+  <string name="content">Голосовий помічник не встановлений, завантажити з Маркета?</string>
+  <string name="title_activity_check">Встановити голосовий помічник</string>
 </resources>

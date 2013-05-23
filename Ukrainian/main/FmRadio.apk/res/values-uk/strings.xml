@@ -19,7 +19,7 @@
   <string name="alrm_2_hrs_past">Автоматичне вимикання FM радіо. %1$d годин(и) пройшло</string>
   <string name="alrm_30_min_past">Автоматичне вимикання FM радіо. %1$d хв. пройшло</string>
   <string name="app_name">FM радіо</string>
-  <string name="audio_shock_warning">Гучна музика може привести до пошкодження слуху, якщо слухати її протягом тривалого часу</string>
+  <string name="audio_shock_warning">Гучна музика може привести до втрати слуху, якщо слухати її протягом тривалого часу</string>
   <string name="cancel">Скасування</string>
   <string name="dialog_autoscan">Автосканування</string>
   <string name="dialog_cancel_scan">Скасування...</string>
@@ -43,7 +43,7 @@
   <string name="remove">Видалити</string>
   <string name="rename">Перейменувати</string>
   <string name="rename_channel">Перейменувати</string>
-  <string name="rename_text">Введіть ім\'я</string>
+  <string name="rename_text">Введіть ім'я</string>
   <string name="replace">Замінити</string>
   <string name="save">Зберегти</string>
   <string name="scan">Сканувати</string>
@@ -58,7 +58,7 @@
   <string name="setting_autooff">Автовимкнення FM</string>
   <string name="setting_backgroud_playing">Відтворення у фоні</string>
   <string name="setting_bgplaying_summary">Радіо буде грати у фоновому режимі після закриття</string>
-  <string name="setting_europe">Европа</string>
+  <string name="setting_europe">Європа</string>
   <string name="setting_hour">Через 1 годину</string>
   <string name="setting_japan">Японія</string>
   <string name="setting_korea">Корея</string>
