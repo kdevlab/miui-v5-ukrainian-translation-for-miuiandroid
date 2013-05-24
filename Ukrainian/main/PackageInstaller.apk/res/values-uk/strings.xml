@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="Parse_error_dlg_text">При синтаксичному аналізі пакету виникла проблема</string>
 	<string name="Parse_error_dlg_title">Синтаксична помилка</string>
-	<string name="allow_source_dlg_text">"%1$s хоче встановити інші програми.\n\nДозволити і запам'ятати вибір?"</string>
+	<string name="allow_source_dlg_text">"%1$s хоче встановити інші програми.
+
+Дозволити і запам'ятати вибір?"</string>
 	<string name="allow_source_dlg_title">Дозволити додавання нового джерела для програм?</string>
 	<string name="app_name">Програма встановлення пакетів</string>
 	<string name="app_not_found_dlg_text">Програму не було знайдено в списку встановлених програм</string>
 	<string name="app_not_found_dlg_title">Програму не знайдено</string>
-	<string name="auto_startup_dialog_msg">Система дозволить додаткам запускатися автоматично. Це може призвести до збільшення споживання трафіку або батареї.\nДозволити автозапуск?</string>
+	<string name="auto_startup_dialog_msg">"Система дозволить додаткам запускатися автоматично. Це може призвести до збільшення споживання трафіку або батареї.
+Дозволити автозапуск?"</string>
 	<string name="caller_app">Запит від %1$s</string>
 	<string name="cancel">Скасувати</string>
-	<string name="dlg_app_replacement_statement">Програму, яку ви встановлюєте, замінить інша програма\n\nВсі призначені для користувача дані будуть збережені</string>
+	<string name="dlg_app_replacement_statement">"Програму, яку ви встановлюєте, замінить інша програма
+
+Всі призначені для користувача дані будуть збережені"</string>
 	<string name="dlg_app_replacement_title">Замінити програму</string>
 	<string name="dlg_ok">ОК</string>
-	<string name="dlg_sys_app_replacement_statement">Це системна програма. Замінити?\n\nВсі призначені для користувача дані будуть збережені</string>
+	<string name="dlg_sys_app_replacement_statement">"Це системна програма. Замінити?
+
+Всі призначені для користувача дані будуть збережені"</string>
 	<string name="done">Готово</string>
 	<string name="high_risk_perms">Дозволи високого ризику</string>
 	<string name="install">Встановити</string>
@@ -55,7 +62,8 @@
 	<string name="safe_relative">Безпечні дозволи</string>
 	<string name="security_settings_desc">Дозволити програмі:</string>
 	<string name="settings">Налаштування</string>
-	<string name="trust_switch_dialog_msg">Система не буде питати Вас про підтвердження будь-яких операцій пов'язаних з безпекою та конфіденційністю. Будь ласка, переконайтеся, що добре знаєте даного розробника.\nВи довіряєте цьому додатку?</string>
+	<string name="trust_switch_dialog_msg">"Система не буде питати Вас про підтвердження будь-яких операцій пов'язаних з безпекою та конфіденційністю. Будь ласка, переконайтеся, що добре знаєте даного розробника.
+Ви довіряєте цьому додатку?"</string>
 	<string name="uninstall_activity_text">%1$s є частиною наступної програми:</string>
 	<string name="uninstall_application_text">Програму буде видалено</string>
 	<string name="uninstall_application_title">Видалення програми</string>

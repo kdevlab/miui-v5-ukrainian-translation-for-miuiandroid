@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG Bigblackbox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="add_account_desc">Нотатки можна синхронізувати з вашим Xiaomi акаунтом. Увійти в акаунт і почати синхронізацію?</string>
 	<string name="alert_edit_action_delete">Видалити</string>
@@ -58,6 +58,9 @@
 	<string name="notealert_enter">Переглянути</string>
 	<string name="notealert_ok">Готово</string>
 	<string name="notelist_menu_new">Створити нотатку</string>
+	<string name="notify_alarm_action_mute">Mute</string>
+	<string name="notify_alarm_action_view">View</string>
+	<string name="notify_alarm_title">Note reminder</string>
 	<string name="pref_desc_mode_grid">Сітка</string>
 	<string name="pref_desc_mode_list">Список</string>
 	<string name="pref_title_data_export">Експорт заміток</string>
@@ -74,6 +77,7 @@
 	<string name="success_sdcard_export">Експорт завершено</string>
 	<string name="time_picker_dialog_title">Встановіть час нагадування</string>
 	<string name="toast_message_add_image_fail">Не вдалося вставити зображення!</string>
+	<string name="toast_privacy_mode">Cannot edit note in guarded mode</string>
 	<string name="widget_havenot_content">Немає нотаток, натисніть сюди, щоб створити нотатку</string>
 	<string name="widget_under_visit_mode">Неможливо переглянути нотатки, тому що увімкнений режим гостю</string>
 </resources>

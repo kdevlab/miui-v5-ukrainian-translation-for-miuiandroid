@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="about_settings">Відомості про телефон</string>
 	<string name="about_settings_summary">Перегляд юридичної інформації, стану планшетного ПК і версії ПЗ</string>
@@ -12,7 +12,8 @@
 	<string name="accelerometer_title">Автоповорот екрану</string>
 	<string name="access_control_app_entry_multiple">Запустити %s</string>
 	<string name="access_control_app_entry_single">Запустити цю програму</string>
-	<string name="access_control_need_password">"%s захищено паролем\n  "</string>
+	<string name="access_control_need_password">"%s захищено паролем
+  "</string>
 	<string name="access_control_need_to_unlock">Введіть пароль для розблокування</string>
 	<string name="access_control_no_back_footer">Натисніть [icon] для виходу</string>
 	<string name="access_control_password_title">Обмеження доступу</string>
@@ -73,7 +74,9 @@
 	<string name="allow_mock_location_summary">Дозволити використання фіктивних розташувань</string>
 	<string name="always_allow_bind_appwidgets_text">"Ви дозволили цій програмі створювати віджети та  отримувати доступ до всих відображених ним даних"</string>
 	<string name="android_beam_disabled_summary">"Недоступно, так як відключений зв'язок малого радіусу дії"</string>
-	<string name="android_beam_explained">"Коли включена ця функція, дані програм можуть передаватися на інші іристрої з підтримкою зв'язку малого радіусу дії. Наприклад, відправляти сторінки браузера, відео YouTube, контакти та інші відомості.\n \nПросто наближаєте пристрій поблизу (наприклад, з'єднайте їх задні панелі) i торкніться екрану. Передані дані залежать від програм. "</string>
+	<string name="android_beam_explained">"Коли включена ця функція, дані програм можуть передаватися на інші іристрої з підтримкою зв'язку малого радіусу дії. Наприклад, відправляти сторінки браузера, відео YouTube, контакти та інші відомості.
+ 
+Просто наближаєте пристрій поблизу (наприклад, з'єднайте їх задні панелі) i торкніться екрану. Передані дані залежать від програм. "</string>
 	<string name="android_beam_label">Android Beam</string>
 	<string name="android_beam_off_summary">Відключено</string>
 	<string name="android_beam_on_summary">Можна обмінюватися контентом по NFC</string>
@@ -111,8 +114,10 @@
 	<string name="app_factory_reset">Видалити поновлення</string>
 	<string name="app_factory_reset_dlg_text">Всі оновлення для цієї програми будуть видалені</string>
 	<string name="app_factory_reset_dlg_title">Видалити оновлення?</string>
-	<string name="app_floating_window_dlg_disable">"Відключення спливаючих вікон призводить до примусового закриття %1$s. Ви можете вручну відкрити програму.\nВи впевнені, що хочете відключити?"</string>
-	<string name="app_floating_window_dlg_enable">"Відключення спливаючих вікон призводить до примусового закриття %1$s. Ви можете вручну відкрити програму.\nВи впевнені, що хочете включити?"</string>
+	<string name="app_floating_window_dlg_disable">"Відключення спливаючих вікон призводить до примусового закриття %1$s. Ви можете вручну відкрити програму.
+Ви впевнені, що хочете відключити?"</string>
+	<string name="app_floating_window_dlg_enable">"Відключення спливаючих вікон призводить до примусового закриття %1$s. Ви можете вручну відкрити програму.
+Ви впевнені, що хочете включити?"</string>
 	<string name="app_forward_locked">Програма захищена від копіювання</string>
 	<string name="app_install_location_summary">Змінити папку для установки програм</string>
 	<string name="app_install_location_title">Місце установки</string>
@@ -152,8 +157,7 @@
 	<string name="automatic_brightness">Автоналаштування</string>
 	<string name="available_size">%s</string>
 	<string name="awake">Час від включення пристрою</string>
-	<string name="back_long_press">Кнопка НАЗАД</string>
-	<string name="back_long_press_timeout">Затримка спрацювання</string>
+	<string name="back_key">Back key</string>
 	<string name="background_data">Фоновий режим</string>
 	<string name="background_data_dialog_message">Відключення фонового режиму обміну даними економить заряд батареї і зменшує обсяг трафіку, проте деякі програми можуть використовувати цей режим навіть після його відключення</string>
 	<string name="background_data_dialog_title">Вимкнути фоновий режим?</string>
@@ -444,9 +448,6 @@
 	<string name="complete_settings">Всі налаштування</string>
 	<string name="computing_size">Обчислення...</string>
 	<string name="config_list_label">Конфігурація мереж</string>
-	<string name="config_mass_storage_function_name">накопчувач</string>
-	<string name="config_mtp_function_name">mtp</string>
-	<string name="config_ptp_function_name">ptp</string>
 	<string name="configure_input_method">Настройка методів введення</string>
 	<string name="confirm_erase">Підтвердження видалення</string>
 	<string name="confirm_new_backup_pw_prompt">Підтвердіть пароль</string>
@@ -477,14 +478,18 @@
 	<string name="crypt_keeper_button_text">Зашифрувати телефон</string>
 	<string name="crypt_keeper_confirm_title">Підтвердити шифрування</string>
 	<string name="crypt_keeper_cooldown">Повторіть спробу через ^1 с.</string>
-	<string name="crypt_keeper_desc">"Шифрування доступно для акаунтів, налаштувань, завантажених програм і їхніх даних, а також для мультимедійних та інших файлів. Після шифрування даних телефону при кожному його включенні необхідно буде вводити числовий PIN-код або пароль, щоб виконати дешифрування даних. Єдиний спосіб відключити шифрування - скидання налаштувань, в результаті якого всі дані будуть втрачені.\n \nШифрування займе не менше однієї години. Перед його запуском необхідно підключити зарядний пристрій і не відключати його до закінчення операції. У разі переривання шифрування будуть втрачені всі дані або частина з них. "</string>
+	<string name="crypt_keeper_desc">"Шифрування доступно для акаунтів, налаштувань, завантажених програм і їхніх даних, а також для мультимедійних та інших файлів. Після шифрування даних телефону при кожному його включенні необхідно буде вводити числовий PIN-код або пароль, щоб виконати дешифрування даних. Єдиний спосіб відключити шифрування - скидання налаштувань, в результаті якого всі дані будуть втрачені.
+ 
+Шифрування займе не менше однієї години. Перед його запуском необхідно підключити зарядний пристрій і не відключати його до закінчення операції. У разі переривання шифрування будуть втрачені всі дані або частина з них. "</string>
 	<string name="crypt_keeper_dialog_need_password_message">Перед шифруванням необхідно задати PIN-код або пароль блокування екрану</string>
 	<string name="crypt_keeper_dialog_need_password_title">Не вказаний PIN-код або пароль блокування екрану</string>
 	<string name="crypt_keeper_encrypt_summary">Запит числового PIN-код та пароль для дешифрування при кожному включенні телефону</string>
 	<string name="crypt_keeper_encrypt_title">Зашифрувати телефон</string>
 	<string name="crypt_keeper_encrypted_summary">Зашифровано</string>
 	<string name="crypt_keeper_enter_password">Введіть пароль</string>
-	<string name="crypt_keeper_failed_summary">"Дані на вашому телефоні більше недоступні через перерване шифрування.\n \nЩоб продовжити використовувати пристрій, виконайте скидання до заводських налаштувань. Після цього ви зможете відновити всі дані, для яких в акаунті Google були створені резервні копії. "</string>
+	<string name="crypt_keeper_failed_summary">"Дані на вашому телефоні більше недоступні через перерване шифрування.
+ 
+Щоб продовжити використовувати пристрій, виконайте скидання до заводських налаштувань. Після цього ви зможете відновити всі дані, для яких в акаунті Google були створені резервні копії. "</string>
 	<string name="crypt_keeper_failed_title">Збій шифрування</string>
 	<string name="crypt_keeper_final_desc">Виконати шифрування даних телефону? Ця операція незворотна, і в разі її переривання дані будуть втрачені. Шифрування займе не менше однієї години. Під час шифрування пристрій буде перезавантажений кілька разів</string>
 	<string name="crypt_keeper_low_charge_text">Зарядіть батарею і повторіть спробу</string>
@@ -501,13 +506,18 @@
 	<string name="data_usage_app_restrict_background">Обмежити фон. режим</string>
 	<string name="data_usage_app_restrict_background_summary">Відключити фоновий режим для мобільних мереж. Використовувати Wi-Fi</string>
 	<string name="data_usage_app_restrict_background_summary_disabled">Спочатку встановіть ліміт для мобільного трафіку</string>
-	<string name="data_usage_app_restrict_dialog">"Якщо відсутній доступ до Wi-Fi, функція може призупинити програму, що використовує фоновий режим обміну даними.\n \nБільш відповідні параметри можна знайти в налаштуваннях цих програм. "</string>
+	<string name="data_usage_app_restrict_dialog">"Якщо відсутній доступ до Wi-Fi, функція може призупинити програму, що використовує фоновий режим обміну даними.
+ 
+Більш відповідні параметри можна знайти в налаштуваннях цих програм. "</string>
 	<string name="data_usage_app_restrict_dialog_title">Обмеження фонового режиму</string>
 	<string name="data_usage_app_restricted">обмежений</string>
 	<string name="data_usage_app_settings">Налаштування програми</string>
 	<string name="data_usage_auto_sync_off_dialog">Це збереже трафік і батарею, але вам доведеться синхронізувати ваші дані вручну для їх актуалізації. Ви також не будете отримувати повідомлення про оновлення</string>
 	<string name="data_usage_auto_sync_off_dialog_title">Вимкнути автосинхронізацію?</string>
-	<string name="data_usage_auto_sync_on_dialog">Будь-які зміни акаунта в мережі автоматично будуть скопійовані в телефон.\n+Деякі акаунти також можуть автоматично копіювати зміни з телефону в мережу. Аккаунт Google працює саме так.\n \n+Для вибору даних для синхронізації перейдіть в Налаштування > Акаунти</string>
+	<string name="data_usage_auto_sync_on_dialog">"Будь-які зміни акаунта в мережі автоматично будуть скопійовані в телефон.
++Деякі акаунти також можуть автоматично копіювати зміни з телефону в мережу. Аккаунт Google працює саме так.
+ 
++Для вибору даних для синхронізації перейдіть в Налаштування > Акаунти"</string>
 	<string name="data_usage_auto_sync_on_dialog_title">Включити автосинхронізацію?</string>
 	<string name="data_usage_change_cycle">Змінити...</string>
 	<string name="data_usage_cycle">Період статистики</string>
@@ -525,7 +535,9 @@
 	<string name="data_usage_enable_mobile">Мобільний трафік</string>
 	<string name="data_usage_label_background">Фоновий режим</string>
 	<string name="data_usage_label_foreground">Активний режим</string>
-	<string name="data_usage_limit_dialog_mobile">Ваше мобільне підключення для передачі даних буде відключено, коли зазначений ліміт буде досягнутий. \n\nВикористання даних вимірюється за допомогою телефону, а Ваш оператор може пояснити використання по різному, розгляньте можливість використання консервативного межі.</string>
+	<string name="data_usage_limit_dialog_mobile">"Ваше мобільне підключення для передачі даних буде відключено, коли зазначений ліміт буде досягнутий. 
+
+Використання даних вимірюється за допомогою телефону, а Ваш оператор може пояснити використання по різному, розгляньте можливість використання консервативного межі."</string>
 	<string name="data_usage_limit_dialog_title">Обсяг трафіку обмежений</string>
 	<string name="data_usage_limit_editor_title">Лімітування трафіку</string>
 	<string name="data_usage_list_mobile">Мобільні мережі</string>
@@ -548,8 +560,10 @@
 	<string name="data_usage_restrict_background_title">Обмеження фонового режиму</string>
 	<string name="data_usage_restrict_denied_dialog">Обмеження фонового режиму можливе тільки при лімітуванні мобільного трафіку</string>
 	<string name="data_usage_summary_title">Передача даних</string>
-	<string name="data_usage_sweep_limit"><font size="21">^1</font> <font size="9">^2</font>\n<font size="12">лимит</font></string>
-	<string name="data_usage_sweep_warning"><font size="21">^1</font> <font size="9">^2</font>\n<font size="12">опасность</font></string>
+	<string name="data_usage_sweep_limit">"<font size="21">^1</font> <font size="9">^2</font>
+<font size="12">лимит</font>"</string>
+	<string name="data_usage_sweep_warning">"<font size="21">^1</font> <font size="9">^2</font>
+<font size="12">опасность</font>"</string>
 	<string name="data_usage_tab_3g">2G/3G</string>
 	<string name="data_usage_tab_4g">Трафік 4G</string>
 	<string name="data_usage_tab_ethernet">Ethernet</string>
@@ -611,9 +625,9 @@
 	<string name="device_internal_memory">"Внутрішня пам'ять:"</string>
 	<string name="device_memory">RAM:</string>
 	<string name="device_miui_version">Версія MIUI:</string>
-	<string name="device_name">Ім'я пристрою</string>
-	<string name="device_name_input_hint">Введіть ім'я вашого пристрою</string>
-	<string name="device_name_usage_point">Показувати ім'я Вашого пристрою при створенні Bluetooth підключення, точки доступу і так далі</string>
+	<string name="device_name">"Ім'я пристрою"</string>
+	<string name="device_name_input_hint">"Введіть ім'я вашого пристрою"</string>
+	<string name="device_name_usage_point">"Показувати ім'я Вашого пристрою при створенні Bluetooth підключення, точки доступу і так далі"</string>
 	<string name="device_picker">Вибір пристрою Bluetooth</string>
 	<string name="device_sd_memory">Внутрішній накопичувач:</string>
 	<string name="device_status">Загальна інформація</string>
@@ -621,13 +635,14 @@
 	<string name="device_status_summary">Номер телефону, рівень сигналу і т.д.</string>
 	<string name="dialog_title_font_size">Розмір шрифту</string>
 	<string name="dirac_control">Технологія \"MI Sound\"</string>
-	<string name="disableNetwork">Відключити мережу</string>
+	<string name="dirac_mode_earbuds">Earbuds</string>
+	<string name="dirac_mode_earphones">Earphones</string>
+	<string name="dirac_mode_off">Dirac Off</string>
 	<string name="disable_overlays">Відключити HW оверлеї</string>
 	<string name="disable_overlays_summary">Завжди використовувати GPU для відтворення екрану</string>
 	<string name="disable_power_key_long_press_under_keyguard">Вимкнути на екрані блокування</string>
 	<string name="disable_text">Вимкнути</string>
 	<string name="disabled">Відключено</string>
-	<string name="disconnect">Відключити</string>
 	<string name="display_font_size_label">Розмір шрифту:</string>
 	<string name="display_label">Екран</string>
 	<string name="display_order_text">Сортування:</string>
@@ -708,11 +723,8 @@
 	<string name="emergency_tone_summary">Налаштувати режим роботи при екстреному виклику</string>
 	<string name="emergency_tone_title">Тональний сигнал екстреного виклику</string>
 	<string name="empty_list_msg">Немає програми третіх сторін</string>
-	<string name="enableNetwork">Включити мережу</string>
 	<string name="enable_adb">Налагодження Android</string>
 	<string name="enable_adb_summary">"Включити режим налагодження при підключенні до комп'ютера по USB або по мережі"</string>
-	<string name="enable_assist_key_long_press">Виклик голосового помічника</string>
-	<string name="enable_back_long_press">По довгому натисненню - завершити програму</string>
 	<string name="enable_compatibility">Масштабувати програми</string>
 	<string name="enable_drive_mode">Включить режим управления</string>
 	<string name="enable_snapshot_screenlock">НАЗАД - для скріншоту на екрані блокування</string>
@@ -722,7 +734,9 @@
 	<string name="enable_traces_summary_none">Трасування відключено</string>
 	<string name="enable_traces_summary_num">Включених трасувань: %1$d</string>
 	<string name="enable_traces_title">Включити трасування</string>
-	<string name="enforce_read_external_confirm_message">Коли увімкнено захист USB сховища, програми повинні запитувати дозволу для зчитування даних з зовнішнього сховища.\n\u0009\nДеякі програми можуть перестати працювати, поки їх не оновлять розробники</string>
+	<string name="enforce_read_external_confirm_message">"Коли увімкнено захист USB сховища, програми повинні запитувати дозволу для зчитування даних з зовнішнього сховища.
+\u0009
+Деякі програми можуть перестати працювати, поки їх не оновлять розробники"</string>
 	<string name="enforce_read_external_confirm_title">Захистити USB сховище?</string>
 	<string name="enforce_read_external_summary">Програми повинні посилати запит на доступ до USB сховища</string>
 	<string name="enforce_read_external_title">Захист USB сховища</string>
@@ -731,8 +745,8 @@
 	<string name="erase_application_description">Видалення встановлених програм</string>
 	<string name="erase_external_storage">Очистити SD-карту</string>
 	<string name="erase_external_storage_description">Видалити з SD-карти всі дані, в тому числі музику і фотографії</string>
-	<string name="erase_internal_storage">Очистити внутрішню пам'ять</string>
-	<string name="erase_internal_storage_description">Видалити з внутрішньої пам'яті всі дані, в тому числі музику і фотографії</string>
+	<string name="erase_internal_storage">"Очистити внутрішню пам'ять"</string>
+	<string name="erase_internal_storage_description">"Видалити з внутрішньої пам'яті всі дані, в тому числі музику і фотографії"</string>
 	<string name="erase_optional">Опціональне видалення</string>
 	<string name="erase_personal_data">Персональні дані</string>
 	<string name="erase_personal_data_description">В тому числі облікові записи, контакти, дзвінки та інші дані</string>
@@ -781,8 +795,6 @@
 	<string name="gadget_toggle_bluetooth">Оновлення налаштувань Bluetooth</string>
 	<string name="gadget_toggle_wifi">Оновлення налаштувань Wi-Fi</string>
 	<string name="game_controller_settings_category">Ігровий контролер</string>
-	<string name="getConfiguredNetworks">Налаштування мережі</string>
-	<string name="getConnectionInfo">"Інформація про з'єднання"</string>
 	<string name="haptic_feedback_enable_title">Включити реагування вібруванням</string>
 	<string name="haptic_feedback_level">Рівень вібрації</string>
 	<string name="hardkeyboard_category">Налаштування зовнішньої клавіатури</string>
@@ -812,6 +824,7 @@
 	<string name="help_url_wifi" />
 	<string name="hidden_ssid_label">Прихований SSID:</string>
 	<string name="history_details_title">Детальна історія</string>
+	<string name="home_key">Home key</string>
 	<string name="ime_security_warning">При використанні цього способу можуть збиратися всі дані, що вводяться, в тому числі паролі і номери кредитних карт. Спосіб введення запитується програмою \"%1$s\". Використовувати цей спосіб введення?</string>
 	<string name="immediately_destroy_activities">Не зберігати дії</string>
 	<string name="immediately_destroy_activities_summary">Видаляти журнал дій після їх завершення</string>
@@ -843,8 +856,8 @@
 	<string name="internal_format">Форматування внутрішнього сховища</string>
 	<string name="internal_format_summary">Після форматування внутрішнього сховища, будуть видалені всі файли, такі як музика, фотографії, ігри і т.д.</string>
 	<string name="internal_media_format_button_text">Очистити</string>
-	<string name="internal_media_format_desc">Очистити внутрішню пам'ять? Ви втратите всі дані, такі як музика, фотографії, ігри і т.д.</string>
-	<string name="internal_media_format_final_desc">Очищення внутрішньої пам'яті, будуть видалені всі збережені файли! Ви не можете скасувати цю дію! Після завершення процесу, телефон буде перезавантажений!</string>
+	<string name="internal_media_format_desc">"Очистити внутрішню пам'ять? Ви втратите всі дані, такі як музика, фотографії, ігри і т.д."</string>
+	<string name="internal_media_format_final_desc">"Очищення внутрішньої пам'яті, будуть видалені всі збережені файли! Ви не можете скасувати цю дію! Після завершення процесу, телефон буде перезавантажений!"</string>
 	<string name="internal_media_format_title">Очищення внутрішнього сховища</string>
 	<string name="internal_memory">"Внутрішня пам'ять"</string>
 	<string name="internal_storage">"Внутрішня пам'ять"</string>
@@ -897,7 +910,9 @@
 	<string name="location_title">Моє місце розташування</string>
 	<string name="lock_after_timeout">Автоблокування</string>
 	<string name="lock_after_timeout_summary">Після %1$s сплячого режиму</string>
-	<string name="lock_intro_message">"Щоб ніхто, крім вас, не міг скористатися вашим телефоном, створіть графічний ключ розблокування екрана. Для цього з'єднаєте в довільному порядку не менше чотирьох точок на наступному екрані.\n \nЩоб почати, натисніть \"Далі\". "</string>
+	<string name="lock_intro_message">"Щоб ніхто, крім вас, не міг скористатися вашим телефоном, створіть графічний ключ розблокування екрана. Для цього з'єднаєте в довільному порядку не менше чотирьох точок на наступному екрані.
+ 
+Щоб почати, натисніть \"Далі\". "</string>
 	<string name="lock_screen_unlock_show">Показати інтерфейс введення пароля</string>
 	<string name="lock_screen_unlock_show_summary">Не використовуйте інші локскріни після включення, досить зайти в інтерфейс для розблокування екрана</string>
 	<string name="lock_settings_picker_settings">Встановити блокування екрана</string>
@@ -974,13 +989,25 @@
 	<string name="manageapplications_settings_summary">Управління встановленими програмами та їх видалення</string>
 	<string name="manageapplications_settings_title">Управління програмами</string>
 	<string name="manually_add_network">Додати мережу</string>
-	<string name="master_clear_accounts">\n \nВ даний час ви виконали вхід в наступні акаунти:\n</string>
-	<string name="master_clear_all">Ви впевнені, що хочете видалити всі дані до заводських налаштувань?\nОперація не може бути скасована</string>
+	<string name="master_clear_accounts">"
+ 
+В даний час ви виконали вхід в наступні акаунти:
+"</string>
+	<string name="master_clear_all">"Ви впевнені, що хочете видалити всі дані до заводських налаштувань?
+Операція не може бути скасована"</string>
 	<string name="master_clear_button_text">Скинути налаштування телефону</string>
 	<string name="master_clear_confirm_title">Виконати скидання?</string>
-	<string name="master_clear_desc">"Будуть видалені всі дані з внутрішньої пам'яті пристрою, в тому числі:\n \nВаш аккаунт Google\nНалаштування/дані системи і програм\nЗавантажені програми "</string>
-	<string name="master_clear_desc_also_erases_external">"Музика\nФото\nІнші дані "</string>
-	<string name="master_clear_desc_erase_external_storage">\n \nЩоб видалити музику, фотографії та інші дані користувача, необхідно очистити SD-карту</string>
+	<string name="master_clear_desc">"Будуть видалені всі дані з внутрішньої пам'яті пристрою, в тому числі:
+ 
+Ваш аккаунт Google
+Налаштування/дані системи і програм
+Завантажені програми "</string>
+	<string name="master_clear_desc_also_erases_external">"Музика
+Фото
+Інші дані "</string>
+	<string name="master_clear_desc_erase_external_storage">"
+ 
+Щоб видалити музику, фотографії та інші дані користувача, необхідно очистити SD-карту"</string>
 	<string name="master_clear_erase_application_progress">Видалення програм...</string>
 	<string name="master_clear_failed">Скидання не виконаний, оскільки служба System Clear недоступна</string>
 	<string name="master_clear_final_button_text">Стерти все</string>
@@ -1035,14 +1062,24 @@
 	<string name="move_app_to_sdcard">Перемістити на SD-карту</string>
 	<string name="moving">Переміщення</string>
 	<string name="msd_driver_download">Скачати драйвер</string>
-	<string name="msd_driver_mac_download">Використовуючи ваш Mac, скачайте драйвер і відкрийте AndroidFileTransfer.dmg для установки \nСсилка для скачки: http://miui.com/mac</string>
-	<string name="msd_driver_windows_xp_download">Використовуючи ваш комп'ютер, скачайте драйвер і виконайте Setup.exe для установки \nСсилка для скачки: http://miui.com/win</string>
+	<string name="msd_driver_mac_download">"Використовуючи ваш Mac, скачайте драйвер і відкрийте AndroidFileTransfer.dmg для установки 
+Ссилка для скачки: http://miui.com/mac"</string>
+	<string name="msd_driver_windows_xp_download">"Використовуючи ваш комп'ютер, скачайте драйвер і виконайте Setup.exe для установки 
+Ссилка для скачки: http://miui.com/win"</string>
 	<string name="msd_help_summary">"Проблеми з доступом до мобільного пристрою через комп'ютер? Будь-ласка, виберіть операційну систему вашого комп'ютера:"</string>
 	<string name="msd_help_title">Допомога</string>
 	<string name="msd_install">Встановити драйвер</string>
 	<string name="msd_install_finish">OK</string>
 	<string name="msd_install_next">Далі</string>
-	<string name="msd_install_retry_linux">"Якщо ваш комп'ютер не розпізнає пристрій правильно,\nспробуйте наступне:\n1) Наберіть в терміналі : sudo aptitude install mtpfs libfuse-dev libmad0-dev\n2) Створіть папку: mkdir /media/mtp\n3) Підтвердіть права груп користувачів в поточній групі користувачів\n4) Перезайдіть в обліковий запис\n5) Спробуйте змонтувати під'єднаний накопичувач mtpfs /media/mtp через файловий менеджер, как локальну папку\n6) Видалення пристрою: fusermount -u /media/mtp\n Примітка: Для Ubuntu 8.04"</string>
+	<string name="msd_install_retry_linux">"Якщо ваш комп'ютер не розпізнає пристрій правильно,
+спробуйте наступне:
+1) Наберіть в терміналі : sudo aptitude install mtpfs libfuse-dev libmad0-dev
+2) Створіть папку: mkdir /media/mtp
+3) Підтвердіть права груп користувачів в поточній групі користувачів
+4) Перезайдіть в обліковий запис
+5) Спробуйте змонтувати під'єднаний накопичувач mtpfs /media/mtp через файловий менеджер, как локальну папку
+6) Видалення пристрою: fusermount -u /media/mtp
+ Примітка: Для Ubuntu 8.04"</string>
 	<string name="msd_install_retry_mac">"Якщо ваш комп'ютер не розпізнає пристрій правильно, спробуйте наступне:"</string>
 	<string name="msd_install_retry_windows_vista">"Якщо ваш комп'ютер не розпізнає пристрій правильно, спробуйте наступне:"</string>
 	<string name="msd_install_retry_windows_xp">"Якщо ваш комп'ютер не розпізнає пристрій правильно, спробуйте наступне:"</string>
@@ -1117,7 +1154,8 @@
 	<string name="perm_hips_desc">Відстеження %1$d додатків для безпеки та конфіденційності</string>
 	<string name="perm_hips_desc1">Моніторинг дозволів додатків</string>
 	<string name="perm_hips_desc2">Перевірка додатків для забезпечення безпеки: %1$d</string>
-	<string name="perm_hips_disable_content">Відключення зупинить моніторинг додатків і не буде більше захищати Вашу безпеку та конфіденційність.\nВи впевнені, що хочете відключити?</string>
+	<string name="perm_hips_disable_content">"Відключення зупинить моніторинг додатків і не буде більше захищати Вашу безпеку та конфіденційність.
+Ви впевнені, що хочете відключити?"</string>
 	<string name="perm_hips_disable_title">Моніторинг дозволів</string>
 	<string name="perm_hips_end_call">Відключити поточний виклик</string>
 	<string name="perm_hips_get_call_state">отримати поточний стан виклику</string>
@@ -1139,7 +1177,7 @@
 	<string name="perm_hips_mobile_network">Мобильна мережа</string>
 	<string name="perm_hips_mobile_network_desc">Мобильна мережа</string>
 	<string name="perm_hips_mobile_network_hint">%1$s додаткам дозволено вихід в інтернет через мобільну мережу</string>
-	<string name="perm_hips_network_accept">прийняти з'єднання від %1$s</string>
+	<string name="perm_hips_network_accept">"прийняти з'єднання від %1$s"</string>
 	<string name="perm_hips_network_connect">підключення до %1$s</string>
 	<string name="perm_hips_network_listen">прослуховувати порт %1$s</string>
 	<string name="perm_hips_network_mobile_event">використовувати мобільні мережі</string>
@@ -1166,7 +1204,7 @@
 	<string name="perm_hips_security_prompt_caption">Попередження про безпеку</string>
 	<string name="perm_hips_security_prompt_next">Далі</string>
 	<string name="perm_hips_security_prompt_reject">Заборонені (%d)</string>
-	<string name="perm_hips_security_prompt_remember">Запам'ятати мій вибір</string>
+	<string name="perm_hips_security_prompt_remember">"Запам'ятати мій вибір"</string>
 	<string name="perm_hips_security_prompt_root_caption">Важливе попередження!</string>
 	<string name="perm_hips_security_prompt_root_step1">Дозволити %1$s отримувати права суперкористувача?</string>
 	<string name="perm_hips_security_prompt_root_step2">Права суперкористувача можуть призвести до нестабільної роботи системи</string>
@@ -1204,7 +1242,7 @@
 	<string name="perm_privacy_app_log">Журнали</string>
 	<string name="perm_privacy_app_manage">Детальніше</string>
 	<string name="perm_privacy_app_trust">Довіра додатку</string>
-	<string name="perm_privacy_app_trust_dialog_content">Система не буде питати Вашого підтвердження на отримання доступу до будь-яких операціях, пов'язаних з цим додатком</string>
+	<string name="perm_privacy_app_trust_dialog_content">"Система не буде питати Вашого підтвердження на отримання доступу до будь-яких операціях, пов'язаних з цим додатком"</string>
 	<string name="perm_privacy_app_trust_dialog_title">Довіряти цьому додатку</string>
 	<string name="perm_privacy_app_trust_summary">Довірене</string>
 	<string name="perm_privacy_app_trust_summary_off">Система не контролюватиме це додаток</string>
@@ -1221,9 +1259,12 @@
 	<string name="perm_su_disabled">Права суперкористувача відключені</string>
 	<string name="perm_su_disabled_desc">Дозвіл прав суперкористувача може призвести до нестабільності системи, до втрати особистих і системних даних, а також до пошкодження обладнання.</string>
 	<string name="perm_su_disabled_in_stable">Суперкористувач недоступний на стабільній версії MIUI</string>
-	<string name="perm_su_disabled_in_stable_desc">Дозвіл прав суперкористувача може призвести до нестабільності системи, до втрати особистих і системних даних, а також до пошкодження обладнання.\n\nБудь ласка, перейдіть на версію для розробників.</string>
+	<string name="perm_su_disabled_in_stable_desc">"Дозвіл прав суперкористувача може призвести до нестабільності системи, до втрати особистих і системних даних, а також до пошкодження обладнання.
+
+Будь ласка, перейдіть на версію для розробників."</string>
 	<string name="perm_su_disabled_in_stable_download">Скачатb MIUI</string>
-	<string name="perm_su_enable_content">Включення дозволить додаткам запитувати доступ від суперкористувача.\nБудь ласка додатки з дозволами можуть викликати нестабільність системи, втрату персональних даних, пошкодження системи або апаратної частини, будьте обережні. Ви впевнені що хочете зробити це?</string>
+	<string name="perm_su_enable_content">"Включення дозволить додаткам запитувати доступ від суперкористувача.
+Будь ласка додатки з дозволами можуть викликати нестабільність системи, втрату персональних даних, пошкодження системи або апаратної частини, будьте обережні. Ви впевнені що хочете зробити це?"</string>
 	<string name="perm_su_enable_dialog">%1$s намагається отримати права суперкористувача, що відключено за замовчуванням для забезпечення безпеки системи. Якщо Вам потрібно включити його, будь ласка перейдіть до налаштувань в диспетчері дозволів.</string>
 	<string name="perm_su_enable_title">Суперкористувач</string>
 	<string name="perm_su_switch">Суперкористувач</string>
@@ -1265,7 +1306,6 @@
 	<string name="power_bluetooth">Bluetooth</string>
 	<string name="power_cell">"Зв'язок з мережею"</string>
 	<string name="power_idle">Режим очікування</string>
-	<string name="power_key">Кнопка включення</string>
 	<string name="power_mode">Режим живлення</string>
 	<string name="power_phone">Голосові виклики</string>
 	<string name="power_screen">Екран</string>
@@ -1278,7 +1318,6 @@
 	<string name="pref_button_light">Підсвітка</string>
 	<string name="pref_button_light_summary">Індикатори кнопок МЕНЮ, НАЗАД, ДОДОМУ</string>
 	<string name="pref_operational_key">Оперативний ключ</string>
-	<string name="pref_volume_category_title">Кнопки гучності</string>
 	<string name="pref_volume_wake_summary">Натискання збільшення/зменшення гучності для пробудження пристрою</string>
 	<string name="pref_volume_wake_title">Включення екрана кнопками гучності</string>
 	<string name="preference_change_password_title">Змінити пароль</string>
@@ -1317,7 +1356,6 @@
 	<string name="proxy_exclusionlist_label">Не використовувати проксі-сервер для:</string>
 	<string name="proxy_hostname_hint">proxy.example.com</string>
 	<string name="proxy_hostname_label">"Ім'я хоста проксі-сервера"</string>
-	<string name="proxy_port_hint">8080</string>
 	<string name="proxy_port_label">Порт проксі-сервера</string>
 	<string name="proxy_settings_label">Налаштування проксі-сервера</string>
 	<string name="proxy_settings_title">Налаштування проксі-сервера</string>
@@ -1401,7 +1439,9 @@
 	<string name="remove_from_frequently_fragment">Видалити \"%s\" із загальних налаштувань?</string>
 	<string name="reset_app_preferences">Скидання налаштувань програм</string>
 	<string name="reset_app_preferences_button">Скидання налаштувань</string>
-	<string name="reset_app_preferences_desc">"Ця дія скине всі налаштування для:   \n\n"</string>
+	<string name="reset_app_preferences_desc">"Ця дія скине всі налаштування для:   
+
+"</string>
 	<string name="reset_app_preferences_title">Скинути налаштування програм?</string>
 	<string name="restore_default_apn">Відновлення налаштувань APN за замовчуванням</string>
 	<string name="restore_default_apn_completed">Установки за замовчуванням відновлені</string>
@@ -1435,6 +1475,9 @@
 	<string name="screen_color_temperature_adjust">Налаштування температури кольорів</string>
 	<string name="screen_compatibility_label">Працює з екраном</string>
 	<string name="screen_compatibility_text">Можливо, програма не призначена для вашого екрану. Тут можна налаштувати параметри її відображення</string>
+	<string name="screen_key_long_press">Long press screen keys</string>
+	<string name="screen_key_long_press_action">Trigger function</string>
+	<string name="screen_key_long_press_timeout">Long press timeout</string>
 	<string name="screen_on_proximity_sensor_summary">Режим попередження помилок в даний момент увімкнено. Будь-ласка, переконайтесь, що верхня частина екрану не закрита</string>
 	<string name="screen_on_proximity_sensor_title">Попередження помилок</string>
 	<string name="screen_saturation_adjust">Налаштування насиченості</string>
@@ -1563,7 +1606,8 @@
 	<string name="show_touches_summary">Показувати графічний ключ</string>
 	<string name="silent_mode_title">Режим без звуку</string>
 	<string name="sim_bad_pin">Невірний PIN-код</string>
-	<string name="sim_change_failed">"Не вдається змінити PIN.\nМожливо, код введений невірно. "</string>
+	<string name="sim_change_failed">"Не вдається змінити PIN.
+Можливо, код введений невірно. "</string>
 	<string name="sim_change_failed_enable_sim_lock">Неможливо змінити PIN SIM-карти. Увімкніть блокування SIM</string>
 	<string name="sim_change_pin">PIN-код SIM-карти</string>
 	<string name="sim_change_succeeded">PIN-код SIM-карти успішно змінений</string>
@@ -1575,7 +1619,8 @@
 	<string name="sim_enter_old">Старий PIN-код SIM-карти</string>
 	<string name="sim_enter_pin">PIN-код SIM-карти</string>
 	<string name="sim_lock_change_not_supported">Неможливо змінити блокування SIM. SIM не підтримує зміну блокування</string>
-	<string name="sim_lock_failed">"Не вдалося змінити стан блокування SIM-карти.\nМожливо, введений невірний PIN-код. "</string>
+	<string name="sim_lock_failed">"Не вдалося змінити стан блокування SIM-карти.
+Можливо, введений невірний PIN-код. "</string>
 	<string name="sim_lock_off">При включенні телефону буде необхідно ввести PIN-код</string>
 	<string name="sim_lock_on">Для використання телефону необхідний PIN-код</string>
 	<string name="sim_lock_settings">Налаштування блокування SIM-карти</string>
@@ -1586,9 +1631,11 @@
 	<string name="sim_pin_toggle">Блокування SIM-карти</string>
 	<string name="sim_pins_dont_match">PIN-коди не співпадають</string>
 	<string name="sim_reenter_new">Введіть новий PIN повторно</string>
+	<string name="sim_status_title">SIM status</string>
 	<string name="skip_button_label">Скасувати</string>
 	<string name="skip_label">Далі</string>
 	<string name="skip_step">Пропустити цей крок</string>
+	<string name="slot_status_title">IMEI information</string>
 	<string name="small_font">Маленький</string>
 	<string name="sms_delivered_sound_dialog_title">Вибір звуку при доставці повідомлення адресату</string>
 	<string name="sms_delivered_sound_title">Звук доставки повідомлення</string>
@@ -1662,8 +1709,10 @@
 	<string name="sync_item_title">%s</string>
 	<string name="sync_menu_sync_cancel">Скасувати синхронізацію</string>
 	<string name="sync_menu_sync_now">Синхронізувати</string>
-	<string name="sync_one_time_sync">"Натисніть, щоб почати синхронізацію\n%1$s "</string>
-	<string name="sync_plug">"Ласкаво просимо в Google Sync!\nТехнологія Google синхронізації даних дозволяє отримувати дані про контакти, зустрічі та багато іншого з будь-якого пристрою. "</string>
+	<string name="sync_one_time_sync">"Натисніть, щоб почати синхронізацію
+%1$s "</string>
+	<string name="sync_plug">"Ласкаво просимо в Google Sync!
+Технологія Google синхронізації даних дозволяє отримувати дані про контакти, зустрічі та багато іншого з будь-якого пристрою. "</string>
 	<string name="sync_settings">Акаунти і синхронізація</string>
 	<string name="sync_wifi_label">Налаштув. синхр. Wi-Fi</string>
 	<string name="system">Система</string>
@@ -1694,7 +1743,8 @@
 	<string name="trackball_settings">Трекбол</string>
 	<string name="trackball_wake_title">Пробудження від трекболу</string>
 	<string name="transition_animation_scale_title">Перехід: масштаб</string>
-	<string name="trust_switch_dialog_msg">Система не буде питати Вас про підтвердження будь-яких операцій пов'язаних з безпекою та конфіденційністю. Будь-ласка, переконайтеся, що добре знаєте даного розробника. \nВи довіряєте цьому додатком?</string>
+	<string name="trust_switch_dialog_msg">"Система не буде питати Вас про підтвердження будь-яких операцій пов'язаних з безпекою та конфіденційністю. Будь-ласка, переконайтеся, що добре знаєте даного розробника. 
+Ви довіряєте цьому додатком?"</string>
 	<string name="trusted_credentials">Надійні облікові дані</string>
 	<string name="trusted_credentials_disable_confirmation">Відключити сертифікат ЦС системи?</string>
 	<string name="trusted_credentials_disable_label">Вимкнути</string>
@@ -1740,6 +1790,7 @@
 	<string name="tts_settings_title">Синтез мови</string>
 	<string name="turn_off_radio">Вимкнути радіо</string>
 	<string name="turn_on_radio">Увімкнути радіо</string>
+	<string name="under_keyguard">Under lockscreen</string>
 	<string name="uninstall_text">Видалити</string>
 	<string name="unknown">Невідомо</string>
 	<string name="unlock_backup_info_summary">Виберіть альтернативний спосіб розблокування екрана</string>
@@ -1874,7 +1925,6 @@
 	<string name="virus_scan_app_uninstall">Пакетне видалення (%d)</string>
 	<string name="virus_scan_app_waiting">Зачекайте</string>
 	<string name="virus_scanner_auto_update">Автооновлення</string>
-	<string name="virus_scanner_date_formater">dd MMM yyyy</string>
 	<string name="virus_scanner_lib_already_latest">Вірусні бази оновлені</string>
 	<string name="virus_scanner_lib_update_failed">Помилка оновлення вірусних баз!</string>
 	<string name="virus_scanner_lib_updating">Оновлення бази...</string>
@@ -1980,15 +2030,14 @@
 	<string name="wifi_disabled_network_failure">Включено</string>
 	<string name="wifi_disabled_password_failure">Помилка аутентифікації</string>
 	<string name="wifi_dns1">DNS 1</string>
-	<string name="wifi_dns1_hint">8.8.8.8</string>
 	<string name="wifi_dns2">DNS 2</string>
-	<string name="wifi_dns2_hint">4.4.4.4</string>
 	<string name="wifi_eap_anonymous">Невідомий</string>
 	<string name="wifi_eap_ca_cert">Сертифікат центру сертіфікації</string>
 	<string name="wifi_eap_identity">Користувач</string>
 	<string name="wifi_eap_method">Метод EAP</string>
 	<string name="wifi_eap_user_cert">Сертифікат користувача</string>
-	<string name="wifi_empty_list_wifi_off">"Увімкніть Wi-Fi, \n  щоб переглянути доступні мережі"</string>
+	<string name="wifi_empty_list_wifi_off">"Увімкніть Wi-Fi, 
+  щоб переглянути доступні мережі"</string>
 	<string name="wifi_empty_list_wifi_on">Пошук Wi-Fi-мереж…</string>
 	<string name="wifi_enable">Включить Wi-Fi</string>
 	<string name="wifi_enable_watchdog_service_summary">"Не використовуваті мережі Wi-Fi з поганим інтернет-з'єднанням"</string>
@@ -1999,10 +2048,8 @@
 	<string name="wifi_failed_save_message">Помилка збереження мережі</string>
 	<string name="wifi_forget">Не підключатись</string>
 	<string name="wifi_gateway">Шлюз</string>
-	<string name="wifi_gateway_hint">192.168.1.1</string>
 	<string name="wifi_in_airplane_mode">Режим польоту</string>
 	<string name="wifi_ip_address">IP-адреса</string>
-	<string name="wifi_ip_address_hint">192.168.1.128</string>
 	<string name="wifi_ip_settings">Налаштування IP</string>
 	<string name="wifi_ip_settings_invalid_dns">Введіть дійсну DNS-адресу</string>
 	<string name="wifi_ip_settings_invalid_gateway">Введіть дійсну адресу шлюзу</string>
@@ -2021,7 +2068,6 @@
 	<string name="wifi_menu_wps_pin">Ввод PIN-кода WPS</string>
 	<string name="wifi_more">Додактково</string>
 	<string name="wifi_network_prefix_length">Довжина префікса мережі</string>
-	<string name="wifi_network_prefix_length_hint">24</string>
 	<string name="wifi_not_in_range">Недоступна</string>
 	<string name="wifi_notify_open_networks">Повідомлення про мережі</string>
 	<string name="wifi_notify_open_networks_summary">Повідомляти при виявленні відкритої мережі</string>
@@ -2032,8 +2078,8 @@
 	<string name="wifi_p2p_device_info">Інформація про пристрій</string>
 	<string name="wifi_p2p_disconnect_message">"Якщо відключитися, то ваше з'єднання з %1$s буде розірвано"</string>
 	<string name="wifi_p2p_disconnect_multiple_message">"Якщо відключитися, то ваше з'єднання з %1$s та %2$s іншими пристроями буде разірвано"</string>
-	<string name="wifi_p2p_disconnect_title">Роз'єднати?</string>
-	<string name="wifi_p2p_failed_connect_message">Немає з'єднання.</string>
+	<string name="wifi_p2p_disconnect_title">"Роз'єднати?"</string>
+	<string name="wifi_p2p_failed_connect_message">"Немає з'єднання."</string>
 	<string name="wifi_p2p_failed_rename_message">Помилка перейменування.</string>
 	<string name="wifi_p2p_menu_rename">Перейменувати пристрій</string>
 	<string name="wifi_p2p_menu_search">Пошук</string>
@@ -2080,7 +2126,9 @@
 	<string name="wifi_setup_back">Назад</string>
 	<string name="wifi_setup_cancel">Скасувати</string>
 	<string name="wifi_setup_connect">Підключити</string>
-	<string name="wifi_setup_description_connected">Натисніть Далі для продовження установки.\n \nНатисніть Назад для підключення до іншої мережі Wi-Fi.</string>
+	<string name="wifi_setup_description_connected">"Натисніть Далі для продовження установки.
+ 
+Натисніть Назад для підключення до іншої мережі Wi-Fi."</string>
 	<string name="wifi_setup_description_connecting">Підключення може зайняти декілька хвилин...</string>
 	<string name="wifi_setup_detail">Відомості про мережу</string>
 	<string name="wifi_setup_eap_not_supported">Під час установки можна налаштувати підключення до мережі Wi-Fi із захистом EAP. Ви можете зробити це пізніше в меню \"Параметри> Бездротові мережі\"</string>
@@ -2171,7 +2219,7 @@
 	<string name="wireless_networks_settings_title">Бездротові мережі</string>
 	<string name="wps_category">Безпечне і швидке підключення</string>
 	<string name="wps_connect_summary">Переконайтеся, що бездротовий маршрутизатор WPS активний</string>
-	<string name="wps_connect_title">WPS зв'язок</string>
+	<string name="wps_connect_title">"WPS зв'язок"</string>
 	<string name="xiaomi_account">Акаунт Xiaomi</string>
 	<string name="yes">Так</string>
 	<string name="zone_auto">Часовий пояс мережі</string>

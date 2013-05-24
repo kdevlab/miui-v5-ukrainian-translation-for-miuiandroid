@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
-    <string-array name="general_preference_text_zoom_summary_array">
+     <string-array name="general_preference_auto_advance_summary_array">
+        <item>"Show newer message's screen after you delete a message"</item>
+        <item>"Show older message's screen after you delete a message"</item>
+        <item>"Show message list's screen after you delete a message"</item>
+     </string-array>
+     <string-array name="general_preference_text_zoom_summary_array">
         <item>Дрібний</item>
         <item>Невеликий</item>
         <item>Звичайний</item>
         <item>Великий</item>
         <item>Величезний</item>
-    </string-array>
+     </string-array>
 </resources>

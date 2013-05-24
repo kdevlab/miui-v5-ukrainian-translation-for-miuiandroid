@@ -1,29 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
-<string-array name="default_smiley_texts">
-        <item>:-)</item>
-        <item>:-(</item>
-        <item>;-)</item>
-        <item>:-P</item>
-        <item>=-O</item>
-        <item>:-*</item>
-        <item>:O</item>
-        <item>B-)</item>
-        <item>:-$</item>
-        <item>:-!</item>
-        <item>:-[</item>
-        <item>O:-)</item>
-        <item>:-\\</item>
-        <item>":'("</item>
-        <item>:-X</item>
-        <item>:-D</item>
-        <item>o_O</item>
-        <item>&lt;3</item>
-        <item>x-(</item>
-        <item>:-/</item>
-        <item>:-I</item>
-    </string-array>
-    <string-array name="default_smiley_names">
+     <string-array name="contact_entries">
+        <item>Ім\'я</item>
+        <item>Нік</item>
+        <item>Телефон</item>
+        <item>E-mail</item>
+        <item>Компанія</item>
+        <item>IM</item>
+        <item>Інтернет номер</item>
+        <item>День народження</item>
+        <item>Веб-сайт</item>
+        <item>Адреса</item>
+        <item>Примітки</item>
+     </string-array>
+     <string-array name="default_smiley_names">
         <item>Щасливий</item>
         <item>Сумний</item>
         <item>Підморгуючий</item>
@@ -45,32 +36,32 @@
         <item>Скажений</item>
         <item>Посмішка</item>
         <item>Нічого не виражає обличчя</item>
-    </string-array>
-    <string-array name="resent_via_entries">
-        <item>Через повідомлення</item>
-        <item>Через хмарові повідомлення</item>
-    </string-array>
-    <string-array name="prefEntries_ringtone_repeat">
+     </string-array>
+     <string-array name="entries_date_type">
+        <item>Показувати час отримання</item>
+        <item>Показувати час відправки</item>
+     </string-array>
+     <string-array name="prefEntries_ringtone_repeat">
         <item>Один раз</item>
         <item>Два рази</item>
         <item>Три рази</item>
         <item>П\'ять разів</item>
         <item>Дясять разів</item>
-    </string-array>
-    <string-array name="contact_entries">
-        <item>Ім\'я</item>
-        <item>Нік</item>
-        <item>Телефон</item>
-        <item>E-mail</item>
-        <item>Компанія</item>
-        <item>IM</item>
-        <item>Інтернет номер</item>
-        <item>День народження</item>
-        <item>Веб-сайт</item>
-        <item>Адреса</item>
-        <item>Примітки</item>
-    </string-array>
-    <string-array name="select_dialog_items">
+     </string-array>
+     <string-array name="prefEntries_vibrateWhen">
+        <item>Завжди</item>
+        <item>Режим Без звуку</item>
+        <item>Ніколи</item>
+     </string-array>
+     <string-array name="resent_via_entries_mms">
+        <item>Via message</item>
+        <item>Via Cloud message</item>
+     </string-array>
+     <string-array name="resent_via_entries_sms">
+        <item>Via message</item>
+        <item>Via Cloud message</item>
+     </string-array>
+     <string-array name="select_dialog_items">
         <item>1 секунда</item>
         <item>2 секунди</item>
         <item>3 секунди</item>
@@ -82,14 +73,5 @@
         <item>9 секунд</item>
         <item>10 секунд</item>
         <item>Інше</item>
-    </string-array>
-    <string-array name="prefEntries_vibrateWhen">
-        <item>Завжди</item>
-        <item>Режим Без звуку</item>
-        <item>Ніколи</item>
-    </string-array>
-    <string-array name="entries_date_type">
-        <item>Показувати час отримання</item>
-        <item>Показувати час відправки</item>
-    </string-array>
+     </string-array>
 </resources>

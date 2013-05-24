@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
-    <string-array name="equalizer_presents">
-        <item>Стандартний</item>
-        <item>Класика</item>
-        <item>Танцювальна</item>
-        <item>Народні п.</item>
-        <item>Хеві метал</item>
-        <item>Хіп-Хоп</item>
-        <item>Джаз</item>
-        <item>Поп</item>
-        <item>Рок</item>
-     </string-array>
-     <string-array name="weeklist">
-        <item>1 тиждень</item>
-        <item>2 тижні</item>
-        <item>3 тижні</item>
-        <item>4 тижні</item>
-        <item>5 тижнів</item>
-        <item>6 тижнів</item>
-        <item>7 тижнів</item>
-        <item>8 тижнів</item>
-        <item>9 тижнів</item>
-        <item>10 тижнів</item>
-        <item>11 тижнів</item>
-        <item>12 тижнів</item>
-    </string-array>
-    <string-array name="alphabet_table">
+     <string-array name="alphabet_table">
         <item>\#</item>
         <item>A</item>
         <item>B</item>
@@ -53,5 +29,30 @@
         <item>X</item>
         <item>Y</item>
         <item>Z</item>
-    </string-array>
+     </string-array>
+     <string-array name="equalizer_presents">
+        <item>Стандартний</item>
+        <item>Класика</item>
+        <item>Танцювальна</item>
+        <item>Народні п.</item>
+        <item>Хеві метал</item>
+        <item>Хіп-Хоп</item>
+        <item>Джаз</item>
+        <item>Поп</item>
+        <item>Рок</item>
+     </string-array>
+     <string-array name="weeklist">
+        <item>1 тиждень</item>
+        <item>2 тижні</item>
+        <item>3 тижні</item>
+        <item>4 тижні</item>
+        <item>5 тижнів</item>
+        <item>6 тижнів</item>
+        <item>7 тижнів</item>
+        <item>8 тижнів</item>
+        <item>9 тижнів</item>
+        <item>10 тижнів</item>
+        <item>11 тижнів</item>
+        <item>12 тижнів</item>
+     </string-array>
 </resources>

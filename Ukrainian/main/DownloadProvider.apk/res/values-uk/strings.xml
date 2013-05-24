@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="app_label">Диспечер завантажень</string>
 	<string name="auto_restart_under_wifi">Автоматично завантажити цей файл через Wi-Fi</string>
@@ -29,8 +29,12 @@
 	<string name="permlab_downloadManagerAdvanced">Розширені функції менеджера завантажень</string>
 	<string name="permlab_downloadWithoutNotification">Завантажувати файли без повідомлень</string>
 	<string name="permlab_seeAllExternal">Переглянути всі завантаження на SD-карті</string>
-	<string name="wifi_recommended_body" formatted="false">"Якщо завантажити %s зараз, батарея може швидко розрядитися. Якщо не включений контроль за трафіком, можуть збільшитись витрати на зв'язок.\n\nЩоб продовжити завантаження пізніше через Wi-Fi, натисніть %s."</string>
+	<string name="wifi_recommended_body" formatted="false">"Якщо завантажити %s зараз, батарея може швидко розрядитися. Якщо не включений контроль за трафіком, можуть збільшитись витрати на зв'язок.
+
+Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s."</string>
 	<string name="wifi_recommended_title">Поставити в чергу на завантаження пізніше?</string>
-	<string name="wifi_required_body" formatted="false">Для завершення завантаження файлу розміром %s потрібне підключення до мережі Wi-Fi.\n\nЩоб продовжити завантаження пізніше через Wi-Fi, натисніть %s .</string>
+	<string name="wifi_required_body" formatted="false">"Для завершення завантаження файлу розміром %s потрібне підключення до мережі Wi-Fi.
+
+Щоб продовжити завантаження пізніше через Wi-Fi, натисніть %s ."</string>
 	<string name="wifi_required_title">Занадто великий файл для мережі оператора</string>
 </resources>

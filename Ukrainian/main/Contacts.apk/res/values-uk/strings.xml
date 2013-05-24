@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="account_abnormal_state">Невірна інформація облікового запису. Спробуйте увійти знову або поторіть спробу пізніше!</string>
 	<string name="account_container_title">Із акаунту</string>
@@ -25,7 +25,7 @@
 	<string name="add_to_my_contacts">Додати в групу \"Мої контакти\"</string>
 	<string name="add_wait">Додати очікування</string>
 	<string name="add_xiaomi_account_dialog_btn">В акаунт Xiaomi</string>
-	<string name="add_xiaomi_account_dialog_msg">Рекомендуємо зберігати контакти в акаунті Xiaomi. Аккаунт Xiaomi дозволяє проводити синхронізацію і резервне копіювання контактної інформації і управління контактами на Вашому комп'ютері.</string>
+	<string name="add_xiaomi_account_dialog_msg">"Рекомендуємо зберігати контакти в акаунті Xiaomi. Аккаунт Xiaomi дозволяє проводити синхронізацію і резервне копіювання контактної інформації і управління контактами на Вашому комп'ютері."</string>
 	<string name="add_xiaomi_account_dialog_title">Виберіть акаунт</string>
 	<string name="aggregation_suggestion_edit_dialog_message">Переключитися на редагування вибраного контакту? Введена інформація буде скопійована.</string>
 	<string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
@@ -37,8 +37,10 @@
 	<string name="auto_nickname">Авто</string>
 	<string name="auto_set_nickname">Авто</string>
 	<string name="batch_delete">Пакетне видалення</string>
-	<string name="batch_delete_msg">Ви впевнені, що хочете видалити ці %d контакти?\n\nЯкщо Ви зберігаєте дані в хмарі, то дані контакту будуть видалені і там.</string>
-	<string name="bluetooth_connection_failed_toast">Bluetooth з'єднання перервано</string>
+	<string name="batch_delete_msg">"Ви впевнені, що хочете видалити ці %d контакти?
+
+Якщо Ви зберігаєте дані в хмарі, то дані контакту будуть видалені і там."</string>
+	<string name="bluetooth_connection_failed_toast">"Bluetooth з'єднання перервано"</string>
 	<string name="blurbJoinContactDataWith">"Виберіть контакт, який хочете об'єднати з \"%s\":"</string>
 	<string name="btn_delete_multi_contacts">Видалити %d контактів</string>
 	<string name="btn_delete_one_contact">Видалити контакт</string>
@@ -239,7 +241,8 @@
 	<string name="device_bluetooth_title">підготовчі роботи</string>
 	<string name="device_brand_title">виберить марку мобільного телефону</string>
 	<string name="device_import_account_dialog_title">виберіть акаунт для імпорту</string>
-	<string name="device_import_account_dialog_title_suffix">\n(найдено %1$s контактов)</string>
+	<string name="device_import_account_dialog_title_suffix">"
+(найдено %1$s контактов)"</string>
 	<string name="device_import_done_toast">%1$d контактів імпортовано</string>
 	<string name="device_import_failed_message">Помилка імпорту!</string>
 	<string name="device_import_local_account">Локальний акаунт</string>
@@ -316,7 +319,8 @@
 	<string name="export_to_sim">Експорт на SIM-карту</string>
 	<string name="export_to_sim_title">Експорт на SIM-карту...</string>
 	<string name="export_vcard_description">Експортувати vCard на SD-карту</string>
-	<string name="exporting_contact_failed_message">Не вдалося експортувати дані.\nПричина: %s</string>
+	<string name="exporting_contact_failed_message">"Не вдалося експортувати дані.
+Причина: %s"</string>
 	<string name="exporting_contact_failed_title">Збій експорту</string>
 	<string name="exporting_contact_list_message">Контактні дані експортуються у файл \"%s\"</string>
 	<string name="exporting_contact_list_progress" formatted="false">%s з %s контактів</string>
@@ -383,7 +387,7 @@
 	<string name="import_from_sdcard">Імпорт з SD-карти</string>
 	<string name="import_from_sim">Імпортувати з SIM-картки</string>
 	<string name="import_multiple_vcard_string">Імпорт декількох файлів vCard</string>
-	<string name="import_name">Ім'я</string>
+	<string name="import_name">"Ім'я"</string>
 	<string name="import_one_vcard_string">Імпорт одного файлу VCard</string>
 	<string name="import_to_xiaomi_account_confirm">Імпорт</string>
 	<string name="import_to_xiaomi_account_progress_finish">Імпорт завершено</string>
@@ -516,18 +520,70 @@
 	<string name="noContactHelpTextAccountsInfo">Синхронізувати контакти з Google, Exchange</string>
 	<string name="noContactHelpTextImportXiaomiAccountInfo">Відновити контакти з резервної копії в акаунті Xiaomi і MiTalk</string>
 	<string name="noContacts">Немає контактів</string>
-	<string name="noContactsHelpText">Немає контактів для показу.\n \nЩоб додати контакти, натисніть Меню і виберіть один з варіантів.\n \nАкаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.\n \nНовий контакт: додавання контакту.\n \nІмпорт/експорт: імпорт контактів з SIM-або SD-карти.\n</string>
+	<string name="noContactsHelpText">"Немає контактів для показу.
+ 
+Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
+ 
+Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
+ 
+Новий контакт: додавання контакту.
+ 
+Імпорт/експорт: імпорт контактів з SIM-або SD-карти.
+"</string>
 	<string name="noContactsHelpTextForCreateShortcut">Відсутні контакти для відображення</string>
-	<string name="noContactsHelpTextWithSync">Немає контактів для показу. Якщо ви тільки що додали аккаунт, синхронізація контактів може зайняти декілька хвилин.\n \nЩоб додати контакти, натисніть Меню і виберіть один з варіантів.\n \nАкаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.\n \nФільтр контактів: налаштування параметрів показу контактів.\n \nНовий контакт: додавання контакту.\n \nІмпорт/експорт: імпорт контактів з SIM-або SD-карти.\n</string>
+	<string name="noContactsHelpTextWithSync">"Немає контактів для показу. Якщо ви тільки що додали аккаунт, синхронізація контактів може зайняти декілька хвилин.
+ 
+Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
+ 
+Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
+ 
+Фільтр контактів: налаштування параметрів показу контактів.
+ 
+Новий контакт: додавання контакту.
+ 
+Імпорт/експорт: імпорт контактів з SIM-або SD-карти.
+"</string>
 	<string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо аккаунт був тільки що доданий, потрібно кілька хвилин для синхронізації контактів.)</string>
-	<string name="noContactsNoSimHelpText">Немає контактів для показу.\n \nЩоб додати контакти, натисніть Меню і виберіть один з варіантів.\n \nАкаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.\n \nНовий контакт: додавання контакту.\n \nІмпорт/експорт: імпорт контактів з SD-карти.\n</string>
-	<string name="noContactsNoSimHelpTextWithSync">Немає контактів для показу. Якщо ви тільки що додали аккаунт, синхронізація контактів може зайняти декілька хвилин.\n \nЩоб додати контакти, натисніть Меню і виберіть один з варіантів.\n \nАкаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.\n \nФільтр контактів: налаштування параметрів показу контактів.\n \nНовий контакт: додавання контакту.\n \nІмпорт/експорт: імпорт контактів з SD-карти.\n</string>
+	<string name="noContactsNoSimHelpText">"Немає контактів для показу.
+ 
+Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
+ 
+Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
+ 
+Новий контакт: додавання контакту.
+ 
+Імпорт/експорт: імпорт контактів з SD-карти.
+"</string>
+	<string name="noContactsNoSimHelpTextWithSync">"Немає контактів для показу. Якщо ви тільки що додали аккаунт, синхронізація контактів може зайняти декілька хвилин.
+ 
+Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
+ 
+Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
+ 
+Фільтр контактів: налаштування параметрів показу контактів.
+ 
+Новий контакт: додавання контакту.
+ 
+Імпорт/експорт: імпорт контактів з SD-карти.
+"</string>
 	<string name="noContactsWithPhoneNumbers">Немає контактів з номерами телефонів</string>
-	<string name="noFavoritesHelpText">"У вас немає обраних контактів.\n \nЩоб зробити контакт обраним,\n \nнатисніть вкладку Контакти;\n \nнатисніть контакт, який потрібно зробити обраним;\n \nнатисніть зірочку біля імені контакту.\n"</string>
+	<string name="noFavoritesHelpText">"У вас немає обраних контактів.
+ 
+Щоб зробити контакт обраним,
+ 
+натисніть вкладку Контакти;
+ 
+натисніть контакт, який потрібно зробити обраним;
+ 
+натисніть зірочку біля імені контакту.
+"</string>
 	<string name="noGroups">Немає груп</string>
 	<string name="noMatchingContacts">Відповідні контакти не знайдені</string>
 	<string name="noRecentContacts">Немає контактів</string>
-	<string name="no_account_prompt">"Підключіть Контакти до аккаунту Google, щоб:\n \nЗавжди мати під рукою оновлені дані - на будь-якому пристрої.\nСинхронізувати всі контакти - ви ніколи не втратите їх "</string>
+	<string name="no_account_prompt">"Підключіть Контакти до аккаунту Google, щоб:
+ 
+Завжди мати під рукою оновлені дані - на будь-якому пристрої.
+Синхронізувати всі контакти - ви ніколи не втратите їх "</string>
 	<string name="no_contact_details">Немає інших даних про ці контакти</string>
 	<string name="no_contact_in_other_phone">Немає контактів</string>
 	<string name="no_contacts_dialog_message">Людина не знайдена у Ваших контактах. Можливо він знаходиться в списку контактів на SIM-карті. Для пошуку, зробіть імпорт всих контактів з SIM-карти.</string>
@@ -543,7 +599,7 @@
 	<string name="notification_action_voicemail_play">Прослухати</string>
 	<string name="notification_new_voicemail_ticker">Нове гол. повідомлення: %1$s</string>
 	<string name="notification_voicemail_callers_list">%1$s,%2$s</string>
-	<string name="online_no_network">Не можливо під'єднатися до мережі</string>
+	<string name="online_no_network">"Не можливо під'єднатися до мережі"</string>
 	<string name="online_search_hint">Введіть ключові слова</string>
 	<string name="openDialKeyboard">Клавіатура</string>
 	<string name="open_contact">Відкрити контакт</string>
@@ -581,7 +637,7 @@
 	<string name="picker_email_title">Виберіть електрону пошту</string>
 	<string name="picker_favorites_list_empty">Немає обраних контактів</string>
 	<string name="picker_groups_list_empty">Немає груп</string>
-	<string name="picker_join_title">Виберіть контакт для об'єднання з \"%s\"</string>
+	<string name="picker_join_title">"Виберіть контакт для об'єднання з \"%s\""</string>
 	<string name="picker_number_title">Виберіть номер</string>
 	<string name="picker_postal_title">Виберіть поштовий індекс</string>
 	<string name="picker_recent_list_empty">Немає недавніх контактів</string>
@@ -672,7 +728,9 @@
 	<string name="remind_btn_ignore">Пізніше</string>
 	<string name="remind_btn_sync_now">Зараз</string>
 	<string name="removePhoto">Видалити фото</string>
-	<string name="remove_duplicate">MIUI допоможе Вам знайти та об'єднати дубльовані контакти. Вони не будуть об'єднані автоматично. Будь ласка, об'єнайте їх вручну.\n\nНатисніть на об'єднання та трошки зачекайте, поки автоматичне об'єднання не завершиться.</string>
+	<string name="remove_duplicate">"MIUI допоможе Вам знайти та об'єднати дубльовані контакти. Вони не будуть об'єднані автоматично. Будь ласка, об'єнайте їх вручну.
+
+Натисніть на об'єднання та трошки зачекайте, поки автоматичне об'єднання не завершиться."</string>
 	<string name="resource_alarm_default">Будильник</string>
 	<string name="resource_app_name">Браузер ресурсів</string>
 	<string name="resource_apply">Застосувати</string>
@@ -712,7 +770,6 @@
 	<string name="resource_title_select_ringtone">Виберіть мелодію</string>
 	<string name="resource_update">Онов.</string>
 	<string name="restore_nickname">Відновити</string>
-	<string name="ret_sign">\n</string>
 	<string name="returnCall">Зворотній виклик</string>
 	<string name="ringLabelsGroup">Рінгтон</string>
 	<string name="save_photo_progress">Збереження фото...</string>
@@ -743,6 +800,7 @@
 	<string name="separatorJoinAggregateSuggestions">Пропоновані контакти</string>
 	<string name="service_provider">Надання сервісів</string>
 	<string name="set_default">Встановити за замовчуванням</string>
+	<string name="set_photo_failed_msg">Set avatar failed</string>
 	<string name="share_error">Не вдалося передати дані</string>
 	<string name="share_via">Спосіб відправки</string>
 	<string name="share_visible_contacts">Передати всі контакти</string>
@@ -829,7 +887,11 @@
 	<string name="unknown">Невідомо</string>
 	<string name="unknown_contact_name">Невідомий контакт</string>
 	<string name="upgrade_in_progress">Список контактів оновлюється...</string>
-	<string name="upgrade_out_of_memory">"Контакти оновлюються.\n \nДля цього потрібно близько %s Мб внутрішньої пам'яті.\n \nВиберіть відповідну опцію: "</string>
+	<string name="upgrade_out_of_memory">"Контакти оновлюються.
+ 
+Для цього потрібно близько %s Мб внутрішньої пам'яті.
+ 
+Виберіть відповідну опцію: "</string>
 	<string name="upgrade_out_of_memory_retry">Повторити спробу оновлення</string>
 	<string name="upgrade_out_of_memory_uninstall">Видалити деякі програми</string>
 	<string name="use_photo_as_primary">Використовувати цю фотографію</string>

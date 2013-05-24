@@ -1,25 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG Bigblackbox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="access_denied">доступ заборонений</string>
 	<string name="account">Акаунт</string>
+	<string name="account_detail">Xiaomi account:%1$s</string>
 	<string name="account_dspt">Акаунт Xiaomi дозволяє синхронізувати і резервувати ваші SMS, контакти, фото, нотатки та інше</string>
 	<string name="account_hint_text">Електронна пошта</string>
 	<string name="account_name">Акаунт: %1$s</string>
 	<string name="activating">Активація...</string>
+	<string name="add_weibo_account">Add Account</string>
 	<string name="alert_title_remove_account">Видалити акаунт</string>
 	<string name="app_name">Менеджер акаунтів Xiaomi</string>
 	<string name="bad_authentication">"Неправильний пароль або ім'я користувача"</string>
 	<string name="balance">Баланс: %1$s Micredit</string>
+	<string name="bind_sina_weibo">Bind Sina WeiBo</string>
+	<string name="bind_weibo_description">Find, phone contacts microblogging Friends supplementary information such as Avatar, birthday.</string>
+	<string name="binded">Binded</string>
 	<string name="btn_activate">Активувати</string>
 	<string name="btn_back">Назад</string>
 	<string name="btn_call">Зателефонувати</string>
 	<string name="btn_count_down_auto">Запити через %1$s сек</string>
 	<string name="btn_count_down_wait">Зачекайте %1$s сек</string>
 	<string name="btn_mili_center_recharge">Поповнити Micredit</string>
+	<string name="btn_pay_large">Pay now</string>
 	<string name="btn_query">Дізнатись зараз</string>
 	<string name="btn_recharge_large">Поповнити</string>
 	<string name="btn_recharge_other">Інші методи поповнення</string>
+	<string name="btn_recharge_success">Recharge completed</string>
+	<string name="btn_recharge_success_quick">Recharge completed</string>
 	<string name="btn_voucher">Карта Micredit (%1$s)</string>
 	<string name="button_cancel">Скасувати</string>
 	<string name="button_pay">Оплатити</string>
@@ -43,6 +51,7 @@
 	<string name="error_common_summary">Системна помилка. Будь ласка, спробуйте пізніше</string>
 	<string name="error_common_title">Системна помилка</string>
 	<string name="error_dup_phone">Телефон вже був зареєстрований</string>
+	<string name="error_expired_summary">Your order has expired</string>
 	<string name="error_frozen_summary">Ваш акаунт заморожений</string>
 	<string name="error_frozen_title">Аккаунт заморожений</string>
 	<string name="error_has_bought_summary">Ви вже купили цей продукт</string>
@@ -81,6 +90,7 @@
 	<string name="header_data_and_synchronization">Дані й синхронізація</string>
 	<string name="i_know">OK</string>
 	<string name="input_password_hint">Введіть пароль</string>
+	<string name="int_phone_user_notice">When signing in with a number outside of mainland China, please also enter in country code. E.g. +886xxxxxxxxx</string>
 	<string name="label_order_name">"Продукт: "</string>
 	<string name="label_order_price">"Ціна: "</string>
 	<string name="login">Вхід</string>
@@ -112,11 +122,12 @@
 	<string name="micloud_reg_new">Створити новий</string>
 	<string name="micloud_resend_active_email">Знову відправити лист активації</string>
 	<string name="micloud_use_existing">Існуючий</string>
-	<string name="micloud_val_sms_alert">Буде відправлено повідомлення для підтверждення вашого телефонного номеру, продовжити?</string>
+	<string name="micloud_via_int_sms_alert">An SMS which may incur international charges will be sent to validate your phone number. Continue?</string>
+	<string name="micloud_via_sms_alert">An SMS will be sent to validate your phone number. Continue?</string>
 	<string name="micloud_welcome_skip_login">Пропустити цей крок</string>
 	<string name="mili_center">Центр Micredit</string>
 	<string name="next">Далі</string>
-	<string name="no_sim">Немає Sim-Карти, неможливо синхронізувати</string>
+	<string name="nobind">Nobind</string>
 	<string name="order_price">%1$s Micredit</string>
 	<string name="other_settings">Інші параметри</string>
 	<string name="password">Пароль</string>
@@ -152,22 +163,28 @@
 	<string name="prepaid_picker_title_default">Виберіть суму поповнення</string>
 	<string name="prepaid_picker_title_selected">сума поповнення</string>
 	<string name="prev">Назад</string>
+	<string name="process_result">Process Result:</string>
 	<string name="progress_connecting">Підключення...</string>
 	<string name="progress_creating">Перевірка купівлі...</string>
 	<string name="progress_downloading">Завантаження…</string>
-	<string name="progress_error_title">Помилка поповнення</string>
+	<string name="progress_error_pay_title">Pay failed</string>
+	<string name="progress_error_recharge_title">Recharge failed</string>
 	<string name="progress_loading">Обробка. Будь ласка, зачекайте...</string>
 	<string name="progress_paytool_creating">Створення покупки %1$s...</string>
 	<string name="progress_paytool_installing">Установка мобільного плагіна безпеки %1$s...</string>
 	<string name="progress_prepaid_creating">Обробка запиту на поповнення...</string>
 	<string name="progress_querying">Обробка платіжного запиту…</string>
 	<string name="progress_submit_hint">Поповнення буде відображено протягом 3х хвилин</string>
-	<string name="progress_submit_summary">Поповнення: %1$s RMB</string>
+	<string name="progress_submit_pay_summary">Paying: %1$s RMB</string>
+	<string name="progress_submit_recharge_summary">Recharging: %1$s RMB</string>
 	<string name="progress_submit_title">Запит на поповнення підтверджено</string>
-	<string name="progress_success_summary">Баланс: %1$s кредитів Mi</string>
-	<string name="progress_success_title">Поповнено на %1$s кредитів Mi</string>
+	<string name="progress_success_pay_title">%1$s Mi Credit pay complete</string>
+	<string name="progress_success_recharge_summary">Account balance: %1$s Mi Credits</string>
+	<string name="progress_success_recharge_title">%1$s Mi Credit recharge complete</string>
 	<string name="progress_voucher_creating">Поповнення карти Mi Credit…</string>
-	<string name="progress_warning_contact_server">"Платіж ще не підтверджено. \n1. Будь ласка, зв'яжіться зі службою підтримки в Шеньчжоу: %1$s \n2. Повідомте свій серійний номер: %2$s"</string>
+	<string name="progress_warning_contact_server">"Платіж ще не підтверджено. 
+1. Будь ласка, зв'яжіться зі службою підтримки в Шеньчжоу: %1$s 
+2. Повідомте свій серійний номер: %2$s"</string>
 	<string name="progress_warning_waiting">Ще не підтверджений. Будь ласка, спробуйте ще раз пізніше.</string>
 	<string name="quick_login_title">Потрібно увійти в акаунт, будь ласка введіть ваш пароль</string>
 	<string name="recharge_alipay_summary">Поповнення Alipay</string>
@@ -176,6 +193,8 @@
 	<string name="recharge_hint">1 Micredit рівний 1,5 гривні</string>
 	<string name="recharge_notification">Поповнення на %1$s кредитів Mi</string>
 	<string name="recharge_other">Виберіть інший спосіб оплати</string>
+	<string name="recharge_pcpay_summary">Supports more recharge methods and higher limits</string>
+	<string name="recharge_pcpay_title">Recharge via computer</string>
 	<string name="recharge_prepaid_summary">Підтримуються наступні карти: China Mobile, China Unicom і China Telecom</string>
 	<string name="recharge_prepaid_title">Карти оплати</string>
 	<string name="recharge_record">Історія поповнень</string>
@@ -188,14 +207,17 @@
 	<string name="reg_failed">Помилка реєстрації</string>
 	<string name="reg_type_email">Реєстрація по ел. пошті</string>
 	<string name="reg_type_phone">Реєстрація по телефону (рекомендується)</string>
+	<string name="reging">Registering. Please wait…</string>
 	<string name="relogin">Увійти повторно</string>
 	<string name="remove_account_notice">Що ви хочете зробити з попередньо синхронізованими повідомленнями, контактами, журналами викликів і нотатками на пристрої?</string>
 	<string name="remove_confirm">Вилучити</string>
 	<string name="remove_unactivated_account_notice">Аккаунт Xiaomi не активований. Вилучити його?</string>
 	<string name="removing_account">Видалення акаунту...</string>
+	<string name="send_int_sms_for_sync_notice">An activate SMS which may incur international charges is required to activate sync. Do you want to continue?</string>
 	<string name="send_sms_for_sync_notice"> Для активації потрібно відправити SMS, продовжити?</string>
 	<string name="send_sms_for_sync_title">Не активовано</string>
 	<string name="sim_changed_notification_content">SIM не активована, будь ласка активуйте</string>
+	<string name="sina_weibo">Sina WeiBo</string>
 	<string name="skip_login">Пропустити</string>
 	<string name="skip_setup_account_msg">Використання акаунту Xiaomi дозволить вам синхронізувати й резервувати повідомлення, контакти, фотографії, нотатки й т.д. Продовжити й налаштувати пізніше?</string>
 	<string name="skip_setup_account_title">Пропустити налаштування акаунту</string>
@@ -203,7 +225,9 @@
 	<string name="sync_off">ВИКЛ</string>
 	<string name="sync_on">ВКЛ</string>
 	<string name="sync_sub_dspt"> Для активації сервісу буде відправлено SMS</string>
+	<string name="sync_sub_int_dspt">An international SMS may be sent to activate the service</string>
 	<string name="title_mili_center">Центр Micredit</string>
+	<string name="title_pay">Pay Mi Credits</string>
 	<string name="title_pay_record">%1$s - історія поповнень</string>
 	<string name="title_paytool">Поповнити через %1$s</string>
 	<string name="title_prepaid">Поповнити через карту</string>
@@ -212,11 +236,17 @@
 	<string name="title_reg">Реєстрація в мережі Xiaomi</string>
 	<string name="title_voucher">Recharge via Mi Credit card</string>
 	<string name="unactivated_user">Не активований</string>
-	<string name="user_agreement_p1">Входячи в акаунт, ви погоджуєтесь з\n</string>
+	<string name="unbind">Unbind</string>
+	<string name="update_contacts">Update the address book</string>
+	<string name="update_contacts_description">Sina micro Fair use your millet account phone number, the corresponding and synchronous microblogging friends avatar, birthday, and other information to the address book</string>
+	<string name="updated_contacts">Updated %s contacts</string>
+	<string name="user_agreement_p1">"Входячи в акаунт, ви погоджуєтесь з
+"</string>
 	<string name="user_agreement_p2">Умовами догоди Xiaomi</string>
 	<string name="user_agreement_p3">та</string>
 	<string name="user_agreement_p4">Політикою безпеки</string>
-	<string name="user_agreement_p5">Реєструючись, ви погоджуєтесь з\n</string>
+	<string name="user_agreement_p5">"Реєструючись, ви погоджуєтесь з
+"</string>
 	<string name="voucher_btn_exchange">Exchange</string>
 	<string name="voucher_btn_exchange_error">Помилка</string>
 	<string name="voucher_btn_has_exchanged">Exchanged</string>
@@ -231,4 +261,3 @@
 	<string name="voucher_expire">%1$s-%2$s-%3$s expired</string>
 	<string name="voucher_input">Введення</string>
 </resources>
-

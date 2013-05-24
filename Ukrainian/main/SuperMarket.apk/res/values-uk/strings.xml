@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG Bigblackbox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="all_comments">Усі</string>
 	<string name="already_bottom">Уже внизу</string>
@@ -26,14 +26,14 @@
 	<string name="comment_upload_account_not_activitied">Ваш акаунт не активований, будь ласка, активуйте й спробуйте ще раз</string>
 	<string name="comment_upload_data_invalid"> Вибачте, коментування є недійсним</string>
 	<string name="comment_upload_failed">Помилка відправлення</string>
-	<string name="comment_upload_hint">Ваш коментар з'явиться після перевірки</string>
+	<string name="comment_upload_hint">"Ваш коментар з'явиться після перевірки"</string>
 	<string name="comment_upload_login_cancel">Скасування</string>
 	<string name="comment_upload_login_ok">OK</string>
 	<string name="comment_upload_need_login">Ви бажаєте ввійти в акаунт, щоб залишити коментар?</string>
 	<string name="comment_upload_not_logined"> Будь ласка, спочатку ввійдіть в акаунт</string>
 	<string name="comment_upload_success">Коментар відправлений!</string>
 	<string name="comment_version_name">(версія %1$s)</string>
-	<string name="connect_fail">Помилка установки %1$s: помилка з'єднання, перевірте підключення до мережі</string>
+	<string name="connect_fail">"Помилка установки %1$s: помилка з'єднання, перевірте підключення до мережі"</string>
 	<string name="connect_no_fit_fail">Помилка установки %1$s: настановний пакет не підходить для вашого телефону</string>
 	<string name="connecting">Підключення...</string>
 	<string name="delta_update">Відновлення %1$s</string>
@@ -48,6 +48,8 @@
 	<string name="enable_updata_local_app">Відновлень додатків: %1$s</string>
 	<string name="expand_full_text">Розгорнути весь текст▼</string>
 	<string name="expand_full_text_comment">Розгорнути весь текст▼</string>
+	<string name="first_recommend_download">Install all</string>
+	<string name="first_recommend_enter">Start market</string>
 	<string name="good_comments">Гарні</string>
 	<string name="header_processing">Іде завантаження...</string>
 	<string name="header_waiting">Очікування завантаження...</string>
@@ -74,7 +76,7 @@
 	<string name="install_sign_not_same_btn_remove">Видалити й обновити</string>
 	<string name="install_sign_not_same_message">%1$s update does not match local application signature. You must uninstall the local version to install this update. Continue?</string>
 	<string name="install_sign_not_same_title">Невідповідність підпису</string>
-	<string name="install_storage_not_enough">Встановлення не завершено. Недостатньо пам'яті</string>
+	<string name="install_storage_not_enough">"Встановлення не завершено. Недостатньо пам'яті"</string>
 	<string name="install_title">Встановлення програми</string>
 	<string name="install_verification_fail">Встановлення не завершено. Не вдався процес перевірки</string>
 	<string name="installed">встан.</string>
@@ -154,7 +156,7 @@
 	<string name="progress">%1$s%%</string>
 	<string name="publish_info">%1$s %2$s %3$s</string>
 	<string name="quicksearchbox_description">Пошук маркета для додатків</string>
-	<string name="rank_app_name">%1$s. % 2$s</string>
+	<string name="rank_app_name" formatted="false">%1$s. % 2$s</string>
 	<string name="rank_tag">Топ</string>
 	<string name="rating_button">%1$s рейтинг</string>
 	<string name="recommendation_tag">Усі</string>
@@ -181,4 +183,3 @@
 	<string name="version_label">Версія：</string>
 	<string name="version_name">Версія: %1$s</string>
 </resources>
-

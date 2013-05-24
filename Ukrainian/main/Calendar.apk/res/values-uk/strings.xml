@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="accessibility_add_attendee">Додати учасника</string>
 	<string name="accessibility_add_reminder">Додати нагадування</string>
@@ -41,7 +41,10 @@
 	<string name="copy_db">Надіслати базу даних</string>
 	<string name="copy_email">Скопіювати E-Mail адресу</string>
 	<string name="copy_number">Скопіювати номер телефону</string>
-	<string name="create_an_account_desc">Підключіть Календар до аккаунту Google, щоб:\n\n• Завжди мати під рукою оновлені дані - на будь-якому пристрої.\n• Синхронізувати всі заходи - ви ніколи не втратите їх</string>
+	<string name="create_an_account_desc">"Підключіть Календар до аккаунту Google, щоб:
+
+• Завжди мати під рукою оновлені дані - на будь-якому пристрої.
+• Синхронізувати всі заходи - ви ніколи не втратите їх"</string>
 	<string name="creating_event">Подію створено</string>
 	<string name="creating_event_with_guest">Запрошення надіслано</string>
 	<string name="custom">Особливе... (налаштовується тільки на сайті)</string>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
-    <string-array name="transformation_entries">
+     <string-array name="gadget_weather_theme_type_entries">
+        <item>Стандартний</item>
+        <item>Класичний</item>
+     </string-array>
+     <string-array name="transformation_entries">
         <item>Стандартний</item>
         <item>Стд.(Без проскакування)</item>
         <item>Згасання</item>
@@ -9,15 +14,11 @@
         <item>Каскад</item>
         <item>Обертання</item>
         <item>3D Куб</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
+     </string-array>
+     <string-array name="wallpaper_scroll_entries">
         <item>Як у темі</item>
         <item>По центру</item>
         <item>Вліво</item>
         <item>Вправо</item>
-    </string-array>
-	<string-array name="gadget_weather_theme_type_entries">
-        <item>Стандартний</item>
-        <item>Класичний</item>
-    </string-array>
+     </string-array>
 </resources>

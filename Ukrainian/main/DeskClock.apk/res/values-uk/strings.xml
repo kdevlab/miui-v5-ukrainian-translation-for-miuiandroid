@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG Bigblackbox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="add_alarm">Додати будильник</string>
 	<string name="alarm_alert">Мелодія</string>
@@ -35,6 +35,7 @@
 	<string name="clock_instructions">Виберіть годинник</string>
 	<string name="close_alarm">Відключити будильник</string>
 	<string name="common_settings">Загальні налаштування</string>
+	<string name="confirm_abort">Discard</string>
 	<string name="control_set_alarm">Встановити будильник</string>
 	<string name="control_set_alarm_with_existing">Будильник встановлений на %s</string>
 	<string name="day">1 день</string>
@@ -66,9 +67,8 @@
 	<string name="holiday_data_update_failed">Помилка відновлення, спробуйте ще раз пізніше</string>
 	<string name="holiday_data_update_succeed">Перевірка оновлень завершена</string>
 	<string name="holiday_data_updating">Оновлення...</string>
-	<string name="holiday_update_pref_invalidate_title">Оновлення робочих днів (прострочене)</string>
-	<string name="holiday_update_pref_summary">Натисніть для відновлення бази</string>
-	<string name="holiday_update_pref_title">Відновлення робочих днів</string>
+	<string name="holiday_update_summary">Click check updates</string>
+	<string name="holiday_update_title">Work days data need connect network and update</string>
 	<string name="home_button_description">Робочий стіл</string>
 	<string name="hour">1 час</string>
 	<string name="hour_unit">год</string>
@@ -78,7 +78,7 @@
 	<string name="lap">Коло</string>
 	<string name="lap_num">Коло</string>
 	<string name="legal_workday"> Робочі дні</string>
-	<string name="legal_workday_invalidate">Дані прострочені (Зараз будильник дзвонить із пон. по п'ят.)</string>
+	<string name="legal_workday_invalidate">"Дані прострочені (Зараз будильник дзвонить із пон. по п'ят.)"</string>
 	<string name="legal_workday_invalidate_message">(дані прострочені. Оновіть в розділі Налаштування)</string>
 	<string name="legal_workday_message"> (відключений під час свят)</string>
 	<string name="loading_ringtone">Завантаження мелодії дзвінка...</string>
@@ -116,6 +116,7 @@
 	<string name="stopwatch_title">Секундомір</string>
 	<string name="system_time_setting">Налаштувння</string>
 	<string name="time">Година</string>
+	<string name="timer_alert_alert_silenced">Timer silenced after %d minutes.</string>
 	<string name="timer_continue">Продовжити</string>
 	<string name="timer_got_it">Відключити</string>
 	<string name="timer_hour">г</string>
@@ -124,10 +125,10 @@
 	<string name="timer_minute">х</string>
 	<string name="timer_start_alarm">Час таймера вийшов</string>
 	<string name="timer_title">Таймер</string>
-	<string name="timer_tutorial">" За годинниковою\n  стрілкою"</string>
+	<string name="timer_tutorial">" За годинниковою
+  стрілкою"</string>
 	<string name="timezone_exist_error_message">Не вдалося додати часовий пояс.Часовий пояс вже існує, будь-ласка, повторіть</string>
 	<string name="timezone_search_hint">Пошук міста для додавання у Світовий годину</string>
-	<string name="update_legal_workday_toast">Оновіть Китайські свята в налаштуваннях</string>
 	<string name="volume_button_dialog_title">Функція клавіш</string>
 	<string name="volume_button_setting_summary">Визначити функцію цієї кнопки під година дзвінка будильника</string>
 	<string name="volume_button_setting_title">Гучність</string>
@@ -138,4 +139,3 @@
 	<string name="worldclock_empty_text">Немає світового години</string>
 	<string name="worldclock_title">Світовий година</string>
 </resources>
-

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG Bigblackbox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="activity_not_found">Не вдається відкрити вкладення</string>
 	<string name="activity_not_found_uri">Не вдається знайти додаток для цього типу файлів</string>
@@ -130,7 +130,8 @@
 	<string name="fetion_prefix">[Fetion]</string>
 	<string name="flatshow_page_no">%1$d</string>
 	<string name="forward_prefix">Від:</string>
-	<string name="found_old_messages">Знайдені повідомлення з попереднього акаунту на вашому телефоні: %1$s\nви хочете скопіювати їх у ваш акаунт: %2$s?</string>
+	<string name="found_old_messages">"Знайдені повідомлення з попереднього акаунту на вашому телефоні: %1$s
+ви хочете скопіювати їх у ваш акаунт: %2$s?"</string>
 	<string name="found_old_messages_title">Завантаження повідомлень</string>
 	<string name="found_wild_messages">Знайдено повідомлень з інших Sim-Карт у хмарі: %s. Ви хочете завантажити їх?</string>
 	<string name="found_wild_messages_title">Завантаження повідомлень</string>
@@ -197,6 +198,9 @@
 	<string name="mx_activate_hint_malformed_info">Ваші персональні дані пошкоджені. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
 	<string name="mx_activate_hint_server">Сервер відхилив запит активації. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
 	<string name="mx_activate_hint_sim_change"> Sim-Карта помінялась. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
+	<string name="mx_activate_int_hint_malformed_info">Your personal info interrupted. An international SMS is required to reactivate Cloud Message. Activate it now?</string>
+	<string name="mx_activate_int_hint_server">Server refused to activate, failed to activate Cloud Message? An international SMS is required to reactivate Cloud Message. Activate it now?</string>
+	<string name="mx_activate_int_hint_sim_change">SIM card changed. An international SMS is required to reactivate Cloud Message. Activate it now?</string>
 	<string name="mx_auto_resend_mms">Відправити як MMS</string>
 	<string name="mx_auto_resend_mms_summary">Відправити як MMS, коли хмарові повідомлення не доступні. Вартість залежить від оператора</string>
 	<string name="mx_auto_resend_sms">Відправити як SMS</string>
@@ -206,7 +210,9 @@
 	<string name="mx_current_status">Статус: у мережі</string>
 	<string name="mx_dspt">Відправляти повідомлення через інтернет</string>
 	<string name="mx_enable">Включити хмарові повідомлення</string>
+	<string name="mx_enable_int_popup_msg">Cloud Message enables you to send messages between MIUI users. To activate, an international SMS will be sent. Carrier messaging rates may apply, activate now? If not, you may enable it in Settings later</string>
 	<string name="mx_enable_popup_msg">Хмарові повідомлення дозволяти вам обмінюватись повідомленнями з іншими користувачами MIUI. Потрібно відправити SMS для активації. Активувати зараз?</string>
+	<string name="mx_int_warning_notice">An international SMS will be sent to activate Cloud Message. Normal carrier data rates may apply</string>
 	<string name="mx_msg">Хмарне повідомлення</string>
 	<string name="mx_offline">Не в мережі</string>
 	<string name="mx_online">У мережі</string>
@@ -236,9 +242,6 @@
 	<string name="phrase_list_title">Фрази</string>
 	<string name="pick_too_many_recipients">Занадто багато одержувачів</string>
 	<string name="play">Відтворити</string>
-	<string name="prefdefault_vibratewhen">Ніколи</string>
-	<string name="prefdefault_vibrate_false">Ніколи</string>
-	<string name="prefdefault_vibrate_true">Завжди</string>
 	<string name="pref_advanced_settings_title">Додатково</string>
 	<string name="pref_edit_smsc_address">Номер Sms-Центру</string>
 	<string name="pref_messages_to_save">Встановити макс. кількість повідомлень у ланцюжку для зберігання</string>
@@ -393,7 +396,8 @@
 	<string name="type_to_compose_text_enter_to_send">Введіть повідомлення</string>
 	<string name="type_to_compose_text_or_leave_blank">Введіть повідомлення або залиште поле порожнім</string>
 	<string name="type_video">Відеозапис</string>
-	<string name="undelivered_msg_dialog_body">Не вдалося відправити повідомлення.\nспроб: %s</string>
+	<string name="undelivered_msg_dialog_body">"Не вдалося відправити повідомлення.
+спроб: %s"</string>
 	<string name="undelivered_msg_dialog_title">Недоставлені повідомлення</string>
 	<string name="undelivered_sms_dialog_body">Не вдалося відправити повідомлення</string>
 	<string name="unknown_num">Невідомий номер</string>
@@ -408,4 +412,3 @@
 	<string name="wap_push_title">[ Push-Повідомлення]</string>
 	<string name="yes">ОК</string>
 </resources>
-

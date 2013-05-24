@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="alert_message_delete_record">Ви дійсно хочете видалити обраний запис?</string>
 	<string name="app_name">Диктофон</string>
@@ -42,6 +42,7 @@
 	<string name="overwrite_dialog_message">%s вже існує. Ви хочете перезаписати його?</string>
 	<string name="preference_led_indicator">Індикатор запису</string>
 	<string name="preference_led_indicator_prompt">Блимати світлодіодом при записі в заблокованому режимі</string>
+	<string name="preference_silent_mode">Mute ring</string>
 	<string name="record_list">Список записів</string>
 	<string name="record_loading">Завантаження записів, будь ласка, зачекайте.</string>
 	<string name="record_name_hour">.</string>
@@ -52,7 +53,7 @@
 	<string name="rename">Перейменувати</string>
 	<string name="rename_dialog_title">Перейменування файлу</string>
 	<string name="rename_duplicate">Дублікат імені запису. Будь ласка, перейменуйте:</string>
-	<string name="rename_illegal">Неправильне ім'я запису. Будь ласка, перейменуйте:</string>
+	<string name="rename_illegal">"Неправильне ім'я запису. Будь ласка, перейменуйте:"</string>
 	<string name="sd_card_not_available">SD-карта не доступна</string>
 	<string name="second">%d секунд</string>
 	<string name="send_to">Відіслати</string>

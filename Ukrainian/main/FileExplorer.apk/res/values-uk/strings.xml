@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
-	<string name="account_bind_prompt">Перенесення даних користувача \nперенесення даних може зайняти деякий час, \nВаш акаунт тимчасово буде недоступний, будь ласка зачекайте ...</string>
+	<string name="account_bind_prompt">"Перенесення даних користувача 
+перенесення даних може зайняти деякий час, 
+Ваш акаунт тимчасово буде недоступний, будь ласка зачекайте ..."</string>
 	<string name="add_task">Додати завдання</string>
 	<string name="adding_upload_tasks">Додавання завдання завантаження.</string>
 	<string name="app_cache_cleanup_indication">%s кеша</string>
@@ -12,10 +14,10 @@
 	<string name="app_name">Файли</string>
 	<string name="application_size_label">Додаток</string>
 	<string name="background">В фоні</string>
-	<string name="bind_account">Прив'язка до акаунту KuaiPan</string>
-	<string name="bind_account_summary">Якщо у вас вже є обліковий запис kuaipan, то її можна прив'язати до профілю Xiaomi, щоб синхронізувати дані</string>
-	<string name="binded_accout_description">Ці два аккаунта були об'єднані. Тепер Ви можете увійти використовуючи або аккаунт Xiaomi, або аккаунт Kuaipan. У них обох будуть одні і тіж файли.</string>
-	<string name="binded_accout_title">В даний час Ви вже пов'язані з обліковим записом KuaiPan</string>
+	<string name="bind_account">"Прив'язка до акаунту KuaiPan"</string>
+	<string name="bind_account_summary">"Якщо у вас вже є обліковий запис kuaipan, то її можна прив'язати до профілю Xiaomi, щоб синхронізувати дані"</string>
+	<string name="binded_accout_description">"Ці два аккаунта були об'єднані. Тепер Ви можете увійти використовуючи або аккаунт Xiaomi, або аккаунт Kuaipan. У них обох будуть одні і тіж файли."</string>
+	<string name="binded_accout_title">"В даний час Ви вже пов'язані з обліковим записом KuaiPan"</string>
 	<string name="cache_size_label">Кеш</string>
 	<string name="cancel">Скасувати</string>
 	<string name="cancel_app_garbage_cleanup">Не очищати</string>
@@ -40,6 +42,7 @@
 	<string name="cleanup_complete">Готово</string>
 	<string name="clear_cache">Очистити кеш</string>
 	<string name="close">Закрити</string>
+	<string name="compress_fail">Compression failed, destination already exists</string>
 	<string name="compress_message">Архівувати в...</string>
 	<string name="compress_title">Архівувати</string>
 	<string name="confirm">OК</string>
@@ -78,6 +81,7 @@
 	<string name="empty_dir_title">Пусті папки</string>
 	<string name="enable_sd_card">"На даний моменту SD-карта підключена до комп'ютера і використовується. Щоб бачити її вміст, відключіть режим накопичувача"</string>
 	<string name="error_info_cant_send_folder">Папка не може бути передана</string>
+	<string name="error_open_file_failed_no_app_found">No activity found to open the file</string>
 	<string name="fail_to_create_folder">Не вдалося створити папку, папка з такою назвою вже існує</string>
 	<string name="fail_to_rename">"Не вдалося перейменувати файл або папку, ім'я вже існує"</string>
 	<string name="favorite_photo">Фотографія</string>
@@ -92,6 +96,7 @@
 	<string name="file_loading">Завантаження...</string>
 	<string name="file_too_large">Цей файл занадто великий для завантаження на сервер</string>
 	<string name="finished">Завершено</string>
+	<string name="folder_exist">The folder already exists</string>
 	<string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Натисніть сюди&lt;/a>для очищення кошика</string>
 	<string name="ftp_account_req_notice">"Імґ'я і пароль, 4~16 знаків, включаючи цифри, букви, чутливі до регістру"</string>
 	<string name="ftp_anonymous_login">Анонімний FTP</string>
@@ -104,7 +109,8 @@
 	<string name="ftp_username_hint">"Ім'я користувача"</string>
 	<string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
 	<string name="garbage_item_path_format" formatted="false">%s %s</string>
-	<string name="garbage_size_metric">%s\nМусор</string>
+	<string name="garbage_size_metric">"%s
+Мусор"</string>
 	<string name="gbk_summary">Якщо ви використовуєте кодування GBK, наприклад, в Windows Explorer, выберіть цей тип кодування, щоб запобігти спотворенню тексту на китайській мові</string>
 	<string name="gbk_title">GBK</string>
 	<string name="give_up_cleaning">Відміна</string>
@@ -133,11 +139,11 @@
 	<string name="menu_item_sort_name">За назвою</string>
 	<string name="menu_item_sort_size">За розміром</string>
 	<string name="menu_item_sort_type">За типом</string>
-	<string name="migrate_announcement_msg">Якщо у вас є акаунт KuaiPan, ви можете прив'язати його в налаштуваннях і отримати доступ до даних.</string>
+	<string name="migrate_announcement_msg">"Якщо у вас є акаунт KuaiPan, ви можете прив'язати його в налаштуваннях і отримати доступ до даних."</string>
 	<string name="migrate_announcement_title">MiDrive був перенесений в KuaiPan</string>
 	<string name="move_failed">Помилка переміщення</string>
 	<string name="multi_select_title">Обрано: %1$s</string>
-	<string name="name_illegal">Ім'я не може бути порожнім</string>
+	<string name="name_illegal">"Ім'я не може бути порожнім"</string>
 	<string name="net_lose_connected">Мережа недоступна, не може отримати розмір</string>
 	<string name="networkView_notConnected">Немає доступних мереж</string>
 	<string name="new_folder_name">Нова папка</string>
@@ -154,7 +160,9 @@
 	<string name="no_wifi_hint">"Wi-Fi з'єднання не знайдено, натисніть для налаштування"</string>
 	<string name="notif_server_starting">Синхронізація включена</string>
 	<string name="notif_title">Обмін файлами включений</string>
-	<string name="open_changed_file_message">Файл, який ви намагаєтеся відкрити був змінений, ви можете:\n1. Завантажити (оновити локальний файл)\n2. Завантажити (оновити файл у хмарі)</string>
+	<string name="open_changed_file_message">"Файл, який ви намагаєтеся відкрити був змінений, ви можете:
+1. Завантажити (оновити локальний файл)
+2. Завантажити (оновити файл у хмарі)"</string>
 	<string name="open_changed_file_title">файл змінено</string>
 	<string name="operating">Обробка...</string>
 	<string name="operation_cancel">Скасувати</string>
@@ -168,7 +176,8 @@
 	<string name="operation_decompressing">Розархівація...</string>
 	<string name="operation_delete">Видалити</string>
 	<string name="operation_delete_confirm_message">Підтвердити видалення?</string>
-	<string name="operation_delete_confirm_message_folder">"Видалення папки видалить всі файли в ній\n  "</string>
+	<string name="operation_delete_confirm_message_folder">"Видалення папки видалить всі файли в ній
+  "</string>
 	<string name="operation_deleting">Видалення...</string>
 	<string name="operation_deleting_detail">Видалення файлів (%1$d/%2$d)</string>
 	<string name="operation_download_link">Створення посилання для скачування</string>
@@ -254,11 +263,14 @@
 	<string name="uploading">Завантаження</string>
 	<string name="used">Використовується(но)</string>
 	<string name="user_guide">Інструкція користувача</string>
-	<string name="user_guide_download_other_version">Ви завжди можете завантажити Kuaipan\nна Ваш PC або Mac</string>
-	<string name="user_guide_kuaipan_copy">Доступ до файлу з декількох пристроїв\n, помістивши його в Kuaipan</string>
+	<string name="user_guide_download_other_version">"Ви завжди можете завантажити Kuaipan
+на Ваш PC або Mac"</string>
+	<string name="user_guide_kuaipan_copy">"Доступ до файлу з декількох пристроїв
+, помістивши його в Kuaipan"</string>
 	<string name="user_guide_other_version">Завантажити різні версії з Kuaipan</string>
 	<string name="user_guide_summary">Інструкція по MiDrive</string>
-	<string name="user_guide_upload_to_kuaipan">з телефону,\nпросто скопіювати і вставити в Kuaipan</string>
+	<string name="user_guide_upload_to_kuaipan">"з телефону,
+просто скопіювати і вставити в Kuaipan"</string>
 	<string name="utf8_summary">Тип кодування за замовчуванням</string>
 	<string name="version_text">версія %1$s</string>
 	<string name="wait_net">Очікування мережі</string>

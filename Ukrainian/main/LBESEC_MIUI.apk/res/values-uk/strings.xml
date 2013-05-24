@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="Dashboard_App">Програми</string>
-	<string name="Dashboard_HIPS_Disable_Content">Відключення залишить вашу систему MIUI без управління дозволами програмам і без захисту безпеки та конфіденційності.\nВи дійсно хочете її відключити?</string>
+	<string name="Dashboard_HIPS_Disable_Content">"Відключення залишить вашу систему MIUI без управління дозволами програмам і без захисту безпеки та конфіденційності.
+Ви дійсно хочете її відключити?"</string>
 	<string name="Dashboard_HIPS_Disable_Title">Монітор доступу</string>
 	<string name="Dashboard_Log">Логи</string>
 	<string name="Dashboard_Log_Clear_Content">Всі логи будуть видалені. Ви впевнені що хочете цього?</string>
@@ -24,7 +25,9 @@
 	<string name="Dashboard_Perm_SU_Desc">Управління доступом для %1$d програм суперкористувача</string>
 	<string name="Dashboard_Perm_SU_Disabled">Управління дозволами суперкористувача відключені</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable">Права адміністратора не доступні в стабільній версії MIUI</string>
-	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Надання прав адміністратора може призвести до нестабільності системи чи втрати персональних даних, системи або пошкодження обладнання.\n  \n  Будь-ласка, переключіться на версію для розробників"</string>
+	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Надання прав адміністратора може призвести до нестабільності системи чи втрати персональних даних, системи або пошкодження обладнання.
+  
+  Будь-ласка, переключіться на версію для розробників"</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Завантажити MIUI</string>
 	<string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://romz.bz/pages/download_miui/</string>
 	<string name="Dashboard_Perm_SU_Switch">Дозволи суперкористувача</string>

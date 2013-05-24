@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="app_name">Швидкий пошук</string>
 	<string name="clear_shortcuts">Очистити ярлики</string>
 	<string name="clear_shortcuts_agree">Очистити</string>
 	<string name="clear_shortcuts_disagree">Назад</string>
-	<string name="clear_shortcuts_prompt">Це дозволить видалити всі посилання на недавно обрані варіанти пошуку.\n\n(Щоб очистити історію браузера, використовуйте налаштування браузеру)</string>
+	<string name="clear_shortcuts_prompt">"Це дозволить видалити всі посилання на недавно обрані варіанти пошуку.
+
+(Щоб очистити історію браузера, використовуйте налаштування браузеру)"</string>
 	<string name="clear_shortcuts_summary">Очистити ярлики для недавно обраних пропозицій пошуку</string>
 	<string name="corpus_description_apps">Імена встановлених програм</string>
 	<string name="corpus_description_web">Веб-пошук, закладки та історії браузера</string>
@@ -24,6 +26,8 @@
 	<string name="menu_settings">Параметри пошуку</string>
 	<string name="remove_from_history">Вилучено з історії пошуку</string>
 	<string name="remove_from_history_failed">Не вдається видалити елемент з історії</string>
+	<string name="search_in_app_store">Search in market</string>
+	<string name="search_in_web">Search in web</string>
 	<string name="search_settings">Параметри пошуку</string>
 	<string name="search_sources">Елементи пошуку</string>
 	<string name="search_sources_summary">Виберіть, що шукати в телефоні</string>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="accessibility_airplane_mode">Режим польоту</string>
 	<string name="accessibility_back">Назад</string>
@@ -73,7 +73,9 @@
 	<string name="compat_mode_help_header">Масштаб і сумісність</string>
 	<string name="compat_mode_off">Розтягнути на весь екран</string>
 	<string name="compat_mode_on">Підігнати за розмірами екрану</string>
-	<string name="data_usage_disabled_dialog">"Досягнуто ліміт трафіку.\n\nПри відновленні підключення оператор може стягувати плату за передачу даних "</string>
+	<string name="data_usage_disabled_dialog">"Досягнуто ліміт трафіку.
+
+При відновленні підключення оператор може стягувати плату за передачу даних "</string>
 	<string name="data_usage_disabled_dialog_3g_title">Передача даних по каналах 2G і 3G відключена</string>
 	<string name="data_usage_disabled_dialog_4g_title">Передача даних по каналу 4G відключена</string>
 	<string name="data_usage_disabled_dialog_enable">Відновити підключення</string>
@@ -106,7 +108,8 @@
 	<string name="flash_device">/sys/class/leds/flashlight/brightness</string>
 	<string name="gps_notification_found_text">Розташування встановлено за допомогою GPS</string>
 	<string name="gps_notification_searching_text">Пошук GPS</string>
-	<string name="invalid_charger">"Зарядка через USB-порт не підтримується.\nВикористовуйте зарядний пристрій з комплекту поставки "</string>
+	<string name="invalid_charger">"Зарядка через USB-порт не підтримується.
+Використовуйте зарядний пристрій з комплекту поставки "</string>
 	<string name="key_position_custom">Розміщення</string>
 	<string name="label_view">Перегляд</string>
 	<string name="lockscreen_carrier_default">Немає мережі</string>
@@ -191,7 +194,8 @@
 	<string name="settings_toggle_position_divider_page">%1$d перемикачів вище - показуються</string>
 	<string name="settings_toggle_position_reset">Скинути перемикачі</string>
 	<string name="share">Поділитись</string>
-	<string name="status_bar_date_format">EEEE\nd MMMM yyyy</string>
+	<string name="status_bar_date_format">"EEEE
+d MMMM yyyy"</string>
 	<string name="status_bar_input_method_settings_configure_input_methods">Налаштування способів введення</string>
 	<string name="status_bar_network_flow">Сьогодні: %1$s | Залишилось: %2$s</string>
 	<string name="status_bar_network_flow_exceed">Сьогодні: %1$s | Залишилось: %2$s</string>
@@ -256,8 +260,9 @@
 	<string name="usb_accessory_confirm_prompt">Запускати %1$s при підключенні цього USB-аксесуара?</string>
 	<string name="usb_accessory_permission_prompt">Відкрити додатком \"%1$s\" доступ до USB-пристрою?</string>
 	<string name="usb_accessory_uri_prompt">Програми не підтримують це USB-пристрій. Детальніше про нього читайте тут: %1$s</string>
-	<string name="usb_debugging_always">Завжди дозволяти з цього комп'ютера</string>
-	<string name="usb_debugging_message">Ключ RSA комп'ютера:\n%1$s</string>
+	<string name="usb_debugging_always">"Завжди дозволяти з цього комп'ютера"</string>
+	<string name="usb_debugging_message">"Ключ RSA комп'ютера:
+%1$s"</string>
 	<string name="usb_debugging_title">Включити налагодження по USB?</string>
 	<string name="usb_device_confirm_prompt">Запускати %1$s при підключенні цього USB-пристрої?</string>
 	<string name="usb_device_permission_prompt">Відкрити додатком \"%1$s\" доступ до USB-пристрою?</string>

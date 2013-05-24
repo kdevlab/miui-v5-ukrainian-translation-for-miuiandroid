@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="account_abnormal_state">Невірна інформація про обліковий запис, спробуйте увійти ще раз або повторіть спробу пізніше!</string>
 	<string name="all_resources">Всі</string>
@@ -110,7 +110,8 @@
 	<string name="resource_title_select_ringtone">Виберіть мелодію</string>
 	<string name="resource_update">Оновити</string>
 	<string name="restore_default_theme_alert">Ви можете стати жертвою підробки теми, перейдіть до магазину тим, щоб купити або повторно завантажити тему.</string>
-	<string name="sdcard_status_changed_dialog_message">Потребує виходу.\nБудь ласка, відкрийте це додаток ще раз, для оновлення ресурсів.</string>
+	<string name="sdcard_status_changed_dialog_message">"Потребує виходу.
+Будь ласка, відкрийте це додаток ще раз, для оновлення ресурсів."</string>
 	<string name="sdcard_status_changed_dialog_title">Статус SD-карти змінився</string>
 	<string name="short_ringtone_resource">Короткі(&lt;5 сек)</string>
 	<string name="theme_another_import_running">Процес імпорту вже запущений, спробуйте пізніше</string>

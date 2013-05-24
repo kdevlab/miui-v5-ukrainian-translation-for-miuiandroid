@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="about_device">Про систему</string>
 	<string name="active_xiaomi_account">Активний</string>
-	<string name="active_xiaomi_account_msg">Будь ласка, перейдіть на форум MIUI для активації акаунту Xiaomi:\n</string>
+	<string name="active_xiaomi_account_msg">"Будь ласка, перейдіть на форум MIUI для активації акаунту Xiaomi:
+"</string>
 	<string name="active_xiaomi_account_title">Активний акаунт</string>
 	<string name="app_name">Оновлення</string>
 	<string name="apply_buddy_update_info_message">Натисніть Оновлення і телефон почне процес оновлення</string>
@@ -54,8 +55,6 @@
 	<string name="install_sina">Встановити Sina</string>
 	<string name="install_whole_rom">Ми рекомендуємо вам завантажити повний пакет для оновлення системи</string>
 	<string name="internal_build">внутрішня збірка</string>
-	<string name="kernel_upgrade_link" />
-	<string name="kernel_upgrade_version" />
 	<string name="loading">Завантаження MIUI</string>
 	<string name="md5_check_cancelled">MD5 перевірка зупинена</string>
 	<string name="mione_update_fail_description">Оновлення MI-ONE завершено з помилкою</string>
@@ -64,7 +63,8 @@
 	<string name="monthly_build">щомісячна збірка</string>
 	<string name="move_data_to_sdcard_not_enough_space_message">Не вистачає місця %dМб для копіювання файлів на SD-карту</string>
 	<string name="move_data_to_sdcard_title">Копіювання файлів на SD-карту</string>
-	<string name="moving_data_to_sdcard_message">Виконується перенесення даних\nбудь ласка зачекайте...</string>
+	<string name="moving_data_to_sdcard_message">"Виконується перенесення даних
+будь ласка зачекайте..."</string>
 	<string name="moving_data_to_sdcard_progress_format">Перенесено: %1$dКб з %2$dКб</string>
 	<string name="my_best_update">Відмінно</string>
 	<string name="my_expect_update">Добре</string>
@@ -109,8 +109,10 @@
 	<string name="sign_in_add_account">Активуйте акаунт Xiaomi</string>
 	<string name="sign_in_add_account_helper">У вашому телефоні немає акаунту MIUI, будь ласка додайте його</string>
 	<string name="sign_in_info">Рейтинг: %1$s %2$s %3$s версія</string>
-	<string name="sign_in_info_rank_more">Ваша оновлення рейтингу після %1$s\nБільше %2$s користувачів підписалися в MIUI %3$s</string>
-	<string name="sign_in_info_total_more">Your update ranking is %1$s\nOver %2$s users have signed in for MIUI %3$s</string>
+	<string name="sign_in_info_rank_more">"Ваша оновлення рейтингу після %1$s
+Більше %2$s користувачів підписалися в MIUI %3$s"</string>
+	<string name="sign_in_info_total_more">"Your update ranking is %1$s
+Over %2$s users have signed in for MIUI %3$s"</string>
 	<string name="stable_build">стабільна збірка</string>
 	<string name="start_update">Почати оновлення</string>
 	<string name="submit">Підтвердити</string>
@@ -129,7 +131,8 @@
 	<string name="update_comment_hint">(опціонально)</string>
 	<string name="update_comment_title">У мене є що сказати</string>
 	<string name="update_feedback">Відгуки про прошивку</string>
-	<string name="update_feedback_expired">На жаль, ви втратили можливість залишити відгук про прошивку!\nБудь ласка, спробуйте наступного вівторка</string>
+	<string name="update_feedback_expired">"На жаль, ви втратили можливість залишити відгук про прошивку!
+Будь ласка, спробуйте наступного вівторка"</string>
 	<string name="update_feel">1.Ваше враження?</string>
 	<string name="update_general">Більш-менш</string>
 	<string name="update_happy">Щасливий</string>
@@ -140,7 +143,8 @@
 	<string name="update_success_title">Оновлення</string>
 	<string name="upgrade_close">Закрити</string>
 	<string name="upgrade_kernel">Оновлення ядра</string>
-	<string name="upgrade_kernel_msg">Ваше ядро несумісне з прошивкою MIUI. Вам необхідно оновити його вручну. Зайдіть на сайт, щоб дізнатись як оновити ядро:\n</string>
+	<string name="upgrade_kernel_msg">"Ваше ядро несумісне з прошивкою MIUI. Вам необхідно оновити його вручну. Зайдіть на сайт, щоб дізнатись як оновити ядро:
+"</string>
 	<string name="verify_and_apply_dialog_message">Перевірка цілісності...</string>
 	<string name="verify_and_apply_dialog_title">Перевірка</string>
 	<string name="view_install_log">Перегляд журналу</string>

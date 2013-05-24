@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="Import">Імпорт</string>
 	<string name="action_fail_unknown_error">Не вдалося завершити операцію через невідому помилки.</string>
@@ -233,7 +233,7 @@
 	<string name="set_recent_album">Створити новий альбом</string>
 	<string name="set_wallpaper">На робочий стіл</string>
 	<string name="settings">Налаштування</string>
-	<string name="settings_i_xiaomi_com">Увійдіть на сайт i.xiaomi.com, щоб переглянути ваші синхронізовані зображення на комп'ютері</string>
+	<string name="settings_i_xiaomi_com">"Увійдіть на сайт i.xiaomi.com, щоб переглянути ваші синхронізовані зображення на комп'ютері"</string>
 	<string name="shadow">Затемнення</string>
 	<string name="sharpen">Різкість</string>
 	<string name="show_all">Зображення та відео</string>

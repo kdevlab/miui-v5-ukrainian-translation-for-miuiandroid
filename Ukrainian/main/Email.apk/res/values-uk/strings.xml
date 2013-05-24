@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="account">Акаунт</string>
 	<string name="account_delete_dlg_instructions_fmt">Акаунт \"%s\" буде видалений з Email</string>
@@ -41,7 +41,7 @@
 	<string name="account_settings_notify_label">Сповіщення електронної пошти</string>
 	<string name="account_settings_notify_summary">При отриманні пошти показувати сповіщення в рядку стану системи</string>
 	<string name="account_settings_outgoing_label">Налаштування вихідних повідомлень</string>
-	<string name="account_settings_outgoing_summary">Ім'я користувача, пароль та інші налаштування серверу вихідної пошти</string>
+	<string name="account_settings_outgoing_summary">"Ім'я користувача, пароль та інші налаштування серверу вихідної пошти"</string>
 	<string name="account_settings_ringtone">Вибрати рингтон</string>
 	<string name="account_settings_servers">Налаштування сервера</string>
 	<string name="account_settings_signature_hint">Додавати текст до повідомлень, які надсилаються</string>
@@ -66,9 +66,9 @@
 	<string name="account_setup_account_type_instructions">Виберіть тип акаунту</string>
 	<string name="account_setup_account_type_pop_action">POP3</string>
 	<string name="account_setup_account_type_title">Налаштування акаунту</string>
-	<string name="account_setup_basic_description_label">Ім'я акаунту (опціонально)</string>
+	<string name="account_setup_basic_description_label">"Ім'я акаунту (опціонально)"</string>
 	<string name="account_setup_basic_label">Будь ласка, заповніть інформацію для %s поштової скриньки :</string>
-	<string name="account_setup_basic_name_label">Ваше ім'я (опціонально)</string>
+	<string name="account_setup_basic_name_label">"Ваше ім'я (опціонально)"</string>
 	<string name="account_setup_basics_default_label">Зробити акаунтом електронної пошти за замовчуванням для відправки повідомлень</string>
 	<string name="account_setup_basics_email_label">Адреса електронної пошти</string>
 	<string name="account_setup_basics_exchange_title">Додати аккаунт Exchange</string>
@@ -87,28 +87,31 @@
 	<string name="account_setup_exchange_remove_certificate">Видалити</string>
 	<string name="account_setup_exchange_select_certificate">Вибрати</string>
 	<string name="account_setup_exchange_server_label">Сервер</string>
-	<string name="account_setup_exchange_ssl_label">Використовувати захищене з'єднання (SSL)</string>
+	<string name="account_setup_exchange_ssl_label">"Використовувати захищене з'єднання (SSL)"</string>
 	<string name="account_setup_exchange_title">Налаштування акаунту</string>
 	<string name="account_setup_exchange_trust_certificates_label">Приймати всі сертифікати SSL</string>
 	<string name="account_setup_exchange_use_certificate">Використовувати сертифікат клієнта</string>
-	<string name="account_setup_exchange_username_label">Домен\\Ім'я користувача</string>
+	<string name="account_setup_exchange_username_label">"Домен\\Ім'я користувача"</string>
 	<string name="account_setup_failed_access_denied">У вас немає дозволів на синхронізацію з цим сервером. За додатковою інформацією зверніться до адміністратора сервера</string>
 	<string name="account_setup_failed_auth_required">Методи аутентифікації не підтримується сервером</string>
 	<string name="account_setup_failed_certificate_inaccessible">Сертифікат недійсний або недоступний</string>
 	<string name="account_setup_failed_certificate_required">Необхідний сертифікат клієнта. Підключитися до серверу?</string>
-	<string name="account_setup_failed_check_credentials_message">Помилка серверу. Перевірте ім'я користувача та пароль і повторіть спробу</string>
-	<string name="account_setup_failed_dlg_auth_message">Неправильне ім'я користувача або пароль</string>
-	<string name="account_setup_failed_dlg_auth_message_fmt">Неправильне ім'я користувача або пароль.\n%s</string>
+	<string name="account_setup_failed_check_credentials_message">"Помилка серверу. Перевірте ім'я користувача та пароль і повторіть спробу"</string>
+	<string name="account_setup_failed_dlg_auth_message">"Неправильне ім'я користувача або пароль"</string>
+	<string name="account_setup_failed_dlg_auth_message_fmt">"Неправильне ім'я користувача або пароль.
+%s"</string>
 	<string name="account_setup_failed_dlg_certificate_message">Не вдалося встановити захищене підключення до серверу</string>
-	<string name="account_setup_failed_dlg_certificate_message_fmt">Не вдалося встановити захищене підключення до серверу.\n%s</string>
+	<string name="account_setup_failed_dlg_certificate_message_fmt">"Не вдалося встановити захищене підключення до серверу.
+%s"</string>
 	<string name="account_setup_failed_dlg_edit_details_action">Змінити відомості</string>
 	<string name="account_setup_failed_dlg_server_message">Не вдалося підключитися до серверу</string>
-	<string name="account_setup_failed_dlg_server_message_fmt">Не вдалося підключитися до серверу.\n%s</string>
+	<string name="account_setup_failed_dlg_server_message_fmt">"Не вдалося підключитися до серверу.
+%s"</string>
 	<string name="account_setup_failed_dlg_title">Налаштування не завершено</string>
 	<string name="account_setup_failed_ioerror">Не вдалося підключитися до серверу</string>
 	<string name="account_setup_failed_protocol_unsupported">Введено неправильну адресу серверу або сервер запитує версію протоколу, що не підтримується в Email</string>
 	<string name="account_setup_failed_security">Не вдалося встановити підключення до серверу через помилку безпеки</string>
-	<string name="account_setup_failed_security_policies_unsupported">Ваше Android-пристрій не підтримує обов'язкові для сервера функції захисту: %s</string>
+	<string name="account_setup_failed_security_policies_unsupported">"Ваше Android-пристрій не підтримує обов'язкові для сервера функції захисту: %s"</string>
 	<string name="account_setup_failed_tls_required">TLS не підтримується сервером</string>
 	<string name="account_setup_incoming_delete_policy_delete_label">При видаленні з вхідних</string>
 	<string name="account_setup_incoming_delete_policy_label">Видаляти повідомлення з серверу</string>
@@ -127,7 +130,7 @@
 	<string name="account_setup_incoming_security_tls_label">STARTTLS</string>
 	<string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (приймати всі сертифікати)</string>
 	<string name="account_setup_incoming_title">Налаштування акаунту</string>
-	<string name="account_setup_incoming_username_label">Ім'я користувача</string>
+	<string name="account_setup_incoming_username_label">"Ім'я користувача"</string>
 	<string name="account_setup_index_label">Будь ласка, виберіть і додайте Вашого постачальника послуг ел. пошти:</string>
 	<string name="account_setup_index_other_mails">Інша ел. пошта</string>
 	<string name="account_setup_index_title">Інструкція налаштування ел. пошти</string>
@@ -135,7 +138,7 @@
 	<string name="account_setup_names_headline">Ваш аккаунт налаштований, чекайте повідомлень!</string>
 	<string name="account_setup_names_title">Налаштування акаунту</string>
 	<string name="account_setup_names_user_name_empty_error">Це поле має бути заповнено</string>
-	<string name="account_setup_names_user_name_label">Ваше ім'я (показується у вихідних)</string>
+	<string name="account_setup_names_user_name_label">"Ваше ім'я (показується у вихідних)"</string>
 	<string name="account_setup_options_background_attachments_label">Завантажувати прикріплені файли при підключенні до Wi-Fi</string>
 	<string name="account_setup_options_default_label">Зробити акаунтом електронної пошти за замовчуванням для відправки повідомлень</string>
 	<string name="account_setup_options_headline">Налаштування акаунту</string>
@@ -172,7 +175,7 @@
 	<string name="account_setup_security_policies_required_fmt">Серверу %s потрібен дозвіл на віддалене управління деякими функціями безпеки пристрою Android. Завершити налаштування цього акаунту?</string>
 	<string name="account_setup_security_required_title">Віддалене управління безпекою</string>
 	<string name="account_setup_username_password_toast">Введіть дійсну адресу електронної пошти та пароль</string>
-	<string name="account_setup_username_uneditable_error">Неможливо змінити ім'я користувача. Якщо хочете використовувати інше ім'я, натисніть \"Додати акаунт\" і створіть новий акаунт</string>
+	<string name="account_setup_username_uneditable_error">"Неможливо змінити ім'я користувача. Якщо хочете використовувати інше ім'я, натисніть \"Додати акаунт\" і створіть новий акаунт"</string>
 	<string name="account_shortcut_picker_name">Ярлик Email</string>
 	<string name="account_shortcut_picker_title">Оберіть акаунт</string>
 	<string name="accounts_welcome">Пошта підтримує більшість популярних поштових служб</string>
@@ -190,7 +193,7 @@
 	<string name="attachment_info_apk_install_disabled">Додатки можна встановлювати безпосередньо з електронної пошти. Збережіть файл, перейдіть в \"Завантаження\" і виконайте установку</string>
 	<string name="attachment_info_application_settings">Налаштування програми</string>
 	<string name="attachment_info_dialog_default_title">Про прикріплений файл</string>
-	<string name="attachment_info_dialog_wifi_title">Потребується Wi-Fi-з'єнання</string>
+	<string name="attachment_info_dialog_wifi_title">"Потребується Wi-Fi-з'єнання"</string>
 	<string name="attachment_info_malware">Через файли такого типу часто поширюють шкідливе ПЗ, тому ми не даємо відкривати і зберігати їх</string>
 	<string name="attachment_info_no_intent">Непідтримуваний формат. Щоб відкрити файл, встановіть відповідне додаток з Android Маркету</string>
 	<string name="attachment_info_policy">Політика безпеки акаунту не дозволяє зберігати подібні файли</string>
@@ -244,14 +247,14 @@
 	<string name="destination_format">%1$s \"%2$s\"</string>
 	<string name="device_admin_description">Включення серверних політик безпеки</string>
 	<string name="device_admin_label">Електронна пошта</string>
-	<string name="dialog_first_wifi">Великі файли будуть завантажуватися тільки через з'єднання Wi-Fi</string>
+	<string name="dialog_first_wifi">"Великі файли будуть завантажуватися тільки через з'єднання Wi-Fi"</string>
 	<string name="dialog_sync_all_canceled">Команда \"Синхронізувати всі\" скасована</string>
 	<string name="dialog_sync_all_error_title">Cинхронізувати все</string>
 	<string name="dialog_sync_all_found_none">Додаткових фотографій або відеороликів не знайдено</string>
 	<string name="dialog_sync_all_preparing">Підготовка %1$d фото та %2$d відео до завантаження...</string>
 	<string name="dialog_sync_all_scanning">Пошук файлів...</string>
-	<string name="dialog_sync_all_server_error">Не вдалося зв'язатись з сервером. Повторіть спробу пізніше</string>
-	<string name="disable_admin_warning">УВАГА! Відключення прав на адміністрування вашого пристрою для програми Email призведе до видалення всих акаунтів електронної пошти, які використовують ці права. Крім того, будуть видалені всі листи, контакти, календарі та інші дані, пов'язані з цими акаунтами</string>
+	<string name="dialog_sync_all_server_error">"Не вдалося зв'язатись з сервером. Повторіть спробу пізніше"</string>
+	<string name="disable_admin_warning">"УВАГА! Відключення прав на адміністрування вашого пристрою для програми Email призведе до видалення всих акаунтів електронної пошти, які використовують ці права. Крім того, будуть видалені всі листи, контакти, календарі та інші дані, пов'язані з цими акаунтами"</string>
 	<string name="discard_action">Відмінити</string>
 	<string name="done">Назад</string>
 	<string name="done_action">Готово</string>
@@ -311,7 +314,9 @@
 	<string name="mailbox_settings_mailbox_check_frequency_label">Частота перевірки</string>
 	<string name="mailbox_settings_mailbox_sync_window_label">Період синхронізації</string>
 	<string name="mailbox_shortcut_picker_title">Виберіть папку</string>
-	<string name="manager_activity_last_sync_format">Остання синхронизація: \n%1$s\n%2$s</string>
+	<string name="manager_activity_last_sync_format">"Остання синхронизація: 
+%1$s
+%2$s"</string>
 	<string name="manager_do_not_upload">Не завантажувати</string>
 	<string name="manager_list_switcher_completed_format">Завершені завантаження [%d]</string>
 	<string name="manager_list_switcher_pending_format">Незавершені завантаження [%d]</string>
@@ -340,11 +345,23 @@
 	<string name="message_compose_error_invalid_email">Деякі адреси електронної пошти є неприпустимими</string>
 	<string name="message_compose_error_no_recipients">Додайте принаймні одного одержувача</string>
 	<string name="message_compose_from_label">Від:</string>
-	<string name="message_compose_fwd_header_fmt">\n\n-------- Початкове повідомлення --------\nТема: %1$s\nВід: %2$s\nКому: %3$s\nКопія: %4$s\n\n</string>
+	<string name="message_compose_fwd_header_fmt">"
+
+-------- Початкове повідомлення --------
+Тема: %1$s
+Від: %2$s
+Кому: %3$s
+Копія: %4$s
+
+"</string>
 	<string name="message_compose_include_quoted_text_checkbox_label">Включити вихідний текст у відповідь</string>
 	<string name="message_compose_insert_quick_response_list_title">Вставка швидкої відповіді</string>
 	<string name="message_compose_quoted_text_label">Цитований текст</string>
-	<string name="message_compose_reply_header_fmt">\n\n%s писав:\n\n</string>
+	<string name="message_compose_reply_header_fmt">"
+
+%s писав:
+
+"</string>
 	<string name="message_compose_subject_hint">Тема</string>
 	<string name="message_compose_to_hint">Отримувачі</string>
 	<string name="message_decode_error">При розшивровці повідомлення виникла помилка</string>

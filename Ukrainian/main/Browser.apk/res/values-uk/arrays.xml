@@ -1,59 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
-<string-array name="yandex_ru">
-        <item>Яндекс</item>
-        <item>yandex.ru</item>
-        <item>http://yandex.ru/favicon.ico</item>
-        <item>http://yandex.ru/touchsearch?&amp;clid=1788326&amp;text={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://suggest.yandex.net/suggest-ff.cgi?&amp;clid=1788326&amp;part={searchTerms}</item>
-    </string-array>
-    <string-array name="pref_content_plugins_choices">
-        <item>Так</item>
-        <item>За потребою</item>
-        <item>Ні</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-        <item>Поточна сторінка</item>
-        <item>Домашня MIUI</item>
-        <item>Пуста сторінка</item>
-        <item>Сторінка за замовчуванням</item>
-        <item>Часто відвідувані веб-сайти</item>
-        <item>Інша</item>
-    </string-array>
-    <string-array name="pref_text_size_choices">
-        <item>Дрібний</item>
-        <item>Маленький</item>
-        <item>Середній</item>
-        <item>Великий</item>
-        <item>Величезний</item>
-    </string-array>
-    <string-array name="pref_default_zoom_choices">
-        <item>Дрібний</item>
-        <item>Середній</item>
-        <item>Великий</item>
-    </string-array>
-    <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Китайська (GBK)</item>
-        <item>Китайська (Big5)</item>
-        <item>Японська (ISO-2022-JP)</item>
-        <item>Японська (SHIFT_JIS)</item>
-        <item>Японська (EUC-JP)</item>
-        <item>Корейська (EUC-KR)</item>
-    </string-array>
-    <string-array name="pref_data_preload_choices">
-        <item>Ніколи</item>
-        <item>Тільки по Wi-Fi</item>
-        <item>Завжди</item>
-    </string-array>
-	<string-array name="pref_link_prefetch_choices">
-       <item>Ніколи</item>
-       <item>Тільки по Wi-Fi</item>
-       <item>Завжди</item>
-    </string-array>
-    <string-array name="bookmarks">
+     <!-- The size of the array does not match! Now: 17 must: 29 -->
+     <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
         <item>VK.com</item>
@@ -70,27 +19,69 @@
         <item>http://www.wikipedia.org/</item>
         <item>ROMZ.bz</item>
         <item>http://www.romz.bz/</item>
-    </string-array>
-    <string-array name="google">
-        <item>Google</item>
-        <item>google.com</item>
-        <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-    </string-array>
-    <string-array name="search_engines">
+     </string-array>
+     <string-array name="pref_content_plugins_choices">
+        <item>Так</item>
+        <item>За потребою</item>
+        <item>Ні</item>
+     </string-array>
+     <string-array name="pref_data_preload_choices">
+        <item>Ніколи</item>
+        <item>Тільки по Wi-Fi</item>
+        <item>Завжди</item>
+     </string-array>
+     <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Китайська (GBK)</item>
+        <item>Китайська (Big5)</item>
+        <item>Японська (ISO-2022-JP)</item>
+        <item>Японська (SHIFT_JIS)</item>
+        <item>Японська (EUC-JP)</item>
+        <item>Корейська (EUC-KR)</item>
+     </string-array>
+     <string-array name="pref_default_zoom_choices">
+        <item>Дрібний</item>
+        <item>Середній</item>
+        <item>Великий</item>
+     </string-array>
+     <string-array name="pref_fling_on_border_choices">
+        <item>Кнопки назад або вперед</item>
+        <item>Переключення вкладок</item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 7 must: 4 -->
+     <string-array name="pref_homepage_choices">
+        <item>Поточна сторінка</item>
+        <item>Домашня MIUI</item>
+        <item>Пуста сторінка</item>
+        <item>Сторінка за замовчуванням</item>
+        <item>Часто відвідувані веб-сайти</item>
+        <item>Інша</item>
+     </string-array>
+     <string-array name="pref_link_prefetch_choices">
+       <item>Ніколи</item>
+       <item>Тільки по Wi-Fi</item>
+       <item>Завжди</item>
+     </string-array>
+     <string-array name="pref_text_size_choices">
+        <item>Дрібний</item>
+        <item>Маленький</item>
+        <item>Середній</item>
+        <item>Великий</item>
+        <item>Величезний</item>
+     </string-array>
+     <string-array name="pref_volume_key_choices">
+        <item>Прокрутка сторінки</item>
+        <item>Переключення вкладок</item>
+     </string-array>
+     <string-array name="search_engines">
         <item>google</item>
         <item>yandex_ru</item>
         <item>bing</item>
-    </string-array>
-    <string-array name="pref_volume_key_choices">
-        <item>Прокрутка сторінки</item>
-        <item>Переключення вкладок</item>
-    </string-array>
-    <string-array name="pref_fling_on_border_choices">
-        <item>Кнопки назад або вперед</item>
-        <item>Переключення вкладок</item>
-    </string-array>
-    
+     </string-array>
+     <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+     </string-array>
 </resources>
