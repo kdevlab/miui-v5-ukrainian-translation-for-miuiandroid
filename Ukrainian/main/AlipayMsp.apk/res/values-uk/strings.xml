@@ -31,7 +31,7 @@
   <string name="error_tips">Система зайнята, будь ласка, повторіть пізніше</string>
   <string name="exception_info">Служба неочікувано завершила роботу, будь ласка повторіть запит</string>
   <string name="install">Встановити</string>
-  <string name="memo_failed">Операція неуспішна</string>
+  <string name="memo_failed">Операція невдала</string>
   <string name="memo_user_cancel">Операцію було скасовано</string>
   <string name="network_error_code">"Сталась мережева помилка, код помилки: "</string>
   <string name="network_redo">Сталась помилка мережі. Будь ласка, натисніть "Повторити" або "Скасувати", щоб повернутись.</string>
