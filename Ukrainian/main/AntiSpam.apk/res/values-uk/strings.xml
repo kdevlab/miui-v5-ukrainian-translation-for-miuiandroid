@@ -54,7 +54,7 @@
 	<string name="enable_firewall">Включити фільтрацію</string>
 	<string name="firewall_action">Дії брандмауера</string>
 	<string name="firewall_log">Записи фільтра</string>
-	<string name="firewall_settings">Настройки фільтрації</string>
+	<string name="firewall_settings">Налаштування фільтрації</string>
 	<string name="firewall_settings_tab_title">Налаштування</string>
 	<string name="fw_action_settings">Налаштування фільтрації</string>
 	<string name="fw_add_keyword">Додати шаблон</string>
