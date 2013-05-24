@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="MIUI_startpage">Стартова сторінка</string>
 	<string name="accessibility_button_addbookmark">Додати сторінку в закладки</string>
@@ -178,14 +177,14 @@
 	<string name="import_bookmark_failure">Помилка імпорту закладок!</string>
 	<string name="import_bookmark_sucess">Закладки успішно імпортовані!</string>
 	<string name="import_bookmarks_dialog_add">Додати закладки до акаунту Google</string>
-	<string name="import_bookmarks_dialog_confirm_add">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з аккаунтом %s?</string>
+	<string name="import_bookmarks_dialog_confirm_add">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з акаунтом %s?</string>
 	<string name="import_bookmarks_dialog_confirm_delete">Видалити закладки з пристрою і почати синхронізацію з акаунтом %s?</string>
-	<string name="import_bookmarks_dialog_delete_select_account">Видалити закладки з пристрою і почати синхронізацію з аккаунтом Google</string>
+	<string name="import_bookmarks_dialog_delete_select_account">Видалити закладки з пристрою і почати синхронізацію з акаунтом Google</string>
 	<string name="import_bookmarks_dialog_description">"Закладки на пристрої поки не пов'язані з акаунтом Google. Щоб зберегти і синхронізувати закладки, додайте їх до системи. В іншому випадку просто видаліть їх"</string>
-	<string name="import_bookmarks_dialog_import">Додати закладки Android в аккаунт %s</string>
+	<string name="import_bookmarks_dialog_import">Додати закладки Android в акаунт %s</string>
 	<string name="import_bookmarks_dialog_remove">Видалити закладки</string>
-	<string name="import_bookmarks_dialog_select_add_account">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з аккаунтом Google</string>
-	<string name="import_bookmarks_dialog_title">Синхронізація з аккаунтом Google</string>
+	<string name="import_bookmarks_dialog_select_add_account">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з акаунтом Google</string>
+	<string name="import_bookmarks_dialog_title">Синхронізація з акаунтом Google</string>
 	<string name="import_bookmarks_wizard_cancel">Скасувати</string>
 	<string name="import_bookmarks_wizard_done">Готово</string>
 	<string name="import_bookmarks_wizard_next">Далі</string>
@@ -241,7 +240,7 @@
 	<string name="pref_autofill_enabled_summary">Швидке заповнення веб-форм</string>
 	<string name="pref_autofill_profile_editor">Текст автозаповнення</string>
 	<string name="pref_autofill_profile_editor_summary">Налаштувати текст для автозаповнення веб-форм</string>
-	<string name="pref_autologin_progress">Вхід в сайти Google за допомогою облікового запису %s</string>
+	<string name="pref_autologin_progress">Вхід на сайти Google за допомогою облікового запису %s</string>
 	<string name="pref_autologin_title">Автоматичний вхід в систему</string>
 	<string name="pref_clear_cache_for_exit">Очистити кеш при виході</string>
 	<string name="pref_clear_history_for_exit">Очистити історію при виході</string>
@@ -316,8 +315,7 @@
 	<string name="pref_lab_quick_controls_summary">Щоб відкрити панель інструментів, почніть перегортати сторінку справа або зліва</string>
 	<string name="pref_lab_title">Лабораторія Google</string>
 	<string name="pref_link_prefetch_dialogtitle">Завантаження веб-сторінок</string>
-	<string name="pref_link_prefetch_summary">"
-Дозволити браузеру попередньо завантажувати пов'язані веб-сторінки у фоновому режимі"</string>
+	<string name="pref_link_prefetch_summary">\nДозволити браузеру попередньо завантажувати пов'язані веб-сторінки у фоновому режимі</string>
 	<string name="pref_link_prefetch_title">Завантаження веб-сторінок</string>
 	<string name="pref_min_font_size">Мін. розмір шрифту</string>
 	<string name="pref_min_font_size_value">%d pt</string>
@@ -363,8 +361,7 @@
 	<string name="pref_ua_title">Налаштування User-Agent</string>
 	<string name="pref_use_instant_search">Google Живий пошук</string>
 	<string name="pref_use_instant_search_summary">"У Живому пошуку результати з'являються прямо при введенні тексту (можливе збільшення обсягу переданих даних)"</string>
-	<string name="pref_video_preload_summary">"
-Дозволити браузеру попередньо завантажувати відео файли, якщо це можливо"</string>
+	<string name="pref_video_preload_summary">\nДозволити браузеру попередньо завантажувати відео файли, якщо це можливо</string>
 	<string name="pref_volume_key_enabled">Кнопки гучності</string>
 	<string name="pref_volume_key_operation">Дія для кнопок гучності</string>
 	<string name="pref_zoom_on_double_tap">Зум при подвійному натисканні</string>
