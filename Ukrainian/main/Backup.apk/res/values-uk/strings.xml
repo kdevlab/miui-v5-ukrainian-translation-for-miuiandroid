@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="account_contact_backup_info">Данні акаунтів та контакти</string>
 	<string name="account_login">Увійти в систему</string>
@@ -14,8 +13,7 @@
 	<string name="auto_backup_date">Частота Р.К. (у днях)</string>
 	<string name="auto_backup_only_wifi">Тільки через Wi-Fi</string>
 	<string name="auto_backup_open">Увімкнути автоматичне резервне копіювання</string>
-	<string name="auto_backup_progress">"Виконання автоматичного резервного копіювання
-Зачекайте, будь ласка..."</string>
+	<string name="auto_backup_progress">Виконання автоматичного резервного копіювання\nЗачекайте, будь ласка...</string>
 	<string name="auto_backup_select_user_apps">Вибір програм</string>
 	<string name="auto_backup_selected_user_apps">Вибрані програми</string>
 	<string name="auto_backup_setting">Налаштування Р.К. за розкладом</string>
@@ -58,8 +56,7 @@
 	<string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
 	<string name="cloud_last_backup">Остання:</string>
 	<string name="cloud_no_backup">Немає резервних копій</string>
-	<string name="cloud_restore_guide">"Натисніть кнопку Почати для відновлення даних
-Ви можете відновити% s в Р.К."</string>
+	<string name="cloud_restore_guide">Натисніть кнопку Почати для відновлення даних\nВи можете відновити% s в Р.К.</string>
 	<string name="cloud_restore_title">Відновлення</string>
 	<string name="cloud_restore_window_title">Відновлення з хмари</string>
 	<string name="cloud_search">Пошук...</string>
@@ -78,7 +75,7 @@
 	<string name="enable_encrypt_fail">Увімкнути шифрування не вдалось</string>
 	<string name="enable_encrypt_indicator">Резервні копії не зашифровані, натисніть кнопку для ввімкнення шифрування</string>
 	<string name="enable_encrypt_ok">OK</string>
-	<string name="enable_encrypt_summery1">Система зашифрує ваш локальный бекап на основі акаунту Xiaomi, вам буде потрібно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
+	<string name="enable_encrypt_summery1">Система зашифрує ваш локальний бекап на основі акаунту Xiaomi, вам буде потрібно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
 	<string name="enable_encrypt_summery2">Новий бекап буде автоматично шифруватися. Вам необхідно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
 	<string name="enable_encrypt_title">Шифрування увімкнено</string>
 	<string name="enable_encrypt_xiaomi_account">Ця резервна копія була створена %1$s, будь ласка, видаліть поточний акаунт, і увійдіть в %2$s для відновлення даних</string>
@@ -100,8 +97,7 @@
 	<string name="local_select_sysdata">Налаштування системи</string>
 	<string name="local_select_userapp">Програми + дані</string>
 	<string name="menu_patch_delete">Видалення резервних копій</string>
-	<string name="miliao_account_guide">"MiTalk підвищено до акаунту Xiaomi
-Насолоджуйтесь усіма сервісами Xiaomi"</string>
+	<string name="miliao_account_guide">MiTalk підвищено до акаунту Xiaomi\nНасолоджуйтесь усіма сервісами Xiaomi</string>
 	<string name="miliao_account_login">Увійти в MiTalk</string>
 	<string name="mms_title">MMS повідомлення</string>
 	<string name="multi_select_title">Обрано: %1$s</string>
@@ -158,20 +154,17 @@
 	<string name="task_canceled">Скасовано</string>
 	<string name="task_canceled_all_local">Усі задачі скасовані</string>
 	<string name="task_canceled_local">Задач скасовано: %1$s</string>
-	<string name="task_cloud_backup_cancel_dialog">"Резервне копіювання не було завершено.
-Натисніть кнопку OK, щоб скасувати незавершену операцію"</string>
+	<string name="task_cloud_backup_cancel_dialog">Резервне копіювання не було завершено.\nНатисніть кнопку OK, щоб скасувати незавершену операцію</string>
 	<string name="task_failed">Не вдалося</string>
 	<string name="task_failed_all_local">Помилки у всіх задачах</string>
 	<string name="task_failed_local">Помилка в задачах (%1$s)</string>
 	<string name="task_finished">Завершено</string>
-	<string name="task_local_backup_cancel_dialog">"Резервне копіювання не було завершено.
-Натисніть кнопку OK, щоб видалити цю резервну копію"</string>
+	<string name="task_local_backup_cancel_dialog">Резервне копіювання не було завершено.\nНатисніть кнопку OK, щоб видалити цю резервну копію</string>
 	<string name="task_pending">В очікуванні</string>
 	<string name="task_post_running">Пост-обробка...</string>
 	<string name="task_pre_running">Підготовка</string>
 	<string name="task_progress">Прогрес</string>
-	<string name="task_restore_cancel_dialog">"Ви збираєтеся скасувати операцію.
-Це може привести до втрати даних!"</string>
+	<string name="task_restore_cancel_dialog">Ви збираєтеся скасувати операцію.\nЦе може привести до втрати даних!</string>
 	<string name="task_restore_cancel_progress">Зупинка процесу...</string>
 	<string name="task_restore_finished_local">Відновлення завершено</string>
 	<string name="task_restore_none">Не потребує відновлення</string>
