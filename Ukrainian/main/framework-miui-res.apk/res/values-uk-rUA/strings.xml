@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Merged and sorted with KDG BigBlackBox-->
+<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="activate">Включити</string>
 	<string name="activate_fail_notification_title">Будь ласка, активуйте повторно послугу Xiaomi синхронізації</string>
 	<string name="activating">Активація...</string>
-	<string name="alarm_message_12_hour_formate">h:mm aa</string>
 	<string name="alwaysUsePrompt">Викор. за замовченням</string>
 	<string name="android_lockscreen_glogin_instructions">Щоб розблокувати, увійдіть до свого акаунту</string>
 	<string name="arbor_day" />
@@ -21,10 +20,10 @@
 	<string name="christmas_day">Різдво</string>
 	<string name="clear_and_bright" />
 	<string name="cold_dews" />
-	<string name="contact_carrier_message">Будь ласка, зв'яжіться з оператором по будь-якому питанню</string>
+	<string name="contact_carrier_message">"Будь ласка, зв'яжіться з оператором по будь-якому питанню"</string>
 	<string name="country_name_ac">Сходження</string>
 	<string name="country_name_ad">Андора</string>
-	<string name="country_name_ae">Об'єднані Арабські Емірати</string>
+	<string name="country_name_ae">"Об'єднані Арабські Емірати"</string>
 	<string name="country_name_af">Афганістан</string>
 	<string name="country_name_ag">Антигуа і Барбуда</string>
 	<string name="country_name_ai">Ангілья</string>
@@ -154,7 +153,7 @@
 	<string name="country_name_mh">Маршалові Острови</string>
 	<string name="country_name_mk">Республіка Македонія</string>
 	<string name="country_name_ml">Малі</string>
-	<string name="country_name_mm">М'янма</string>
+	<string name="country_name_mm">"М'янма"</string>
 	<string name="country_name_mn">Монголія</string>
 	<string name="country_name_mo">Макао, Китай</string>
 	<string name="country_name_mp">Північні Маріанські острови</string>
@@ -187,7 +186,7 @@
 	<string name="country_name_ph">Філіпіни</string>
 	<string name="country_name_pk">Пакистан</string>
 	<string name="country_name_pl">Польща</string>
-	<string name="country_name_pm">Сен-П'єр і Мікелон</string>
+	<string name="country_name_pm">"Сен-П'єр і Мікелон"</string>
 	<string name="country_name_pr">Пуерто-Ріко</string>
 	<string name="country_name_ps">Палестина</string>
 	<string name="country_name_pt">Португалія</string>
@@ -244,7 +243,7 @@
 	<string name="country_name_ve">Венесуела</string>
 	<string name="country_name_vg">Британські Віргінські острови</string>
 	<string name="country_name_vi">Віргінські острови</string>
-	<string name="country_name_vn">В'єтнам</string>
+	<string name="country_name_vn">"В'єтнам"</string>
 	<string name="country_name_vu">Вануату</string>
 	<string name="country_name_wf">Уолліс і Футуна</string>
 	<string name="country_name_ws">Західні Самоа</string>
@@ -253,7 +252,9 @@
 	<string name="country_name_zm">Замбія</string>
 	<string name="country_name_zw">Зімбабве</string>
 	<string name="day_of_month">" %d"</string>
+	<string name="days">%d days</string>
 	<string name="delete">Видалити</string>
+	<string name="deprecated_alarm_message_12_hour_formate" />
 	<string name="device_xiaomi">Xiaomi Phone</string>
 	<string name="double_seventh_day" />
 	<string name="emergency_call_string">Екстрені</string>
@@ -275,7 +276,9 @@
 	<string name="find_device_turn_off_flight_mode">Увімкнути режим \"У літаку\"</string>
 	<string name="find_device_turn_off_flight_mode_instructions">"Ваш пристрій заблоковано, вимкніть режим \"У літаку\""</string>
 	<string name="firewall_setting">Чорний список</string>
-	<string name="first_back_long_press_message">Ви хочете, щоб функція довгого натискання клавішуі повернення, закривало додаток і його сервіси? \n\nВключіть через налаштування > Система > Налаштування кнопок</string>
+	<string name="first_back_long_press_message">"Ви хочете, щоб функція довгого натискання клавішуі повернення, закривало додаток і його сервіси? 
+
+Включіть через налаштування > Система > Налаштування кнопок"</string>
 	<string name="fools_day" />
 	<string name="force_exit_message">Програму \"%1$s\" було закрито</string>
 	<string name="forget_password_string">Забути пароль</string>
@@ -289,10 +292,11 @@
 	<string name="great_heat" />
 	<string name="group_name_contacts">Контакти</string>
 	<string name="group_name_coworkers">Колеги</string>
-	<string name="group_name_family">Сім'я</string>
+	<string name="group_name_family">"Сім'я"</string>
 	<string name="group_name_friends">Друзі</string>
 	<string name="heavy_snow" />
 	<string name="hoar_frost_falls" />
+	<string name="hours">%d hours</string>
 	<string name="incorrect_pincode">Невірний PIN-код</string>
 	<string name="incorrect_pincode_remaining_attempts">Невірний PIN-код. Лишилося спроб: %d.</string>
 	<string name="incorrect_pukcode">Невірний PUK-код</string>
@@ -343,8 +347,9 @@
 	<string name="lunar_yi" />
 	<string name="lunar_yue" />
 	<string name="lunar_zheng" />
-	<string name="memory_clear_nothing_result">Немає пам'яті для очищення</string>
+	<string name="memory_clear_nothing_result">"Немає пам'яті для очищення"</string>
 	<string name="memory_clear_result">"Звільнено: %1$s | Доступно: %2$s"</string>
+	<string name="minutes">%d minutes</string>
 	<string name="miui_copyright_title">Авторське право</string>
 	<string name="miui_device_name">MIUI</string>
 	<string name="miui_mibi_license_title">Ліцензійна угода MiCredit</string>
@@ -393,10 +398,11 @@
 	<string name="provider_sougou">由搜狗号码通用户标注</string>
 	<string name="puk_operation_failed">PUK - операція не вдалася.</string>
 	<string name="reboot_confirm">Телефон буде перезавантажено</string>
+	<string name="reboot_confirm_title">Are you sure you want to restart your phone?</string>
 	<string name="reboot_progress">Перезавантаження...</string>
 	<string name="return_to_me_message">Будь ласка, поверніть, якщо я загубив</string>
 	<string name="reverse_all">Очистити виділене</string>
-	<string name="safetylegal_activity_unreachable">Ваш телефон не підключений до мережі. Для перегляду цієї інформації в реальному часі, перейдіть до %s з будь-якого комп'ютера.</string>
+	<string name="safetylegal_activity_unreachable">"Ваш телефон не підключений до мережі. Для перегляду цієї інформації в реальному часі, перейдіть до %s з будь-якого комп'ютера."</string>
 	<string name="screen_button_notification_text">"Натисніть 'Home'+'Power' для увімкнення"</string>
 	<string name="screen_button_notification_title">Кнопки на дисплеї вимкнені</string>
 	<string name="screen_on_proximity_sensor_hint">"Примусовий вихід: натисніть кнопки 'НАЗАД'+'Гучність+'. Режим запобігання помилок може бути вимкнений в 'Налаштування - Екран'"</string>
@@ -404,8 +410,8 @@
 	<string name="screen_on_proximity_sensor_title">Режим попередження помилок</string>
 	<string name="sd_not_available">SD-карта не доступна, вставте або підключіть її</string>
 	<string name="sd_not_available_low_internal_storage">SD-карта не доступна і відсутній внутрішній пристрій збереження</string>
-	<string name="sd_not_available_saved_to_internal_storage">Файл збережено у внутрішню пам'ять</string>
-	<string name="sd_not_available_use_internal_storage">SD-карта не доступна, буде використана внутрішня пам'ять</string>
+	<string name="sd_not_available_saved_to_internal_storage">"Файл збережено у внутрішню пам'ять"</string>
+	<string name="sd_not_available_use_internal_storage">"SD-карта не доступна, буде використана внутрішня пам'ять"</string>
 	<string name="select">Вибрати</string>
 	<string name="select_all">Вибрати все</string>
 	<string name="send">Надіслати</string>
@@ -414,8 +420,14 @@
 	<string name="share">Надіслати</string>
 	<string name="short_pincode_error_msg">Будь ласка, введіть 4-8 цифр</string>
 	<string name="short_pukcode_error_msg">Будь ласка, введіть щонайменше 8 цифр</string>
+	<string name="shutdown_confirm_title">Are you sure you want to shutdown your phone?</string>
 	<string name="sim_account_name">SIM</string>
+	<string name="sim_changed_reactivate_int_notice">Current SIM is unactivated. An international sms is required to activate the service, activate now?</string>
 	<string name="sim_changed_reactivate_notice">Поточна SIM-карта не активована. Необхідна відправка SMS для активації послуги Xiaomi синхронізації. Активувати зараз?</string>
+	<string name="sim_in_airplane_mode">Please disable Airplane mode.</string>
+	<string name="sim_locked">SIM card is locked</string>
+	<string name="sim_not_ready">Sim card is in use. Please try again later.</string>
+	<string name="sim_unavailable">SIM card unavailable</string>
 	<string name="slight_cold" />
 	<string name="slight_heat" />
 	<string name="solar_calendar" />

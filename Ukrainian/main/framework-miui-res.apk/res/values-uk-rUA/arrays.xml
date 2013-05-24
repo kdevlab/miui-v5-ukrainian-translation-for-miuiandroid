@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>   
-    <string-array name="alphabet_table">
+<!-- Merged and sorted with KDev Sorter -->
+<resources>
+     <string-array name="alarm_in_future">
+        <item>Alarm in less than a minute</item>
+        <item>Alarm in %1$s</item>
+        <item>Alarm in %2$s</item>
+        <item>Alarm in %1$s %2$s</item>
+        <item>Alarm in %3$s</item>
+        <item>Alarm in %1$s %3$s</item>
+        <item>Alarm in %2$s %3$s</item>
+        <item>Alarm in %1$s %2$s %3$s</item>
+     </string-array>
+     <!-- The size of the array does not match! Now: 56 must: 28 -->
+     <string-array name="alphabet_table">
         <item>\#</item>
         <item>А</item>
         <item>Б</item>
@@ -30,31 +42,37 @@
         <item>Щ</item>
         <item>Ю</item>
         <item>Я</item>
-		<item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>F</item>
-        <item>G</item>
-        <item>H</item>
-        <item>I</item>
-        <item>J</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>N</item>
+     </string-array>
+     <string-array name="alphabet_table_with_starred">
+        <item>!</item>
+        <item>\#</item>
+        <item>А</item>
+        <item>Б</item>
+        <item>В</item>
+        <item>Г</item>
+        <item>Д</item>
+        <item>Е</item>
+        <item>Є</item>
+        <item>Ж</item>
+        <item>З</item>
+        <item>І</item>
+        <item>К</item>
+        <item>Л</item>
+        <item>М</item>
+        <item>Н</item>
         <item>О</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>S</item>
-        <item>T</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>Y</item>
-        <item>Z</item>
-    </string-array>
+        <item>П</item>
+        <item>Р</item>
+        <item>С</item>
+        <item>Т</item>
+        <item>У</item>
+        <item>Ф</item>
+        <item>Х</item>
+        <item>Ц</item>
+        <item>Ч</item>
+        <item>Ш</item>
+        <item>Щ</item>
+        <item>Ю</item>
+        <item>Я</item>
+     </string-array>
 </resources>
