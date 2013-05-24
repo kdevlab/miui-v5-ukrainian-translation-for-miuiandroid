@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="app_label">Програми</string>
 	<string name="application_desc">Програми</string>
 	<string name="search_label">Програми</string>
 	<string name="settings_description">Пошук програм</string>
 </resources>
+
