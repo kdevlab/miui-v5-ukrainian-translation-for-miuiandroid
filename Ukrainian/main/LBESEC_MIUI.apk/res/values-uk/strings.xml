@@ -60,7 +60,7 @@
      <string name="Generic_UserApp">Завантажені програми (%d)</string>
      <string name="Generic_Version">Версія: %1$s</string>
      <string name="HIPS_Action_Accept">Дозволити</string>
-     <string name="HIPS_Action_Accept_Colored">Разрешить</string>
+     <string name="HIPS_Action_Accept_Colored">Дозволити</string>
      <string name="HIPS_Action_Accept_Count">Дозволені: %1$d</string>
      <string name="HIPS_Action_Prompt">Запитати</string>
      <string name="HIPS_Action_Prompt_Colored">Запитувати</string>
