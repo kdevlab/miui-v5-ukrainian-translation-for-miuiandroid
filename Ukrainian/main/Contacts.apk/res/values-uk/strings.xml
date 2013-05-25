@@ -791,7 +791,7 @@
      <string name="select_device">виберіть пристрій для підключення</string>
      <string name="select_new_photo_from_photo_package">Вибрати нове фото з фото-пакету</string>
      <string name="select_none">Виберіть хоча б 1 контакт</string>
-     <string name="select_photo_from_photo_package">Виберітьте фотографію</string>
+     <string name="select_photo_from_photo_package">Виберіть фотографію</string>
      <string name="select_show_contacts">Відображення контактів</string>
      <string name="select_vcard_title">Вибір файлу vCard</string>
      <string name="send_contact_shortcut_todesktop_success">Ярлик на робочому столі створений</string>
