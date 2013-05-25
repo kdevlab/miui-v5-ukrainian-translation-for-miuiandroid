@@ -134,6 +134,6 @@
 	<string name="weather_fetch_failure">Інформація про погоду зараз недоступна</string>
 	<string name="weekend_alarm_clock">По вихідних</string>
 	<string name="workday_alarm_clock">У будні дні</string>
-	<string name="worldclock_empty_text">Немає світового години</string>
+	<string name="worldclock_empty_text">Немає світового часу</string>
 	<string name="worldclock_title">Світовий час</string>
 </resources>
