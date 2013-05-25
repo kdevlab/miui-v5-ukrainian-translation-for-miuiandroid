@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="app_name">Програма встановлення сертифікатів</string>
 	<string name="cert_is_added">%s встановлений</string>
