@@ -48,7 +48,7 @@
   <string name="media_scanner_running">Запущено сканування...</string>
   <string name="menu_kodak">Kodak</string>
   <string name="menu_snapfish">Snapfish</string>
-  <string name="name_is_empty">Ім'я пусте</string>
+  <string name="name_is_empty">Назва пуста</string>
   <string name="no_have_video">"Відео файл не існує або невірний файл"</string>
   <string name="no_media_found">Немає записів</string>
   <string name="no_sdcard">SD карта не виявлена</string>
