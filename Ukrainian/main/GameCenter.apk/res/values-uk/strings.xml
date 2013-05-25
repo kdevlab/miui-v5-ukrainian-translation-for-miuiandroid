@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="abs__action_bar_home_description">Йти додому</string>
   <string name="abs__action_bar_up_description">Йти наверх</string>
   <string name="abs__action_menu_overflow_description">Більше опцій</string>
@@ -81,7 +79,7 @@
   <string name="notif_install_failed">%1$s - помилка установки</string>
   <string name="notif_install_successful">%1$s - успішно встановлено</string>
   <string name="notif_installing">Установка “%1$s”…</string>
-  <string name="notif_title_update">Доступно %1$s обновлень!</string>
+  <string name="notif_title_update">Доступно %1$s оновлень!</string>
   <string name="paused">пауза</string>
   <string name="pending">очікування</string>
   <string name="permission_button">Дозволи (%1$s)</string>
