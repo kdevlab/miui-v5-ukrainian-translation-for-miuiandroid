@@ -86,7 +86,7 @@
   <string name="editor_transition_title">Перехід</string>
   <string name="editor_transition_too_short">Неможливо додати перехід. Перехід занадто короткий</string>
   <string name="editor_unmute">Зі звуком</string>
-  <string name="editor_video_load">Почалось завантаження видеоклипа. Ви отримаєте повідомлення про закінчення завантаження</string>
+  <string name="editor_video_load">Почалось завантаження відеоклипа. Ви отримаєте повідомлення про закінчення завантаження</string>
   <string name="editor_zero_time_stamp">00:00:00.0</string>
   <string name="effect_fifties">Кіно 1950-х років</string>
   <string name="effect_gradient">Еффект градіенту</string>
