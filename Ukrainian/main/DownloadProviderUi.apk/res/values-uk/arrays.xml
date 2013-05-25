@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
-     <!-- The size of the array does not match! Now: 4 must: 7 -->
-     <string-array name="download_filters">
+    <string-array name="download_filters">
         <item>Усі</item>
         <item>Завершені</item>
         <item>В процесі</item>
-     </string-array>
-     <!-- The size of the array does not match! Now: 9 must: 8 -->
-     <string-array name="prefEntries_max_bytes_limit">
+    </string-array>
+    <string-array name="prefEntries_max_bytes_limit">
         <item>Немає ліміту</item>
         <item>10МБ</item>
         <item>5МБ</item>
@@ -17,5 +14,5 @@
         <item>500КБ</item>
         <item>200КБ</item>
         <item>100КБ</item>
-     </string-array>
+    </string-array>
 </resources>
