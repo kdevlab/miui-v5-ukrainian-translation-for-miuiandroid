@@ -111,8 +111,8 @@
      <string name="sign_in_info">Рейтинг: %1$s %2$s %3$s версія</string>
      <string name="sign_in_info_rank_more">"Ваша оновлення рейтингу після %1$s
 Більше %2$s користувачів підписалися в MIUI %3$s"</string>
-     <string name="sign_in_info_total_more">"Your update ranking is %1$s
-Over %2$s users have signed in for MIUI %3$s"</string>
+     <string name="sign_in_info_total_more">"Ваше оновлення має рейтинг %1$s
+Більше %2$s користувачів підписаних на MIUI %3$s"</string>
      <string name="stable_build">стабільна збірка</string>
      <string name="start_update">Почати оновлення</string>
      <string name="submit">Підтвердити</string>
