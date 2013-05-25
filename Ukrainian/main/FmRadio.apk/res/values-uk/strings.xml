@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <!--Translated by KDev Group (main repository)-->
-  <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
   <string name="AF_Threshold">Встановити AF Threshold (INT)</string>
   <string name="AF_Valid_Threshold">Встановити AF Valid Threshold (int)</string>
   <string name="CNT">Встановити Seek CNT (int)</string>
@@ -43,7 +41,7 @@
   <string name="remove">Видалити</string>
   <string name="rename">Перейменувати</string>
   <string name="rename_channel">Перейменувати</string>
-  <string name="rename_text">Введіть ім\'я</string>
+  <string name="rename_text">Введіть ім'я</string>
   <string name="replace">Замінити</string>
   <string name="save">Зберегти</string>
   <string name="scan">Сканувати</string>
