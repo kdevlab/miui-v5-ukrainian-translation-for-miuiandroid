@@ -7,7 +7,7 @@
      <string name="app_comments_title">%1$s - коментарі</string>
      <string name="app_name">Супермаркет</string>
      <string name="bad_comments">Погані</string>
-     <string name="button_refresh">Обновити</string>
+     <string name="button_refresh">Оновити</string>
      <string name="button_search">Пошук</string>
      <string name="bytes">%1$s/%2$s</string>
      <string name="bytes_unit">%1$sбайт</string>
@@ -61,7 +61,7 @@
      <string name="install_btn_download_manager">Менеджер завантажень</string>
      <string name="install_btn_ok">ОК</string>
      <string name="install_fail">%1$s - помилка встановлення</string>
-     <string name="install_google_base_button">Установити всі</string>
+     <string name="install_google_base_button">Встановити всі</string>
      <string name="install_google_base_message">“%1$s” вимагає Google Service Framework для роботи</string>
      <string name="install_google_base_title">Встановлення Google Service Framework</string>
      <string name="install_hash_fail">%1$s - помилка встановлення</string>
@@ -151,7 +151,7 @@
      <string name="pref_title_silent_install">Тихе встановлення</string>
      <string name="pref_title_update_notify_mode">Сповіщення оновлень</string>
      <string name="pref_title_update_onlyby_wifi">Автооновлення тільки по Wi-Fi</string>
-     <string name="pref_title_use_staging"> Для використання проміжного сервера</string>
+     <string name="pref_title_use_staging"> Для використання проміжного серверу</string>
      <string name="price">￥%1$s</string>
      <string name="progress">%1$s%%</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
@@ -163,7 +163,7 @@
      <string name="remove_package_timeout_fail">Помилка встановлення %1$s: видалення старої версії не вдалося, видаліть вручну</string>
      <string name="result_notice">Результати призупинені сервісом додатків Baidu</string>
      <string name="result_of_clear_history">Історія пошуку успішно очищена</string>
-     <string name="search_local_app_text_hint">Search apps in %1$d installed</string>
+     <string name="search_local_app_text_hint">Пошук додатків в %1$d інстальованих</string>
      <string name="search_not_found">\"%1$s\" не знайдене</string>
      <string name="search_other_market">Пошук іншого маркета</string>
      <string name="share_button">Поділитися</string>
