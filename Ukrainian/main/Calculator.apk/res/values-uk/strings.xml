@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="advanced">Додаткова панель</string>
 	<string name="app_name">Калькулятор</string>
@@ -10,7 +9,7 @@
 	<string name="factorialDesc">Факторіал</string>
 	<string name="leftParenDesc">Ліва скобка</string>
 	<string name="lgDesc">Логарифм</string>
-	<string name="lnDesc">Натуральный логарифм</string>
+	<string name="lnDesc">Натуральний логарифм</string>
 	<string name="minusDesc">Мінус</string>
 	<string name="rightParenDesc">Права скобка</string>
 	<string name="scientific">Науковий</string>
