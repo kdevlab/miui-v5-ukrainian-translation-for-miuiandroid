@@ -55,7 +55,7 @@
      <string name="resource_buy">Купити</string>
      <string name="resource_can_not_selected">%1$s не може бути обраний!</string>
      <string name="resource_comment_account_need_activitied">Ваш акаунт не активований, хочете активувати зараз?</string>
-     <string name="resource_comment_count">Рейтинг: %1$s и Коментарі: %2$s (Версія: %3$s)</string>
+     <string name="resource_comment_count">Рейтинг: %1$s і Коментарі: %2$s (Версія: %3$s)</string>
      <string name="resource_comment_description">%1$s коментарі %2$s:%3$s:%4$s</string>
      <string name="resource_comment_edit_comment">Добавити коментар</string>
      <string name="resource_comment_edit_comment_waiting">Перевірка Ваших відповідей до цієї теми...</string>
