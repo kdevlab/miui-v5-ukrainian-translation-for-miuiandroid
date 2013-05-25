@@ -802,7 +802,7 @@
      <string name="set_default">Встановити за замовчуванням</string>
      <string name="set_photo_failed_msg">Set avatar failed</string>
      <string name="share_error">Не вдалося передати дані</string>
-     <string name="share_via">Спосіб відправки</string>
+     <string name="share_via">Відправити за допомогою</string>
      <string name="share_visible_contacts">Передати всі контакти</string>
      <string name="shortcutActivityTitle">Вибрати контакт для швидкого виклику</string>
      <string name="shortcutContact">Контакти</string>
