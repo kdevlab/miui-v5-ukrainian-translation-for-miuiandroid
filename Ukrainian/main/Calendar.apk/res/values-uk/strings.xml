@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="accessibility_add_attendee">Додати учасника</string>
 	<string name="accessibility_add_reminder">Додати нагадування</string>
@@ -18,7 +17,7 @@
 	<string name="accessibility_repeats">Повтор</string>
 	<string name="accessibility_sync_cal">Синхронізувати календар</string>
 	<string name="accounts">Акаунти</string>
-	<string name="acct_not_synced">Цей аккаунт не синхронізується, тому ваші календарі не оновлюються</string>
+	<string name="acct_not_synced">Цей акаунт не синхронізується, тому ваші календарі не оновлюються</string>
 	<string name="acessibility_cal_notification">Сповіщення календаря</string>
 	<string name="acessibility_selected_marker_description">Обрана подія</string>
 	<string name="acessibility_snooze_notification">Відкласти захід</string>
@@ -41,10 +40,7 @@
 	<string name="copy_db">Надіслати базу даних</string>
 	<string name="copy_email">Скопіювати E-Mail адресу</string>
 	<string name="copy_number">Скопіювати номер телефону</string>
-	<string name="create_an_account_desc">"Підключіть Календар до аккаунту Google, щоб:
-
-• Завжди мати під рукою оновлені дані - на будь-якому пристрої.
-• Синхронізувати всі заходи - ви ніколи не втратите їх"</string>
+	<string name="create_an_account_desc">Підключіть Календар до акаунту Google, щоб:\n\n• Завжди мати під рукою оновлені дані - на будь-якому пристрої.\n• Синхронізувати всі заходи - ви ніколи не втратите їх</string>
 	<string name="creating_event">Подію створено</string>
 	<string name="creating_event_with_guest">Запрошення надіслано</string>
 	<string name="custom">Особливе... (налаштовується тільки на сайті)</string>
@@ -109,7 +105,7 @@
 	<string name="more_string">ще %1$s...</string>
 	<string name="new_event_dialog_label">Новий захід</string>
 	<string name="new_event_dialog_option">Новий захід</string>
-	<string name="no_calendars_found">"​​Додати захід можна тільки у видимий календар, пов'язаний з аккаунтом Google. Натисніть Додати акаунт \" або, якщо аккаунт вже доданий, дочекайтеся закінчення синхронізації і повторіть спробу. Або натисніть \"Скасувати\" і зробіть видимим хоча б один календар"</string>
+	<string name="no_calendars_found">"​​Додати захід можна тільки у видимий календар, пов'язаний з акаунтом Google. Натисніть Додати акаунт \" або, якщо акаунт вже доданий, дочекайтеся закінчення синхронізації і повторіть спробу. Або натисніть \"Скасувати\" і зробіть видимим хоча б один календар"</string>
 	<string name="no_syncable_calendars">Немає календарів</string>
 	<string name="no_title_label">(Немає заголовка)</string>
 	<string name="not_synced">Не синхронізований</string>
@@ -120,7 +116,7 @@
 	<string name="preferences_alerts_title">Сповіщення</string>
 	<string name="preferences_alerts_vibrateWhen_title">Вібросигнал</string>
 	<string name="preferences_build_version">Версія збірки</string>
-	<string name="preferences_category_account_title">Аккаунт</string>
+	<string name="preferences_category_account_title">Акаунт</string>
 	<string name="preferences_category_general_title">Загальні</string>
 	<string name="preferences_clear_search_history_summary">Видалити інформацію про всі виконані пошукові запити</string>
 	<string name="preferences_clear_search_history_title">Очистити історію пошуку</string>
