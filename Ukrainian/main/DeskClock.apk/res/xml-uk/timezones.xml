@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<timezones>
-  <!--Translated with KDev Group Translator Editor (main repository)-->
+<timezones>  
   <timezone id="Australia/Adelaide">Аделаїда</timezone>
   <timezone id="Atlantic/Azores">Азорські о-ви</timezone>
   <timezone id="Asia/Almaty">Алмати</timezone>
