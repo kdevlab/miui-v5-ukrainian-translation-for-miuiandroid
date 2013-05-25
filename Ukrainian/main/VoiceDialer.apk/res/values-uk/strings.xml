@@ -9,7 +9,7 @@
   <string name="examples">" Зразки: "</string>
   <string name="failure">Помилка</string>
   <string name="goodbye_tts">До побачення</string>
-  <string name="headset_connection_lost">Зв'язок з навушниками втрачений</string>
+  <string name="headset_connection_lost">"Зв'язок з навушниками втрачений"</string>
   <string name="initializing">Підготовка до роботи</string>
   <string name="invalid_choice_tts">Невірний вибір</string>
   <string name="listening">Слухаю...</string>
