@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="app_label">Сховище контактів</string>
 	<string name="call_log_provider_label">Журнал викликів</string>
