@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
 <resources>
 	<string name="calendar_default_name">За замовчуванням</string>
 	<string name="calendar_info">Відомості про календар</string>
@@ -10,7 +9,7 @@
 	<string name="calendar_storage">"Пам'ять календарю"</string>
 	<string name="debug_tool_delete_button">Видалити зараз</string>
 	<string name="debug_tool_email_body">До повідомлення додана база даних календарю зі всіма зустрічами і особистою інформацією. Будь ласка, поводьтесь з нею обережно.</string>
-	<string name="debug_tool_email_sender_picker">Виберить програму, щоб відправити файл</string>
+	<string name="debug_tool_email_sender_picker">Виберіть програму, щоб відправити файл</string>
 	<string name="debug_tool_email_subject">БД Календарю додається</string>
 	<string name="debug_tool_message">Ви збираєтесь 1) створити копію бази даних календаря на SD-карті/USB-накопичувачі, які доступні для читання всим програмам, і 2) відправити її по електронній пошті. Не забудьте видалити базу даних після того, як вона буде скопійована з пристрою чи отримана по електронній пошті.</string>
 	<string name="debug_tool_start_button">Почати</string>
