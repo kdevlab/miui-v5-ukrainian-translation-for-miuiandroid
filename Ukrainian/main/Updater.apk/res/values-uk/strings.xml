@@ -104,7 +104,7 @@
      <string name="share_qq">Поділитися через Tencent Weibo</string>
      <string name="share_sina">Поділитися через Sina Weibo</string>
      <string name="share_update">Відправити інформацію про оновлення</string>
-     <string name="share_update_content_sign">Я оновив MIUI до %1$s! Ранг обновления %2$s. Для отримання докладних змін, будь ласка, відвідайте %3$s.</string>
+     <string name="share_update_content_sign">Я оновив MIUI до %1$s! Ранг оновления %2$s. Для отримання докладних змін, будь ласка, відвідайте %3$s.</string>
      <string name="share_update_content_unsign">Я оновив MIUI до %1$s! Для отримання докладних змін, будь ласка, відвідайте %2$s.</string>
      <string name="sign_in_add_account">Активуйте акаунт Xiaomi</string>
      <string name="sign_in_add_account_helper">У вашому телефоні немає акаунту MIUI, будь ласка додайте його</string>
