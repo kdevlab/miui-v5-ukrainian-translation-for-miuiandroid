@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="cdma_system_select_choices">
         <item>Тільки домашня</item>
@@ -39,10 +39,10 @@
         <item>GSM / WCDMA (краща мережа)</item>
      </string-array>
      <string-array name="tty_mode_entries">
-    <item>Телетайп вимкнений</item>
-    <item>Повнофункціональний телетайп</item>
-    <item>Телетайп з можливістю чути співрозмовника</item>
-    <item>Телетайп з можливістю передачі голосу</item>
+        <item>Телетайп вимкнений</item>
+        <item>Повнофункціональний телетайп</item>
+        <item>Телетайп з можливістю чути співрозмовника</item>
+        <item>Телетайп з можливістю передачі голосу</item>
      </string-array>
      <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Завжди</item>

@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-	<string name="advanced">Додаткова панель</string>
-	<string name="app_name">Калькулятор</string>
-	<string name="basic">Основна панель</string>
-	<string name="clear_history">Очистити історію</string>
-	<string name="eDesc">Число Ейлера</string>
-	<string name="error">Помилка</string>
-	<string name="factorialDesc">Факторіал</string>
-	<string name="leftParenDesc">Ліва скобка</string>
-	<string name="lgDesc">Логарифм</string>
-	<string name="lnDesc">Натуральний логарифм</string>
-	<string name="minusDesc">Мінус</string>
-	<string name="rightParenDesc">Права скобка</string>
-	<string name="scientific">Науковий</string>
-	<string name="sqrtDesc">Квадратний корінь</string>
-	<string name="text_copied_toast">Текст скопійований</string>
+     <string name="advanced">Додаткова панель</string>
+     <string name="app_name">Калькулятор</string>
+     <string name="basic">Основна панель</string>
+     <string name="clear_history">Очистити історію</string>
+     <string name="eDesc">Число Ейлера</string>
+     <string name="error">Помилка</string>
+     <string name="factorialDesc">Факторіал</string>
+     <string name="leftParenDesc">Ліва скобка</string>
+     <string name="lgDesc">Логарифм</string>
+     <string name="lnDesc">Натуральний логарифм</string>
+     <string name="minusDesc">Мінус</string>
+     <string name="rightParenDesc">Права скобка</string>
+     <string name="scientific">Науковий</string>
+     <string name="sqrtDesc">Квадратний корінь</string>
+     <string name="text_copied_toast">Текст скопійований</string>
 </resources>

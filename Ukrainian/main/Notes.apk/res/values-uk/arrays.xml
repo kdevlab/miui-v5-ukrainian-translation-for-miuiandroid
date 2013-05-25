@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="contact_entries">
-        <item>Ім\'я</item>    
+        <item>"Ім\'я"</item>
         <item>Нік</item>
-        <item>Телефон</item>	
-        <item>E-mail</item>	
+        <item>Телефон</item>
+        <item>E-mail</item>
         <item>Організація</item>
         <item>IM</item>
         <item>Інтернет-телефон</item>

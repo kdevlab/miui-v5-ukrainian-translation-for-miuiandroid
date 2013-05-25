@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="otherLabels">
+     <string-array name="otherLabels">
         <item>Організація</item>
         <item>Примітка</item>
-    </string-array>
+     </string-array>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="date_of_app">
-        <item>За вчора</item>    
+        <item>За вчора</item>
         <item>За сьогодні</item>
-        <item>За місяць</item>    
+        <item>За місяць</item>
      </string-array>
      <string-array name="date_of_app_all">
         <item>За вчора 2G/3G</item>

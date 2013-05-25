@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="permission_description">
         <item>Доступ до грубих розташування джерела (таких як бази даних стільникової мережі), щоб визначити загальне розташування телефону (якщо можливо). Шкідливе ПО може використовувати, щоб визначити, що ви в загальному місці</item>
@@ -582,7 +582,7 @@
         <item>Пошуковій системі внутрішній стан</item>
         <item>Розгорнути Shoulong статусному рядку</item>
         <item>На заводі тестовому режимі запустити</item>
-        <item>Керування спалахом</item>          
+        <item>Керування спалахом</item>
         <item>强制应用程序关闭</item>
         <item>强行停止其他应用程序</item>
         <item>发现已知帐户</item>

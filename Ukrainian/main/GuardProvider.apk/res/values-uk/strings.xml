@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Merged and sorted with KDev Sorter -->
+<!-- Builded with CloudBuildr -->
 <resources>
-	<string name="app_name">Антивірус Jinshan</string>
-	<string name="hello_world">Привіт світ!</string>
-	<string name="menu_settings">Налаштування</string>
+     <string name="app_name">Антивірус Jinshan</string>
+     <string name="hello_world">Привіт світ!</string>
+     <string name="menu_settings">Налаштування</string>
 </resources>
