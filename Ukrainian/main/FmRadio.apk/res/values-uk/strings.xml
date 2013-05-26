@@ -26,7 +26,7 @@
   <string name="dialog_channel_one_found">%1$d.%2$d MHz канал знайдений. Всього знайдено 1 канал</string>
   <string name="dialog_channel_one_found_south_region">%1$s MHz канал знайдений. Всього знайдено 1 канал</string>
   <string name="dialog_scan">Сканування...</string>
-  <string name="dialog_tts_confirm">Установка голосових даних, необхідних для синтезу мови</string>
+  <string name="dialog_tts_confirm">Встановлення голосових даних, необхідних для синтезу мови</string>
   <string name="done">Готово</string>
   <string name="fav_channel">Вибрані</string>
   <string name="headset_disconnect">Навушники відключені. Радіо буде вимкнено</string>

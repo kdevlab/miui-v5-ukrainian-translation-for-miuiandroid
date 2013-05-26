@@ -449,7 +449,7 @@
      <string name="menu_bar_group_delete">Видалити групу</string>
      <string name="menu_bar_group_rename">Перейменувати</string>
      <string name="menu_bar_group_ringtone">Рингтон групи</string>
-     <string name="menu_bar_group_sms">SMS группе</string>
+     <string name="menu_bar_group_sms">SMS групі</string>
      <string name="menu_call">Подзвонити</string>
      <string name="menu_callNumber">Виклик: %s</string>
      <string name="menu_call_ip_number">Виклик через IP (виклик %s)</string>
@@ -483,7 +483,7 @@
      <string name="menu_select_none">Відмінити все</string>
      <string name="menu_sendSMS">Відправити SMS/MMS</string>
      <string name="menu_sendTextMessage">Відправити повідомлення</string>
-     <string name="menu_set_ring_tone">Поставити рінгтон</string>
+     <string name="menu_set_ring_tone">Поставити рингтон</string>
      <string name="menu_settings">Налаштування</string>
      <string name="menu_share">Надіслати</string>
      <string name="menu_show_all_calls">Показати всі виклики</string>
@@ -601,7 +601,7 @@
      <string name="notification_voicemail_callers_list">%1$s,%2$s</string>
      <string name="online_no_network">"Не можливо під'єднатися до мережі"</string>
      <string name="online_search_hint">Введіть ключові слова</string>
-     <string name="openDialKeyboard">Клавіатура</string>
+     <string name="openDialKeyboard">Номеронабирач</string>
      <string name="open_contact">Відкрити контакт</string>
      <string name="option_delete_contact">Видалити</string>
      <string name="option_delete_group">Видалити групу</string>
@@ -703,7 +703,7 @@
      <string name="processing">Обробка...</string>
      <string name="profile_display_name">Налаштувати профіль</string>
      <string name="progress_notifier_message" formatted="false">Імпорт %s/%s:%s</string>
-     <string name="quickcontact_missing_app">Дія не підтримується ні в одній програмі</string>
+     <string name="quickcontact_missing_app">Дія не підтримується в жодній з програм</string>
      <string name="quit_dialog_confirm_title">"Ви дійсно хочете вийти з об'єднання контактів?"</string>
      <string name="readOnlyContactDeleteConfirmation">Цей контакт містить інформацію з різних акаунтів. Інформація з акаунтів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
      <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" містить інформацію з різних акаунтів. Інформація з акаунтів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
@@ -752,7 +752,7 @@
      <string name="resource_importing">Імпорт...</string>
      <string name="resource_list_title">Останні</string>
      <string name="resource_local">Локально %1$s</string>
-     <string name="resource_mute">Без звука</string>
+     <string name="resource_mute">Без звуку</string>
      <string name="resource_no_result">Немає результатів</string>
      <string name="resource_notification_default">Сповіщення</string>
      <string name="resource_online">Онлайн %1$s</string>
@@ -775,10 +775,10 @@
      <string name="save_photo_progress">Збереження фото...</string>
      <string name="savingContact">Контакт зберігається...</string>
      <string name="savingDisplayGroups">Варіанти відображення зберігаються...</string>
-     <string name="scan">сканувати пристрій</string>
+     <string name="scan">Сканувати пристрій</string>
      <string name="scan_duplicate_message">Контакти з повним дублюванням даних (%1$d)</string>
      <string name="scan_merge">Пошук можливих дублікатів контактів, будь ласка, почекайте...</string>
-     <string name="scanning">пошук пристроїв...</string>
+     <string name="scanning">Пошук пристроїв...</string>
      <string name="scanning_sdcard_failed_message">Не вдалося просканувати SD-карту. Причина: %s</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканована</string>
      <string name="sdcard_status_changed_dialog_message">Потрібен вихід. \ NБудь ласка, відкрийте це додаток ще раз, для оновлення ресурсів.</string>
@@ -788,7 +788,7 @@
      <string name="search_settings_description">Імена контактів</string>
      <string name="searching_vcard_message">Пошук даних vCard на SD-карті...</string>
      <string name="select_all">Вибрати все</string>
-     <string name="select_device">виберіть пристрій для підключення</string>
+     <string name="select_device">Виберіть пристрій для підключення</string>
      <string name="select_new_photo_from_photo_package">Вибрати нове фото з фото-пакету</string>
      <string name="select_none">Виберіть хоча б 1 контакт</string>
      <string name="select_photo_from_photo_package">Виберіть фотографію</string>
@@ -855,7 +855,7 @@
      <string name="sms_work_pager">SMS: робочий пейдж.</string>
      <string name="social_widget_label">Контакт</string>
      <string name="social_widget_loading">Завантаження...</string>
-     <string name="splitConfirmation">Цей контакт буде розділений</string>
+     <string name="splitConfirmation">Цей контакт буде поділено</string>
      <string name="splitConfirmation_title">Поділ контакту</string>
      <string name="starredList">Помічені</string>
      <string name="starred_contacts">Обрані</string>
@@ -903,7 +903,7 @@
      <string name="vcard_import_request_rejected_message">Запит на імпорт даних vCard відхилений. Повторіть спробу пізніше</string>
      <string name="vcard_import_will_start_message">Імпорт %s розпочнеться найближчим часом</string>
      <string name="vcard_import_will_start_message_with_default_name">Файл буде імпортовано в найближчим часом</string>
-     <string name="vcard_unknown_filename">контакт</string>
+     <string name="vcard_unknown_filename">Контакт</string>
      <string name="video_chat">Відеочат</string>
      <string name="viewContactDesription">Переглянути контакт</string>
      <string name="viewContactTitle">Відомості про контакт</string>
