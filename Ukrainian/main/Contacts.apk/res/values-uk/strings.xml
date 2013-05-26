@@ -311,7 +311,7 @@
      <string name="emptyGroup">Люди відсутні в групі</string>
      <string name="empty_divider_title">Ви можете</string>
      <string name="enter_contact_name">"Ім'я контакту"</string>
-     <string name="eventLabelsGroup">Заходи</string>
+     <string name="eventLabelsGroup">Події</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Експорт на SIM-карту завершено</string>
      <string name="export_sim_contacts_dialog_message">На SIM-карту можні зберегти %d контактів, продовжити?</string>
@@ -659,7 +659,7 @@
      <string name="pref_summary_import_from_account">Імпорт контактів з акаунту Google в акаунт Xiaomi</string>
      <string name="pref_title_account_import">Імпорт із акаунту</string>
      <string name="pref_title_import_from_account">Імпорт в акаунт Xiaomi</string>
-     <string name="preference_auto_ip_summary_disable">Не включено</string>
+     <string name="preference_auto_ip_summary_disable">Не ввімкнено</string>
      <string name="preference_auto_ip_summary_on">Префікс оператора: %s</string>
      <string name="preference_auto_ip_title">Автоматичний IP</string>
      <string name="preference_contacts">Налаштування контактів</string>
@@ -678,7 +678,7 @@
      <string name="preference_import_export">Імпорт/Експорт</string>
      <string name="preference_import_export_title">Імпорт/Експорт контактів</string>
      <string name="preference_others">Інше</string>
-     <string name="preference_phone">Нлаштування телефона</string>
+     <string name="preference_phone">Нлаштування телефону</string>
      <string name="preference_phone_more_title">Інші налаштування</string>
      <string name="preference_remove_duplicate">Злиття дублікатів контактів</string>
      <string name="preference_simple_mode_description">Не відображати аватари, атрибуції, компанії і т.п.</string>
