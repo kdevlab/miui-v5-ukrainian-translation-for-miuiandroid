@@ -449,7 +449,7 @@
      <string name="menu_bar_group_delete">Видалити групу</string>
      <string name="menu_bar_group_rename">Перейменувати</string>
      <string name="menu_bar_group_ringtone">Рингтон групи</string>
-     <string name="menu_bar_group_sms">SMS группе</string>
+     <string name="menu_bar_group_sms">SMS групі</string>
      <string name="menu_call">Подзвонити</string>
      <string name="menu_callNumber">Виклик: %s</string>
      <string name="menu_call_ip_number">Виклик через IP (виклик %s)</string>
@@ -483,7 +483,7 @@
      <string name="menu_select_none">Відмінити все</string>
      <string name="menu_sendSMS">Відправити SMS/MMS</string>
      <string name="menu_sendTextMessage">Відправити повідомлення</string>
-     <string name="menu_set_ring_tone">Поставити рінгтон</string>
+     <string name="menu_set_ring_tone">Поставити рингтон</string>
      <string name="menu_settings">Налаштування</string>
      <string name="menu_share">Надіслати</string>
      <string name="menu_show_all_calls">Показати всі виклики</string>
