@@ -1,13 +1,14 @@
-miui-v4-ukrainian-translation-for-miuiandroid
+miui-v5-ukrainian-translation-for-miuiandroid
 ============
 
-Ukrainian MIUI v4 translation (all supported devices)
+Ukrainian MIUI v5 translation (all supported devices)
 
 MIUI Translators:
- - KDGDev (KOJAN Development Group)
+ - KDGDev (KDev Group)
+ - rediskus (rediskus)
  - axel2033 (Ilia Aksyonov)
- - devserg
+ - devserg (devserg)
  - malchik-solnce (Сережка)))
  - miuirussia (MIUI Russia)
  - VBenkovskyy (Vlaaaad)
- - taras.if.ua
+ - taras.if.ua (taras.if.ua)
