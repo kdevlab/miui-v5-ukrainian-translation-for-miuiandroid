@@ -5,7 +5,7 @@
      <string name="about_title">Про програму</string>
      <string name="adjust_position_next_media_notice">Далі</string>
      <string name="adjust_position_prev_media_notice">Останній</string>
-     <string name="airkan_control_device_des">Ви можете управляти відтворенням відео за допомогою кнопки в нижній частині</string>
+     <string name="airkan_control_device_des">Ви можете керувати відтворенням відео за допомогою кнопки в нижній частині</string>
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
      <string name="airkan_video_playing">Трансляция</string>
      <string name="airkan_video_playing_in">Відтворюється…</string>
@@ -28,10 +28,10 @@
      <string name="menu_wh_item_full_screen_label">На весь екран</string>
      <string name="menu_wh_item_using_16_9_label">Примусово 16:9</string>
      <string name="menu_wh_item_using_4_3_label">Примусово 4:3</string>
-     <string name="nowifi_alert_dialog_continue">继续</string>
-     <string name="nowifi_alert_dialog_exit">退出</string>
-     <string name="nowifi_alert_dialog_message">您在使用收费网络播放视频，是否继续？</string>
-     <string name="nowifi_alert_dialog_title">流量提示</string>
+     <string name="nowifi_alert_dialog_continue">Продовжити</string>
+     <string name="nowifi_alert_dialog_exit">Вихід</string>
+     <string name="nowifi_alert_dialog_message">Використання в роумінгу. Варто продовжувати?</string>
+     <string name="nowifi_alert_dialog_title">Поради</string>
      <string name="temp_play_history_button_label">Істория плеєра</string>
      <string name="to_be_play_label_v5">Відтворення</string>
      <string name="toast_back_key_pressed_notice">Натисніть НАЗАД ще раз для выходу</string>
