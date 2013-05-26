@@ -15,8 +15,7 @@
      <string name="direction_south">Пд</string>
      <string name="direction_west">Зх</string>
      <string name="getting_location">Отримання координат...</string>
-     <string name="guide_toast">"There might be magnetic field interference around.
-Please calibrate the compass according to the above gesture."</string>
+     <string name="guide_toast">"Тут може бути вплив магнітних перешкод. Будь ласка, проводьте калібрування відповідно до вищенаведених жестів."</string>
      <string name="latitude">LAT</string>
      <string name="location_east">%s Сх</string>
      <string name="location_north">%s Пн</string>
