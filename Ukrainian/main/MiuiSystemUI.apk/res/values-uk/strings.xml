@@ -201,7 +201,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_network_flow_exceed">Сьогодні: %1$s | Залишилось: %2$s</string>
      <string name="status_bar_network_flow_today">Сьогодні: %1$s</string>
      <string name="status_bar_network_name_separator">|</string>
-     <string name="status_bar_no_recent_apps">Немає недавніх програм</string>
+     <string name="status_bar_no_recent_apps">Відкриті програми відсутні</string>
      <string name="status_bar_notification_inspect_item_title">Про програму</string>
      <string name="status_bar_recent_guide_all">Потягніть вверх щоб закрити, вниз для блокування</string>
      <string name="status_bar_recent_guide_bottom">Потягніть вниз для блокування</string>
