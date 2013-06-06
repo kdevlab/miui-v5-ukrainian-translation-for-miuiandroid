@@ -723,14 +723,14 @@
      <string name="registration_status_not_running">Не вдалося зареєструвати акаунт</string>
      <string name="registration_status_registering">Реєстрація...</string>
      <string name="registration_status_server_unreachable">"Не вдалося зареєструвати акаунт. Невірне ім'я сервера"</string>
-     <string name="registration_status_still_trying">Будь ласка, почекайте...</string>
+     <string name="registration_status_still_trying">Будь ласка, зачекайте...</string>
      <string name="reject_via_sms_miui">Відхилити з повідомленням</string>
      <string name="reject_via_sms_summary_miui">Виберіть повідомлення для відправки</string>
      <string name="reject_via_sms_title_miui">Відхилити з повідомленням</string>
      <string name="remember_my_choice">Використовувати для всіх інтернет-дзвінків</string>
      <string name="remove_miui">Видалити</string>
      <string name="remove_sip_account">Видалити акаунт</string>
-     <string name="removing_account">Видалення акаунта...</string>
+     <string name="removing_account">Видалення акаунту...</string>
      <string name="requesting_rc_unlock">Requesting RUIM corporate unlock...</string>
      <string name="requesting_rhrpd_unlock">Requesting RUIM hrpd unlock...</string>
      <string name="requesting_rnw1_unlock">Requesting RUIM network1 unlock...</string>
@@ -850,7 +850,7 @@
      <string name="sum_fdn_manage_list">Управління списком дозволених номерів</string>
      <string name="sum_gsm_call_settings">Додаткові налаштування тільки для викликів GSM</string>
      <string name="sum_hide_caller_id">Кількість прихованих у вихідних дзвінках</string>
-     <string name="sum_loading_settings">Загрузка настроек…</string>
+     <string name="sum_loading_settings">Звантаження налаштувань…</string>
      <string name="sum_search_networks">Пошук всіх доступних мереж</string>
      <string name="sum_select_automatically">Автоматично вибирати бажану мережу</string>
      <string name="sum_select_automatically_option_miui">Автовибір бажаної мережі, %s</string>
