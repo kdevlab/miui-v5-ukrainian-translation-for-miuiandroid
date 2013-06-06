@@ -111,7 +111,7 @@
      <string name="app_disable_dlg_title">Відключити програму?</string>
      <string name="app_disable_notifications_dlg_text">Якщо вимкнути сповіщення для цієї програми, ви можете пропустити важливе повідомлення або оновлення</string>
      <string name="app_disable_notifications_dlg_title">Вимкнути сповіщення?</string>
-     <string name="app_factory_reset">Видалити поновлення</string>
+     <string name="app_factory_reset">Видалити оновлення</string>
      <string name="app_factory_reset_dlg_text">Всі оновлення для цієї програми будуть видалені</string>
      <string name="app_factory_reset_dlg_title">Видалити оновлення?</string>
      <string name="app_floating_window_dlg_disable">"Відключення спливаючих вікон призводить до примусового закриття %1$s. Ви можете вручну відкрити програму.
@@ -138,7 +138,7 @@
      <string name="assisted_gps">Використовувати A-GPS</string>
      <string name="assisted_gps_disabled">Використовувати сервер для A-GPS (зніміть прапорець для поліпшення роботи GPS)</string>
      <string name="assisted_gps_enabled">Використовувати сервер для A-GPS (зніміть прапорець для менш інтенсивного використання мережі)</string>
-     <string name="audio_record_proc_title">Придушення шуму</string>
+     <string name="audio_record_proc_title">Подавлення шуму</string>
      <string name="auto_caps">Заголовні автоматично</string>
      <string name="auto_caps_summary">Використовувати автоматичну підстановку заголовних букв на початку пропозицій</string>
      <string name="auto_launch_disable_text">Значення за замовчуванням не встановлено</string>
@@ -430,7 +430,7 @@
      <string name="carrier_enabled">Включити/виключити APN</string>
      <string name="carrier_enabled_summaryOff">APN вимкнений</string>
      <string name="carrier_enabled_summaryOn">APN включений</string>
-     <string name="cdma_security_settings_summary">Настройка функції \"Моє місце розташування\", розблокування екрану і блокування сховища реєстраційних даних</string>
+     <string name="cdma_security_settings_summary">Налаштування функції \"Моє місце розташування\", розблокування екрану і блокування сховища реєстраційних даних</string>
      <string name="cell_broadcast_settings">Широкомовні повідомлення</string>
      <string name="cell_broadcast_settings_summary">Вибір типу повідомлень для відображення</string>
      <string name="checkbox_notification_same_as_incoming_call">Використовувати цей рівень гучності також для повідомлень</string>
@@ -448,7 +448,7 @@
      <string name="complete_settings">Всі налаштування</string>
      <string name="computing_size">Обчислення...</string>
      <string name="config_list_label">Конфігурація мереж</string>
-     <string name="configure_input_method">Настройка методів введення</string>
+     <string name="configure_input_method">Налаштування методів введення</string>
      <string name="confirm_erase">Підтвердження видалення</string>
      <string name="confirm_new_backup_pw_prompt">Підтвердіть пароль</string>
      <string name="contributors_title">Учасники</string>
