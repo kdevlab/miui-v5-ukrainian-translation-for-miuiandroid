@@ -850,7 +850,7 @@
      <string name="sum_fdn_manage_list">Управління списком дозволених номерів</string>
      <string name="sum_gsm_call_settings">Додаткові налаштування тільки для викликів GSM</string>
      <string name="sum_hide_caller_id">Кількість прихованих у вихідних дзвінках</string>
-     <string name="sum_loading_settings">Звантаження налаштувань…</string>
+     <string name="sum_loading_settings">Завантаження налаштувань…</string>
      <string name="sum_search_networks">Пошук всіх доступних мереж</string>
      <string name="sum_select_automatically">Автоматично вибирати бажану мережу</string>
      <string name="sum_select_automatically_option_miui">Автовибір бажаної мережі, %s</string>
