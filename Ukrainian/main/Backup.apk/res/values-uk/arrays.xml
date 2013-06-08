@@ -46,7 +46,8 @@
         <item>Галерея</item>
         <item>Безпека</item>
         <item>Камера</item>
-        <item>Монітор</item>
+        <item>Трафік</item>
+        <item>Сервер погоди</item>
         <item>Погода</item>
      </string-array>
 </resources>
