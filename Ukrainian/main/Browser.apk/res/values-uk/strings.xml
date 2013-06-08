@@ -316,8 +316,7 @@
      <string name="pref_lab_quick_controls_summary">Щоб відкрити панель інструментів, почніть перегортати сторінку справа або зліва</string>
      <string name="pref_lab_title">Лабораторія Google</string>
      <string name="pref_link_prefetch_dialogtitle">Завантаження веб-сторінок</string>
-     <string name="pref_link_prefetch_summary">"
-Дозволити браузеру попередньо завантажувати пов'язані веб-сторінки у фоновому режимі"</string>
+     <string name="pref_link_prefetch_summary">"Дозволити браузеру попередньо завантажувати пов'язані веб-сторінки у фоновому режимі"</string>
      <string name="pref_link_prefetch_title">Завантаження веб-сторінок</string>
      <string name="pref_min_font_size">Мін. розмір шрифту</string>
      <string name="pref_min_font_size_value">%d pt</string>
@@ -363,8 +362,7 @@
      <string name="pref_ua_title">Налаштування User-Agent</string>
      <string name="pref_use_instant_search">Google Живий пошук</string>
      <string name="pref_use_instant_search_summary">"У Живому пошуку результати з'являються прямо при введенні тексту (можливе збільшення обсягу переданих даних)"</string>
-     <string name="pref_video_preload_summary">"
-Дозволити браузеру попередньо завантажувати відео файли, якщо це можливо"</string>
+     <string name="pref_video_preload_summary">"Дозволити браузеру попередньо завантажувати відео файли, якщо це можливо"</string>
      <string name="pref_volume_key_enabled">Кнопки гучності</string>
      <string name="pref_volume_key_operation">Дія для кнопок гучності</string>
      <string name="pref_zoom_on_double_tap">Зум при подвійному натисканні</string>
