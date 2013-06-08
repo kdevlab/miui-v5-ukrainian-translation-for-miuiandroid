@@ -2,14 +2,14 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="alarm_in_future">
-        <item>Alarm in less than a minute</item>
-        <item>Alarm in %1$s</item>
-        <item>Alarm in %2$s</item>
-        <item>Alarm in %1$s %2$s</item>
-        <item>Alarm in %3$s</item>
-        <item>Alarm in %1$s %3$s</item>
-        <item>Alarm in %2$s %3$s</item>
-        <item>Alarm in %1$s %2$s %3$s</item>
+        <item>Будильник задзвонить менше ніж за хвилину</item>
+        <item>Будильник задзвонить через %1$s</item>
+        <item>Будильник задзвонить через %2$s</item>
+        <item>Будильник задзвонить через %1$s %2$s</item>
+        <item>Будильник задзвонить через %3$s</item>
+        <item>Будильник задзвонить через %1$s %3$s</item>
+        <item>Будильник задзвонить через %2$s %3$s</item>
+        <item>Будильник задзвонить через %1$s %2$s %3$s</item>
      </string-array>
      <!-- The size of the array does not match! Now: 30 must: 28 -->
      <string-array name="alphabet_table">
@@ -76,6 +76,19 @@
         <item>Ю</item>
         <item>Я</item>
      </string-array>
+     <string-array name="contact_entries">
+        <item>Ім\'я</item>
+        <item>Нік</item>
+        <item>Телефон</item>
+        <item>Пошта</item>
+        <item>Організація</item>
+        <item>IM</item>
+        <item>SIP телефон</item>
+        <item>День народження</item>
+        <item>Сайт</item>
+        <item>Адрес</item>
+        <item>Примітка</item>
+    </string-array>
      <integer-array name="detailed_am_pm_segments">
         <item>0</item>
         <item>1</item>
