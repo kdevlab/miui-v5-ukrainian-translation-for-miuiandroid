@@ -394,9 +394,9 @@
      <string name="bluetooth_visibility_timeout">Тайм-аут видимості</string>
      <string name="bluetooth_visibility_timeout_summary">Вкажіть, протягом якого часу пристрій буде видимим</string>
      <string name="breathing_light_color_summary">Колір LED при отриманні нового повідомлення</string>
-     <string name="breathing_light_color_title">Колір LED</string>
+     <string name="breathing_light_color_title">. Колір LED</string>
      <string name="breathing_light_freq_summary">Пауза між миганнями</string>
-     <string name="breathing_light_freq_title">Частота мигання</string>
+     <string name="breathing_light_freq_title">. Частота мигання</string>
      <string name="brightness">Яскравість</string>
      <string name="brightness_auto_adjust_off">Використовуйте повзунок для регулювання підсвічування екрану. Яскравість залишиться незмінною при будь-якому навколишньому освітленні.</string>
      <string name="brightness_auto_adjust_on">Автоматичне регулювання підсвічування екрану за допомогою датчика освітленості (використовуйте повзунок для регулювання ефекту). Яскравість буде змінюватися в залежності від ваших налаштувань і навколишнього освітлення.</string>
