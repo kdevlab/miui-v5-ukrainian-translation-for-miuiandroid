@@ -153,7 +153,7 @@
      <string name="auto_restore_title">Автозбереження</string>
      <string name="auto_startup_application_manage">Автозапуск</string>
      <string name="auto_startup_count">Автозапуск дозволений% d додаткам</string>
-     <string name="auto_startup_dialog_msg">Система дозволить додаткам запускатися автоматично. Це може призвести до збільшення споживання трафіку або батареї. \ NДозволити автозапуск?</string>
+     <string name="auto_startup_dialog_msg">Система дозволить додаткам запускатися автоматично. Це може призвести до збільшення споживання трафіку або батареї. Дозволити автозапуск?</string>
      <string name="automatic_brightness">Автоналаштування</string>
      <string name="available_size">%s</string>
      <string name="awake">Час від включення пристрою</string>
