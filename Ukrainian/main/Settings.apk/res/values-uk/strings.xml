@@ -664,9 +664,9 @@
      <string name="dock_settings">Док-станція</string>
      <string name="dock_settings_summary">Установки звуку для підключеної док-станції</string>
      <string name="dock_settings_title">Налаштування док-станції</string>
-     <string name="dock_sounds_enable_summary_off">Не відтворювати звук при установці або витягуванні телефону</string>
-     <string name="dock_sounds_enable_summary_on">Відтворювати звук при установці або витягуванні телефону</string>
-     <string name="dock_sounds_enable_title">Звук при установці в док-станцію</string>
+     <string name="dock_sounds_enable_summary_off">Не відтворювати звук при встановленні або вилученні телефону</string>
+     <string name="dock_sounds_enable_summary_on">Відтворювати звук при встановленні або вилученні телефону</string>
+     <string name="dock_sounds_enable_title">Звук при встановленні в док-станцію</string>
      <string name="does_not_exist">Програма не встановлена</string>
      <string name="dolby_bassboost_high">Високе</string>
      <string name="dolby_bassboost_low">Низьке</string>
