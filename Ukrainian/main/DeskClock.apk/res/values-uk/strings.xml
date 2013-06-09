@@ -73,7 +73,7 @@
      <string name="hour">1 час</string>
      <string name="hour_unit">год</string>
      <string name="hours">%s год</string>
-     <string name="keep_screen_on">Екран включений</string>
+     <string name="keep_screen_on">Не вимикати екран</string>
      <string name="label">Нотатка</string>
      <string name="lap">Коло</string>
      <string name="lap_num">Коло</string>
