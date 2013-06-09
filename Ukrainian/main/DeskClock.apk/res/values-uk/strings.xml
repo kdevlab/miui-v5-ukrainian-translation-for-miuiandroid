@@ -67,8 +67,8 @@
      <string name="holiday_data_update_failed">Помилка відновлення, спробуйте ще раз пізніше</string>
      <string name="holiday_data_update_succeed">Перевірка оновлень завершена</string>
      <string name="holiday_data_updating">Оновлення...</string>
-     <string name="holiday_update_summary">Click check updates</string>
-     <string name="holiday_update_title">Work days data need connect network and update</string>
+     <string name="holiday_update_summary">Натисни для перевірки оновлень</string>
+     <string name="holiday_update_title">Інформація щодо робочих днів потребує наявності мережі та оновлення</string>
      <string name="home_button_description">Робочий стіл</string>
      <string name="hour">1 час</string>
      <string name="hour_unit">год</string>
@@ -82,7 +82,7 @@
      <string name="legal_workday_invalidate_message">(дані прострочені. Оновіть в розділі Налаштування)</string>
      <string name="legal_workday_message"> (відключений під час свят)</string>
      <string name="loading_ringtone">Завантаження мелодії дзвінка...</string>
-     <string name="menu_add_worldclock">Додати часовий пояс</string>
+     <string name="menu_add_worldclock">Додати час. пояс</string>
      <string name="menu_alarmclock_edit">Змінити будильник</string>
      <string name="menu_delete">Видалити</string>
      <string name="menu_desk_clock">Настільний годинник</string>
@@ -116,7 +116,7 @@
      <string name="stopwatch_title">Секундомір</string>
      <string name="system_time_setting">Налаштувння</string>
      <string name="time">Година</string>
-     <string name="timer_alert_alert_silenced">Timer silenced after %d minutes.</string>
+     <string name="timer_alert_alert_silenced">Вимкнути таймер після %d хвилин(и).</string>
      <string name="timer_continue">Продовжити</string>
      <string name="timer_got_it">Відключити</string>
      <string name="timer_hour">г</string>
