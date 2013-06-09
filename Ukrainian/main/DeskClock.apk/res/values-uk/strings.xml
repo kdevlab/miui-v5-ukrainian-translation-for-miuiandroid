@@ -55,7 +55,7 @@
      <string name="disable_alarm">Вимкнути будильник</string>
      <string name="done">Готово</string>
      <string name="edit_alarm">Змінити будильник</string>
-     <string name="elapsed_hour">%d часів</string>
+     <string name="elapsed_hour">%d годин</string>
      <string name="elapsed_time_format">(+%s)</string>
      <string name="enable_alarm">Увімкнути будильник</string>
      <string name="every_day">Кожен день</string>
