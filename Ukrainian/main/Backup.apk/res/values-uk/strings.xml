@@ -14,8 +14,7 @@
      <string name="auto_backup_date">Частота Р.К. (у днях)</string>
      <string name="auto_backup_only_wifi">Тільки через Wi-Fi</string>
      <string name="auto_backup_open">Увімкнути автоматичне резервне копіювання</string>
-     <string name="auto_backup_progress">"Виконання автоматичного резервного копіювання
-Зачекайте, будь ласка..."</string>
+     <string name="auto_backup_progress">"Виконання автоматичного резервного копіювання. Зачекайте, будь ласка..."</string>
      <string name="auto_backup_select_user_apps">Вибір програм</string>
      <string name="auto_backup_selected_user_apps">Вибрані програми</string>
      <string name="auto_backup_setting">Налаштування Р.К. за розкладом</string>
@@ -39,7 +38,7 @@
      <string name="backup_recently">(Остання)</string>
      <string name="backup_report">Звіт</string>
      <string name="backup_update">Оновити</string>
-     <string name="batch_delete_backup_confirm">Резервні копії будуть видалені</string>
+     <string name="batch_delete_backup_confirm">Видалити резервні копії? Копий: %d"</string>
      <string name="button_backup">Створити резервну копію</string>
      <string name="button_cancel">Скасувати</string>
      <string name="button_finish">Готово</string>
@@ -58,8 +57,8 @@
      <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
      <string name="cloud_last_backup">Остання:</string>
      <string name="cloud_no_backup">Немає резервних копій</string>
-     <string name="cloud_restore_guide">"Натисніть кнопку Почати для відновлення даних
-Ви можете відновити% s в Р.К."</string>
+     <string name="cloud_restore_guide">"Натисніть кнопку \"Почати\" для відновлення даних
+Ви можете відновити %s в Р.К."</string>
      <string name="cloud_restore_title">Відновлення</string>
      <string name="cloud_restore_window_title">Відновлення з хмари</string>
      <string name="cloud_search">Пошук...</string>
