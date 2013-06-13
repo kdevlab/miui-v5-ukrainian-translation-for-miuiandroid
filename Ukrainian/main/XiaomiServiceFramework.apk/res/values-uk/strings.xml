@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="access_denied">доступ заборонений</string>
+     <string name="access_denied">доступ заборонено</string>
      <string name="account">Акаунт</string>
      <string name="account_detail">Xiaomi account:%1$s</string>
      <string name="account_dspt">Акаунт Xiaomi дозволяє синхронізувати і резервувати ваші SMS, контакти, фото, нотатки та інше</string>
