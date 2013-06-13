@@ -194,7 +194,7 @@
      <string name="recharge_notification">Поповнення на %1$s кредитів Mi</string>
      <string name="recharge_other">Виберіть інший спосіб оплати</string>
      <string name="recharge_pcpay_summary">Підтримується більше варіантів поповненя та підвишені ліміти</string>
-     <string name="recharge_pcpay_title">Поповненя через комп'ютер</string>
+     <string name="recharge_pcpay_title">Поповненя через комп\'ютер</string>
      <string name="recharge_prepaid_summary">Підтримуються наступні карти: China Mobile, China Unicom і China Telecom</string>
      <string name="recharge_prepaid_title">Карти оплати</string>
      <string name="recharge_record">Історія поповнень</string>
