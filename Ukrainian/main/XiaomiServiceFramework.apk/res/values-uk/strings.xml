@@ -13,9 +13,9 @@
      <string name="app_name">Менеджер акаунтів Xiaomi</string>
      <string name="bad_authentication">"Неправильний пароль або ім'я користувача"</string>
      <string name="balance">Баланс: %1$s Micredit</string>
-     <string name="bind_sina_weibo">Прив'язати Sina WeiBo</string>
+     <string name="bind_sina_weibo">Прив\'язати Sina WeiBo</string>
      <string name="bind_weibo_description">Знайти, телефонні контакти, мікроблоги, друзів, додаткову інформацію, таку як аватар, день народження тощо</string>
-     <string name="binded">Прив'язано</string>
+     <string name="binded">Прив\'язано</string>
      <string name="btn_activate">Активувати</string>
      <string name="btn_back">Назад</string>
      <string name="btn_call">Зателефонувати</string>
@@ -236,7 +236,7 @@
      <string name="title_reg">Реєстрація в мережі Xiaomi</string>
      <string name="title_voucher">Поповнити за допомогою Mi Credit карти</string>
      <string name="unactivated_user">Не активований</string>
-     <string name="unbind">Відв'язати</string>
+     <string name="unbind">Відв\'язати</string>
      <string name="update_contacts">Оновлення адресної книги</string>
      <string name="update_contacts_description">Sina micro Fair оновить Ваші контакти </string>
      <string name="updated_contacts">Оновлено %s контактів</string>
