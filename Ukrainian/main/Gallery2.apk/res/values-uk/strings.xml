@@ -48,7 +48,7 @@
   <string name="fail_to_load">Не завантажено</string>
   <string name="file_size">Розмір файла</string>
   <string name="filllight">Освітлення</string>
-  <string name="fisheye">Риб'яче око</string>
+  <string name="fisheye">Риб\'яче око</string>
   <string name="flash">Спалах</string>
   <string name="flash_off">Без спалаху</string>
   <string name="flash_on">Зі спалахом</string>
@@ -61,7 +61,7 @@
   <string name="grayscale">Ч/Б</string>
   <string name="group_by">Згрупувати</string>
   <string name="group_by_album">За альбомами</string>
-  <string name="group_by_faces">За ім'ям</string>
+  <string name="group_by_faces">За ім\'ям</string>
   <string name="group_by_location">За місцем зйомки</string>
   <string name="group_by_size">За розміром</string>
   <string name="group_by_tags">За тегами</string>
