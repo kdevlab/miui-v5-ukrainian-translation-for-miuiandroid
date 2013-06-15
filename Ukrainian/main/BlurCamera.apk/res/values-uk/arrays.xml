@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="AudioScenesTitleVideo">
+        <item>Відкл.</item>
+        <item>Вулиця</item>
+        <item>Концерт</item>
+        <item>Сюжет</item>
+        <item>Об'єкт</item>
+    </string-array>
+</resources>
