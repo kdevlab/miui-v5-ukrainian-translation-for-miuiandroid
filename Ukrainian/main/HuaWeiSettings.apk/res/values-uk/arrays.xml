@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="powermanage_entries">
+        <item>Тільки дзвінки</item>
+        <item>Енергозбереження</item>
+        <item>Нормальний</item>
+        <item>Продуктивність</item>
+        <item>Супер продуктивність</item>
+    </string-array>
+    <string-array name="lowmem_entries">
+        <item>За замовчанням</item>
+        <item>Агресивний</item>
+        <item>Сбалансований</item>
+        <item>Багатозадачний</item>
+        <item>Ігровий</item>
+    </string-array>
+</resources>
