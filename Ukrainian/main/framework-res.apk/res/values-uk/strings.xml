@@ -21,7 +21,7 @@
     <string name="VideoView_error_title">Проблема з відео</string>
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Увага</string>
-    <string name="VideoView_error_text_invalid_progressive_playback">Відео не придатне для потокового передавання в цей пристрій.</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Відео не придатне для потокової передачі в цей пристрій.</string>
     <string name="selectTextMode">Вибрати текст</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="month_long_standalone_january">Січень</string>
@@ -199,7 +199,7 @@
     <string name="CnirMmi">Номер виклику обмежено</string>
     <string name="ThreeWCMmi">Конференція</string>
     <string name="RuacMmi">Відхил. небажаних надокучливих дзвінків</string>
-    <string name="CndMmi">Отрим. номера абонента</string>
+    <string name="CndMmi">Отрим. номери абонента</string>
     <string name="DndMmi">Не турбувати</string>
     <string name="CLIRDefaultOnNextCallOn">Ідентиф. абонента за умовч. обмеж. Наст. дзвінок: обмеж.</string>
     <string name="CLIRDefaultOnNextCallOff">Ідентиф. абонента за умовч. обмеж. Наст. дзвінок: не обмеж.</string>
