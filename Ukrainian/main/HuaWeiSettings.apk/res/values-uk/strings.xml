@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="application_copyright">"Всі права захищено © genokolar@gmail.com 2012
+Посетите http://www.iamgeno.com"</string>
+  <string name="dts_mode">Режим звуку DTS</string>
+  <string name="dts_mode_summary">Включення/Вимкнення режиму звуку DTS</string>
+  <string name="dualmic_enable_summary">Використання другого мікрофону для усунення відлуння у викликах</string>
+  <string name="dualmic_enable_title">Вкл. подвійний мікрофон</string>
+  <string name="fast_power_on_summary">Включення підвищеного живлення</string>
+  <string name="fast_power_on_title">Швидке завантаження</string>
+  <string name="google">Сервіси Goolge</string>
+  <string name="google_summary">Урезані версії сервісів Google</string>
+  <string name="headsetmic_enable_summary">Коли ви підкл. гарнітуру, буде використовуватися мікрофон гарнітури</string>
+  <string name="headsetmic_enable_title">Використовувати мікрофон гарнітури</string>
+  <string name="huawei_settings">Налаштування пристрою</string>
+  <string name="lite_summary">Оптимізація сервісів для збільшення доступної пам'яті</string>
+  <string name="lite_title">Оптимізація системи</string>
+  <string name="lowmem">Керування пам'яттю</string>
+  <string name="lowmem_summary">Вибір режиму керування пам'яттю</string>
+  <string name="miui">Сервіси MIUI</string>
+  <string name="miui_summary">Урізані версії сервісів MIUI</string>
+  <string name="network">Мережа/Безпека</string>
+  <string name="network_summary">Урізана версія мережі/Сервісу безпеки</string>
+  <string name="other">Інші</string>
+  <string name="other_summary">Урізані версії інших сервісів</string>
+  <string name="powermanage">Режим Живлення</string>
+  <string name="powermanage_summary">Вибір режиму живлення</string>
+  <string name="preferences_application_title">Інформация про автора</string>
+  <string name="project_menu_title">Проектне меню</string>
+  <string name="swap">Файл підкачки (SWAP)</string>
+  <string name="swap_summary">Використання файлу підкачки для поліпшення продуктивності пам'яті</string>
+  <string name="vsync">Відклик інтерфейсу</string>
+  <string name="vsync_summary">Прискорення відклику інтерфейсу, для кращого реагування</string>
+</resources>
