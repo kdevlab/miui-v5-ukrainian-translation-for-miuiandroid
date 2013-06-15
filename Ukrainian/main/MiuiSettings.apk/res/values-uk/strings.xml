@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Miui_settings">Додатково</string>
+    <string name="dualmic_enable_title">Подвійний мікрофон</string>
+    <string name="dualmic_enable_summary">Використовується для усунення відлунки</string>
+    <string name="headsetmic_enable_title">Використовувати мікрофон гарнітури</string>
+    <string name="headsetmic_enable_summary">Перемикання на гарнітуру при підключенні</string>
+    <string name="vsync">Прискорення інтерфейсу</string>
+    <string name="vsync_summary">Значне поліпшення прискорення інтерфейсу</string>
+    <string name="swap">Файл підкачування</string>
+    <string name="swap_summary">Використання файлу підкачування, для збільшення пам'яті</string>
+    <string name="preferences_application_title">Інформація про автора</string>
+    <string name="powermanage">Керування живленням</string>
+    <string name="powermanage_summary">Виберіть режим керування живленням</string>
+    <string name="lite_title">Полегшити систему</string>
+    <string name="lite_summary">Полегшити системні сервіси</string>
+    <string name="miui">MIUI сервіси</string>
+    <string name="miui_summary">Полегшить сервиси MIUI</string>
+    <string name="google">Goolge сервіси</string>
+    <string name="google_summary">Полегшити сервіси Google</string>
+    <string name="network">Мережа/Безпека</string>
+    <string name="network_summary">Полегшити сервіси Мережі/Безпеки</string>
+    <string name="other">Інше</string>
+    <string name="other_summary">Полегшити інші сервіси</string>
+    <string name="application_version">gtbluesky</string>
+    <string name="application_copyright">Підписатися на Weibo http://weibo.com/gtbluesky</string>
+    <string name="lowmem">Керування пам'яттю</string>
+    <string name="lowmem_summary">Виберіть режим керування пам'яттю</string>
+</resources>
+
