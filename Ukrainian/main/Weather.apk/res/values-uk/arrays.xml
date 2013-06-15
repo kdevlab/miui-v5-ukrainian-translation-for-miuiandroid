@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <array name="act_weather_main_listview_key">
+        <item>Швидкість вітру:</item>
+        <item>UV індекс:</item>
+        <item>Індекс одягу:</item>
+        <item>Індекс комфорту:</item>
+        <item>Індекс мийки машини:</item>
+        <item>Індекс вологості:</item>
+        <item>Індекс ранкових вправ:</item>
+        <item>Індекс дозвілля:</item>
+     </array>
+    <array name="send_item">
+        <item>SMS</item>
+        <item>E-mail</item>
+    </array>
+    <array name="weather_image">
+        <item>Чисто</item>0  晴
+        <item>Хмарно</item>1  多云
+        <item>Хмарність</item>2  阴
+        <item>Туман</item>3  雾
+        <item>Сильна гроза</item>4  特大暴雨
+        <item>Гроза із сильним заливним дощем</item>5  大暴雨
+        <item>Гроза</item>6  暴雨
+        <item> T-Гроза</item>7  雷阵雨
+        <item>Злива</item>8  阵雨
+        <item>Сильна злива</item>9  大雨
+        <item>Дощ</item>0  中雨
+        <item>Мряка</item>1  小雨
+        <item>Дощ зі снігом</item>2  雨夹雪
+        <item>Заметіль</item>3   暴雨
+        <item>Снігопад</item>4  阵雪
+        <item>Сильний снігопад</item>5  大雪
+        <item>Сніг</item>6  中雪
+        <item>Сніг</item>7  小雪
+        <item>Сильний пильний буревій</item>8  强沙尘暴
+        <item>Пильний буревій</item>9  Піщаний буревій
+        <item>Пил</item>0  沙尘
+        <item>Піщаний буревій</item>1  扬沙
+        <item>Гради</item>2  冰雹
+        <item>Floating Dust</item>3  浮尘
+    </array>
+</resources>
+
