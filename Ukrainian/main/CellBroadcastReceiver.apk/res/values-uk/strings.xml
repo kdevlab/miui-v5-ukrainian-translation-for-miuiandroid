@@ -55,7 +55,7 @@
     <string name="cmas_category_security">Охорона</string>
     <string name="cmas_category_rescue">Порятунок</string>
     <string name="cmas_category_fire">Вогонь</string>
-    <string name="cmas_category_health">Здоров'я</string>
+    <string name="cmas_category_health">"Здоров'я"</string>
     <string name="cmas_category_env"> Навколишнє середовище</string>
     <string name="cmas_category_transport">Транспорт</string>
     <string name="cmas_category_infra">Інфраструктура</string>
