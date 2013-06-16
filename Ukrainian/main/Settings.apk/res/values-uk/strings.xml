@@ -16,10 +16,7 @@
   "</string>
      <string name="access_control_need_to_unlock">Введіть пароль для розблокування</string>
      <string name="access_control_password_title">Включити пароль</string>
-     <string name="access_control_recording_intro_header">Draw pattern to create password lock</string>
-     <string name="access_control_reset_by_account">Login Xiaomi account to reset access control password</string>
      <string name="access_control_no_back_footer">Натисніть [icon] для виходу</string>
-     <string name="access_control_password_title">Обмеження доступу</string>
      <string name="access_control_recording_intro_header">Намалюйте графічний ключ:</string>
      <string name="access_control_reset_by_account">Увійдіть в акаунт Xiaomi для відновлення пароля</string>
      <string name="accessibility_enable">Включити доступ</string>
