@@ -55,11 +55,11 @@
     <string name="factory_reset_dialog_message">Це приведе до видалення всіх налаштувань, включаючи предвстановлені</string>
     <string name="station_move">Перемістити</string>
     <string name="station_edit">Редагувати</string>
-    <string name="no_storage">Перед початком запису вставте карту пам'яті</string>
-    <string name="preparing_sd">Підготовка карти пам'яті</string>
-    <string name="access_sd_fail">Немає доступу до карти пам'яті</string>
-    <string name="spaceislow_content">На карті пам'яті мало місця. Змініть налаштування якості або видаліть непотрібні файли</string>
-    <string name="Fmrecording_reach_storage_threshold">Запис зупинений. Карта пам'яті заповнена</string>
+    <string name="no_storage">"Перед початком запису вставте карту пам'яті"</string>
+    <string name="preparing_sd">"Підготовка карти пам'яті"</string>
+    <string name="access_sd_fail">"Немає доступу до карти пам'яті"</string>
+    <string name="spaceislow_content">"На карті пам'яті мало місця. Змініть налаштування якості або видаліть непотрібні файли"</string>
+    <string name="Fmrecording_reach_storage_threshold">"Запис зупинений. Карта пам'яті заповнена"</string>
     <string name="delete_station_title">Видалити</string>
     <string name="find_af_station">Знайти</string>
     <string name="menu_add_list">Додати список</string>
