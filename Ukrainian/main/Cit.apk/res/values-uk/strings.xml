@@ -73,7 +73,7 @@
     <string name="cit_headset_button_stop">Стоп</string>
     <string name="cit_headset_button_unknown">Невідомо</string>
     <string name="cit_headset_loopback_check_summary">Підключіть гарнітуру і говоріть в мікрофон. Якщо мікрофон працює, то ви почуєте свій голос в навушниках.</string>
-    <string name="cit_headset_loopback_check_title"> Зворотний зв'язок гарнітури</string>
+    <string name="cit_headset_loopback_check_title">"Зворотний зв'язок гарнітури"</string>
     <string name="cit_headset_plug_detect_summary">Перед перевіркою переконаєтеся, що гарнітура підключена</string>
     <string name="cit_headset_plug_detect_title">Гарнітура</string>
     <string name="cit_headset_plug_finish">Гарнітура підключена</string>
@@ -140,12 +140,12 @@
     <string name="cit_sim_check_title"> Sim-Карта</string>
     <string name="cit_sim_error_unknown">Невідомо</string>
     <string name="cit_sim_network_operator">Оператор стільникової мережі:</string>
-    <string name="cit_sim_network_operator_name">Ім'я оператора мережі:</string>
+    <string name="cit_sim_network_operator_name">"Ім'я оператора мережі:"</string>
     <string name="cit_sim_network_type">Тип мережі:</string>
     <string name="cit_sim_serial_number">Номер Sim-Карти:</string>
     <string name="cit_sim_sim_country">Країна:</string>
     <string name="cit_sim_sim_operator">Код постачальника SIM:</string>
-    <string name="cit_sim_sim_operator_name">Ім'я постачальника SIM:</string>
+    <string name="cit_sim_sim_operator_name">"Ім'я постачальника SIM:"</string>
     <string name="cit_sim_state_absent">Немає Sim-Карти</string>
     <string name="cit_sim_state_network_locked">PIN</string>
     <string name="cit_sim_state_pin_required"> Потрібно Pin-Код</string>
@@ -188,8 +188,8 @@
     <string name="cit_tool_wifi_rx_13">Rx:13</string>
     <string name="cit_tool_wifi_rx_7">Rx:7</string>
     <string name="cit_tool_wifi_rx_ap">Rx:AP</string>
-    <string name="cit_tool_wifi_rx_ap_name">Введіть ім'я AP</string>
-    <string name="cit_tool_wifi_rx_ap_not_null">AP ім'я або тип не може бути порожнім</string>
+    <string name="cit_tool_wifi_rx_ap_name">"Введіть ім'я AP"</string>
+    <string name="cit_tool_wifi_rx_ap_not_null">"AP ім'я або тип не може бути порожнім"</string>
     <string name="cit_tool_wifi_rx_ap_type">Введіть тип AP</string>
     <string name="cit_tool_wifi_rx_ap_type_error">AP помилка, введіть повторно (BSS/Adhoc)</string>
     <string name="cit_tool_wifi_rx_count_error">Помилка</string>
