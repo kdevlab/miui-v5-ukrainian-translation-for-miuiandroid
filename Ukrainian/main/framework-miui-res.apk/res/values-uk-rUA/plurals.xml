@@ -54,7 +54,7 @@
         <item quantity="one">хвилину тому</item>
      </plurals>
      <plurals name="v5_edit_mode_title">
-        <item quantity="other">%1$d Items Checked</item>
-        <item quantity="one">%1$d Item Checked</item>
+        <item quantity="other">%1$d Елементів перевірено</item>
+        <item quantity="one">%1$d Елементів перевірено</item>
      </plurals>
 </resources>
