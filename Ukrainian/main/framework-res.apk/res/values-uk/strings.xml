@@ -284,12 +284,12 @@
     <string name="global_actions">Параметри телеф.</string>
     <string name="global_action_lock">Заблок. екран</string>
     <string name="global_action_power_off">Вимкнути</string>
-    <string name="global_action_toggle_silent_mode">Беззвуч. режим</string>
+    <string name="global_action_toggle_silent_mode">Режим без звуку</string>
     <string name="global_action_silent_mode_on_status">Звук ВИМК.</string>
     <string name="global_action_silent_mode_off_status">Звук УВІМК.</string>
-    <string name="global_actions_toggle_airplane_mode">Режим польоту</string>
-    <string name="global_actions_airplane_mode_on_status">Режим польоту ВВІМК.</string>
-    <string name="global_actions_airplane_mode_off_status">Режим польоту ВИМК.</string>
+    <string name="global_actions_toggle_airplane_mode">Режим в літаку</string>
+    <string name="global_actions_airplane_mode_on_status">Режим в літаку ВВІМК.</string>
+    <string name="global_actions_airplane_mode_off_status">Режим в літаку ВИМК.</string>
     <string name="safeMode">Безп. режим</string>
     <string name="android_system_label">Система Android</string>
     <string name="permgrouplab_costMoney">Служби, які потребують оплати</string>
