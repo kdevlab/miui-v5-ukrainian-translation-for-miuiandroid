@@ -273,8 +273,8 @@
      <string name="find_device_check_sim">Перевірка SIM…</string>
      <string name="find_device_sim_change_instructions">"Ваш пристрій заблоковано. Вставте SIM-карту або введіть ваш пароль для акаунту Xiaomi"</string>
      <string name="find_device_sim_change_instructions_no_network">"Ваш пристрій заблоковано, вставте оригінальну SIM-карту"</string>
-     <string name="find_device_turn_off_flight_mode">Увімкнути режим \"У літаку\"</string>
-     <string name="find_device_turn_off_flight_mode_instructions">"Ваш пристрій заблоковано, вимкніть режим \"У літаку\""</string>
+     <string name="find_device_turn_off_flight_mode">Увімкнути режим \"В літаку\"</string>
+     <string name="find_device_turn_off_flight_mode_instructions">"Ваш пристрій заблоковано, вимкніть режим \"В літаку\""</string>
      <string name="firewall_setting">Чорний список</string>
      <string name="first_back_long_press_message">"Ви хочете, щоб функція довгого натискання клавішуі повернення, закривало додаток і його сервіси? 
 
@@ -296,7 +296,7 @@
      <string name="group_name_friends">Друзі</string>
      <string name="heavy_snow" />
      <string name="hoar_frost_falls" />
-     <string name="hours">%d hours</string>
+     <string name="hours">%d годин</string>
      <string name="incorrect_pincode">Невірний PIN-код</string>
      <string name="incorrect_pincode_remaining_attempts">Невірний PIN-код. Лишилося спроб: %d.</string>
      <string name="incorrect_pukcode">Невірний PUK-код</string>
@@ -328,7 +328,7 @@
      <string name="lunar_year">Роки</string>
      <string name="memory_clear_nothing_result">"Немає пам'яті для очищення"</string>
      <string name="memory_clear_result">"Звільнено: %1$s | Доступно: %2$s"</string>
-     <string name="minutes">%d minutes</string>
+     <string name="minutes">%d хвилин</string>
      <string name="miui_copyright_title">Авторське право</string>
      <string name="miui_device_name">MIUI</string>
      <string name="miui_mibi_license_title">Ліцензійна угода MiCredit</string>
