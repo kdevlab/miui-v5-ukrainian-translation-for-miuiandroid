@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Домашній</item>
-        <item>Робочий</item>
-        <item>Інший</item>
-        <item>Своя мітка</item>
+        <item>Дом.</item>
+        <item>Роб.</item>
+        <item>Інше</item>
+        <item>Спеціал.</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -17,30 +17,30 @@
         <item>Jabber</item>
     </string-array>
     <string-array name="organizationTypes">
-        <item>Робочий</item>
-        <item>Інший</item>
-        <item>Своя мітка</item>
+        <item>Роб.</item>
+        <item>Інше</item>
+        <item>Спеціал.</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Домашній</item>
+        <item>Дом.</item>
         <item>Мобільний</item>
-        <item>Робочий</item>
+        <item>Роб.</item>
         <item>Роб. факс</item>
         <item>Дом. факс</item>
         <item>Пейджер</item>
-        <item>Інший</item>
-        <item>Своя мітка</item>
+        <item>Інше</item>
+        <item>Спеціал.</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Домашній</item>
-        <item>Робочий</item>
-        <item>Інший</item>
-        <item>Своя мітка</item>
+        <item>Дом.</item>
+        <item>Роб.</item>
+        <item>Інше</item>
+        <item>Спеціал.</item>
     </string-array>
     <string-array name="imAddressTypes">
-        <item>Домашній</item>
-        <item>Робочий</item>
-        <item>Інший</item>
-        <item>Своя мітка</item>
+        <item>Дом.</item>
+        <item>Роб.</item>
+        <item>Інше</item>
+        <item>Спеціал.</item>
     </string-array>
 </resources>
