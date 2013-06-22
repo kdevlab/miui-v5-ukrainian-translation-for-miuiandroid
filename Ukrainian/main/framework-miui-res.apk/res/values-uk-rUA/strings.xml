@@ -276,7 +276,7 @@
      <string name="find_device_turn_off_flight_mode">Увімкнути режим \"В літаку\"</string>
      <string name="find_device_turn_off_flight_mode_instructions">"Ваш пристрій заблоковано, вимкніть режим \"В літаку\""</string>
      <string name="firewall_setting">Чорний список</string>
-     <string name="first_back_long_press_message">"Ви хочете, щоб функція довгого натискання клавішуі повернення, закривало додаток і його сервіси? 
+     <string name="first_back_long_press_message">"Ви хочете, щоб функція довгого натискання клавіші повернення, закривало додаток і його сервіси? 
 
 Включіть через налаштування > Система > Налаштування кнопок"</string>
      <string name="fools_day" />
