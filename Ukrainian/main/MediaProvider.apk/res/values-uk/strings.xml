@@ -3,6 +3,15 @@
 <resources>
      <string name="app_label">Сховище мультимедіа</string>
      <string name="artist_label">Виконавець</string>
+     <string name="my_copy">我的备份</string>
+     <string name="my_down">我的下载</string>
+     <string name="my_file">我的文档</string>
+     <string name="my_photo">我的照片</string>
+     <string name="my_picture">我的图片</string>
+     <string name="my_recording">我的录音</string>
+     <string name="my_ringtone">我的铃声</string>
      <string name="uid_label">Мультимедіа</string>
+     <string name="unknown_album">Unknown album</string>
+     <string name="unknown_artist">Unknown artist</string>
      <string name="upgrade_msg">Оновлення бази даних мультимедіа...</string>
 </resources>

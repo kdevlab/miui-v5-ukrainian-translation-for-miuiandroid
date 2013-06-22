@@ -7,6 +7,10 @@
      <string name="audio_db_artist_name">Ваші записи</string>
      <string name="audio_db_playlist_name">Мої записи</string>
      <string name="button_ok">OK</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 0
+	%d: 0 must: 1 -->
+     <!-- Original string: Call record(%d) -->
      <string name="call_record">Запис виклику</string>
      <string name="call_record_or">або</string>
      <string name="default_record_name">Аудіозапис</string>

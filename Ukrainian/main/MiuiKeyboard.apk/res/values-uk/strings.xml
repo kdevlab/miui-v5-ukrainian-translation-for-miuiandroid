@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-     <string name="abc_key_arabic">أب</string>
+     <string name="abc_key_arabic">أ‌ب</string>
      <string name="abc_key_cyrillic">Абв</string>
      <string name="abc_key_greek">Αβγ</string>
      <string name="abc_key_hebrew">אבג</string>
      <string name="abc_key_latin">ABC</string>
      <string name="abc_key_thai">กขค</string>
      <string name="bilingual_secondary_language_default">none</string>
-     <string name="configpath">/system/usr/textinput/config.xml</string>
+     <string name="configPath">/system/usr/textinput/config.xml</string>
      <string name="default_appearance_skin">skin-light</string>
      <string name="font_family_name">vendor</string>
      <string name="gui_cancel_txt">Скасування</string>
      <string name="gui_continue_txt">Продовжити</string>
      <string name="gui_delete_txt">Вилучити</string>
      <string name="gui_done_txt">Готове</string>
-     <string name="gui_ok_txt">ОК</string>
+     <string name="gui_ok_txt">OK</string>
      <string name="kbd_key_dotcom">.com</string>
      <string name="key_bilingual_secondary_language">bilingual_secondary_language</string>
      <string name="key_candidate_selection_auto_space">candidate_selection_auto_space</string>
@@ -222,7 +223,7 @@
      <string name="textinput_strings_settings_language_thai_txt">Тайський</string>
      <string name="textinput_strings_settings_language_turkish_txt">Турецький</string>
      <string name="textinput_strings_settings_language_ukrainian_txt">Український</string>
-     <string name="textinput_strings_settings_language_vietnamese_txt">В'єтнамський</string>
+     <string name="textinput_strings_settings_language_vietnamese_txt">"В'єтнамський"</string>
      <string name="textinput_strings_settings_layout_phonepad">Телеф. блок клавіш</string>
      <string name="textinput_strings_settings_layout_title">Вибір розкладки</string>
      <string name="textinput_strings_settings_layout_turkish_f">Турецька F</string>
@@ -236,14 +237,14 @@
      <string name="textinput_strings_settings_show_period_and_comma">Клавіші крапки й коми</string>
      <string name="textinput_strings_settings_show_smiley">Клавіша смайлів</string>
      <string name="textinput_strings_settings_sound_feedback">Звук при натисканні</string>
-     <string name="textinput_strings_settings_sound_feedback_volume">Гучність звуку</string>
+     <string name="textinput_strings_settings_sound_feedback_volume">Keypress Volume</string>
      <string name="textinput_strings_settings_spelling_correction">Виправляти написання</string>
      <string name="textinput_strings_settings_spelling_correction_summary">Завжди пропонувати повні слова й дозволяти помилки при наборі</string>
      <string name="textinput_strings_settings_sw_qwerty_prediction_automatic_correction">Автоматично виправляти друкарські помилки</string>
      <string name="textinput_strings_settings_sw_qwerty_prediction_substitute_letters">Автоматично підставляти тільки заголовні букви й диакритику</string>
      <string name="textinput_strings_settings_sw_qwerty_prediction_suggest_words">Ніколи не заміняти слова або літери</string>
      <string name="textinput_strings_settings_tactile_feedback">Вібрація при натисканні</string>
-     <string name="textinput_strings_settings_tactile_feedback_intensity">Інтенсивність вібрації</string>
+     <string name="textinput_strings_settings_tactile_feedback_intensity">Vibration Intensity</string>
      <string name="textinput_strings_settings_title_txt">Параметри клавіатури</string>
      <string name="textinput_strings_settings_trace_auto_accept">Додавати пробіл</string>
      <string name="textinput_strings_settings_trace_auto_accept_summary">Автоматично приймати попереднє слово й додавати пробіл перед новим жестом</string>
@@ -256,4 +257,3 @@
      <string name="textinput_strings_software_keyboard_settings">Повна клавіатура</string>
      <string name="textinput_strings_trace_auto_accept_hint">Порада. Немає необхідності натискати пробіл, перед тем як почати новий жест</string>
 </resources>
-

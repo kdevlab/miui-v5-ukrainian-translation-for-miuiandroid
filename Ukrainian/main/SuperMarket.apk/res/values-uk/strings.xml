@@ -16,7 +16,15 @@
      <string name="category_tag">Категорії</string>
      <string name="clear_search_record_message">Очистити історію пошуку?</string>
      <string name="comment_cannot_comment">Щоб залишити коментар, потрібно спочатку скачати цей додаток</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s scores %2$s comments in total -->
      <string name="comment_count">Усього %1$s коментарів</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 4
+	%s: 1 must: 4
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s comment on %2$s:%3$s:%4$s -->
      <string name="comment_description">%1$s%2$1s</string>
      <string name="comment_invalid">Доторкніться до зірочок, щоб оцінити</string>
      <string name="comment_name_default">Користувач %1$s</string>
@@ -33,14 +41,32 @@
      <string name="comment_upload_not_logined"> Будь ласка, спочатку ввійдіть в акаунт</string>
      <string name="comment_upload_success">Коментар відправлений!</string>
      <string name="comment_version_name">(версія %1$s)</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Download incomplete. Please check network connection. -->
      <string name="connect_fail">"Помилка установки %1$s: помилка з'єднання, перевірте підключення до мережі"</string>
+     <string name="connect_no_enough_space">No enough space to install app. Please cleanup your phone to try again.</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Download incomplete. No installation package for your phone. -->
      <string name="connect_no_fit_fail">Помилка установки %1$s: настановний пакет не підходить для вашого телефону</string>
      <string name="connecting">Підключення...</string>
+     <string name="data_save_mode_tip">Disabled pictures by your setting</string>
      <string name="delta_update">Відновлення %1$s</string>
      <string name="description_info">Опис</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Download incomplete. Download error. -->
      <string name="download_fail">%1$s установка не виконана: помилка завантаження</string>
      <string name="download_manager_tag">Менеджер завантажень</string>
      <string name="download_manager_tag_with_nonzero_downloads">Завантажень(%1$s/%2$s)</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Download incomplete. Failed to create download task. -->
      <string name="download_start_fail">Помилка встановлення %1$s: не вдається виконати завантаження</string>
      <string name="edit_comment">Коментар</string>
      <string name="edit_comment_title">Відправити відгук %1$s</string>
@@ -60,11 +86,23 @@
      <string name="install_btn_continue">Далі</string>
      <string name="install_btn_download_manager">Менеджер завантажень</string>
      <string name="install_btn_ok">ОК</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Installation error. Please try again. -->
      <string name="install_fail">%1$s - помилка встановлення</string>
      <string name="install_google_base_button">Встановити всі</string>
      <string name="install_google_base_message">“%1$s” вимагає Google Service Framework для роботи</string>
      <string name="install_google_base_title">Встановлення Google Service Framework</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Installation package check failed. Please re-download. -->
      <string name="install_hash_fail">%1$s - помилка встановлення</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Signature inconsistent. Please uninstall and try again. -->
      <string name="install_inconsistent_fail">%1$s - помилка встановлення</string>
      <string name="install_missing_shared_library">У системі відсутні необхідні компоненти</string>
      <string name="install_no_network_description">Немає мережевого підключення, підключіться й спробуйте ще раз</string>
@@ -76,6 +114,7 @@
      <string name="install_sign_not_same_btn_remove">Видалити й обновити</string>
      <string name="install_sign_not_same_message">%1$s update does not match local application signature. You must uninstall the local version to install this update. Continue?</string>
      <string name="install_sign_not_same_title">Невідповідність підпису</string>
+     <string name="install_start_cleanup">Start Cleanup</string>
      <string name="install_storage_not_enough">"Встановлення не завершено. Недостатньо пам'яті"</string>
      <string name="install_title">Встановлення програми</string>
      <string name="install_verification_fail">Встановлення не завершено. Не вдався процес перевірки</string>
@@ -138,9 +177,10 @@
      <string name="permission_risky_security">Безпека</string>
      <string name="permissions_expand_title">Інші дозволи</string>
      <string name="permissions_title">Дозвіл для %1$s</string>
-     <string name="pref_list_always_enable">Завжди приховувати</string>
      <string name="pref_list_auto_update">Автооновлення</string>
-     <string name="pref_list_data_network">Приховувати при 3G/GPRS</string>
+     <string name="pref_list_data_save_mode_always">Never</string>
+     <string name="pref_list_data_save_mode_network">Only over Wi-Fi</string>
+     <string name="pref_list_data_save_mode_never">Always</string>
      <string name="pref_list_disable">Завжди показувати</string>
      <string name="pref_list_per_day">Щодня</string>
      <string name="pref_list_per_week">Щотижня</string>
@@ -156,10 +196,18 @@
      <string name="progress">%1$s%%</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="quicksearchbox_description">Пошук маркета для додатків</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s. %2$s -->
      <string name="rank_app_name" formatted="false">%1$s. % 2$s</string>
      <string name="rank_tag">Топ</string>
      <string name="rating_button">%1$s рейтинг</string>
      <string name="recommendation_tag">Усі</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Installation incomplete. Please manually uninstall and try again. -->
      <string name="remove_package_timeout_fail">Помилка встановлення %1$s: видалення старої версії не вдалося, видаліть вручну</string>
      <string name="result_notice">Результати призупинені сервісом додатків Baidu</string>
      <string name="result_of_clear_history">Історія пошуку успішно очищена</string>
@@ -173,6 +221,10 @@
      <string name="show_all_local_app_with_count">Всі додатки (%1$d)</string>
      <string name="size">(%1$s)</string>
      <string name="status_downloading">Завантаження：%1$s%%</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: System app signature inconsistent. Unable to upgrade. -->
      <string name="system_app_sign_not_match_fail">Помилка встановлення %1$s: несумісний підпис додатка</string>
      <string name="update">Відновлення</string>
      <string name="update_all">Обновити всі</string>

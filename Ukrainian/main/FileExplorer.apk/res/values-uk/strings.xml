@@ -14,6 +14,8 @@
      <string name="app_name">Файли</string>
      <string name="application_size_label">Додаток</string>
      <string name="background">В фоні</string>
+     <string name="big5_summary">The default encoding of the traditional chinese version Windows system</string>
+     <string name="big5_title">BIG5</string>
      <string name="bind_account">"Прив'язка до акаунту KuaiPan"</string>
      <string name="bind_account_summary">"Якщо у вас вже є обліковий запис kuaipan, то її можна прив'язати до профілю Xiaomi, щоб синхронізувати дані"</string>
      <string name="binded_accout_description">"Ці два акаунта були об'єднані. Тепер Ви можете увійти використовуючи або акаунт Xiaomi, або акаунт Kuaipan. У них обох будуть одні і тіж файли."</string>
@@ -40,7 +42,6 @@
      <string name="clean_title">Видаляти файли з кошика, якщо вони лежать там довше 30 днів</string>
      <string name="clean_trash_box">Очистити кошик</string>
      <string name="cleanup_complete">Готово</string>
-     <string name="clear_cache">Очистити кеш</string>
      <string name="close">Закрити</string>
      <string name="compress_fail">Compression failed, destination already exists</string>
      <string name="compress_message">Архівувати в...</string>
@@ -48,6 +49,7 @@
      <string name="confirm">OК</string>
      <string name="confirm_know">OK</string>
      <string name="copy_failed">Помилка копіювання</string>
+     <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
      <string name="create_new_folder_desctiption">Створення папки...</string>
      <string name="create_new_folder_failed">Не вдалось створити папку %1$s</string>
      <string name="create_share_link_description">Створення посилання···</string>
@@ -74,6 +76,7 @@
      <string name="dialog_type_video">Відео</string>
      <string name="directory_info_divider">"  |  "</string>
      <string name="directory_no_item">Пуста папка</string>
+     <string name="dlg_error_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
      <string name="download_failed">Помилка завантаження</string>
      <string name="download_link_completed">Я поділився %1$s через MiDrive. Натисніть посилання внизу для перегляду:</string>
      <string name="downloading">Завантаження</string>
@@ -84,6 +87,7 @@
      <string name="error_info_cant_send_folder">Папка не може бути передана</string>
      <string name="error_open_file_failed_no_app_found">No activity found to open the file</string>
      <string name="fail_to_create_folder">Не вдалося створити папку, папка з такою назвою вже існує</string>
+     <string name="fail_to_create_folder_unknown">Cannot create: unknown error.</string>
      <string name="fail_to_rename">"Не вдалося перейменувати файл або папку, ім'я вже існує"</string>
      <string name="favorite_photo">Фотографія</string>
      <string name="favorite_ringtone">Мелодії</string>
@@ -122,13 +126,13 @@
      <string name="instruction">Адреса синхронізації:</string>
      <string name="instruction_pre">Обмін файлами з ПК або Mac по FTP через мережу Wi-Fi</string>
      <string name="item_name">Без імені</string>
+     <string name="kuaipan_label">Kuaipan</string>
      <string name="kuaipan_over_space">В вашому MiDrive немає більше вільного місця</string>
      <string name="kuaipan_prompt">MiDrive</string>
      <string name="kuaipan_prompt_message">Сервер в режимі обслуговування. Будь ласка, спробуйте пізніше...</string>
      <string name="kuaipan_tech_support">Технічна підтримка: Kingsoft Kuaipan</string>
      <string name="load_err">Помилка завантаження</string>
      <string name="loading">Завантаження</string>
-     <string name="local_cache">Локальний кеш</string>
      <string name="local_cache_size">Розмір локального кешу: %s</string>
      <string name="login_reg_content">MiDrive дозволяє зберігати файли і синхронізувати їх між декількома пристроями.</string>
      <string name="login_reg_content0">KuaiPan - ваш інтернет диск</string>
@@ -152,6 +156,9 @@
      <string name="no_app_cache_indication">Немає кешу додатків</string>
      <string name="no_app_garbage_indication">Немає сміття від додатків</string>
      <string name="no_empty_dir_indication">Немає порожніх папок</string>
+     <string name="no_enough_space">No enough space</string>
+     <string name="no_enough_storage_indication">No enough storage, paste failed. Delete unnecessary files and try again, or use File Cleanup to release space.</string>
+     <string name="no_enough_storage_title">No enough storage</string>
      <string name="no_file">Немає файлів</string>
      <string name="no_more_space">Бракує місця на диску</string>
      <string name="no_tasks">Завдань немає</string>
@@ -206,8 +213,16 @@
      <string name="rename_description">Перейменовується···</string>
      <string name="rename_failed">Перейменування《%1$s》не вдалось</string>
      <string name="restart_cleaning">Повтор</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 2
+	%s: 0 must: 0
+	%d: 0 must: 2 -->
+     <!-- Original string: Scan %d app ... (total %d apps) -->
      <string name="scanning">Сканування...</string>
      <string name="scanning_on_going">Сканування...</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Available: %1$s -->
      <string name="sd_card_available">"Вільно: "</string>
      <string name="sd_card_size">SD-карта: %1$s</string>
      <string name="sd_full">SD-карта повна</string>
@@ -250,7 +265,15 @@
      <string name="trash_box_link">Відвідайте pan.xiaomi.com для очищення кошика</string>
      <string name="trash_box_message1">Ви можете видалити непотрібні файли для звільнення місця</string>
      <string name="trash_box_message2">Ви можете видалити непотрібні файли аба очистити кошик для звільнення місця</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 0
+	%d: 0 must: 1 -->
+     <!-- Original string: %1$d file(s) left to download -->
      <string name="ui_bar_txt_download_progress">Завантаження...</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 0
+	%d: 0 must: 1 -->
+     <!-- Original string: %1$d file(s) left to upload -->
      <string name="ui_bar_txt_upload_progress">Відправка...</string>
      <string name="ui_filechange_btn_download">Завантаження файла</string>
      <string name="ui_filechange_btn_upload">Завантажити файли</string>
@@ -259,6 +282,7 @@
      <string name="ui_main_toast_favorite_removed">Уподобання видалено</string>
      <string name="ui_main_toast_operation_failed">Помилка видаления %1$s</string>
      <string name="uninstall_app_data">Видалити додаток і всі дані</string>
+     <string name="unmount_inform_text">USB storage will be unmounted.</string>
      <string name="upload_failed">Помилка завантаження</string>
      <string name="upload_file_toolarge_message">%1$d файлів розміром більше 300 Мб не можуть бути відправлені. Будь ласка, перевірте в Управлінні передачами</string>
      <string name="uploading">Завантаження</string>

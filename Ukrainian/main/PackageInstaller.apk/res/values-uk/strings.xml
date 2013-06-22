@@ -17,6 +17,8 @@
      <string name="dlg_app_replacement_statement">"Програму, яку ви встановлюєте, замінить інша програма
 
 Всі призначені для користувача дані будуть збережені"</string>
+     <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) will replace the currently installed version (%3$s). User’s contents will be retained.
+Sure to install?"</string>
      <string name="dlg_app_replacement_title">Замінити програму</string>
      <string name="dlg_ok">ОК</string>
      <string name="dlg_sys_app_replacement_statement">"Це системна програма. Замінити?

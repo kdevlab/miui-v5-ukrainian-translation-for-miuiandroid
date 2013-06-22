@@ -13,9 +13,9 @@
      <string name="app_name">Менеджер акаунтів Xiaomi</string>
      <string name="bad_authentication">"Неправильний пароль або ім'я користувача"</string>
      <string name="balance">Баланс: %1$s Micredit</string>
-     <string name="bind_sina_weibo">Прив\'язати Sina WeiBo</string>
+     <string name="bind_sina_weibo">"Прив\'язати Sina WeiBo"</string>
      <string name="bind_weibo_description">Знайти, телефонні контакти, мікроблоги, друзів, додаткову інформацію, таку як аватар, день народження тощо</string>
-     <string name="binded">Прив\'язано</string>
+     <string name="binded">"Прив\'язано"</string>
      <string name="btn_activate">Активувати</string>
      <string name="btn_back">Назад</string>
      <string name="btn_call">Зателефонувати</string>
@@ -54,6 +54,7 @@
      <string name="error_expired_summary">Вийшов термін Вашого замовлення</string>
      <string name="error_frozen_summary">Ваш акаунт заморожений</string>
      <string name="error_frozen_title">Акаунт заморожений</string>
+     <string name="error_giftcard_summary">Unable to get gift card info for now</string>
      <string name="error_has_bought_summary">Ви вже купили цей продукт</string>
      <string name="error_has_bought_title">Повторіть покупку</string>
      <string name="error_illegal_order_summary">Виникла помилка покупки. Будь ласка, спробуйте знову</string>
@@ -87,6 +88,16 @@
      <string name="find_password_on_web_msg"> Будь ласка, відвідаєте account.xiaomi.com для отримання паролю</string>
      <string name="forget_password">Забули пароль?</string>
      <string name="frozen">(Заморожений)</string>
+     <string name="giftcard_acitivity_and_denomination">%2$s-MiCredit gift card from %1$s</string>
+     <string name="giftcard_denom">MiCredit(s)</string>
+     <string name="giftcard_denom_available">MiCredit(s) available</string>
+     <string name="giftcard_denom_frozen">MiCredit(s) frozen</string>
+     <string name="giftcard_empty">No gift card</string>
+     <string name="giftcard_expire">%1$s-%2$s-%3$s expired</string>
+     <string name="giftcard_hint">"MiCredits in gift card spent first
+and invalid if overdue"</string>
+     <string name="giftcard_record">MiCredit received</string>
+     <string name="giftcard_value">(%1$s-MiCredit gift card)</string>
      <string name="header_data_and_synchronization">Дані й синхронізація</string>
      <string name="i_know">OK</string>
      <string name="input_password_hint">Введіть пароль</string>
@@ -96,6 +107,7 @@
      <string name="login">Вхід</string>
      <string name="login_failed">Помилка входу</string>
      <string name="login_notice">Вхід...</string>
+     <string name="memu_refresh">Refresh</string>
      <string name="mibi_license_message">Ви будете використовувати сервіс Xiaomi Mi Credit. Натискаючи кнопку ОК, Ви погоджуєтеся дотримувати %1$s.</string>
      <string name="mibi_license_message_span">Угода Mi Credit</string>
      <string name="mibi_license_title">Угода</string>
@@ -126,6 +138,7 @@
      <string name="micloud_via_sms_alert">Буде відправлене повідомлення для підтвердження вашого телефонного номеру. Продовжити?</string>
      <string name="micloud_welcome_skip_login">Пропустити цей крок</string>
      <string name="mili_center">Центр Micredit</string>
+     <string name="my_mili_record">My MiCredit</string>
      <string name="next">Далі</string>
      <string name="nobind">Nobind</string>
      <string name="order_price">%1$s Micredit</string>
@@ -194,7 +207,7 @@
      <string name="recharge_notification">Поповнення на %1$s кредитів Mi</string>
      <string name="recharge_other">Виберіть інший спосіб оплати</string>
      <string name="recharge_pcpay_summary">Підтримується більше варіантів поповненя та підвишені ліміти</string>
-     <string name="recharge_pcpay_title">Поповненя через комп\'ютер</string>
+     <string name="recharge_pcpay_title">"Поповненя через комп\'ютер"</string>
      <string name="recharge_prepaid_summary">Підтримуються наступні карти: China Mobile, China Unicom і China Telecom</string>
      <string name="recharge_prepaid_title">Карти оплати</string>
      <string name="recharge_record">Історія поповнень</string>
@@ -236,7 +249,7 @@
      <string name="title_reg">Реєстрація в мережі Xiaomi</string>
      <string name="title_voucher">Поповнити за допомогою Mi Credit карти</string>
      <string name="unactivated_user">Не активований</string>
-     <string name="unbind">Відв\'язати</string>
+     <string name="unbind">"Відв\'язати"</string>
      <string name="update_contacts">Оновлення адресної книги</string>
      <string name="update_contacts_description">Sina micro Fair оновить Ваші контакти </string>
      <string name="updated_contacts">Оновлено %s контактів</string>
@@ -245,17 +258,8 @@
      <string name="user_agreement_p3"> та </string>
      <string name="user_agreement_p4">Політикою безпеки</string>
      <string name="user_agreement_p5">"Реєструючись, ви погоджуєтесь з"</string>
-     <string name="voucher_btn_exchange">Обмін</string>
-     <string name="voucher_btn_exchange_error">Помилка</string>
-     <string name="voucher_btn_has_exchanged">Обмін завершено</string>
-     <string name="voucher_denom">Mi Credits</string>
      <string name="voucher_edit_hint">Пароль</string>
      <string name="voucher_edit_limit">символів</string>
-     <string name="voucher_empty">Немає Mi Credit карти</string>
      <string name="voucher_error_code">Введено невірний пароль Mi Credit карти</string>
-     <string name="voucher_exchange">Обмін</string>
-     <string name="voucher_exchange_count">Обмін(%1$s)</string>
-     <string name="voucher_exchange_success">%1$s Mi Credits обмін завершено</string>
-     <string name="voucher_expire">%1$s-%2$s-%3$s вичерпано</string>
-     <string name="voucher_input">Введення</string>
+     <string name="voucher_input_password_prompt">Input password</string>
 </resources>

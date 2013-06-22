@@ -57,6 +57,10 @@
         <item quantity="other">пісень: %d</item>
         <item quantity="one">1 пісня</item>
      </plurals>
+     <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">%d songs removed from playlist.</item>
+        <item quantity="one">1 song removed from playlist.</item>
+     </plurals>
      <plurals name="Ntracks_search_result_format">
         <item quantity="other">%d 首相关歌曲</item>
         <item quantity="one">%d 首相关歌曲</item>

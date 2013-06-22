@@ -154,6 +154,10 @@
      <string name="caller_id_title_miui">АОН</string>
      <string name="caller_manage_header">Конференц-виклик: %s</string>
      <string name="caller_manage_manage_done_text_miui">Повернутися до виклику</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Calling via %s -->
      <string name="calling_via_template">"Дзвінок через ^1
 ^2"</string>
      <string name="calling_via_template_miui">"Дзвінок через ^1
@@ -222,6 +226,10 @@
      <string name="confCall">Конференц-дзвінок</string>
      <string name="confirmPin2Label">Підтвердіть новий PIN2</string>
      <string name="confirmPinLabel">Підтвердіть новий PIN</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 0 must: 0
+	%d: 1 must: 0 -->
+     <!-- Original string: You will delete this custom attribution messages. -->
      <string name="confirm_delete_message_title_miui">Ви видаліть %d вибраних приставок повідомлень</string>
      <string name="confirm_delete_sim_entry_miui">Ви впевнені, що хочете видалити %d вибраних контактів з SIM-карти?</string>
      <string name="confirm_no_countrycode_for_custom_location_miui">Будь ласка, введіть номер без коду країни</string>
@@ -560,6 +568,10 @@
      <string name="notification_network_selection_title">Мережа не знайдено</string>
      <string name="notification_on_hold">На утриманні</string>
      <string name="notification_ongoing_call">Поточний виклик</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Calling -->
      <string name="notification_ongoing_calling_format_miui">Викликаю (%s)</string>
      <string name="notification_voicemail_no_vm_number">Номер голосової пошти невідомий</string>
      <string name="notification_voicemail_text_format">Набір %s</string>
@@ -881,6 +893,11 @@
      <string name="throttle_status_subtext" formatted="false">"%1$s (%2$d%) з %3$s (максимум)
 Наступний період почнеться протягом %4$d дн. (%5$s)"</string>
      <string name="throttle_time_frame">Час передачі даних</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 3
+	%s: 1 must: 1
+	%d: 1 must: 2 -->
+     <!-- Original string: %1$d٪ of cycle elapsed
+Next period starts in %2$d days (%3$s) -->
      <string name="throttle_time_frame_subtext">"%1$s перевищено максимум.
 Частота даних зменшена до %2$d кБ/с "</string>
      <string name="transport_title">Протокол</string>

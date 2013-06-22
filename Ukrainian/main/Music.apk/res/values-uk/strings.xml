@@ -40,6 +40,7 @@
      <string name="confirm">ОК</string>
      <string name="correct_id3_by_internet">Автокоректування ID3, використовуючи мобільний інтернет</string>
      <string name="correct_id3_failed">Помилка коректування ID3!</string>
+     <string name="correct_id3_in_processing">Song tags(ID3) correcting.</string>
      <string name="correct_id3_not_support">Корекція ID3 не подтримує цей тип файлу</string>
      <string name="correct_id3_open_other_connect">Будь-ласка, увімкніть коректування ID3 з використанням мобільного інтернету</string>
      <string name="correct_id3_settings">Налаштування коректування ID3</string>
@@ -55,8 +56,6 @@
      <string name="delete_playlist_menu">Видалити</string>
      <string name="delete_song_desc">Ви впевнені що хочете видалити файл %s з SD-карти?</string>
      <string name="deselect_all">Скасувати</string>
-     <string name="dirac_disabled">Dirac включен</string>
-     <string name="dirac_enabled">Dirac выключен</string>
      <string name="download">Завантажити</string>
      <string name="download_album_settings">Завантаження обкладинок</string>
      <string name="download_album_summary">"Може позначитись на вартості послуг за мобільний зв'язок, будь ласка використовуйте Wi-Fi"</string>
@@ -67,7 +66,6 @@
      <string name="download_lyric_settings">Завантаження текстів</string>
      <string name="download_lyric_summary">Завантаження слів не надто вплине на трафік, ви також можете вимкнути цей параметр для збереження трафіку.</string>
      <string name="download_processing">Завантаження</string>
-     <string name="edit_playlist_menu">Редагувати</string>
      <string name="empty_edit_hint">Інформація про пісню недоступна</string>
      <string name="emptyplaylist">Плейлист порожній</string>
      <string name="enter_sleep_mode">Спящий режим</string>
@@ -152,8 +150,8 @@
      <string name="no_effect">Відключений</string>
      <string name="no_song_downloaded">Немає треків для завантаження</string>
      <string name="not_selected">Будь-ласка, виберіть пісню</string>
-     <string name="online_music">"Інтернет-музика "</string>
      <string name="online_search_hint">Пошук музики онлайн</string>
+     <string name="online_title">Online</string>
      <string name="other_settings">Додатково</string>
      <string name="overwrite_confirm">Перезаписати</string>
      <string name="play_all">Відтворити все</string>
@@ -169,7 +167,6 @@
      <string name="playlist_deleted_message">Плейлист вилучений</string>
      <string name="playlist_favorite">Улюблене</string>
      <string name="playlist_frequently_played">Часто відтворювані</string>
-     <string name="playlist_new">Створити новий плейлист</string>
      <string name="playlist_recently_added">Нещодавно додані</string>
      <string name="playlist_recently_played">Недавно відтворювані</string>
      <string name="playlist_renamed_message">Плейлист перейменований</string>
@@ -192,6 +189,7 @@
      <string name="rename_playlist_menu">Перейменувати</string>
      <string name="retry">Повтор</string>
      <string name="ringtone_menu">Як рінгтон</string>
+     <string name="ringtone_not_support">Not support ringtone of this format.</string>
      <string name="ringtone_set">Трек %s встановлений як рінгтон</string>
      <string name="save">Додати</string>
      <string name="scanning">Сканування SD-карти ...</string>

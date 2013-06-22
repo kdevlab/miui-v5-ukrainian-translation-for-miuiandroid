@@ -36,6 +36,10 @@
      <string name="bookmark">Шаблони</string>
      <string name="bookmark_confirm_delete_message">Видалити з шаблонів</string>
      <string name="bookmark_empty">Немає повідомлень</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 0 must: 0
+	%d: 1 must: 0 -->
+     <!-- Original string: Favorites -->
      <string name="bookmark_list_title">Уподобання (%1$d)</string>
      <string name="cannot_add_picture_and_video">Не можна додати на слайд і картинку, і відео</string>
      <string name="cannot_add_slide_anymore">Додане максимальне число слайдів.</string>
@@ -80,6 +84,10 @@
      <string name="copy_message_text">Скопіювати текст</string>
      <string name="copy_to_sdcard">Зберегти додаток</string>
      <string name="copy_to_sdcard_fail">Файл не збережений</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Attachment saved as %s -->
      <string name="copy_to_sdcard_success">Файл збережений</string>
      <string name="database_corruption">База даних пошкоджена, перестворення бази даних</string>
      <string name="delete">Видалити</string>
@@ -206,6 +214,10 @@
      <string name="mx_auto_resend_sms">Відправити як SMS</string>
      <string name="mx_auto_resend_sms_summary">Відправити як SMS, коли хмарові повідомлення не доступні. Вартість залежить від оператора</string>
      <string name="mx_btn_enable">Увімкнути</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 0 must: 0
+	%d: 1 must: 2 -->
+     <!-- Original string: Since enabled, you have sent %1$d cloud text messages and %2$d cloud multimedia messages -->
      <string name="mx_count_dspt">Після увімкнення MIUI відправили %d повідомлень вам</string>
      <string name="mx_current_status">Статус: у мережі</string>
      <string name="mx_dspt">Відправляти повідомлення через інтернет</string>
@@ -259,6 +271,8 @@
      <string name="pref_summary_mms_retrieval_during_roaming">Автоматично завантажувати Mms-Повідомлення в роумінгу</string>
      <string name="pref_summary_new_message_popup">Відображення спливаючих вікон, при отриманні нового повідомлення</string>
      <string name="pref_summary_new_message_popup_when_secure">Спливаючі повідомлення приховані в режимі гостю</string>
+     <string name="pref_summary_notification_body_enabled">Preview messages on lockscreen and status bar</string>
+     <string name="pref_summary_notification_body_enabled_when_secure">Preview messages disabled when access controlled</string>
      <string name="pref_summary_off_system_mms_priority">Інші програми для повідомлень будуть отримувати повідомлення першими</string>
      <string name="pref_summary_on_system_mms_priority">Системний додаток буде отримувати повідомлення першим</string>
      <string name="pref_summary_show_recent_contacts">Показати список останніх контактів при створенні нового повідомлення</string>
@@ -275,6 +289,7 @@
      <string name="pref_title_mms_read_reports">Звіти про прочитання</string>
      <string name="pref_title_mms_retrieval_during_roaming">Автозавантаження в роумінгу</string>
      <string name="pref_title_new_message_popup">Спливаючі вікна</string>
+     <string name="pref_title_notification_body_enabled">Show previews</string>
      <string name="pref_title_ringtone_repeat">Кількість нагадувань</string>
      <string name="pref_title_show_recent_contacts">Показати недавні контакти</string>
      <string name="pref_title_sms_delete">Макс. кількість SMS</string>
@@ -391,6 +406,7 @@
      <string name="too_many_recipients">Зазначено занадто багато одержувачів (%1$s). Дозволене не більше %2$s.</string>
      <string name="too_many_unsent_mms">Не вдалося відправити повідомлення. Занадто багато невідправлених MMS.</string>
      <string name="try_to_send">Спробувати відправити</string>
+     <string name="type_attachment">attachment</string>
      <string name="type_audio">Аудіозапис</string>
      <string name="type_picture">Зображення</string>
      <string name="type_to_compose_text_enter_to_send">Введіть повідомлення</string>

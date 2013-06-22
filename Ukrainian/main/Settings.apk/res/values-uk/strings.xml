@@ -15,20 +15,11 @@
      <string name="access_control_need_password">"%s захищено паролем
   "</string>
      <string name="access_control_need_to_unlock">Введіть пароль для розблокування</string>
-     <string name="access_control_password_title">Включити пароль</string>
      <string name="access_control_no_back_footer">Натисніть [icon] для виходу</string>
+     <string name="access_control_password_title">Включити пароль</string>
      <string name="access_control_recording_intro_header">Намалюйте графічний ключ:</string>
      <string name="access_control_reset_by_account">Увійдіть в акаунт Xiaomi для відновлення пароля</string>
      <string name="accessibility_enable">Включити доступ</string>
-     <string name="accessibility_feature_state_off">Вимкнено</string>
-     <string name="accessibility_feature_state_on">Увімкнено</string>
-     <string name="accessibility_global_gesture_preference_description">"Коли ця функція включена, ви можете швидко переключитися в режим для людей з обмеженими можливостями у два етапи:</string>
-     <string name="accessibility_global_gesture_preference_summary_off">Вимкнено</string>
-     <string name="accessibility_global_gesture_preference_summary_on">Увімкнено</string>
-     <string name="accessibility_global_gesture_preference_title">Доступність ярлику</string>
-     <string name="accessibility_long_press_timeout_preference_title">Натискання і час затримки</string>
-     <string name="accessibility_screen_magnification_summary">"Коли ця функція включена, ви можете збільшувати і зменшувати масштаб натиснувши 3-ма пальцями на екран.</string>
-     <string name="accessibility_screen_magnification_title">Збільшення жестів</string>
      <string name="accessibility_long_press_timeout_title">Затримка при натисканні та утриманні</string>
      <string name="accessibility_menu_item_settings">Налаштування</string>
      <string name="accessibility_no_services_installed">Служби не встановлені</string>
@@ -48,6 +39,7 @@
      <string name="accessibility_service_security_warning_title">Використовувати %1$s?</string>
      <string name="accessibility_service_state_off">Відключено</string>
      <string name="accessibility_service_state_on">Включено</string>
+     <string name="accessibility_services_title">Services</string>
      <string name="accessibility_settings">Спец. можливості</string>
      <string name="accessibility_settings_title">Налаштування спеціальних можливостей</string>
      <string name="accessibility_speak_password_title">Озвучувати паролі</string>
@@ -55,18 +47,12 @@
      <string name="accessibility_sync_enabled">Синхронізація включена</string>
      <string name="accessibility_sync_error">Помилка синхронізації</string>
      <string name="accessibility_system_title">Система</string>
-     <string name="accessibility_toggle_large_text_preference_title">Великий текст</string>
-     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Оновлення збільшеного екрану при переході у програму</string>
-     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автооновлення збільшеного екрану</string>
-     <string name="accessibility_toggle_screen_magnification_preference_title">Збільшення маштабування</string>
-     <string name="accessibility_toggle_script_injection_preference_title">Підвищення доступності веб-сайтів</string>
-     <string name="accessibility_toggle_speak_password_preference_title">Промовляти пароль</string>
+     <string name="accessibility_toggle_large_text_title">Large text</string>
      <string name="account_settings">Акаунти</string>
      <string name="account_sync_settings_title">Установки синхронізації</string>
      <string name="activating">Активація...</string>
      <string name="active_device_admin_msg">Адміністратор пристрою</string>
      <string name="active_input_method_subtypes">Активні способи введення</string>
-     <string name="activity_not_found">Application is not installed on your phone.</string>
      <string name="activity_picker_label">Вибір дії</string>
      <string name="adb_warning_message">"Налагодження по USB - це режим, який дозволяє використовувати ваш пристрій як зовнішній накопичувач: переміщати файли (з комп'ютера і на комп'ютер), безпосередньо встановлювати програми, а також переглядати системні журнали"</string>
      <string name="adb_warning_title">Дозволити налагодження USB?</string>
@@ -81,7 +67,6 @@
      <string name="airplane_mode">Режим польоту</string>
      <string name="alarm_volume_title">Будильник</string>
      <string name="all_volume_title">Гучність</string>
-     <string name="allow">Дозволяти</string>
      <string name="allow_bind_app_widget_activity_allow_bind">Після створення віджета, %1$s може отримати доступ до всих відображених ним даних</string>
      <string name="allow_bind_app_widget_activity_allow_bind_title">Створити віджет та надати доступ?</string>
      <string name="allow_bind_app_widget_activity_always_allow_bind">Завжди дозволяти %1$s створювати віджети і отримувати доступ ввсих відображених ним даних</string>
@@ -110,8 +95,6 @@
      <string name="apn_http_proxy">Проксі</string>
      <string name="apn_mms_port">Порт MMS</string>
      <string name="apn_mms_proxy">Проксі-сервер MMS</string>
-     <string name="apn_mmsc">MMSC</string>
-     <string name="apn_mnc">MNC</string>     
      <string name="apn_name">"Ім'я"</string>
      <string name="apn_new">Створити APN</string>
      <string name="apn_not_set">Не задано</string>
@@ -142,8 +125,10 @@
      <string name="app_not_found_dlg_text">Програму не знайдено у списку встановлених</string>
      <string name="app_notifications_switch_label">Показувати сповіщення</string>
      <string name="app_process_limit_title">Ліміт фонових процесів</string>
-     <string name="app_special_disable_dlg_text">Якщо відключити вбудовані додатки, інші програми можуть порушувати закон. Ваші дані будуть також видалені.</string>
-     <string name="app_special_disable_dlg_title">Видалити дані і відключити додаток?</string>     
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Disable%s to startup in background -->
      <string name="application_forbid_auto_startup">Відключити автозапуск в фоні?</string>
      <string name="application_info_label">Про програму</string>
      <string name="application_item_already_permission">Дозволено</string>
@@ -157,7 +142,6 @@
      <string name="assisted_gps">Використовувати A-GPS</string>
      <string name="assisted_gps_disabled">Використовувати сервер для A-GPS (зніміть прапорець для поліпшення роботи GPS)</string>
      <string name="assisted_gps_enabled">Використовувати сервер для A-GPS (зніміть прапорець для менш інтенсивного використання мережі)</string>
-     <string name="audio_profile_settings_title">Audio profiles</string>
      <string name="audio_record_proc_title">Подавлення шуму</string>
      <string name="auto_caps">Заголовні автоматично</string>
      <string name="auto_caps_summary">Використовувати автоматичну підстановку заголовних букв на початку пропозицій</string>
@@ -172,6 +156,10 @@
      <string name="auto_restore_summary">При перевстановлення програми відновити резервну копію налаштувань і даних</string>
      <string name="auto_restore_title">Автозбереження</string>
      <string name="auto_startup_application_manage">Автозапуск</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 0
+	%d: 0 must: 1 -->
+     <!-- Original string: Allow %d apps to auto start -->
      <string name="auto_startup_count">Автозапуск дозволений% d додаткам</string>
      <string name="auto_startup_dialog_msg">Система дозволить додаткам запускатися автоматично. Це може призвести до збільшення споживання трафіку або батареї. Дозволити автозапуск?</string>
      <string name="automatic_brightness">Автоналаштування</string>
@@ -210,7 +198,6 @@
      <string name="battery_desc_display">Використання батареї для підсвічування екрана</string>
      <string name="battery_desc_radio">"Витрата енергії на підтримку зв'язку з мережею в режимі очікування"</string>
      <string name="battery_desc_standby">Витрата заряду батареї в режимі очікування</string>
-     <string name="battery_desc_users">Акумулятор, що використовується користувачем</string>
      <string name="battery_desc_voice">Використання батареї для голосових викликів</string>
      <string name="battery_desc_wifi">Використання батареї модулем Wi-Fi</string>
      <string name="battery_history_days">%1$d дн. %2$d г. %3$d хв. %4$dс.</string>
@@ -236,13 +223,11 @@
      <string name="battery_info_power_unknown">Невідомо</string>
      <string name="battery_info_power_unplugged">Не підключено</string>
      <string name="battery_info_power_usb">USB</string>
-     <string name="battery_info_power_wireless">wireless</string>
      <string name="battery_info_scale_label">Шкала батареї:</string>
      <string name="battery_info_screen_on">Час роботи екрану:</string>
      <string name="battery_info_status_charging">Йде зарядка</string>
      <string name="battery_info_status_charging_ac">від мережі</string>
      <string name="battery_info_status_charging_usb">по USB</string>
-     <string name="battery_info_status_charging_wireless">(wireless)</string>
      <string name="battery_info_status_discharging">Робота від батареї</string>
      <string name="battery_info_status_full">Батарея заряджена</string>
      <string name="battery_info_status_label">Стан батареї:</string>
@@ -1933,6 +1918,10 @@
      <string name="vibrate_input_devices_summary">Переспрямувати вібро на підключений ігровий контролер</string>
      <string name="vibrate_when_ringing_title">Вібро і дзвінок</string>
      <string name="virus_scan_app_continue">Продовжити</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 0
+	%d: 1 must: 0 -->
+     <!-- Original string: % d software with risks, It is recommended to uninstall -->
      <string name="virus_scan_app_find_risk">%d додатків з ризиком, рекомендується негайно видалити!</string>
      <string name="virus_scan_app_finish">Закрити</string>
      <string name="virus_scan_app_force_stop">Сканування зупинене</string>
@@ -1945,12 +1934,20 @@
      <string name="virus_scan_app_scan_finish">Сканування завершено!</string>
      <string name="virus_scan_app_scanning">Сканування...</string>
      <string name="virus_scan_app_stop_scan">Зупинити сканування</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 0
+	%d: 1 must: 0 -->
+     <!-- Original string: Batch uninstall (% d) -->
      <string name="virus_scan_app_uninstall">Пакетне видалення (%d)</string>
      <string name="virus_scan_app_waiting">Зачекайте</string>
      <string name="virus_scanner_auto_update">Автооновлення</string>
      <string name="virus_scanner_lib_already_latest">Вірусні бази оновлені</string>
      <string name="virus_scanner_lib_update_failed">Помилка оновлення вірусних баз!</string>
      <string name="virus_scanner_lib_updating">Оновлення бази...</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Update on %s -->
      <string name="virus_scanner_manual_update">Оновити вручну</string>
      <string name="virus_scanner_provider">Технічна підтримка: %s</string>
      <string name="virus_scanner_scan">Сканувати</string>

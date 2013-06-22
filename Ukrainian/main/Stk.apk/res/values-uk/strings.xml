@@ -3,6 +3,7 @@
 <resources>
      <string name="alphabet">Абетка</string>
      <string name="app_name">SIM-карта</string>
+     <string name="app_name2">SIM Toolkit2</string>
      <string name="button_cancel">Скасувати</string>
      <string name="button_no">Ні</string>
      <string name="button_ok">ОК</string>
@@ -12,6 +13,7 @@
      <string name="default_open_channel_msg">Відкрити канал?</string>
      <string name="default_receive_data_msg">Прийом даних...</string>
      <string name="default_send_data_msg">Відправка даних...</string>
+     <string name="default_setup_call_msg">Call being setup</string>
      <string name="digits">Цифри (0-9, *, #, +)</string>
      <string name="disable_app">Відключено</string>
      <string name="enable_app">Включено</string>

@@ -72,6 +72,10 @@
      <string name="my_update_feel">Оцінити оновлення</string>
      <string name="my_worst_update">Незадовільно</string>
      <string name="network_error">Помилка підключення до мережі або сервер зайнятий</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: New version found -->
      <string name="new_update_content_title">Оновлення: %s</string>
      <string name="new_update_download_complete_body">Готова до встановлення: %s</string>
      <string name="new_update_downloading_body">Завантаження нової версії:%s</string>
@@ -139,6 +143,10 @@
      <string name="update_monthly_build_only">Оновлення тільки щомісячних збірок</string>
      <string name="update_sad">Розчарований</string>
      <string name="update_success">Вітаємо, оновлення успішне</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: System has been updated to %s -->
      <string name="update_success_body">Вітаємо, система успішно оновлена</string>
      <string name="update_success_title">Оновлення</string>
      <string name="upgrade_close">Закрити</string>

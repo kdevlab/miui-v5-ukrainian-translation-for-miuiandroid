@@ -95,8 +95,13 @@
      <string name="callrecordview_menu_delete_accepted">Очистити журнал прийнятих дзвінків</string>
      <string name="callrecordview_menu_delete_all">Очистити всі дзвінки</string>
      <string name="callrecordview_menu_delete_called">Очистити журнал вихідних дзвінків</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Confirm %s? -->
      <string name="callrecordview_menu_delete_confirm">Журнал дзвінків буде очищений</string>
      <string name="callrecordview_menu_delete_missed">Очистити пропущені виклики</string>
+     <string name="callrecordview_menu_delete_new">Clear call logs of new contacts</string>
      <string name="callrecordview_menu_delete_one">Видалити з журналу викликів</string>
      <string name="callrecordview_menu_delete_stranger">Відкрити пропущені дзвінки</string>
      <string name="callrecordview_menu_paste">Вставити</string>
@@ -106,6 +111,7 @@
      <string name="callrecordview_menu_show_all">Всі</string>
      <string name="callrecordview_menu_show_called">Тільки вихідні</string>
      <string name="callrecordview_menu_show_missed">Тільки пропущені</string>
+     <string name="callrecordview_menu_show_new">New Contacts</string>
      <string name="callrecordview_menu_show_stranger">Тільки незнайомі</string>
      <string name="callrecordview_menu_show_title">Налаштування відображення</string>
      <string name="cancel_confirmation_dialog_message">Скасувати зміни?</string>
@@ -314,6 +320,8 @@
      <string name="eventLabelsGroup">Події</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Експорт на SIM-карту завершено</string>
+     <string name="export_sim_contact_finish_failure">Failure caused by storage full, Completed: %1$d Incompleted: %2$d</string>
+     <string name="export_sim_contact_finish_success">Copied %d contact(s)</string>
      <string name="export_sim_contacts_dialog_message">На SIM-карту можні зберегти %d контактів, продовжити?</string>
      <string name="export_to_sdcard">Експорт на SD-карту</string>
      <string name="export_to_sim">Експорт на SIM-карту</string>
@@ -374,7 +382,12 @@
      <string name="hint_distance">Тримати дистанцію</string>
      <string name="hint_findContacts">Знайти контакти</string>
      <string name="hint_more_contact">Використовувати злиття контакту, при його виході з контактів дублікатів</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 0
+	%d: 0 must: 1 -->
+     <!-- Original string: %d contacts -->
      <string name="hint_search_contacts">Пошук контактів</string>
+     <string name="hint_search_emails">%d emails</string>
      <string name="hint_search_phone_numbers">Телефонів: %d</string>
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
@@ -397,7 +410,10 @@
      <string name="import_vcard_description">Імпортувати з SD-карти</string>
      <string name="import_weibo_dialog_title">Імпорт контактів sina weibo</string>
      <string name="import_weibo_fetch_followers">Отримання користувачів weibo…</string>
-     <string name="import_weibo_notification_title">Імпортування контактів sina weibo...</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Updated %s sina weibo contacts -->
      <string name="import_weibo_notification_title_done">Імпортування контактів sina weibo завершено</string>
      <string name="import_weibo_progress_name">Співпадіння \"%1$s\"…</string>
      <string name="importing_vcard_canceled_title">Імпорт файлу \"%s\" скасовано</string>
@@ -431,6 +447,7 @@
      <string name="loading_group_members">Завантаження контактів...</string>
      <string name="loading_groups">Завантаження груп...</string>
      <string name="loading_recent">Завантаження останніх контактів...</string>
+     <string name="loading_resource_detail_fail">Failing to load resource!</string>
      <string name="loading_resource_detail_info">Завантаження...</string>
      <string name="local_invisible_directory">Інше</string>
      <string name="local_profile_title">Мій профіль</string>
@@ -724,6 +741,8 @@
      <string name="recent_contacts_label">Недавні</string>
      <string name="recent_number">Недавній</string>
      <string name="recent_updates">Недавні поновлення</string>
+     <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
+     <string name="redirect_calls_to_vm_confirm_text">Turn on</string>
      <string name="relationLabelsGroup">Відносини</string>
      <string name="remind_btn_ignore">Пізніше</string>
      <string name="remind_btn_sync_now">Зараз</string>
@@ -769,6 +788,7 @@
      <string name="resource_title">Відомості</string>
      <string name="resource_title_select_ringtone">Виберіть мелодію</string>
      <string name="resource_update">Онов.</string>
+     <string name="resource_waiting_download">Waiting</string>
      <string name="restore_nickname">Відновити</string>
      <string name="returnCall">Зворотній виклик</string>
      <string name="ringLabelsGroup">Рінгтон</string>

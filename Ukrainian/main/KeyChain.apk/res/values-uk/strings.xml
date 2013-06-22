@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="app_name">Брелок</string>
-    <string name="title_no_certs">Сертифікати не знайдені</string>
-    <string name="title_select_cert">Вибір сертифікату</string>
-    <string name="requesting_application">"Додаток %s вимагає сертифікат. Обраний сертифікат дозволить додатку використовувати цей ідентифікатор для зв'язку із сервером у цей момент і в майбутноьму."</string>
-    <string name="requesting_server">Додаток був визначений сервером як %s потрібно підтвердити доступ до сертифікату якщо Ви довіряєте додатку</string>
-    <string name="install_new_cert_message">Ви можете встановити сертифікат з файлу PKCS#12 з %1$s або %2$s  розширенням, розташованим на зовнішньому носії</string>
-    <string name="install_new_cert_button_label">Встановити</string>
-    <string name="allow_button">Дозволити</string>
-    <string name="deny_button">Заборонити</string>
+     <string name="allow_button">Дозволити</string>
+     <string name="app_name">Брелок</string>
+     <string name="deny_button">Заборонити</string>
+     <string name="install_new_cert_button_label">Встановити</string>
+     <string name="install_new_cert_message">Ви можете встановити сертифікат з файлу PKCS#12 з %1$s або %2$s  розширенням, розташованим на зовнішньому носії</string>
+     <string name="requesting_application">"Додаток %s вимагає сертифікат. Обраний сертифікат дозволить додатку використовувати цей ідентифікатор для зв'язку із сервером у цей момент і в майбутноьму."</string>
+     <string name="requesting_server">Додаток був визначений сервером як %s потрібно підтвердити доступ до сертифікату якщо Ви довіряєте додатку</string>
+     <string name="title_no_certs">Сертифікати не знайдені</string>
+     <string name="title_select_cert">Вибір сертифікату</string>
 </resources>
-

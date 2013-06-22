@@ -33,6 +33,10 @@
      <string name="account_settings_exit_server_settings">Скасувати незбережені зміни?</string>
      <string name="account_settings_incoming_label">Налаштування вхідних повідомлень</string>
      <string name="account_settings_incoming_summary">"Ім'я користувача, пароль та ін. настройки сервера вхідної пошти"</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: The username or password for %s is incorrect. Update them now? -->
      <string name="account_settings_login_dialog_content_fmt">"Невірне ім'я користувача або пароль акаунту% s. Оновити їх зараз?"</string>
      <string name="account_settings_login_dialog_title">Не вдалося увійти в акаунт</string>
      <string name="account_settings_mail_check_frequency_label">Частота перевірки папки \"Вхідні\"</string>
@@ -513,6 +517,10 @@
      <string name="save_action">Зберегти</string>
      <string name="save_draft_action">Зберегти черновик</string>
      <string name="search_action">Пошук</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Results -->
      <string name="search_header_text_fmt">Результати пошуку для \"%1$s\"</string>
      <string name="search_hint">Шукати в електронній пошті</string>
      <string name="search_mailbox_hint">Шукати у папці \"%1$s\"</string>
@@ -559,7 +567,15 @@
      <string name="upload_state_uploading">Завантаження</string>
      <string name="upload_state_waiting_retry">Очікування повторної спроби</string>
      <string name="upload_state_waiting_wifi">Очікування підключення Wi-Fi</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: " for "<b>%s</b> -->
      <string name="uploading_for">" для користувача "</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Uploading to <b>%s</b> -->
      <string name="uploading_to">Завантаження в</string>
      <string name="waitinf_for_sync_message_1">Очікування синхронізації</string>
      <string name="waitinf_for_sync_message_2">Ваши повідомлення незабаром завантажаться</string>

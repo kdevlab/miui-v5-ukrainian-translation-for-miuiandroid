@@ -227,7 +227,6 @@
         <item>Brilliant</item>
         <item>Standard</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 8 must: 7 -->
      <string-array name="screen_timeout_entries">
         <item>15 секунд</item>
         <item>30 секунд</item>

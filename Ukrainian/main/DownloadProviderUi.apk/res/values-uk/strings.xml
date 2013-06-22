@@ -29,6 +29,10 @@
      <string name="download_error">Помилка</string>
      <string name="download_error_insufficient_space">Недостатньо місця</string>
      <string name="download_in_process">В процесі</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: %s downloads removed -->
      <string name="download_info_count_deleted_tasks">Список завантажень успішно очищений</string>
      <string name="download_info_start_deleted_tasks">Підготовка до видалення</string>
      <string name="download_no_application_title">Не можу відкрити файл</string>

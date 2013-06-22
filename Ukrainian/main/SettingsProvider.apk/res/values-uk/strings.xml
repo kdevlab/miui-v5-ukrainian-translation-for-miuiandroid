@@ -2,4 +2,33 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_label">Сховище налаштувань</string>
+     <string name="config_default_input_method">com.sohu.inputmethod.sogou/.SogouIME</string>
+     <string name="config_enable_input_method">com.sohu.inputmethod.sogou/.SogouIME:com.oppo.ime/.ImeService.OppoImeService</string>
+     <string name="def_breath_light">1</string>
+     <string name="def_call_state_lockscreen">0</string>
+     <string name="def_call_time_lockscreen">0</string>
+     <string name="def_date_format">yyyy-MM-dd</string>
+     <string name="def_file_password" />
+     <string name="def_find_phone_num_config" />
+     <string name="def_fontsize_value">0</string>
+     <string name="def_lid_close_sound">/system/media/audio/ui/cover.mp3</string>
+     <string name="def_lid_open_sound">/system/media/audio/ui/uncover.mp3</string>
+     <string name="def_msm_state_lockscreen">0</string>
+     <string name="def_msm_time_lockscreen">0</string>
+     <string name="def_oppo_unlock_change_process">com.oppo.lockscreenglassboard</string>
+     <string name="def_power_off_sound">0</string>
+     <string name="def_power_on_sound">1</string>
+     <string name="def_private_password" />
+     <string name="def_restore_password">0000</string>
+     <string name="def_screen_effect">1</string>
+     <string name="def_setup_wizard_has_run">0</string>
+     <string name="def_time_12_24">24</string>
+     <string name="def_timepower_config">070010230000080010000000</string>
+     <string name="event_data">disabled</string>
+     <string name="event_log">disabled</string>
+     <string name="oppo_unlock_change_pkg">com.oppo.lockscreenglassboard.OppoLockScreenGlassBoard</string>
+     <string name="phone_ip_prefix" />
+     <string name="public_text_disabled">disabled</string>
+     <string name="screen_timeout_notify">Please note that the screen backlight time is set to more than 30 minutes</string>
+     <string name="system_app_strictmode">disabled</string>
 </resources>

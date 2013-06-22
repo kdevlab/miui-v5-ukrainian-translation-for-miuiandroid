@@ -2,6 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="about">Про програму</string>
+     <string name="adjust_no_network_update_data_fail">Update data fail.Please try again after checking the settings of network.</string>
      <string name="adjust_traffic_auto_adjust_hint">Система автоматично регулює передачу даних та регулярно отримує дані від операторів. Вам потрібно налаштувати інформацію про операторів</string>
      <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляція включена, система автоматично контролює обсяг використаного трафіку</string>
      <string name="adjust_traffic_auto_adjust_title">Авторегулювання трафіку</string>
@@ -24,6 +25,7 @@
      <string name="app_detail_internet_control_category">Управління мережею</string>
      <string name="app_detail_title">Інф. про прог.</string>
      <string name="app_detail_version">Версія: %s</string>
+     <string name="app_has_deleted">%s has been deleted.</string>
      <string name="app_name">Монітор</string>
      <string name="app_traffic_detail">" трафік(%s)"</string>
      <string name="apply_rules_failed">Не вдалося включити брандмауер, спробуйте ще раз. (%s)</string>
@@ -86,8 +88,20 @@
      <string name="overseas_menu_traffic_adjust">Налаштування вручну</string>
      <string name="overseas_menu_traffic_settings">Межа трафіку</string>
      <string name="overseas_unknown_traffic_hint">Межа трафіку не налаштована. Налаштувати зараз?</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Used -->
      <string name="plate_traffic_already_used">Використано (%s)</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Exceeded -->
      <string name="plate_traffic_exceed">Перевищено (%s)</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Remaining -->
      <string name="plate_traffic_remain">Залишилось (%s)</string>
      <string name="powered_by">Технічна підтримка: ROMZ.bz</string>
      <string name="pref_category_adjust_traffic">Регулювання трафіку</string>

@@ -39,7 +39,6 @@
         <item>Чорний список</item>
         <item>Акаунт</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 8 must: 9 -->
      <string-array name="system_package_label">
         <item>Браузер</item>
         <item>Програма Файли</item>

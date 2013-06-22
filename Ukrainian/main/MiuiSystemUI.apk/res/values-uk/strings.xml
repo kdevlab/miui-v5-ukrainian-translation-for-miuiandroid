@@ -197,7 +197,15 @@
      <string name="status_bar_date_format">"EEEE
 d MMMM yyyy"</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Налаштування способів введення</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 3
+	%s: 2 must: 3
+	%d: 0 must: 0 -->
+     <!-- Original string: "Today:%1$s    Remain:%2$s    Package:%3$s" -->
      <string name="status_bar_network_flow">Сьогодні: %1$s | Залишилось: %2$s</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 3
+	%s: 2 must: 3
+	%d: 0 must: 0 -->
+     <!-- Original string: "Today:%1$s    Exceeded:%2$s    Package:%3$s" -->
      <string name="status_bar_network_flow_exceed">Сьогодні: %1$s | Залишилось: %2$s</string>
      <string name="status_bar_network_flow_today">Сьогодні: %1$s</string>
      <string name="status_bar_network_name_separator">|</string>

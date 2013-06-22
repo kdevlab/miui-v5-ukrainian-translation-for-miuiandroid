@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-  <string-array name="alert_sound_duration_entries">
-    <item>2 секунды</item>
-    <item>4 секунды</item>
-    <item>6 секунд</item>
-    <item>8 секунд</item>
-    <item>10 секунд</item>
-  </string-array>
+     <string-array name="alert_sound_duration_entries">
+        <item>2 секунды</item>
+        <item>4 секунды</item>
+        <item>6 секунд</item>
+        <item>8 секунд</item>
+        <item>10 секунд</item>
+     </string-array>
+     <string-array name="alert_sound_duration_values">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+     </string-array>
 </resources>

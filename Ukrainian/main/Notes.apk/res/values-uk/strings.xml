@@ -2,15 +2,22 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="add_account_desc">Нотатки можна синхронізувати з вашим Xiaomi акаунтом. Увійти в акаунт і почати синхронізацію?</string>
+     <string name="alert_action_edit_anyway">Continue editing</string>
      <string name="alert_edit_action_delete">Видалити</string>
      <string name="alert_edit_action_update">Оновити</string>
      <string name="alert_message_delete_folders">Ви впевнені, що хочете видалити вибрані (%1$s) папки?</string>
      <string name="alert_message_delete_folders_notes">Ви впевнені, що хочете видалити вибрані (%1$s) папки й (%2$s) нотатки?</string>
      <string name="alert_message_delete_note">Нотатка буде видалена</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Confirm to delete the selected %1$s notes? -->
      <string name="alert_message_delete_notes">Вибрані нотатки будуть видалені</string>
      <string name="alert_message_discard_changes">Скасувати всі дії?</string>
+     <string name="alert_message_edit_anyway">The note contains unsupported contents, edit it may result in data loss.</string>
      <string name="alert_title_delete">Видалити вибрані нотатки</string>
      <string name="alert_title_discard">Скасування</string>
+     <string name="alert_title_edit_anyway">Confirm to edit note even if maybe data lose?</string>
      <string name="app_name">Нотатки</string>
      <string name="app_widget">Нотатки</string>
      <string name="attachment_camera">Камера</string>
@@ -27,6 +34,7 @@
      <string name="error_note_not_exist">Нотатка не існує</string>
      <string name="error_sdcard_export">Експорт не вдалий, провірте Sd-Карту</string>
      <string name="error_sdcard_unmounted"> Sd-Карта зайнята й зараз недоступна</string>
+     <string name="error_unsupport_content">This note contains unsupported content, please click me to upgrade system</string>
      <string name="error_widget_exist_for_send_to_desktop">Ця нотатка вже є на рробочому столі</string>
      <string name="failed_sdcard_export">Експорт невдалий</string>
      <string name="folder_exist">Така папка %1$s уже існує</string>
