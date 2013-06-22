@@ -8,7 +8,7 @@
     <string name="vsync">Прискорення інтерфейсу</string>
     <string name="vsync_summary">Значне поліпшення прискорення інтерфейсу</string>
     <string name="swap">Файл підкачування</string>
-    <string name="swap_summary">Використання файлу підкачування, для збільшення пам'яті</string>
+    <string name="swap_summary">Використання файлу підкачування, для збільшення пам\'яті</string>
     <string name="preferences_application_title">Інформація про автора</string>
     <string name="powermanage">Керування живленням</string>
     <string name="powermanage_summary">Виберіть режим керування живленням</string>
@@ -24,7 +24,6 @@
     <string name="other_summary">Полегшити інші сервіси</string>
     <string name="application_version">gtbluesky</string>
     <string name="application_copyright">Підписатися на Weibo http://weibo.com/gtbluesky</string>
-    <string name="lowmem">Керування пам'яттю</string>
-    <string name="lowmem_summary">Виберіть режим керування пам'яттю</string>
+    <string name="lowmem">Керування пам\'яттю</string>
+    <string name="lowmem_summary">Виберіть режим керування пам\'яттю</string>
 </resources>
-
