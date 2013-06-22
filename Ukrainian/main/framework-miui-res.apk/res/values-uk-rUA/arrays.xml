@@ -77,7 +77,7 @@
         <item>Я</item>
      </string-array>
      <string-array name="contact_entries">
-        <item>Ім\'я</item>
+        <item>"Ім\'я"</item>
         <item>Нік</item>
         <item>Телефон</item>
         <item>Пошта</item>
@@ -88,14 +88,5 @@
         <item>Сайт</item>
         <item>Адрес</item>
         <item>Примітка</item>
-    </string-array>
-     <integer-array name="detailed_am_pm_segments">
-        <item>0</item>
-        <item>1</item>
-        <item>6</item>
-        <item>12</item>
-        <item>13</item>
-        <item>18</item>
-        <item>19</item>
-     </integer-array>
+     </string-array>
 </resources>
