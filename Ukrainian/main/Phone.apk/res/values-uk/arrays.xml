@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string-array name="absent_num">
+        <item>ABSENT NUMBER</item>
+        <item>ABSENTNUMBER</item>
+     </string-array>
      <string-array name="cdma_system_select_choices">
         <item>Тільки домашня</item>
         <item>Автоматично</item>

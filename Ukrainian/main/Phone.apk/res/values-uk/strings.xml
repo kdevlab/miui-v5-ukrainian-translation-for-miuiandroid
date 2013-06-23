@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="absent_num">НОМЕР ВІДСУТНІЙ</string>
      <string name="accessibility_call_muted">Звук вимкнено</string>
      <string name="accessibility_speakerphone_enabled">"Гучний зв'язок увімкнено"</string>
      <string name="add_button_miui">Додати</string>
@@ -261,6 +260,7 @@
      <string name="default_contacts_countrycode_hint_miui">Наприклад: 7</string>
      <string name="default_contacts_countrycode_miui">Стандартний код міста</string>
      <string name="default_contacts_countrycode_sum_miui">Задайте стандартний код країни: %s</string>
+     <string name="default_notification_description">Default sound (%1$s)</string>
      <string name="default_preference_summary">&lt;Не налагоджено></string>
      <string name="delete_all_sim_contacts_miui">Видалити усі контакти з SIM-карти</string>
      <string name="delete_fdn_contact">Видалити номер обмеженого набору</string>
@@ -557,6 +557,7 @@
      <string name="not_connected_miui">Не підключено</string>
      <string name="not_voice_capable">Голосові дзвінки не підтримуються</string>
      <string name="notification_action_end_call">Завершити</string>
+     <string name="notification_dialing">Dialing</string>
      <string name="notification_incoming_call">Вхідний дзвінок</string>
      <string name="notification_missedCallTicker">Пропущені виклики від абонента %s</string>
      <string name="notification_missedCallTitle">Пропущений дзвінок</string>
@@ -703,6 +704,7 @@
      <string name="preferred_network_type_pref_entries_global_miui">Глобальний</string>
      <string name="preferred_network_type_pref_entries_only_2g_miui">2G (енергозбереження)</string>
      <string name="preferred_network_type_pref_entries_only_3g_miui">3G</string>
+     <string name="preferred_network_type_tds_cdma_miui">GSM/TDS-CDMA</string>
      <string name="preferred_network_type_title_miui">Вибір типу мережі</string>
      <string name="primary_account_summary_with">Основний акаунт. %s</string>
      <string name="private_num">Прихований номер</string>
