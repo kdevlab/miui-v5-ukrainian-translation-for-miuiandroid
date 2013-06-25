@@ -9,7 +9,7 @@
      <string name="ac_set_apps_title">Захист програм</string>
      <string name="accelerometer_summary_off">Не міняти орієнтацію екрану при повороті телефону</string>
      <string name="accelerometer_summary_on">Автоматично міняти орієнтацію екрану при повороті телефону</string>
-     <string name="accelerometer_title">Автоповорот екрану</string>
+     <string name="accelerometer_title">Авторозвертання екрану</string>
      <string name="access_control_app_entry_multiple">Запустити %s</string>
      <string name="access_control_app_entry_single">Запустити цю програму</string>
      <string name="access_control_need_password">"%s захищено паролем
