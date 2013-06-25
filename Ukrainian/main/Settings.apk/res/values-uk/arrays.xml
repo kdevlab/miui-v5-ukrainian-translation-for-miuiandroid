@@ -177,98 +177,91 @@
         <item>Mac OS</item>
         <item>Linux</item>
      </string-array>
-     <string-array name="msd_pc_system_install_finish_summary">
-        <item>If you install this driver\nMI 2 mobile storage device should appear on the computer</item>
-        <item>For Windows Vista or newer versions,\nthe MI 2 music player will appear on your computer</item>
-        <item>If you install this driver\nComputer will auto open and read phone data</item>
+   <string-array name="msd_pc_system_install_finish_summary">
+        <item>Якщо ви встановили цей драйвер\nМобильное обладнання зберігання MI-2 повинне бути на вашому комп'ютері</item>
+        <item> Для Windows Vista або новіше,\nмузичний плеєр MI-2 повинен з'явиться на вашому комп'ютері</item>
+        <item>Якщо ви встановили драйвер\nКомп’ютер буде автоматично відкривати й читати дані телефону</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_start_summary">
-        <item>For Windows XP or older versions,\nthe driver needs to be manually installed</item>
-        <item>For Windows Vista or newer versions,\nthe MI 2 music player will appear on your computer</item>
-        <item>For Mac OS operating system,\nthe driver software needs to be manually installed</item>
+        <item> Для Windows XP або старіше,\nдрайвер повинен бути встановлений вручну</item>
+        <item> Для Windows Vista або новее,\nмузичний плеєр MI-2 з'явиться на вашому комп'ютері</item>
+        <item> Для операційної системи OS X,\nдрайвер повинен бути встановлений вручну</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_step_1_summary">
-        <item>(Please ignore the Setup Wizard’s screen pop up)\nXIAOMI storage device will appear on your computer\nOpen and select Setup.exe for installation</item>
+        <item>( Будь ласка, ігноруйте спливаючі вікна майстра встановлення)\nзапам’ятвуючі пристрої XIAOMI з'явитляться на вашому комп'ютері\nОткройте і виберіть файл Setup.exe для встановлення</item>
         <item></item>
-        <item>XIAOMI storage device will appear on your computer\nOpen and select AndroidFileTransfer.dmg for installation</item>
+        <item> Запам'ятовуючий пристрій XIAOMI з'явиться на вашому комп'ютері\nвідкрийте і виберіть файл Androidfiletransfer.dmg для встановлення</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_step_2_summary">
-        <item>2.MI 2 mobile storage device will appear on your computer\nYou can now transfer files</item>
+        <item>2. Мобільний пристрій зберігання MI-2 з'явиться на вашому комп'ютері\nТеперь ви можете передавати файли</item>
         <item></item>
-        <item>Computer will auto open and read phone data\nYou can now transfer files</item>
+        <item>Комп'ютер буде автоматично відкривати й читати дані телефону\nТеперь ви можете передавати файли</item>
         <item></item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Немає</item>
         <item>720x480 mdpi</item>
         <item>1280x720 tvdpi</item>
         <item>1920x1080 xhdpi</item>
         <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
      </string-array>
-     <string-array name="overlay_display_devices_values">
-        <item></item>
-        <item>720x480/160</item>
-        <item>1280x720/213</item>
-        <item>1920x1080/320</item>
-        <item>1280x720/213;1920x1080/320</item>
-     </string-array>
      <string-array name="perm_hips_action">
-        <item>Allow</item>
-        <item>Ask</item>
-        <item>Deny</item>
+        <item>Дозволити</item>
+        <item>Запит</item>
+        <item>Заборонити</item>
      </string-array>
      <string-array name="power_mode_entries">
-        <item>Performance Mode</item>
-        <item>Normal Mode</item>
-        <item>Power Saving Mode</item>
+        <item>Продуктивний</item>
+        <item>Збалансований</item>
+        <item>Енергозберігаючий</item>
      </string-array>
      <string-array name="screen_color_title">
-        <item>Warm</item>
-        <item>Nature</item>
-        <item>Cool</item>
+        <item>Теплий тон</item>
+        <item>Натуральний тон</item>
+        <item>Холодний тон</item>
      </string-array>
      <string-array name="screen_key_long_press_action">
-        <item>None</item>
-        <item>Launch Recent panel</item>
-        <item>Launch Voice assist</item>
-        <item>Launch Google now</item>
-        <item>Close current application</item>
+        <item>Немає дій</item>
+        <item>Недавні додатки</item>
+        <item>Голосовий помічник</item>
+        <item>Google Now</item>
+        <item>Закрити поточний додаток</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout">
-        <item>0.5 second</item>
-        <item>1 second</item>
-        <item>1.5 seconds</item>
-        <item>2 seconds</item>
+        <item>0.5сек.</item>
+        <item>1 сік</item>
+        <item>1.5сек.</item>
+        <item>2 сік</item>
      </string-array>
      <string-array name="screen_saturation_title">
-        <item>Brilliant</item>
-        <item>Standard</item>
+        <item>Яскравий режим</item>
+        <item>Стандартний режим</item>
      </string-array>
      <!-- The size of the array does not match! Now: 8 must: 7 -->
      <string-array name="screen_timeout_entries">
-        <item>15 секунд</item>
-        <item>30 секунд</item>
-        <item>1 хвилина</item>
-        <item>2 хвилини</item>
-        <item>5 хвилин</item>
-        <item>10 хвилин</item>
-        <item>30 хвилин</item>
+        <item>15 сік</item>
+        <item>30 сік</item>
+        <item>1 мін</item>
+        <item>2 мін</item>
+        <item>5 мін</item>
+        <item>10 мін</item>
+        <item>30 мін</item>
      </string-array>
      <string-array name="security_settings_premium_sms_values">
-        <item>Ask</item>
-        <item>Never allow</item>
-        <item>Always allow</item>
+        <item>Запитувати</item>
+        <item>Заборонити</item>
+        <item>Дозволити</item>
      </string-array>
      <string-array name="special_locale_names">
-        <item>Китайська (Спрощена)</item>
-        <item>Китайська (Традиційна)</item>
+        <item>Китайський (спрощений)</item>
+        <item>Китайський (традиційний)</item>
      </string-array>
      <string-array name="startup_hips_action">
-        <item>Allow</item>
-        <item>Deny</item>
+        <item>Дозволити</item>
+        <item>Заборонити</item>
      </string-array>
      <string-array name="timezone_filters">
         <item>Америка</item>
@@ -277,10 +270,10 @@
         <item>Азія</item>
         <item>Австралія</item>
         <item>Тихий океан</item>
-        <item>Всі</item>
+        <item>Усі</item>
      </string-array>
      <string-array name="transition_animation_scale_entries">
-        <item>Вимкнено</item>
+        <item>Відключене</item>
         <item>0.5x</item>
         <item>1x</item>
         <item>1.5x</item>
@@ -289,59 +282,59 @@
         <item>10x</item>
      </string-array>
      <string-array name="tts_pitch_entries">
-        <item>Дуже повільно</item>
-        <item>Повільно</item>
-        <item>Нормально</item>
-        <item>Швидко</item>
-        <item>Дуже швидко</item>
+        <item>Дуже низький</item>
+        <item>Низький</item>
+        <item>Звичайний</item>
+        <item>Високий</item>
+        <item>Дуже високий</item>
      </string-array>
      <string-array name="tts_rate_entries">
-        <item>Дуже повільно</item>
-        <item>Повільно</item>
-        <item>Нормально</item>
-        <item>Швидко</item>
-        <item>Дуже швидко</item>
+        <item>Дуже повільна</item>
+        <item>Повільна</item>
+        <item>Звичайна</item>
+        <item>Швидка</item>
+        <item>Дуже швидка</item>
      </string-array>
      <string-array name="usage_stats_display_order_types">
         <item>Час використання</item>
-        <item>Launch count</item>
-        <item>App name</item>
+        <item>Кількість запусків</item>
+        <item>Назва додатка</item>
      </string-array>
      <string-array name="usb_connection_mode_entries">
-        <item>Запит. при підкл.</item>
-        <item>Зарядка</item>
-        <item>Підключити SD-карту</item>
+        <item>Запит при підключенні</item>
+        <item>Тільки зарядка</item>
+        <item>Підключити Sd-Карту</item>
      </string-array>
      <string-array name="user_content_ratings_entries">
         <item>Вищий розум</item>
-        <item>Людина</item>
+        <item>Людей</item>
         <item>Неандерталець</item>
         <item>Шимпанзе</item>
         <item>Мавпа</item>
      </string-array>
      <string-array name="vpn_states">
-        <item>Вимкнено</item>
+        <item>Відключене</item>
         <item>Ініціалізація...</item>
         <item>Підключення...</item>
-        <item>Підключено</item>
+        <item>Підключене</item>
         <item>Таймаут</item>
         <item>Підключення не вдалося</item>
      </string-array>
      <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN з сертифікатами автентичності і Xauth</item>
-        <item>IPSec VPN з сертифікатами автентичності і гібридною аутентифікацією</item>
+        <item>L2TP/Ipsec VPN with pre-shared keys</item>
+        <item>L2TP/Ipsec VPN with certificates</item>
+        <item>Ipsec VPN with pre-shared keys and Xauth authentication</item>
+        <item>Ipsec VPN with certificates and Xauth authentication</item>
+        <item>Ipsec VPN with certificates and hybrid authentication</item>
      </string-array>
      <string-array name="wfd_status">
-        <item>Device connected, creating session...</item>
-        <item>Session created</item>
-        <item>Session tearing down...</item>
-        <item>Session failed</item>
-        <item>Session creating timeout, retrying...</item>
-        <item>Device connected</item>
+        <item>Пристрій підключений, створення сесії...</item>
+        <item>Сесія створена</item>
+        <item>Сесія зірвана...</item>
+        <item>Сесія не створена</item>
+        <item>Минув час очікування, повтор...</item>
+        <item>Пристрій підключений</item>
      </string-array>
      <string-array name="wifi_ap_security">
         <item>Без шифрування</item>
@@ -361,19 +354,19 @@
      </string-array>
      <string-array name="wifi_ip_settings">
         <item>Автоматично (DHCP)</item>
-        <item>Статично</item>
+        <item>Статичний</item>
      </string-array>
      <string-array name="wifi_p2p_status">
-        <item>Підключений</item>
-        <item>Запрошений</item>
-        <item>Невдало</item>
-        <item>Доступний</item>
-        <item>Вихід за межі діапазону</item>
+        <item>Підключене</item>
+        <item>Запрошене</item>
+        <item>Збій</item>
+        <item>Доступно</item>
+        <item> Поза діапазоном</item>
      </string-array>
      <string-array name="wifi_p2p_wps_setup">
-        <item>Кнопка підключення</item>
-        <item>PIN-код з пристрою, що підключається</item>
-        <item>PIN-код з цього пристрою</item>
+        <item> Push-Кнопка</item>
+        <item> Pin-Код з виявленого обладнання</item>
+        <item> Pin-Код цього обладнання</item>
      </string-array>
      <string-array name="wifi_phase2_entries">
         <item>Немає</item>
@@ -383,7 +376,7 @@
         <item>GTC</item>
      </string-array>
      <string-array name="wifi_proxy_settings">
-        <item>Ні</item>
+        <item>Немає</item>
         <item>Вручну</item>
      </string-array>
      <string-array name="wifi_security">
@@ -399,45 +392,45 @@
         <item>Відмінний</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries">
-        <item>Увімкнено (більше використ. батареї!)</item>
-        <item>Увімкнено, Якщо підключено живлення</item>
-        <item>Вимкнено (енергозбереження)</item>
+        <item>Включений (високе енергоспоживання)</item>
+        <item>Включений, якщо підключене живлення</item>
+        <item>Виключений (енергозбереження)</item>
      </string-array>
      <string-array name="wifi_sleep_policy_entries_wifi_only">
-        <item>Увімкнено (більше використ. батареї!)</item>
-        <item>Увімкнено, Якщо підключено живлення</item>
-        <item>Вимкнено (енергозбереження)</item>
+        <item>Включений (високе енергоспоживання)</item>
+        <item>Включений, якщо підключене живлення</item>
+        <item>Виключений (енергозбереження)</item>
      </string-array>
      <string-array name="wifi_status">
         <item></item>
-        <item>Сканування...</item>
+        <item>Пошук...</item>
         <item>Підключення...</item>
-        <item>Авторизація...</item>
-        <item>Отримання IP-адреси…</item>
-        <item>Підключено</item>
-        <item>Призупинено</item>
+        <item>Аутентифікація...</item>
+        <item>Одержання Ip-Адреси...</item>
+        <item>Підключене</item>
+        <item>Припинене</item>
         <item>Відключення...</item>
-        <item>Відключено</item>
-        <item>"Не вдалося з\'єднатися"</item>
-        <item>Заблоковано</item>
-        <item>Уникнення слабкого сигналу</item>
+        <item>Немає підключення</item>
+        <item>Збій</item>
+        <item>Заблоковане</item>
+        <item>Запобігання слабкого сигналу</item>
      </string-array>
      <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>Сканування...</item>
-        <item>Підключення до %1$s…</item>
-        <item>Авторизація на %1$s…</item>
-        <item>Отримання IP-адреси від %1$s…</item>
-        <item>Підключено до %1$s</item>
-        <item>Призупинено</item>
+        <item>Пошук...</item>
+        <item>З'єднання з мережею %1$s…</item>
+        <item>Аутентифікація в мережі %1$s...</item>
+        <item>Одержання Ip-Адреси від %1$s…</item>
+        <item>Підключене до %1$s</item>
+        <item>Припинене</item>
         <item>Відключення від %1$s…</item>
-        <item>Відключено</item>
-        <item>Не вдалось відключитися</item>
-        <item>Заблоковано</item>
-        <item>Уникнення слабкого сигналу</item>
+        <item>Немає підключення</item>
+        <item>Збій</item>
+        <item>Заблоковане</item>
+        <item>Запобігання слабкого сигналу</item>
      </string-array>
      <string-array name="window_animation_scale_entries">
-        <item>Вимкнено</item>
+        <item>Відключене</item>
         <item>0.5x</item>
         <item>1x</item>
         <item>1.5x</item>
@@ -446,3 +439,5 @@
         <item>10x</item>
      </string-array>
 </resources>
+
+
