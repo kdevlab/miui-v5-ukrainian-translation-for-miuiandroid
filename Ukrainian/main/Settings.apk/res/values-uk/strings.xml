@@ -72,7 +72,7 @@
      <string name="accessibility_toggle_script_injection_preference_title">Підвищення доступності веб-сайтів</string>
      <string name="accessibility_toggle_speak_password_preference_title">Промовляти пароль</string>
      <string name="account_settings">Облікові записи</string>
-     <string name="account_sync_settings_title">Установки синхронізації</string>
+     <string name="account_sync_settings_title">Налаштування синхронізації</string>
      <string name="activating">Активація...</string>
      <string name="active_device_admin_msg">Адміністратор пристрою</string>
      <string name="active_input_method_subtypes">Активні способи введення</string>
@@ -163,7 +163,7 @@
      <string name="application_item_permission">Дозволити</string>
      <string name="application_size_label">Програма</string>
      <string name="applications_settings">Програми</string>
-     <string name="applications_settings_header">Установки програми</string>
+     <string name="applications_settings_header">Налаштування програми</string>
      <string name="applications_settings_summary">Управління програмами, налаштування клавіш швидкого запуску</string>
      <string name="ask_compatibility">Питати при запуску</string>
      <string name="assisted_gps">Використовувати A-GPS</string>
@@ -216,9 +216,9 @@
      <string name="band_mode_title">Налаштувати частоту GSM/UMTS</string>
      <string name="baseband_version">"Прошивка модуля зв'язку"</string>
      <string name="battery_action_app_details">Про програму</string>
-     <string name="battery_action_app_settings">Установки програми</string>
+     <string name="battery_action_app_settings">Налаштування програми</string>
      <string name="battery_action_bluetooth">Налаштування Bluetooth</string>
-     <string name="battery_action_display">Установки екрану</string>
+     <string name="battery_action_display">Налаштування екрану</string>
      <string name="battery_action_stop">Зупинити</string>
      <string name="battery_action_wifi">Налаштування Wi-Fi</string>
      <string name="battery_desc_apps">Використання батареї програмами</string>
@@ -617,7 +617,7 @@ This setting affects all users on this phone."</string>
      <string name="data_usage_uninstalled_apps">Дистанційні програми</string>
      <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
      <string name="data_usage_warning_editor_title">Налаштування попередження</string>
-     <string name="date_and_time">Установки дати &amp; часу</string>
+     <string name="date_and_time">Налаштування дати &amp; часу</string>
      <string name="date_and_time_settings_summary">Установка дати, часу, часового поясу і формату</string>
      <string name="date_and_time_settings_title">Дата і час</string>
      <string name="date_and_time_settings_title_setup_wizard">Встановити дату і час</string>
@@ -707,7 +707,7 @@ This setting affects all users on this phone."</string>
      <string name="dock_not_found_text">Щоб налаштувати док-станцію, встановіть в неї телефон</string>
      <string name="dock_not_found_title">Док-станція не знайдена</string>
      <string name="dock_settings">Док-станція</string>
-     <string name="dock_settings_summary">Установки звуку для підключеної док-станції</string>
+     <string name="dock_settings_summary">Налаштування звуку для підключеної док-станції</string>
      <string name="dock_settings_title">Налаштування док-станції</string>
      <string name="dock_sounds_enable_summary_off">Не відтворювати звук при встановленні або вилученні телефону</string>
      <string name="dock_sounds_enable_summary_on">Відтворювати звук при встановленні або вилученні телефону</string>
@@ -868,7 +868,7 @@ This setting affects all users on this phone."</string>
      <string name="hdcp_checking_title">Перевірка HDCP</string>
      <string name="header_account_settings">Налаштування облікового запису</string>
      <string name="header_add_an_account">Додайте акаунт</string>
-     <string name="header_application_sync_settings">Установки синхронізації</string>
+     <string name="header_application_sync_settings">Налаштування синхронізації</string>
      <string name="header_category_accounts">Акаунти</string>
      <string name="header_category_device">ПАРАМЕТРИ ПРИСТРОЇВ</string>
      <string name="header_category_personal">ОСОБИСТІ ДАНІ</string>
@@ -918,7 +918,7 @@ This setting affects all users on this phone."</string>
      <string name="install_text">Install</string>
      <string name="install_unknown_applications">Дозволити установку програм, отриманих не з Маркета</string>
      <string name="insufficient_storage">Недостатньо місця</string>
-     <string name="intent_sender_account_label">Акаунт:</string>
+     <string name="intent_sender_account_label">Облік. запис:</string>
      <string name="intent_sender_action_label">Дія:</string>
      <string name="intent_sender_data_label">Дані:</string>
      <string name="intent_sender_resource_label">Ресурс:</string>
@@ -1505,12 +1505,12 @@ This setting affects all users on this phone."</string>
      <string name="radio_info_smsc_update_label">Оновити</string>
      <string name="radio_info_toggle_dns_check_label">Вибір перевірки DNS</string>
      <string name="really_remove_account_message">"Видалення цього акаунту призведе до втрати всіх пов'язаних з ним повідомлень, контактів та інших даних, наявних в телефоні"</string>
-     <string name="really_remove_account_title">Видалити акаунт?</string>
-     <string name="recognizer_settings_summary">Установки для %s</string>
+     <string name="really_remove_account_title">Видалити облік. запис?</string>
+     <string name="recognizer_settings_summary">Налаштування для %s</string>
      <string name="recognizer_settings_title">Голосовий пошук</string>
      <string name="recognizer_title">Розпізнавання голосу</string>
      <string name="recompute_size">Повторне обчислення розміру...</string>
-     <string name="regulatory_information">Regulatory information</string>
+     <string name="regulatory_information">Нормативна інформація</string>
      <string name="remove_account_failed">Акаунт необхідний для доступу до деяких програм. Щоб видалити його, потрібно відновити на пристрої налаштування за замовчуванням (в результаті всі особисті дані будуть видалені). Це можна зробити в розділі \"Налаштування> \" Відновлення і скидання \"</string>
      <string name="remove_account_label">Видалити акаунт</string>
      <string name="remove_device_admin">Вимкнути</string>
@@ -1522,7 +1522,7 @@ This setting affects all users on this phone."</string>
 "</string>
      <string name="reset_app_preferences_title">Скинути налаштування програм?</string>
      <string name="restore_default_apn">Відновлення налаштувань APN за замовчуванням</string>
-     <string name="restore_default_apn_completed">Установки за замовчуванням відновлені</string>
+     <string name="restore_default_apn_completed">Налаштування за замовчуванням відновлені</string>
      <string name="retry">Повторити</string>
      <string name="ring_volume_title">Гучність дзвінка</string>
      <string name="ringtone_summary" />
@@ -1860,7 +1860,7 @@ This setting affects all users on this phone."</string>
      <string name="tts_default_pitch_title">Тон</string>
      <string name="tts_default_rate_summary">Швидкість читання тексту</string>
      <string name="tts_default_rate_title">Швидкість мови</string>
-     <string name="tts_default_settings_section">Установки за замовчуванням</string>
+     <string name="tts_default_settings_section">Налаштування за замовчуванням</string>
      <string name="tts_default_synth_summary">Вибір системи синтезу мови за замовчуванням</string>
      <string name="tts_default_synth_title">Система за замовчуванням</string>
      <string name="tts_engine_error">Обрана система не може бути запущена</string>
@@ -1965,25 +1965,25 @@ This setting affects all users on this phone."</string>
      <string name="use_location_summary">Дозволити Google використовувати дані про місцезнаходження для поліпшення пошуку та роботи інших служб</string>
      <string name="use_location_title">Враховувати при пошуку</string>
      <string name="use_system_language_to_select_input_method_subtypes">Мова системи</string>
-     <string name="user_account_title">Account for content</string>
+     <string name="user_account_title">Облік. запис для контенту</string>
      <string name="user_add_user_menu">Додати користувача</string>
-     <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customize with their own apps, wallpaper, and so on. Users can also adjust tablet settings like WLAN that affect everyone.
+     <string name="user_add_user_message_long">"Якщо пристроєм користується кілька людей, заведіть для них окремі облікові записи. В результаті у кожного користувача з'явиться свій простір, де можна буде встановити власні програми або шпалери. При цьому деякі параметри, наприклад установки Wi-Fi, залишаться спільними для всіх.
 
-After you create a new user, that person needs to go through a setup process.
+Оновлення додатків буде відбуватися для всіх облікових записів одночасно. Встановити оновлення зможе будь-який користувач.
 
-Any user can accept updated app permissions on behalf of all other users."</string>
-     <string name="user_add_user_message_short">"After you create a new user, that person needs to go through a setup process.
+"</string>
+     <string name="user_add_user_message_short">"Кожен новий користувач повинен виконати налаштування.
 
-Any user can accept updated app permissions on behalf of all other users."</string>
-     <string name="user_add_user_title">Add new user</string>
-     <string name="user_adding_new_user">Adding new user…</string>
-     <string name="user_cannot_manage_message">"Only the phone's owner can manage users."</string>
+Користувачі можуть дозволяти оновлення для будь-яких облікових записів на пристрої."</string>
+     <string name="user_add_user_title">Додати користувача</string>
+     <string name="user_adding_new_user">Додавання…</string>
+     <string name="user_cannot_manage_message">Тільки власник може налаштувати пристрій для інших користувачів.</string>
      <string name="user_confirm_remove_message">Ви впевнені, що хочете видалити користувача і всю його інформацію з пристрою?</string>
-     <string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
-     <string name="user_confirm_remove_self_title">Delete yourself?</string>
+     <string name="user_confirm_remove_self_message">Ваші дані, збережені на цьому пристрої, будуть видалені без можливості відновлення.</string>
+     <string name="user_confirm_remove_self_title">Видалити свій обліковий запис?</string>
      <string name="user_confirm_remove_title">Видалити користувача?</string>
-     <string name="user_delete_button">Delete</string>
-     <string name="user_delete_user_description">Delete user</string>
+     <string name="user_delete_button">Видалити</string>
+     <string name="user_delete_user_description">Видалити користувача</string>
      <string name="user_dict_multiple_settings_title">Словники</string>
      <string name="user_dict_settings_add_dialog_confirm">OK</string>
      <string name="user_dict_settings_add_dialog_less_options">Менше</string>
@@ -2003,30 +2003,30 @@ Any user can accept updated app permissions on behalf of all other users."</stri
      <string name="user_dict_settings_summary" />
      <string name="user_dict_settings_titlebar">Словник користувача</string>
      <string name="user_dict_single_settings_title">Словник</string>
-     <string name="user_info_settings_title">User info</string>
+     <string name="user_info_settings_title">Інформація про користувача</string>
      <string name="user_list_title">Користувачі</string>
-     <string name="user_new_user_name">Pesky kid</string>
-     <string name="user_nickname">Nickname</string>
-     <string name="user_owner">Owner</string>
-     <string name="user_picture_title">Photo ID</string>
+     <string name="user_new_user_name">Захист від дітей</string>
+     <string name="user_nickname">Прізвисько</string>
+     <string name="user_owner">Власник</string>
+     <string name="user_picture_title">Фотографія</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
      <!-- Original string: Delete %1$s from this device -->
      <string name="user_remove_user_menu">Видалити користувача</string>
      <string name="user_settings_title">Користувачі та обмеження</string>
-     <string name="user_setup_button_setup_later">Not now</string>
-     <string name="user_setup_button_setup_now">Set up now</string>
-     <string name="user_setup_dialog_message">Make sure the person is available to take the tablet and set up their space</string>
-     <string name="user_setup_dialog_title">Set up user now?</string>
-     <string name="user_summary_active">Active</string>
-     <string name="user_summary_inactive">Not active</string>
-     <string name="user_summary_not_set_up">Not set up</string>
-     <string name="user_you_section">You</string>
-     <string name="verify_applications">Verify apps</string>
-     <string name="verify_applications_summary">Disallow or warn before installation of apps that may cause harm</string>
-     <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behavior.</string>
-     <string name="verify_apps_over_usb_title">Verify apps over USB</string>
+     <string name="user_setup_button_setup_later">Не зараз</string>
+     <string name="user_setup_button_setup_now">Налаштувати зараз</string>
+     <string name="user_setup_dialog_message">Переконайтеся, що людина хоче створити свій простір на цьому пристрої</string>
+     <string name="user_setup_dialog_title">Налаштувати користувача?</string>
+     <string name="user_summary_active">Активний</string>
+     <string name="user_summary_inactive">Не активний</string>
+     <string name="user_summary_not_set_up">Не створено</string>
+     <string name="user_you_section">Ви</string>
+     <string name="verify_applications">Перевірка додатків</string>
+     <string name="verify_applications_summary">Заборонити або попереджати перед установкою додатків, які можуть заподіяти шкоду</string>
+     <string name="verify_apps_over_usb_summary">Перевірка додатків, встановлених через АБР/ADT на підозрілу поведінку</string>
+     <string name="verify_apps_over_usb_title">Перевірка додатків через USB</string>
      <string name="version_text">Версія %1$s</string>
      <string name="vibrate_category_title">Вібрація</string>
      <string name="vibrate_in_normal_title">Вібрація в звичайному режимі</string>
@@ -2382,7 +2382,7 @@ Phone setup can require significant network activity."</string>
      <string name="wifi_wps_connected">"З'єднано з мережею Wi-Fi %s"</string>
      <string name="wifi_wps_failed_auth">Помилка авторизації. Спробуйте пізніше</string>
      <string name="wifi_wps_failed_generic">WPS помилка. Спробуйте ще раз через декілька хвилин</string>
-     <string name="wifi_wps_failed_overlap">Виявлена ​​ще одна WPS сесія. Спробуйте ще раз через декілька хвилин</string>
+     <string name="wifi_wps_failed_overlap">Виявлена ??ще одна WPS сесія. Спробуйте ще раз через декілька хвилин</string>
      <string name="wifi_wps_failed_tkip">Налаштування безпеки роутера (TKIP) не підтримуються</string>
      <string name="wifi_wps_failed_wep">Налаштування безпеки роутера (WEP) не підтримуються</string>
      <string name="wifi_wps_in_progress">WPS вже використовується, для завершення потрібно близько хвилини</string>
@@ -2399,8 +2399,8 @@ Phone setup can require significant network activity."</string>
      <string name="wps_connect_summary">Переконайтеся, що бездротовий маршрутизатор WPS активний</string>
      <string name="wps_connect_title">"WPS зв'язок"</string>
      <string name="xiaomi_account">Акаунт Xiaomi</string>
-     <string name="xiaomi_cloud_service">Xiaomi cloud services</string>
-     <string name="xiaomi_money_service">MiCredit center</string>
+     <string name="xiaomi_cloud_service">Хмарові служби Xiaomi</string>
+     <string name="xiaomi_money_service">MiCredit центр</string>
      <string name="yes">Так</string>
      <string name="zone_auto">Часовий пояс мережі</string>
      <string name="zone_auto_summaryOff">Використовувати часовий пояс мережі</string>
