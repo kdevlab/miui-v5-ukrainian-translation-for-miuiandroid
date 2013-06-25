@@ -20,32 +20,32 @@
      <string name="access_control_recording_intro_header">Намалюйте графічний ключ:</string>
      <string name="access_control_reset_by_account">Увійдіть в акаунт Xiaomi для відновлення пароля</string>
      <string name="accessibility_enable">Включити доступ</string>
-     <string name="accessibility_feature_state_off">Off</string>
-     <string name="accessibility_feature_state_on">On</string>
-     <string name="accessibility_global_gesture_preference_description">"When this feature is turned on, you can quickly enable accessibility features in two steps:
+     <string name="accessibility_feature_state_off">Включено</string>
+     <string name="accessibility_feature_state_on">Виключено</string>
+     <string name="accessibility_global_gesture_preference_description">"Ви зможете швидко включати спеціальні можливості. Ось як це зробити:
 
-Step 1: Press and hold the power button until you hear a sound or feel a vibration.
+Крок 1: 1. Натисніть кнопку живлення і утримуйте її, поки не пролунає звуковий сигнал чи вібровиклик.
 
-Step 2: Touch and hold two fingers until you hear audio confirmation.
+Крок 2: Натисніть на екран двома пальцями і не відпускайте їх, поки не почуєте повідомлення про те, що команда виконана.
 
-If the device has multiple users, using this shortcut on the lock screen temporarily enables accessibility until the device is unlocked."</string>
-     <string name="accessibility_global_gesture_preference_summary_off">Off</string>
-     <string name="accessibility_global_gesture_preference_summary_on">On</string>
-     <string name="accessibility_global_gesture_preference_title">Accessibility shortcut</string>
-     <string name="accessibility_long_press_timeout_preference_title">Touch &amp; hold delay</string>
+Якщо пристроєм користується кілька людей, спеціальні можливості будуть включені до тих пір, поки пристрій буде розблоковано або не буде вибрано інший користувач."</string>
+     <string name="accessibility_global_gesture_preference_summary_off">Вимк.</string>
+     <string name="accessibility_global_gesture_preference_summary_on">Вкл.</string>
+     <string name="accessibility_global_gesture_preference_title">Швидке включення</string>
+     <string name="accessibility_long_press_timeout_preference_title">Затримка при натисканні та утриманні</string>
      <string name="accessibility_menu_item_settings">Налаштування</string>
      <string name="accessibility_no_services_installed">Служби не встановлені</string>
-     <string name="accessibility_power_button_ends_call_prerefence_title">Power button ends call</string>
-     <string name="accessibility_screen_magnification_summary">"When this feature is turned on, you can zoom in and out by triple-tapping the screen.
+     <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка живлення завершує дзвінок</string>
+     <string name="accessibility_screen_magnification_summary">"Ця функція дозволяє збільшувати і зменшувати зображення, тричі натиснувши на екран.
 
-While zoomed in, you can:
-<ul><li>Pan: Drag two or more fingers across the screen.
-<li>Adjust zoom level: Pinch two or more fingers together or spread them apart.</li></li></ul>"
+При збільшеному масштабі можливо:
+<ul><li>Панорамувати - проведіть пальцями по екрану
+<li>Змінювати масштаб - зведіть або розведіть пальці.</li></li></ul>"
 
-You can also temporarily magnify what's under your finger by triple-tapping and holding. In this magnified state, you can drag your finger to explore different parts of the screen. Lift your finger to return to your previous state.
+Щоб тимчасово збільшити зображення під пальцем, тричі натисніть на екран і потримайте його. Провівши пальцем, ви можете подивитися на інші області екрану. Щоб повернути екран до попереднього стану, приберіть палець.
 
-Note: Triple-tap for magnification works everywhere except the keyboard and navigation bar.""</string>
-     <string name="accessibility_screen_magnification_title">Magnification gestures</string>
+Примітка. Потрійним натисканням збільшуються всі області, крім клавіатури і панелі навігації.""</string>
+     <string name="accessibility_screen_magnification_title">Жести для збільшення</string>
      <string name="accessibility_script_injection_allowed">Дозволено</string>
      <string name="accessibility_script_injection_button_allow">Дозволити</string>
      <string name="accessibility_script_injection_button_disallow">Заборонити</string>
@@ -58,29 +58,29 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
      <string name="accessibility_service_no_apps_title">Потрібна програма читання з екрану?</string>
      <string name="accessibility_service_security_warning_summary">Служба %1$s може зберігати будь-який текст що вводиться, крім паролів. Зокрема, зберігаються особисті відомості, наприклад номери кредитних карт. Крім того, можуть збиратися дані про використання телефону</string>
      <string name="accessibility_service_security_warning_title">Використовувати %1$s?</string>
-     <string name="accessibility_services_title">Services</string>
+     <string name="accessibility_services_title">Служби</string>
      <string name="accessibility_settings">Спец. можливості</string>
      <string name="accessibility_settings_title">Налаштування спеціальних можливостей</string>
      <string name="accessibility_sync_disabled">Синхронізація відключена</string>
      <string name="accessibility_sync_enabled">Синхронізація включена</string>
      <string name="accessibility_sync_error">Помилка синхронізації</string>
      <string name="accessibility_system_title">Система</string>
-     <string name="accessibility_toggle_large_text_preference_title">Large text</string>
-     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Update screen magnification on app transitions</string>
-     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Auto update screen magnification</string>
-     <string name="accessibility_toggle_screen_magnification_preference_title">Screen magnification</string>
-     <string name="accessibility_toggle_script_injection_preference_title">Enhance web accessibility</string>
-     <string name="accessibility_toggle_speak_password_preference_title">Speak passwords</string>
-     <string name="account_settings">Акаунти</string>
+     <string name="accessibility_toggle_large_text_preference_title">Великий текст</string>
+     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Зберігати масштаб при переході між додатками</string>
+     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автооновленя маштабу</string>
+     <string name="accessibility_toggle_screen_magnification_preference_title">Маштабування</string>
+     <string name="accessibility_toggle_script_injection_preference_title">Підвищення доступності веб-сайтів</string>
+     <string name="accessibility_toggle_speak_password_preference_title">Промовляти пароль</string>
+     <string name="account_settings">Облікові записи</string>
      <string name="account_sync_settings_title">Установки синхронізації</string>
      <string name="activating">Активація...</string>
      <string name="active_device_admin_msg">Адміністратор пристрою</string>
      <string name="active_input_method_subtypes">Активні способи введення</string>
-     <string name="activity_not_found">Application is not installed on your phone.</string>
+     <string name="activity_not_found">Додаток не встановлений на телефоні.</string>
      <string name="activity_picker_label">Вибір дії</string>
      <string name="adb_warning_message">"Налагодження по USB - це режим, який дозволяє використовувати ваш пристрій як зовнішній накопичувач: переміщати файли (з комп'ютера і на комп'ютер), безпосередньо встановлювати програми, а також переглядати системні журнали"</string>
      <string name="adb_warning_title">Дозволити налагодження USB?</string>
-     <string name="add_account_label">Додати акаунт</string>
+     <string name="add_account_label">Додати облік. запис</string>
      <string name="add_device_admin">Активувати</string>
      <string name="add_device_admin_msg">Активувати адміністратора пристрою?</string>
      <string name="additional_system_update" />
@@ -91,7 +91,7 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
      <string name="airplane_mode">Режим польоту</string>
      <string name="alarm_volume_title">Будильник</string>
      <string name="all_volume_title">Гучність</string>
-     <string name="allow">Allow</string>
+     <string name="allow">Дозволити</string>
      <string name="allow_bind_app_widget_activity_allow_bind">Після створення віджета, %1$s може отримати доступ до всих відображених ним даних</string>
      <string name="allow_bind_app_widget_activity_allow_bind_title">Створити віджет та надати доступ?</string>
      <string name="allow_bind_app_widget_activity_always_allow_bind">Завжди дозволяти %1$s створювати віджети і отримувати доступ ввсих відображених ним даних</string>
@@ -150,8 +150,8 @@ Note: Triple-tap for magnification works everywhere except the keyboard and navi
      <string name="app_not_found_dlg_text">Програму не знайдено у списку встановлених</string>
      <string name="app_notifications_switch_label">Показувати сповіщення</string>
      <string name="app_process_limit_title">Ліміт фонових процесів</string>
-     <string name="app_special_disable_dlg_text">If you disable a built-in app, other apps may misbehave. Your data will also be deleted.</string>
-     <string name="app_special_disable_dlg_title">Delete data and disable app?</string>
+     <string name="app_special_disable_dlg_text">Якщо відключити вбудований додаток, інші програми можуть працювати неправильно. Крім того, будуть видалені всі дані.</string>
+     <string name="app_special_disable_dlg_title">Відключити?</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
@@ -772,15 +772,15 @@ This setting affects all users on this phone."</string>
      <string name="enable_adb_summary">"Включити режим налагодження при підключенні до комп'ютера по USB або по мережі"</string>
      <string name="enable_compatibility">Масштабувати програми</string>
      <string name="enable_drive_mode">Включити режим керування</string>
-     <string name="enable_opengl_traces_title">Enable OpenGL traces</string>
+     <string name="enable_opengl_traces_title">Увімк. трасування OpenGL</string>
      <string name="enable_snapshot_screenlock">НАЗАД - для скріншоту на екрані блокування</string>
      <string name="enable_text">Включити</string>
      <string name="enable_traces_dialog_title">Обрати трасування</string>
      <string name="enable_traces_summary_all">Всі трасування увімкнені</string>
      <string name="enable_traces_summary_none">Трасування відключено</string>
      <string name="enable_traces_summary_num">Включених трасувань: %1$d</string>
-     <string name="enable_traces_title">Включити трасування</string>
-     <string name="enable_wifi_display">Enable Wireless display</string>
+     <string name="enable_traces_title">Увімкнути трасування</string>
+     <string name="enable_wifi_display">Увімкнути Wireless display</string>
      <string name="enforce_read_external_confirm_message">"Коли увімкнено захист USB сховища, програми повинні запитувати дозволу для зчитування даних з зовнішнього сховища.
 \u0009
 Деякі програми можуть перестати працювати, поки їх не оновлять розробники"</string>
