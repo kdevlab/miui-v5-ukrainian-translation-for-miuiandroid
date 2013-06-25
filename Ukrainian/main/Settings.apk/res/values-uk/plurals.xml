@@ -26,7 +26,7 @@
         <item quantity="one">Пароль повинен містити хоча б 1 заголовну букву</item>
      </plurals>
      <plurals name="show_dev_countdown">
-        <item quantity="other">You are now %1$d steps away from being a developer.</item>
-        <item quantity="one">You are now %1$d step away from being a developer.</item>
+        <item quantity="other">Вам залишолось %1$d кроків, щоб стати розробником</item>
+        <item quantity="one">Ви тепер у %1$d кроці(ів) від роробника.</item>
      </plurals>
 </resources>
