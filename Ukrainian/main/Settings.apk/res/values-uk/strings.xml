@@ -18,7 +18,7 @@
      <string name="access_control_no_back_footer">Натисніть [icon] для виходу</string>
      <string name="access_control_password_title">Включити пароль</string>
      <string name="access_control_recording_intro_header">Намалюйте графічний ключ:</string>
-     <string name="access_control_reset_by_account">Увійдіть в акаунт Xiaomi для відновлення пароля</string>
+     <string name="access_control_reset_by_account">Увійдіть в облік. запис Xiaomi для відновлення пароля</string>
      <string name="accessibility_enable">Включити доступ</string>
      <string name="accessibility_feature_state_off">Включено</string>
      <string name="accessibility_feature_state_on">Виключено</string>
@@ -169,7 +169,7 @@
      <string name="assisted_gps">Використовувати A-GPS</string>
      <string name="assisted_gps_disabled">Використовувати сервер для A-GPS (зніміть прапорець для поліпшення роботи GPS)</string>
      <string name="assisted_gps_enabled">Використовувати сервер для A-GPS (зніміть прапорець для менш інтенсивного використання мережі)</string>
-     <string name="audio_profile_settings_title">Audio profiles</string>
+     <string name="audio_profile_settings_title">Аудіо профілі</string>
      <string name="audio_record_proc_title">Подавлення шуму</string>
      <string name="auto_caps">Заголовні автоматично</string>
      <string name="auto_caps_summary">Використовувати автоматичну підстановку заголовних букв на початку пропозицій</string>
@@ -188,7 +188,7 @@
 	%s: 0 must: 0
 	%d: 0 must: 1 -->
      <!-- Original string: Allow %d apps to auto start -->
-     <string name="auto_startup_count">Автозапуск дозволений% d додаткам</string>
+     <string name="auto_startup_count">Автозапуск дозволений %d додаткам</string>
      <string name="auto_startup_dialog_msg">Система дозволить додаткам запускатися автоматично. Це може призвести до збільшення споживання трафіку або батареї. Дозволити автозапуск?</string>
      <string name="automatic_brightness">Автоналаштування</string>
      <string name="available_size">%s</string>
@@ -199,8 +199,8 @@
      <string name="background_data_dialog_title">Вимкнути фоновий режим?</string>
      <string name="background_data_summary">Синхронізація, відправлення та отримання даних доступні завжди</string>
      <string name="background_process_stop_description">Це старий процес програми, який як і раніше запущений на випадок, якщо він знову знадобиться. Зазвичай зупиняти його не потрібно</string>
-     <string name="backup_configure_account_default_summary">Не знайдені акаунти з резервними копіями даних</string>
-     <string name="backup_configure_account_title">Резервний акаунт</string>
+     <string name="backup_configure_account_default_summary">Не знайдені облік. записи з резервними копіями даних</string>
+     <string name="backup_configure_account_title">Резервний облік. запис</string>
      <string name="backup_data_summary">Зберігати резервні копії даних програм, паролів точок доступу Wi-Fi і налаштувань на серверах Google</string>
      <string name="backup_data_title">Копіювання даних</string>
      <string name="backup_erase_dialog_message">Припинити резервне копіювання паролів точок доступу Wi-Fi, закладок, інших налаштувань і даних програм, а також видалити всі копії з серверів Google?</string>
@@ -363,7 +363,7 @@
      <string name="bluetooth_hid_profile_summary_connected">Підключено до пристрою введення</string>
      <string name="bluetooth_hid_profile_summary_use_for">Використовувати для введення</string>
      <string name="bluetooth_incoming_pairing_msg">Запит від: &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> Підключитись до цього пристрою?</string>
-     <string name="bluetooth_is_discoverable">Час видимості для пристроїв Bluetooth: %1$s</string>
+     <string name="bluetooth_is_discoverable">Час доступності для пристроїв Bluetooth: %1$s</string>
      <string name="bluetooth_is_discoverable_always">Відображати для найближчих пристроїв Bluetooth</string>
      <string name="bluetooth_lock_voice_dialing">Заблокувати голосовий набір</string>
      <string name="bluetooth_lock_voice_dialing_summary">Запобігти використання телефону Bluetooth, коли екран заблокований</string>
@@ -428,7 +428,7 @@
      <string name="bluetooth_turning_on">Включення Bluetooth...</string>
      <string name="bluetooth_unknown" />
      <string name="bluetooth_untether_blank">Підключення до %1$s буде перервано</string>
-     <string name="bluetooth_visibility_timeout">Тайм-аут видимості</string>
+     <string name="bluetooth_visibility_timeout">Тайм-аут доступності</string>
      <string name="breathing_light_color_summary">Колір LED при отриманні нового повідомлення</string>
      <string name="breathing_light_color_title">. Колір LED</string>
      <string name="breathing_light_freq_summary">Пауза між миганнями</string>
@@ -478,7 +478,7 @@
      <string name="clear_activities">Видалити налаштування за замовчуванням</string>
      <string name="clear_activities_summary">Очистити налаштування для використання інших додатків</string>
      <string name="clear_cache_btn_text">Очистити кеш</string>
-     <string name="clear_data_dlg_text">Всі дані цієї програми будуть видалені без можливості відновлення, включаючи всі файли, бази даних, налаштування, акаунти і т.і.</string>
+     <string name="clear_data_dlg_text">Всі дані цієї програми будуть видалені без можливості відновлення, включаючи всі файли, бази даних, налаштування, облік. записи і т.і.</string>
      <string name="clear_data_dlg_title">Видалити дані програми?</string>
      <string name="clear_data_failed">Дані не видалені</string>
      <string name="clear_failed_dlg_text">Не вдалося видалити дані</string>
@@ -518,7 +518,7 @@
      <string name="crypt_keeper_button_text">Зашифрувати телефон</string>
      <string name="crypt_keeper_confirm_title">Підтвердити шифрування</string>
      <string name="crypt_keeper_cooldown">Повторіть спробу через ^1 с.</string>
-     <string name="crypt_keeper_desc">"Шифрування доступно для акаунтів, налаштувань, завантажених програм і їхніх даних, а також для мультимедійних та інших файлів. Після шифрування даних телефону при кожному його включенні необхідно буде вводити числовий PIN-код або пароль, щоб виконати дешифрування даних. Єдиний спосіб відключити шифрування - скидання налаштувань, в результаті якого всі дані будуть втрачені.
+     <string name="crypt_keeper_desc">"Шифрування доступно для облік. записів, налаштувань, завантажених програм і їхніх даних, а також для мультимедійних та інших файлів. Після шифрування даних телефону при кожному його включенні необхідно буде вводити числовий PIN-код або пароль, щоб виконати дешифрування даних. Єдиний спосіб відключити шифрування - скидання налаштувань, в результаті якого всі дані будуть втрачені.
  
 Шифрування займе не менше однієї години. Перед його запуском необхідно підключити зарядний пристрій і не відключати його до закінчення операції. У разі переривання шифрування будуть втрачені всі дані або частина з них. "</string>
      <string name="crypt_keeper_dialog_need_password_message">Перед шифруванням необхідно задати PIN-код або пароль блокування екрану</string>
@@ -529,7 +529,7 @@
      <string name="crypt_keeper_enter_password">Введіть пароль</string>
      <string name="crypt_keeper_failed_summary">"Дані на вашому телефоні більше недоступні через перерване шифрування.
  
-Щоб продовжити використовувати пристрій, виконайте скидання до заводських налаштувань. Після цього ви зможете відновити всі дані, для яких в акаунті Google були створені резервні копії. "</string>
+Щоб продовжити використовувати пристрій, виконайте скидання до заводських налаштувань. Після цього ви зможете відновити всі дані, для яких в облік. записі Google були створені резервні копії. "</string>
      <string name="crypt_keeper_failed_title">Збій шифрування</string>
      <string name="crypt_keeper_final_desc">Виконати шифрування даних телефону? Ця операція незворотна, і в разі її переривання дані будуть втрачені. Шифрування займе не менше однієї години. Під час шифрування пристрій буде перезавантажений кілька разів</string>
      <string name="crypt_keeper_low_charge_text">Зарядіть батарею і повторіть спробу</string>
@@ -554,10 +554,10 @@
      <string name="data_usage_app_settings">Налаштування програми</string>
      <string name="data_usage_auto_sync_off_dialog">Це збереже трафік і батарею, але вам доведеться синхронізувати ваші дані вручну для їх актуалізації. Ви також не будете отримувати повідомлення про оновлення</string>
      <string name="data_usage_auto_sync_off_dialog_title">Вимкнути автосинхронізацію?</string>
-     <string name="data_usage_auto_sync_on_dialog">"Будь-які зміни акаунта в мережі автоматично будуть скопійовані в телефон.
-+Деякі акаунти також можуть автоматично копіювати зміни з телефону в мережу. Акаунт Google працює саме так.
+     <string name="data_usage_auto_sync_on_dialog">"Будь-які зміни облік. запису в мережі автоматично будуть скопійовані в телефон.
++Деякі облік. записи також можуть автоматично копіювати зміни з телефону в мережу. Облік. запис Google працює саме так.
  
-+Для вибору даних для синхронізації перейдіть в Налаштування > Акаунти"</string>
++Для вибору даних для синхронізації перейдіть в Налаштування > Облік. записи"</string>
      <string name="data_usage_auto_sync_on_dialog_title">Включити автосинхронізацію?</string>
      <string name="data_usage_change_cycle">Змінити...</string>
      <string name="data_usage_cycle">Період статистики</string>
@@ -597,16 +597,16 @@
      <string name="data_usage_pick_cycle_day">День місяця, коли скидається цикл використання даних:</string>
      <string name="data_usage_received_sent">Отримано: %1$s; надіслано: %2$s</string>
      <string name="data_usage_restrict_background">Якщо обмежити передачу даних у фоновому режимі, деякі програми та служби не будуть працювати без підключення до мережі Wi-Fi</string>
-     <string name="data_usage_restrict_background_multiuser">"If you restrict background mobile data, some apps and services won't work unless you're connected to a WLAN network.
+     <string name="data_usage_restrict_background_multiuser">"Якщо обмежити передачу даних у фоновому режимі, деякі програми та служби не працюватимуть без підключення до мережі Wi-Fi
 
-This setting affects all users on this phone."</string>
+Налаштування будуть змінені для всіх користувачів пристрою."</string>
      <string name="data_usage_restrict_background_title">Обмеження фонового режиму</string>
      <string name="data_usage_restrict_denied_dialog">Обмеження фонового режиму можливе тільки при лімітуванні мобільного трафіку</string>
      <string name="data_usage_summary_title">Передача даних</string>
      <string name="data_usage_sweep_limit">"<font size="21">^1</font> <font size="9">^2</font>
-<font size="12">лимит</font>"</string>
+<font size="12">обмеження</font>"</string>
      <string name="data_usage_sweep_warning">"<font size="21">^1</font> <font size="9">^2</font>
-<font size="12">опасность</font>"</string>
+<font size="12">небезпека</font>"</string>
      <string name="data_usage_tab_3g">2G/3G</string>
      <string name="data_usage_tab_4g">Трафік 4G</string>
      <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -615,7 +615,7 @@ This setting affects all users on this phone."</string>
      <string name="data_usage_total_during_range">Трафік за період %2$s: %1$s</string>
      <string name="data_usage_total_during_range_mobile">%2$s: близько %1$s використано. Дані оператора мережі можуть відрізнятися</string>
      <string name="data_usage_uninstalled_apps">Дистанційні програми</string>
-     <string name="data_usage_uninstalled_apps_users">Removed apps and users</string>
+     <string name="data_usage_uninstalled_apps_users">Віддалені програми і користувачі</string>
      <string name="data_usage_warning_editor_title">Налаштування попередження</string>
      <string name="date_and_time">Налаштування дати &amp; часу</string>
      <string name="date_and_time_settings_summary">Установка дати, часу, часового поясу і формату</string>
@@ -646,7 +646,7 @@ This setting affects all users on this phone."</string>
      <string name="default_input_method">Вибір методу вводу за замовчуванням</string>
      <string name="default_usb_mode">Тип підключення USB за замовчуванням</string>
      <string name="delete">Видалити</string>
-     <string name="deny">Deny</string>
+     <string name="deny">Заборонити</string>
      <string name="details_subtitle">Витрата батареї</string>
      <string name="details_title">Витрата батареї</string>
      <string name="dev_settings_warning_message">Ці налаштування тільки для розробників. Вони можуть викликати нестабільність роботи пристрою і програм на ньому</string>
@@ -670,9 +670,9 @@ This setting affects all users on this phone."</string>
      <string name="device_internal_memory">"Внутрішня пам'ять:"</string>
      <string name="device_memory">RAM:</string>
      <string name="device_miui_version">Версія MIUI:</string>
-     <string name="device_name">"Ім'я пристрою"</string>
-     <string name="device_name_input_hint">"Введіть ім'я вашого пристрою"</string>
-     <string name="device_name_usage_point">"Показувати ім'я Вашого пристрою при створенні Bluetooth підключення, точки доступу і так далі"</string>
+     <string name="device_name">"Назва пристрою"</string>
+     <string name="device_name_input_hint">"Введіть назву вашого пристрою"</string>
+     <string name="device_name_usage_point">"Показувати назву Вашого пристрою при створенні Bluetooth підключення, точки доступу і так далі"</string>
      <string name="device_picker">Вибір пристрою Bluetooth</string>
      <string name="device_sd_memory">Внутрішній накопичувач:</string>
      <string name="device_status">Загальна інформація</string>
@@ -680,9 +680,9 @@ This setting affects all users on this phone."</string>
      <string name="device_status_summary">Номер телефону, рівень сигналу і т.д.</string>
      <string name="dialog_title_font_size">Розмір шрифту</string>
      <string name="dirac_control">Технологія \"MI Sound\"</string>
-     <string name="dirac_mode_earbuds">Earbuds</string>
-     <string name="dirac_mode_earphones">Earphones</string>
-     <string name="dirac_mode_off">Dirac Off</string>
+     <string name="dirac_mode_earbuds">Гарнітура</string>
+     <string name="dirac_mode_earphones">Навушники</string>
+     <string name="dirac_mode_off">Відключено</string>
      <string name="disable_overlays">Відключити HW оверлеї</string>
      <string name="disable_overlays_summary">Завжди використовувати GPU для відтворення екрану</string>
      <string name="disable_power_key_long_press_under_keyguard">Вимкнути на екрані блокування</string>
@@ -700,7 +700,7 @@ This setting affects all users on this phone."</string>
      <string name="dlg_error_unmount_text">Не вдалося відключити SD-карту. Повторіть спробу пізніше</string>
      <string name="dlg_ok">ОК</string>
      <string name="dock_audio_settings_title">Аудіо</string>
-     <string name="dock_audio_summary_car">Налаштування док-станції автомобіля</string>
+     <string name="dock_audio_summary_car">Налаштування док-станції автомобілю</string>
      <string name="dock_audio_summary_desk">Налаштування підключеної настільної док-станції</string>
      <string name="dock_audio_summary_none">Телефон не підключений до док-станції</string>
      <string name="dock_audio_summary_unknown">Налаштування підключеної док-станції</string>
@@ -751,7 +751,7 @@ This setting affects all users on this phone."</string>
      <string name="dolby_roomsize_normal">Звичайна кімната</string>
      <string name="dolby_roomsize_summary">Цей режим доступний тільки при використанні навушників</string>
      <string name="dolby_roomsize_title">"Режим об'ємного звучання:"</string>
-     <string name="drive_mode">В автомобілі</string>
+     <string name="drive_mode">За кермом</string>
      <string name="drive_mode_auto_reply">Автовідповідь</string>
      <string name="drive_mode_auto_sms_reply_content">Вибачте, я зараз за кермом. Я передзвоню вам пізніше.</string>
      <string name="drive_mode_auto_sms_reply_content_title">Вміст повідомлення</string>
@@ -759,7 +759,7 @@ This setting affects all users on this phone."</string>
      <string name="drive_mode_invert_stop_report">Переверніть, щоб зупинити звіти</string>
      <string name="drive_mode_only_contact_reply">Відповідати тільки людям із списку контактів</string>
      <string name="drive_mode_phone_report">Сповіщення про виклик</string>
-     <string name="drive_mode_settings">В автомобілі</string>
+     <string name="drive_mode_settings">За кермом</string>
      <string name="drive_mode_sms_auto_sms_reply">Автовідповідь SMS</string>
      <string name="drive_mode_sms_report">Сповіщення про SMS</string>
      <string name="drive_mode_title">Задати голосове сповіщення</string>
@@ -850,26 +850,26 @@ This setting affects all users on this phone."</string>
      <string name="gadget_state_off">off</string>
      <string name="gadget_state_on">on</string>
      <string name="gadget_state_template">%1$s %2$s</string>
-     <string name="gadget_state_turning_off">turning off</string>
-     <string name="gadget_state_turning_on">turning on</string>
-     <string name="gadget_sync">Sync</string>
-     <string name="gadget_title">Упр. живленням</string>
+     <string name="gadget_state_turning_off">вимкнення</string>
+     <string name="gadget_state_turning_on">включення</string>
+     <string name="gadget_sync">Синхронізація</string>
+     <string name="gadget_title">Кер. живленням</string>
      <string name="gadget_toggle_bluetooth">Оновлення налаштувань Bluetooth</string>
      <string name="gadget_toggle_wifi">Оновлення налаштувань Wi-Fi</string>
      <string name="gadget_wifi">WLAN</string>
      <string name="game_controller_settings_category">Ігровий контролер</string>
-     <string name="global_change_warning">This setting affects all users on this phone.</string>
-     <string name="global_font_change_title">Change font size</string>
-     <string name="global_locale_change_title">Change language</string>
+     <string name="global_change_warning">Налаштування будуть змінені для всіх користувачів пристрою.</string>
+     <string name="global_font_change_title">Змініть розмір шрифта</string>
+     <string name="global_locale_change_title">Змініть мову</string>
      <string name="haptic_feedback_enable_title">Реагування вібруванням</string>
      <string name="haptic_feedback_level">Рівень вібрації</string>
      <string name="hardkeyboard_category">Налаштування зовнішньої клавіатури</string>
      <string name="hdcp_checking_dialog_title">Порядок перевірки HDCP</string>
      <string name="hdcp_checking_title">Перевірка HDCP</string>
      <string name="header_account_settings">Налаштування облікового запису</string>
-     <string name="header_add_an_account">Додайте акаунт</string>
+     <string name="header_add_an_account">Додайте облік. запис</string>
      <string name="header_application_sync_settings">Налаштування синхронізації</string>
-     <string name="header_category_accounts">Акаунти</string>
+     <string name="header_category_accounts">ОБЛІКОВІ ЗАПИСИ</string>
      <string name="header_category_device">ПАРАМЕТРИ ПРИСТРОЇВ</string>
      <string name="header_category_personal">ОСОБИСТІ ДАНІ</string>
      <string name="header_category_system">СИСТЕМНІ НАЛАШТУВАННЯ</string>
@@ -894,7 +894,7 @@ This setting affects all users on this phone."</string>
      <string name="help_url_wifi" />
      <string name="hidden_ssid_label">Прихований SSID:</string>
      <string name="history_details_title">Детальна історія</string>
-     <string name="home_key">Home key</string>
+     <string name="home_key">Клавіша \"ДОДОМУ\"</string>
      <string name="ime_security_warning">При використанні цього способу можуть збиратися всі дані, що вводяться, в тому числі паролі і номери кредитних карт. Спосіб введення запитується програмою \"%1$s\". Використовувати цей спосіб введення?</string>
      <string name="immediately_destroy_activities">Не зберігати дії</string>
      <string name="immediately_destroy_activities_summary">Видаляти журнал дій після їх завершення</string>
@@ -915,7 +915,7 @@ This setting affects all users on this phone."</string>
      <string name="input_settings">Налаштування вводу</string>
      <string name="install_all_warning">"Ваші особисті дані і дані телефону більш уразливі для атак програм з невідомих джерел. Ви погоджуєтеся з тим, що несете повну відповідальність за будь-який збиток, нанесений телефону, і втрату даних, пов'язану з використанням цих програм"</string>
      <string name="install_applications">Невідомі джерела</string>
-     <string name="install_text">Install</string>
+     <string name="install_text">Встановити</string>
      <string name="install_unknown_applications">Дозволити установку програм, отриманих не з Маркета</string>
      <string name="insufficient_storage">Недостатньо місця</string>
      <string name="intent_sender_account_label">Облік. запис:</string>
@@ -972,14 +972,14 @@ This setting affects all users on this phone."</string>
      <string name="local_backup_password_toast_confirmation_mismatch">Новий пароль і підтвердження не співпадають</string>
      <string name="local_backup_password_toast_success">Новий пароль встановлено</string>
      <string name="local_backup_password_toast_validation_failure">Помилка установки пароля</string>
-     <string name="location_access_summary">Let apps that have asked your permission use your location information</string>
-     <string name="location_access_title">Access to my location</string>
+     <string name="location_access_summary">Дозволити програмам використовувати дані про ваше місце розташування</string>
+     <string name="location_access_title">Доступ до моїх геоданих</string>
      <string name="location_gps">По супутниках GPS</string>
      <string name="location_neighborhood_level">Використовувати Wi-Fi і мобільні мережі для визначення місця розташування</string>
      <string name="location_neighborhood_level_wifi">Розташування визначається за допомогою Wi-Fi</string>
      <string name="location_network_based">По координатах мережі</string>
      <string name="location_settings_title">Моє місце розташування</string>
-     <string name="location_sources_heading">Location sources</string>
+     <string name="location_sources_heading">Визначення місцезнаходження</string>
      <string name="location_street_level">Дозволити програмам використовувати GPS для точного визначення вашого місця розташування</string>
      <string name="location_title">Моє місце розташування</string>
      <string name="lock_after_timeout">Автоблокування</string>
@@ -1061,7 +1061,7 @@ This setting affects all users on this phone."</string>
      <string name="manually_add_network">Додати мережу</string>
      <string name="master_clear_accounts">"
  
-В даний час ви виконали вхід в наступні акаунти:
+В даний час ви виконали вхід в наступні облік. записи:
 "</string>
      <string name="master_clear_all">"Ви впевнені, що хочете видалити всі дані до заводських налаштувань?
 Операція не може бути скасована"</string>
@@ -1069,7 +1069,7 @@ This setting affects all users on this phone."</string>
      <string name="master_clear_confirm_title">Виконати скидання?</string>
      <string name="master_clear_desc">"Будуть видалені всі дані з внутрішньої пам'яті пристрою, в тому числі:
  
-Ваш акаунт Google
+Ваш облік. запис Google
 Налаштування/дані системи і програм
 Завантажені програми "</string>
      <string name="master_clear_desc_also_erases_external">"Музика
@@ -1079,7 +1079,7 @@ This setting affects all users on this phone."</string>
  
 Щоб видалити музику, фотографії та інші дані користувача, необхідно очистити SD-карту"</string>
      <string name="master_clear_erase_application_progress">Видалення програм...</string>
-     <string name="master_clear_failed">Скидання не виконаний, оскільки служба System Clear недоступна</string>
+     <string name="master_clear_failed">Скидання не виконано, оскільки служба System Clear недоступна</string>
      <string name="master_clear_final_button_text">Стерти все</string>
      <string name="master_clear_final_desc">Видалити всю особисту інформацію та завантажені програми без можливості відновлення?</string>
      <string name="master_clear_gesture_explanation">Для підтвердження скидання налаштувань необхідно накреслити графічний ключ</string>
@@ -1106,11 +1106,11 @@ This setting affects all users on this phone."</string>
      <string name="memory_available">Доступно</string>
      <string name="memory_available_read_only">Available (read-only)</string>
      <string name="memory_calculating_size">Йде підрахунок...</string>
-     <string name="memory_clear_cache_message">This will clear cached data for all apps.</string>
-     <string name="memory_clear_cache_title">Clear cached data?</string>
+     <string name="memory_clear_cache_message">Будуть видалені дані всіх додатків.</string>
+     <string name="memory_clear_cache_title">Очистити кеш?</string>
      <string name="memory_dcim_usage">Зображення та відео</string>
      <string name="memory_downloads_usage">Завантаження</string>
-     <string name="memory_media_cache_usage">Cached data</string>
+     <string name="memory_media_cache_usage">Кешовані дані</string>
      <string name="memory_media_misc_usage">Інше</string>
      <string name="memory_media_usage">Мультимедіа</string>
      <string name="memory_music_usage">Аудіо (музика, рінгтони, підкасти і т. п.)</string>
@@ -1161,7 +1161,7 @@ This setting affects all users on this phone."</string>
      <string name="msd_install_status_undo">Встановити драйвер</string>
      <string name="msd_install_succeed">Драйвер встановлено</string>
      <string name="msd_install_windows_xp_step_2_1">1. Якщо відкрився майстер встановлення, будь ласка, виконуйте інструкції, щоб завершити встановлення драйвера</string>
-     <string name="mtp_ptp_mode_summary">MTP or PTP function is active</string>
+     <string name="mtp_ptp_mode_summary">MTP або PTP функції є активні</string>
      <string name="multi_touch_points_category_title">Точки мультитач</string>
      <string name="multi_touch_points_preference">Перезавантажити для застосування</string>
      <string name="musicfx_title">Звукові ефекти</string>
@@ -1185,7 +1185,7 @@ This setting affects all users on this phone."</string>
      <string name="no_running_services">Нічого не запущено</string>
      <string name="no_services">Неактивий</string>
      <string name="normal_date_format">За замовчуванням (%s)</string>
-     <string name="not_installed">Not installed</string>
+     <string name="not_installed">Не встановлено</string>
      <string name="notification_pulse_title">Мигання трекбола</string>
      <string name="notification_sound_dialog_title">Вибрати мелодію повідомлень</string>
      <string name="notification_sound_title">Мелодія повідомлення</string>
@@ -1196,7 +1196,7 @@ This setting affects all users on this phone."</string>
      <string name="oem_radio_info_label">Інформація/встановлення OEM</string>
      <string name="onscreen_keyboard_settings_summary">Налаштування екранної клавіатури</string>
      <string name="other_relative">Інші дозволи</string>
-     <string name="overlay_display_devices_title">Simulate secondary displays</string>
+     <string name="overlay_display_devices_title">Емуляція дод. екранів</string>
      <string name="owner_info_settings_edit_text_hint">Введіть текст для показу на екрані блокування</string>
      <string name="owner_info_settings_title">Відомості про власника</string>
      <string name="packages_subtitle">Вкладені пакети</string>
@@ -1285,7 +1285,7 @@ This setting affects all users on this phone."</string>
      <string name="perm_hips_security_prompt_root_caption">Важливе попередження!</string>
      <string name="perm_hips_security_prompt_root_step1">Дозволити %1$s отримувати права суперкористувача?</string>
      <string name="perm_hips_security_prompt_root_step2">Права суперкористувача можуть призвести до нестабільної роботи системи</string>
-     <string name="perm_hips_security_prompt_root_step3">Ваші особисті дані (акаунти, паролі та повідомлення) можуть стати загальнодоступними</string>
+     <string name="perm_hips_security_prompt_root_step3">Ваші особисті дані (облік. записи, паролі та повідомлення) можуть стати загальнодоступними</string>
      <string name="perm_hips_security_prompt_root_step4">Також можливі пошкодження внутрішніх деталей пристрою</string>
      <string name="perm_hips_security_prompt_root_step5">Використовуйте з обережністю!</string>
      <string name="perm_hips_security_prompt_root_step6">Дозволити %1$s отримувати права суперкористувача?</string>
@@ -1412,7 +1412,7 @@ This setting affects all users on this phone."</string>
      <string name="privacy_settings_title">Відновлення і скидання</string>
      <string name="private_sms_need_to_unlock">Введіть графічний ключ</string>
      <string name="private_sms_recording_intro_header">Намалюйте шаблон для створення блокування</string>
-     <string name="private_sms_reset_by_account">Увійдіть в акаунт Xiaomi для відновлення пароля</string>
+     <string name="private_sms_reset_by_account">Увійдіть в облік. запис Xiaomi для відновлення паролю</string>
      <string name="process_kernel_label">ОС Android</string>
      <string name="process_mediaserver_label">Сервер медіа</string>
      <string name="process_provider_in_use_description">Провайдер %1$s використовується</string>
@@ -1424,7 +1424,7 @@ This setting affects all users on this phone."</string>
      <string name="proxy_defaultView_text">Відновити налаштування за замовчуванням</string>
      <string name="proxy_error">Увага!</string>
      <string name="proxy_error_dismiss">ОК</string>
-     <string name="proxy_error_empty_host_set_port">Якщо поле хоста не заповнено, поле порту також слід залишити порожнім</string>
+     <string name="proxy_error_empty_host_set_port">Якщо поле хосту не заповнено, поле порту також слід залишити порожнім</string>
      <string name="proxy_error_empty_port">Необхідно заповнити поле порту</string>
      <string name="proxy_error_invalid_exclusion_list">Список винятків відформатований невірно. Імена доменів розділяються через кому</string>
      <string name="proxy_error_invalid_host">"Введено недійсне ім'я хосту"</string>
@@ -1477,7 +1477,7 @@ This setting affects all users on this phone."</string>
      <string name="radio_info_band_mode_label">Вибрати радіостанцію</string>
      <string name="radio_info_call_redirect_label">Перенаправлення викликів:</string>
      <string name="radio_info_call_status_label">Стан виклику:</string>
-     <string name="radio_info_cellinfo_label">CellInfo:</string>
+     <string name="radio_info_cellinfo_label">Інформація про дзвінок:</string>
      <string name="radio_info_current_network_label">Поточна мережа:</string>
      <string name="radio_info_data_attempts_label">Спроб даних:</string>
      <string name="radio_info_data_successes_label">Кількість успішних обробок даних:</string>
@@ -1490,7 +1490,7 @@ This setting affects all users on this phone."</string>
      <string name="radio_info_neighboring_location_label">Сусідній CID:</string>
      <string name="radio_info_network_type_label">Тип мережі:</string>
      <string name="radio_info_phone_number_label">Номер телефону:</string>
-     <string name="radio_info_ping_hostname">"ping ім'я вузла (www.google.ru):"</string>
+     <string name="radio_info_ping_hostname">ім'я вузла для пінгу (www.google.ua):</string>
      <string name="radio_info_ping_ipaddr">Виконати перевірку ping IP-адреси:</string>
      <string name="radio_info_ppp_received_label">Отримано PPP:</string>
      <string name="radio_info_ppp_resets_label">Кількість зборів PPP після завантаження:</string>
@@ -1504,15 +1504,15 @@ This setting affects all users on this phone."</string>
      <string name="radio_info_smsc_refresh_label">Оновлення</string>
      <string name="radio_info_smsc_update_label">Оновити</string>
      <string name="radio_info_toggle_dns_check_label">Вибір перевірки DNS</string>
-     <string name="really_remove_account_message">"Видалення цього акаунту призведе до втрати всіх пов'язаних з ним повідомлень, контактів та інших даних, наявних в телефоні"</string>
+     <string name="really_remove_account_message">"Видалення цього облік. запису призведе до втрати всіх пов'язаних з ним повідомлень, контактів та інших даних, наявних в телефоні"</string>
      <string name="really_remove_account_title">Видалити облік. запис?</string>
      <string name="recognizer_settings_summary">Налаштування для %s</string>
      <string name="recognizer_settings_title">Голосовий пошук</string>
      <string name="recognizer_title">Розпізнавання голосу</string>
      <string name="recompute_size">Повторне обчислення розміру...</string>
      <string name="regulatory_information">Нормативна інформація</string>
-     <string name="remove_account_failed">Акаунт необхідний для доступу до деяких програм. Щоб видалити його, потрібно відновити на пристрої налаштування за замовчуванням (в результаті всі особисті дані будуть видалені). Це можна зробити в розділі \"Налаштування> \" Відновлення і скидання \"</string>
-     <string name="remove_account_label">Видалити акаунт</string>
+     <string name="remove_account_failed">Облік. запис необхідний для доступу до деяких програм. Щоб видалити його, потрібно відновити на пристрої налаштування за замовчуванням (в результаті всі особисті дані будуть видалені). Це можна зробити в розділі \"Налаштування> \" Відновлення і скидання \"</string>
+     <string name="remove_account_label">Видалити облік. запис</string>
      <string name="remove_device_admin">Вимкнути</string>
      <string name="remove_from_frequently_fragment">Видалити \"%s\" із загальних налаштувань?</string>
      <string name="reset_app_preferences">Скидання налаштувань програм</string>
@@ -1534,12 +1534,12 @@ This setting affects all users on this phone."</string>
      <string name="roaming_reenable_title">Увага</string>
      <string name="roaming_turn_it_on_button">Включити</string>
      <string name="roaming_warning">Дозволити інтернет-роумінг? Можливі високі витрати за використання роумінгу</string>
-     <string name="roaming_warning_multiuser">"When you allow data roaming, you may incur significant roaming charges!
+     <string name="roaming_warning_multiuser">Використання роумінгу може спричинити за собою непередбачувані витрати.
 
-This setting affects all users on this phone."</string>
+Налаштування будуть змінені для всіх користувачів пристрою."</string>
      <string name="rssi_label">RSSI:</string>
-     <string name="running_process_item_removed_user_label">Removed user</string>
-     <string name="running_process_item_user_label">User: %1$s</string>
+     <string name="running_process_item_removed_user_label">Видалення користувача</string>
+     <string name="running_process_item_user_label">Користувач: %1$s</string>
      <string name="running_processes_item_description_p_p">Процесів: %1$d; служб: %2$d</string>
      <string name="running_processes_item_description_p_s">Процесів: %1$d; служб: %2$d</string>
      <string name="running_processes_item_description_s_p">Процесів: %1$d; служб: %2$d</string>
@@ -1558,25 +1558,25 @@ This setting affects all users on this phone."</string>
      <string name="screen_color_temperature_adjust">Налаштування температури кольорів</string>
      <string name="screen_compatibility_label">Працює з екраном</string>
      <string name="screen_compatibility_text">Можливо, програма не призначена для вашого екрану. Тут можна налаштувати параметри її відображення</string>
-     <string name="screen_key_long_press">Long press screen keys</string>
-     <string name="screen_key_long_press_action">Trigger function</string>
-     <string name="screen_key_long_press_timeout">Long press timeout</string>
+     <string name="screen_key_long_press">Час утримання</string>
+     <string name="screen_key_long_press_action">Функція тригера</string>
+     <string name="screen_key_long_press_timeout">Режим сну</string>
      <string name="screen_on_proximity_sensor_summary">Режим попередження помилок в даний момент увімкнено. Будь ласка, переконайтесь, що верхня частина екрану не закрита</string>
      <string name="screen_on_proximity_sensor_title">Попередження помилок</string>
      <string name="screen_saturation_adjust">Налаштування насиченості</string>
      <string name="screen_timeout">Сплячий режим</string>
      <string name="screen_timeout_summary">Після %1$s бездіяльності</string>
      <string name="screen_timeout_title">Сплячий режим</string>
-     <string name="screensaver_settings_button">Settings</string>
-     <string name="screensaver_settings_disabled_prompt">To control what happens when the phone is docked and/or sleeping, turn Daydream on.</string>
-     <string name="screensaver_settings_dream_start">Start now</string>
-     <string name="screensaver_settings_summary_dock">While docked</string>
-     <string name="screensaver_settings_summary_either_long">When docked or asleep and charging</string>
-     <string name="screensaver_settings_summary_either_short">Either</string>
+     <string name="screensaver_settings_button">Налаштування</string>
+     <string name="screensaver_settings_disabled_prompt">Щоб знати, що відбувається з телефоном, коли він підключений до док-станції або перебуває в сплячому режимі, увімкніть заставку.</string>
+     <string name="screensaver_settings_dream_start">Розпочати</string>
+     <string name="screensaver_settings_summary_dock">В док-станції</string>
+     <string name="screensaver_settings_summary_either_long">При підключенні до док-станції, при переході в сплячий режим і під час зарядки</string>
+     <string name="screensaver_settings_summary_either_short">Обидва</string>
      <string name="screensaver_settings_summary_off">Вимкнено</string>
-     <string name="screensaver_settings_summary_sleep">While charging</string>
+     <string name="screensaver_settings_summary_sleep">Під час живлення</string>
      <string name="screensaver_settings_title">Заставка</string>
-     <string name="screensaver_settings_when_to_dream">When to daydream</string>
+     <string name="screensaver_settings_when_to_dream">Коли включати?</string>
      <string name="sd_card_settings_label">SD-карта</string>
      <string name="sd_card_storage">SD-карта</string>
      <string name="sd_eject">Витягти SD-карту</string>
@@ -1592,7 +1592,7 @@ This setting affects all users on this phone."</string>
      <string name="sdcard_changes_instructions">Зміни вступлять в силу після повторного підключення USB-кабелю</string>
      <string name="sdcard_format">Очистити SD-карту</string>
      <string name="sdcard_setting">SD-карта</string>
-     <string name="sdcard_settings_available_bytes_label">Вільно байтів:</string>
+     <string name="sdcard_settings_available_bytes_label">Вільно Байтів:</string>
      <string name="sdcard_settings_bad_removal_status">SD-карта була витягнута під час використання!</string>
      <string name="sdcard_settings_mass_storage_status">SD-карта використовується в якості накопичувача</string>
      <string name="sdcard_settings_not_present_status">Немає SD-карти</string>
@@ -1639,19 +1639,19 @@ This setting affects all users on this phone."</string>
      <string name="security_passwords_title">Паролі</string>
      <string name="security_privacy_settings_title">Безпека та конфіденційність</string>
      <string name="security_relative">Питання безпеки</string>
-     <string name="security_settings_billing_desc">This app may charge you money:</string>
+     <string name="security_settings_billing_desc">Ця програма може списувати гроші з вашого рахунку:</string>
      <string name="security_settings_desc">У цієї програми є доступ до такої інформації на пристрої:</string>
      <string name="security_settings_desc_multi">"Для збільшення швидкодії та зменшення споживання пам'яті деякі з дозволів доступні %1$s, тому що він запущений одним процесом з %2$s:"</string>
-     <string name="security_settings_premium_sms_desc">Send premium SMS</string>
+     <string name="security_settings_premium_sms_desc">Відіслати SMS</string>
      <string name="security_settings_summary">Настройка функції \"Моє місце розташування\", розблокування екрану і блокування сховища реєстраційних даних</string>
      <string name="security_settings_title">Безпека</string>
      <string name="select_all">Вибрати все</string>
      <string name="select_application">Вибір програми</string>
      <string name="select_device_admin_msg">Адміністратори пристрою</string>
-     <string name="selinux_status">SELinux status</string>
-     <string name="selinux_status_disabled">Disabled</string>
-     <string name="selinux_status_enforcing">Enforcing</string>
-     <string name="selinux_status_permissive">Permissive</string>
+     <string name="selinux_status">Статус SELinux</string>
+     <string name="selinux_status_disabled">Відключено</string>
+     <string name="selinux_status_enforcing">Блокування</string>
+     <string name="selinux_status_permissive">Попереджуючий</string>
      <string name="service_background_processes">%1$s вільно</string>
      <string name="service_client_name">Натисніть, щоб змінити %1$s</string>
      <string name="service_foreground_processes">%1$s зайнято</string>
@@ -1680,14 +1680,14 @@ This setting affects all users on this phone."</string>
      <string name="show_background_processes">Показати процеси в кеші</string>
      <string name="show_cpu_usage">Показувати завантаження ЦП</string>
      <string name="show_cpu_usage_summary">Екран, що показує поточне завантаження ЦП</string>
-     <string name="show_dev_already">No need, you are already a developer.</string>
-     <string name="show_dev_on">You are now a developer!</string>
+     <string name="show_dev_already">Не потрібно. Ти вже розробник.</string>
+     <string name="show_dev_on">Тепер ти розробник!</string>
      <string name="show_fc">Показувати FC</string>
      <string name="show_fc_summary">Показувати усі FC для програм (вмикати небажано)</string>
-     <string name="show_hw_layers_updates">Show hardware layers updates</string>
-     <string name="show_hw_layers_updates_summary">Flash hardware layers green when they update</string>
-     <string name="show_hw_overdraw">Show GPU overdraw</string>
-     <string name="show_hw_overdraw_summary">From best to worst: blue, green, light red, red</string>
+     <string name="show_hw_layers_updates">Показ. апар. оновлення</string>
+     <string name="show_hw_layers_updates_summary">Виділяти апаратні рівні зеленим при оновленні</string>
+     <string name="show_hw_overdraw">Показувати GPU перемалювання</string>
+     <string name="show_hw_overdraw_summary">Порядок: синій, зелений, світло-червоний, червоний</string>
      <string name="show_hw_screen_updates">Показувати дані GPU</string>
      <string name="show_hw_screen_updates_summary">Показувати дані у вікнах під час відтворення з GPU</string>
      <string name="show_magnifier_when_input">Показувати лупу</string>
@@ -1699,7 +1699,7 @@ This setting affects all users on this phone."</string>
      <string name="show_screen_updates_summary">Підсвічувати області екрану при оновленні</string>
      <string name="show_touches">Показувати натискання</string>
      <string name="show_touches_summary">Показувати графічний ключ</string>
-     <string name="show_user_info_on_lockscreen_label">Show user info on lock screen</string>
+     <string name="show_user_info_on_lockscreen_label">Показувати введений нижче текст на екрані блокування</string>
      <string name="silent_mode_title">Режим без звуку</string>
      <string name="sim_bad_pin">Невірний PIN-код</string>
      <string name="sim_change_failed">"Не вдається змінити PIN.
@@ -1722,7 +1722,7 @@ This setting affects all users on this phone."</string>
      <string name="sim_lock_settings">Налаштування блокування SIM-карти</string>
      <string name="sim_lock_settings_category">Налаштувати блокування</string>
      <string name="sim_lock_settings_title">Блокування SIM-карти</string>
-     <string name="sim_management_title">Управление SIM</string>
+     <string name="sim_management_title">Керування SIM</string>
      <string name="sim_pin_change">Зміна PIN SIM-карти</string>
      <string name="sim_pin_toggle">Блокування SIM-карти</string>
      <string name="sim_pins_dont_match">PIN-коди не співпадають</string>
@@ -1775,12 +1775,12 @@ This setting affects all users on this phone."</string>
      <string name="status_up_time">Час з моменту включення</string>
      <string name="status_wifi_mac_address">MAC-адресу Wi-Fi</string>
      <string name="status_wimax_mac_address">МАС-адреса для 4G</string>
-     <string name="storage_format">Format</string>
+     <string name="storage_format">Форматувати</string>
      <string name="storage_label">"Пам'ять"</string>
      <string name="storage_low_summary">Деякі функції, наприклад, синхронізація, можуть працювати некоректно. Спробуйте звільнити місце шляхом видалення програм або медіафайлів</string>
      <string name="storage_low_title">Закінчується вільне місце</string>
      <string name="storage_menu_usb">"USB-підключення до комп'ютера"</string>
-     <string name="storage_other_users">Other users</string>
+     <string name="storage_other_users">Інші користувачі</string>
      <string name="storage_settings">"Пам'ять"</string>
      <string name="storage_settings_summary">"Відключення SD-карти, відомості про доступну пам'яті"</string>
      <string name="storage_settings_title">Налаштування сховища</string>
@@ -1810,7 +1810,7 @@ This setting affects all users on this phone."</string>
 %1$s "</string>
      <string name="sync_plug">"Ласкаво просимо в Google Sync!
 Технологія Google синхронізації даних дозволяє отримувати дані про контакти, зустрічі та багато іншого з будь-якого пристрою. "</string>
-     <string name="sync_settings">Акаунти і синхронізація</string>
+     <string name="sync_settings">Облік. записи і синхронізація</string>
      <string name="sync_wifi_label">Налаштув. синхр. Wi-Fi</string>
      <string name="system">Система</string>
      <string name="system_package">Системні оновлення не можна встановити на зовнішній носій</string>
@@ -1887,8 +1887,8 @@ This setting affects all users on this phone."</string>
      <string name="tts_settings_title">Синтез мови</string>
      <string name="turn_off_radio">Вимкнути радіо</string>
      <string name="turn_on_radio">Увімкнути радіо</string>
-     <string name="under_keyguard">Under lockscreen</string>
-     <string name="uninstall_all_users_text">Uninstall for all users</string>
+     <string name="under_keyguard">На екрані блокування</string>
+     <string name="uninstall_all_users_text">Видалити всіх користувачів</string>
      <string name="uninstall_text">Видалити</string>
      <string name="unknown">Невідомо</string>
      <string name="unlock_backup_info_summary">Виберіть альтернативний спосіб розблокування екрана</string>
@@ -2109,9 +2109,9 @@ This setting affects all users on this phone."</string>
      <string name="vpn_ipsec_server_cert">Сертифікат сервера IPSec</string>
      <string name="vpn_ipsec_user_cert">Сертифікат користувача IPSec</string>
      <string name="vpn_l2tp_secret">Ключ L2TP</string>
-     <string name="vpn_lockdown_config_error">Always-on VPN requires an IP address for both server and DNS.</string>
-     <string name="vpn_lockdown_none">None</string>
-     <string name="vpn_lockdown_summary">Select a VPN profile to always remain connected to. Network traffic will only be allowed when connected to this VPN.</string>
+     <string name="vpn_lockdown_config_error">Завжди вимагає VPN IP адреса для сервера і DNS</string>
+     <string name="vpn_lockdown_none">Ні</string>
+     <string name="vpn_lockdown_summary">Виберіть профіль VPN, який буде завжди підключений. Мережевий трафік буде працювати тільки при підключенні до даного VPN.</string>
      <string name="vpn_menu_delete">Видалити мережу</string>
      <string name="vpn_menu_edit">Змінити мережу</string>
      <string name="vpn_menu_lockdown">Always-on VPN</string>
@@ -2138,7 +2138,7 @@ This setting affects all users on this phone."</string>
      <string name="vpn_username">"Ім'я користувача"</string>
      <string name="wait_for_debugger">Очікування налагоджувача</string>
      <string name="wait_for_debugger_summary">"Програма очікує з'єднання з налагоджувачем перед запуском"</string>
-     <string name="wallpaper_settings_fragment_title">Установка шпалер</string>
+     <string name="wallpaper_settings_fragment_title">Встановлення шпалер</string>
      <string name="wallpaper_settings_title">Шпалери</string>
      <string name="wfd_available_devices">Доступнв пристрої</string>
      <string name="wfd_disconnect_diag_msg">Якщо ви вимкнете Дисплей Wi-Fi, ваше підключення до %1$s завершиться</string>
@@ -2157,13 +2157,13 @@ This setting affects all users on this phone."</string>
      <string name="wifi_advanced_mac_address_title">MAC-адреса</string>
      <string name="wifi_advanced_settings_label">Налаштування IP</string>
      <string name="wifi_advanced_titlebar">Додаткові функції</string>
-     <string name="wifi_and_mobile_skipped_message">"WARNING: The phone won't be able to verify that your software is up to date."</string>
+     <string name="wifi_and_mobile_skipped_message">УВАГА: Телефон не може перевірити, що програмне забезпечення в актуальному стані.</string>
      <string name="wifi_api_test">Wi-Fi API</string>
      <string name="wifi_cancel">Скасувати</string>
      <string name="wifi_certificate">Сертифікат</string>
      <string name="wifi_config_info">Налаштування Wi-Fi</string>
      <string name="wifi_connect">Підключити</string>
-     <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
+     <string name="wifi_connect_failed_message">Телефон не може підключитися до цієї мережі Wi-Fi.</string>
      <string name="wifi_context_menu_change_password">Змінити пароль</string>
      <string name="wifi_context_menu_change_wapi_certificate">Змінити WAPI сертифікат</string>
      <string name="wifi_context_menu_connect">Підключитись до мережі</string>
@@ -2172,30 +2172,30 @@ This setting affects all users on this phone."</string>
      <string name="wifi_disabled_help">"Мережа відхилена, оскільки з'єднання нестійке. Щоб змінити параметри, виберіть \"Налаштування> Wi-Fi\" і відкрийте меню \"Додаткові функції\""</string>
      <string name="wifi_disabled_network_failure">Включено</string>
      <string name="wifi_disabled_password_failure">Помилка аутентифікації</string>
-     <string name="wifi_display_available_devices">Available devices</string>
-     <string name="wifi_display_details">Display settings</string>
-     <string name="wifi_display_disconnect_text">This will end your connection with:&lt;br>&lt;b>%1$s&lt;/b></string>
-     <string name="wifi_display_disconnect_title">Disconnect?</string>
-     <string name="wifi_display_no_devices_found">No nearby wireless displays were found.</string>
-     <string name="wifi_display_options_done">Done</string>
-     <string name="wifi_display_options_forget">Forget</string>
-     <string name="wifi_display_options_name">Name</string>
-     <string name="wifi_display_options_title">Wireless display options</string>
-     <string name="wifi_display_paired_devices">Paired displays</string>
-     <string name="wifi_display_search_for_devices">Search for displays</string>
-     <string name="wifi_display_searching_for_devices">Searching…</string>
-     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wireless display is disabled because WLAN is off.</string>
-     <string name="wifi_display_settings_empty_list_wifi_display_off">To see devices, turn wireless display on.</string>
-     <string name="wifi_display_settings_title">Wireless display</string>
-     <string name="wifi_display_status_available">Available</string>
-     <string name="wifi_display_status_connected">Connected</string>
-     <string name="wifi_display_status_connecting">Connecting</string>
-     <string name="wifi_display_summary_disabled">Disabled</string>
-     <string name="wifi_display_summary_off">Off</string>
-     <string name="wifi_display_summary_on">On</string>
+     <string name="wifi_display_available_devices">Достуані пристрої</string>
+     <string name="wifi_display_details">Налаштування відображення</string>
+     <string name="wifi_display_disconnect_text">Це буде кінець вашої зв'язку з:&lt;br>&lt;b>%1$s&lt;/b></string>
+     <string name="wifi_display_disconnect_title">Від'єднати?</string>
+     <string name="wifi_display_no_devices_found">Не знайдено жодної бездротової мережі.</string>
+     <string name="wifi_display_options_done">Готово</string>
+     <string name="wifi_display_options_forget">Забути</string>
+     <string name="wifi_display_options_name">Ім'я</string>
+     <string name="wifi_display_options_title">Налаштування бездротового зв'язку</string>
+     <string name="wifi_display_paired_devices">Утворені пари</string>
+     <string name="wifi_display_search_for_devices">Пошук пристроїв</string>
+     <string name="wifi_display_searching_for_devices">Пошку…</string>
+     <string name="wifi_display_settings_empty_list_wifi_display_disabled">Бездротовий зв'язок вимкнеий тому, що WLAN недоступний.</string>
+     <string name="wifi_display_settings_empty_list_wifi_display_off">Для відображення пристроїв, увімкніть відображення бездротовго зв'язку.</string>
+     <string name="wifi_display_settings_title">Відображення бездротового зв'язку</string>
+     <string name="wifi_display_status_available">Доступно</string>
+     <string name="wifi_display_status_connected">Підключено</string>
+     <string name="wifi_display_status_connecting">Підключення</string>
+     <string name="wifi_display_summary_disabled">Відключений</string>
+     <string name="wifi_display_summary_off">Вимк.</string>
+     <string name="wifi_display_summary_on">Увім.</string>
      <string name="wifi_dns1">DNS 1</string>
      <string name="wifi_dns2">DNS 2</string>
-     <string name="wifi_dont_skip">"Don't skip"</string>
+     <string name="wifi_dont_skip">Не пропускати</string>
      <string name="wifi_eap_anonymous">Невідомий</string>
      <string name="wifi_eap_ca_cert">Сертифікат центру сертіфікації</string>
      <string name="wifi_eap_identity">Користувач</string>
@@ -2226,7 +2226,7 @@ This setting affects all users on this phone."</string>
      <string name="wifi_menu_connect">Підключитись до мережі</string>
      <string name="wifi_menu_forget">Видалити цю мережу</string>
      <string name="wifi_menu_modify">Редарувати мережу</string>
-     <string name="wifi_menu_more_options">More options</string>
+     <string name="wifi_menu_more_options">Додаткові налаштування</string>
      <string name="wifi_menu_p2p">Wi-Fi Direct</string>
      <string name="wifi_menu_scan">Пошук</string>
      <string name="wifi_menu_wfd">Дисплей Wi-Fi</string>
@@ -2241,7 +2241,7 @@ This setting affects all users on this phone."</string>
      <string name="wifi_other_network">Інша мережа…</string>
      <string name="wifi_p2p_cancel_connect_message">"Ви хочете скасувати запрошення до з'єднання з %1$s?"</string>
      <string name="wifi_p2p_cancel_connect_title">Скасувати запрошення?</string>
-     <string name="wifi_p2p_delete_group_message">Forget this group?</string>
+     <string name="wifi_p2p_delete_group_message">Забути цю групу?</string>
      <string name="wifi_p2p_device_info">Інформація про пристрій</string>
      <string name="wifi_p2p_disconnect_message">"Якщо відключитися, то ваше з'єднання з %1$s буде розірвано"</string>
      <string name="wifi_p2p_disconnect_multiple_message">"Якщо відключитися, то ваше з'єднання з %1$s та %2$s іншими пристроями буде разірвано"</string>
@@ -2253,7 +2253,7 @@ This setting affects all users on this phone."</string>
      <string name="wifi_p2p_menu_searching">Пошук...</string>
      <string name="wifi_p2p_peer_devices">Пристрої мережі</string>
      <string name="wifi_p2p_persist_network">"Запам'ятати це з'єднання"</string>
-     <string name="wifi_p2p_remembered_groups">Remembered groups</string>
+     <string name="wifi_p2p_remembered_groups">Збереження групи</string>
      <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
      <string name="wifi_p2p_wps_setup">WPS</string>
      <string name="wifi_password">Пароль</string>
@@ -2262,7 +2262,7 @@ This setting affects all users on this phone."</string>
      <string name="wifi_quick_toggle_summary">Включити Wi-Fi</string>
      <string name="wifi_quick_toggle_title">Wi-Fi</string>
      <string name="wifi_remembered">Зберегти</string>
-     <string name="wifi_required_info_text">To complete setup, your tablet needs access to WLAN. After setup, you can switch between mobile data and WLAN.</string>
+     <string name="wifi_required_info_text">Для завершення налаштування, Ваш пристрій вимагає дотупа до Wi-Fi. Після налаштування, ви можете перемикатися між мобільною мережею і Wi-Fi</string>
      <string name="wifi_save">Зберегти</string>
      <string name="wifi_secured_first_item">Захист %1$s</string>
      <string name="wifi_secured_second_item">, захист %1$s</string>
@@ -2326,11 +2326,11 @@ This setting affects all users on this phone."</string>
      <string name="wifi_show_advanced">Додаткова</string>
      <string name="wifi_show_password">Показувати пароль</string>
      <string name="wifi_signal">Рівень сигналу</string>
-     <string name="wifi_skip_anyway">Skip anyway</string>
-     <string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges.
+     <string name="wifi_skip_anyway">Пропустити</string>
+     <string name="wifi_skipped_message">"УВАГА: може стягуватися додаткова плата за підключення.
 
-Phone setup can require significant network activity."</string>
-     <string name="wifi_speed">"Швідкість зв'язку"</string>
+Налаштування телефону може вимагати значних обсягів трафіку.</string>
+     <string name="wifi_speed">Швідкість зв'язку</string>
      <string name="wifi_ssid">Назва мережі (SSID)</string>
      <string name="wifi_starting">Включення Wi-Fi...</string>
      <string name="wifi_state_disabled">Відключено</string>
@@ -2342,17 +2342,17 @@ Phone setup can require significant network activity."</string>
      <string name="wifi_status">Статус</string>
      <string name="wifi_status_test">Статус Wi-Fi</string>
      <string name="wifi_stopping">Відключення Wi-Fi...</string>
-     <string name="wifi_suspend_optimizations">WLAN optimization</string>
-     <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
+     <string name="wifi_suspend_optimizations">WLAN оптимізація</string>
+     <string name="wifi_suspend_optimizations_summary">Мінімізувати використання батареї при підключенні Wi-Fi</string>
      <string name="wifi_tether_checkbox_text">Точка доступу Wi-Fi</string>
      <string name="wifi_tether_configure_ap_text">Налаштувати точку доступу Wi-Fi</string>
      <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
      <string name="wifi_tether_configure_subtext">Точка доступу %1$s %2$s</string>
      <string name="wifi_tether_enabled_subtext">Точка доступу %1$s активна</string>
      <string name="wifi_tether_failed_subtext">Помилка підключення</string>
-     <string name="wifi_tether_setting_title">Basic settings</string>
-     <string name="wifi_tether_starting">Turning hotspot on…</string>
-     <string name="wifi_tether_stopping">Turning off hotspot…</string>
+     <string name="wifi_tether_setting_title">Основні налаштування</string>
+     <string name="wifi_tether_starting">Включення</string>
+     <string name="wifi_tether_stopping">Вимкнення</string>
      <string name="wifi_unchanged">(не змінювалося)</string>
      <string name="wifi_unspecified">(не вказано)</string>
      <string name="wifi_update">Оновити статистику</string>
@@ -2364,9 +2364,9 @@ Phone setup can require significant network activity."</string>
      <string name="wifi_wapi_cert_install_button">Встановити</string>
      <string name="wifi_wapi_cert_mgmt_as_dont_exist">На SD-карті не знайдено AS сертифікатів!</string>
      <string name="wifi_wapi_cert_mgmt_as_format_is_wrong">Формат сертифікату невірний! Встановіть правильний сертифікат</string>
-     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">"Введіть ім'я сертифікату"</string>
+     <string name="wifi_wapi_cert_mgmt_as_name_is_empty">Введіть ім'я сертифікату</string>
      <string name="wifi_wapi_cert_mgmt_subdir_create_fail">Помилка створення папки</string>
-     <string name="wifi_wapi_cert_mgmt_subdir_exist">"Введіть інше ім'я, таке ім'я вже існує"</string>
+     <string name="wifi_wapi_cert_mgmt_subdir_exist">Введіть інше ім'я. Введене Вами ім'я вже існує</string>
      <string name="wifi_wapi_cert_mgmt_subdir_name_is_empty">"Введіть ім'я папки, яку хочете створити!"</string>
      <string name="wifi_wapi_cert_mgmt_titlebar">Управління сертифікатами WAPI</string>
      <string name="wifi_wapi_cert_mgmt_user_dont_exist">"Введіть ім'я сертифікату"</string>
@@ -2382,7 +2382,7 @@ Phone setup can require significant network activity."</string>
      <string name="wifi_wps_connected">"З'єднано з мережею Wi-Fi %s"</string>
      <string name="wifi_wps_failed_auth">Помилка авторизації. Спробуйте пізніше</string>
      <string name="wifi_wps_failed_generic">WPS помилка. Спробуйте ще раз через декілька хвилин</string>
-     <string name="wifi_wps_failed_overlap">Виявлена ??ще одна WPS сесія. Спробуйте ще раз через декілька хвилин</string>
+     <string name="wifi_wps_failed_overlap">Виявлена?? Ще одна WPS сесія. Спробуйте ще раз через декілька хвилин</string>
      <string name="wifi_wps_failed_tkip">Налаштування безпеки роутера (TKIP) не підтримуються</string>
      <string name="wifi_wps_failed_wep">Налаштування безпеки роутера (WEP) не підтримуються</string>
      <string name="wifi_wps_in_progress">WPS вже використовується, для завершення потрібно близько хвилини</string>
@@ -2398,7 +2398,7 @@ Phone setup can require significant network activity."</string>
      <string name="wps_category">Безпечне і швидке підключення</string>
      <string name="wps_connect_summary">Переконайтеся, що бездротовий маршрутизатор WPS активний</string>
      <string name="wps_connect_title">"WPS зв'язок"</string>
-     <string name="xiaomi_account">Акаунт Xiaomi</string>
+     <string name="xiaomi_account">Облік. запис Xiaomi</string>
      <string name="xiaomi_cloud_service">Хмарові служби Xiaomi</string>
      <string name="xiaomi_money_service">MiCredit центр</string>
      <string name="yes">Так</string>
