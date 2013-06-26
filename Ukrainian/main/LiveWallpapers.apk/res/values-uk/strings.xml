@@ -14,22 +14,16 @@
      <string name="show_seconds">Показати секунди</string>
      <string name="variable_line_width">Змінювати ширину кільця</string>
      <string name="wallpaper_clock">Полярний годинник</string>
-     <string name="wallpaper_clock_author">Google</string>
      <string name="wallpaper_clock_desc">Оригінальні годинник і календар</string>
      <string name="wallpaper_fall">Вода</string>
-     <string name="wallpaper_fall_author">Google</string>
      <string name="wallpaper_fall_desc">Опале листя&lt;br> На березі ставка:&lt;br> Вібрації Дзен</string>
      <string name="wallpaper_galaxy">Галактика</string>
-     <string name="wallpaper_galaxy_author">Google</string>
      <string name="wallpaper_galaxy_desc">Галактика кружляючих зірок</string>
      <string name="wallpaper_grass">Трава</string>
-     <string name="wallpaper_grass_author">Google</string>
      <string name="wallpaper_grass_desc">Стебла трави, похитуються на тлі нічного або денного неба</string>
      <string name="wallpaper_nexus">Нейрони</string>
-     <string name="wallpaper_nexus_author">Google</string>
      <string name="wallpaper_nexus_desc">Нейронна мережа зсередини</string>
      <string name="wallpaper_walkaround">"В об'єктиві"</string>
-     <string name="wallpaper_walkaround_author">Google</string>
      <string name="wallpaper_walkaround_desc">Дивіться в світ через камеру телефону і прогулюйтеся, не піддаючись ризику</string>
      <string name="wallpapers">Живі шпалери</string>
 </resources>

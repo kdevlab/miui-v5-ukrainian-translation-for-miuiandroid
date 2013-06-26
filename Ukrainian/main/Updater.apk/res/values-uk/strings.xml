@@ -34,6 +34,7 @@
      <string name="current_version_update_monthly_build">Зараз версія</string>
      <string name="daily_build">щоденна збірка</string>
      <string name="dialog_no">Ні</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_ok">OK</string>
      <string name="dialog_yes">Так</string>
      <string name="download_current_rom">Завантажити останню версію повного пакету</string>

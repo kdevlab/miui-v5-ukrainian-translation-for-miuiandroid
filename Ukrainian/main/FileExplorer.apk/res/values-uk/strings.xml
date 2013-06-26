@@ -14,8 +14,8 @@
      <string name="app_name">Файли</string>
      <string name="application_size_label">Додаток</string>
      <string name="background">В фоні</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="big5_summary">The default encoding of the traditional chinese version Windows system</string>
-     <string name="big5_title">BIG5</string>
      <string name="bind_account">"Прив'язка до акаунту KuaiPan"</string>
      <string name="bind_account_summary">"Якщо у вас вже є обліковий запис kuaipan, то її можна прив'язати до профілю Xiaomi, щоб синхронізувати дані"</string>
      <string name="binded_accout_description">"Ці два акаунта були об'єднані. Тепер Ви можете увійти використовуючи або акаунт Xiaomi, або акаунт Kuaipan. У них обох будуть одні і тіж файли."</string>
@@ -25,7 +25,6 @@
      <string name="cancel_app_garbage_cleanup">Не очищати</string>
      <string name="category_all">Всі</string>
      <string name="category_apk">Програми</string>
-     <string name="category_bluetooth">Bluetooth</string>
      <string name="category_document">Документи</string>
      <string name="category_favorite">Обране</string>
      <string name="category_log">Лог</string>
@@ -43,12 +42,13 @@
      <string name="clean_trash_box">Очистити кошик</string>
      <string name="cleanup_complete">Готово</string>
      <string name="close">Закрити</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="compress_fail">Compression failed, destination already exists</string>
      <string name="compress_message">Архівувати в...</string>
      <string name="compress_title">Архівувати</string>
      <string name="confirm">OК</string>
-     <string name="confirm_know">OK</string>
      <string name="copy_failed">Помилка копіювання</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
      <string name="create_new_folder_desctiption">Створення папки...</string>
      <string name="create_new_folder_failed">Не вдалось створити папку %1$s</string>
@@ -74,7 +74,6 @@
      <string name="dialog_type_image">Зображення</string>
      <string name="dialog_type_text">Текст</string>
      <string name="dialog_type_video">Відео</string>
-     <string name="directory_info_divider">"  |  "</string>
      <string name="directory_no_item">Пуста папка</string>
      <string name="dlg_error_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
      <string name="download_failed">Помилка завантаження</string>
@@ -83,8 +82,10 @@
      <string name="empty_dir_cleanup_indication">%s пустих папок</string>
      <string name="empty_dir_title">Пусті папки</string>
      <string name="enable_sd_card">"На даний моменту SD-карта підключена до комп'ютера і використовується. Щоб бачити її вміст, відключіть режим накопичувача"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_filename_too_long">Filename too long</string>
      <string name="error_info_cant_send_folder">Папка не може бути передана</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_open_file_failed_no_app_found">No activity found to open the file</string>
      <string name="fail_to_create_folder">Не вдалося створити папку, папка з такою назвою вже існує</string>
      <string name="fail_to_create_folder_unknown">Cannot create: unknown error.</string>
@@ -101,6 +102,7 @@
      <string name="file_loading">Завантаження...</string>
      <string name="file_too_large">Цей файл занадто великий для завантаження на сервер</string>
      <string name="finished">Завершено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="folder_exist">The folder already exists</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Натисніть сюди&lt;/a>для очищення кошика</string>
      <string name="ftp_account_req_notice">"Імґ'я і пароль, 4~16 знаків, включаючи цифри, букви, чутливі до регістру"</string>
@@ -112,12 +114,9 @@
      <string name="ftp_transfer_secure">"Захищене FTP-з'єднання"</string>
      <string name="ftp_username_and_passworld">"Ім'я користувача і пароль"</string>
      <string name="ftp_username_hint">"Ім'я користувача"</string>
-     <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
-     <string name="garbage_item_path_format" formatted="false">%s %s</string>
      <string name="garbage_size_metric">"%s
 Мусор"</string>
      <string name="gbk_summary">Якщо ви використовуєте кодування GBK, наприклад, в Windows Explorer, оберіть цей тип кодування, щоб запобігти спотворенню тексту на китайській мові</string>
-     <string name="gbk_title">GBK</string>
      <string name="give_up_cleaning">Відміна</string>
      <string name="header_text_cleaned">сміття очищено</string>
      <string name="header_text_cleaning">сміття залишилось</string>
@@ -126,8 +125,8 @@
      <string name="instruction">Адреса синхронізації:</string>
      <string name="instruction_pre">Обмін файлами з ПК або Mac по FTP через мережу Wi-Fi</string>
      <string name="item_name">Без імені</string>
-     <string name="kuaipan_label">Kuaipan</string>
      <string name="kuaipan_over_space">В вашому MiDrive немає більше вільного місця</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">MiDrive</string>
      <string name="kuaipan_prompt_message">Сервер в режимі обслуговування. Будь ласка, спробуйте пізніше...</string>
      <string name="kuaipan_tech_support">Технічна підтримка: Kingsoft Kuaipan</string>
@@ -137,7 +136,6 @@
      <string name="login_reg_content">MiDrive дозволяє зберігати файли і синхронізувати їх між декількома пристроями.</string>
      <string name="login_reg_content0">KuaiPan - ваш інтернет диск</string>
      <string name="menu_item_cleanup">Очистка</string>
-     <string name="menu_item_ftp">FTP</string>
      <string name="menu_item_search">Пошук</string>
      <string name="menu_item_sort">Сортування</string>
      <string name="menu_item_sort_date">За датою</string>
@@ -156,8 +154,11 @@
      <string name="no_app_cache_indication">Немає кешу додатків</string>
      <string name="no_app_garbage_indication">Немає сміття від додатків</string>
      <string name="no_empty_dir_indication">Немає порожніх папок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_enough_space">No enough space</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_enough_storage_indication">No enough storage, paste failed. Delete unnecessary files and try again, or use File Cleanup to release space.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_enough_storage_title">No enough storage</string>
      <string name="no_file">Немає файлів</string>
      <string name="no_more_space">Бракує місця на диску</string>
@@ -229,7 +230,6 @@
      <string name="sd_size_label">Сховище користувача</string>
      <string name="search_hint">"Введіть частину або всю назву файлу"</string>
      <string name="search_title">Пошук документів</string>
-     <string name="send_to_midrive">Відправити в MiDrive</string>
      <string name="send_to_midrive_failed_message">Не вдалось відправити в MiDrive. Невірний формат файлу.</string>
      <string name="server_control_advanced_settings">Розширені налаштування</string>
      <string name="server_control_charset">Кодування передачі</string>
@@ -251,7 +251,6 @@
      <string name="sys_size">Всього: %1$s</string>
      <string name="sys_size_title">Повний обсяг</string>
      <string name="tab_category">Огляд</string>
-     <string name="tab_networkdisk">MiDrive</string>
      <string name="tab_phone">Телефон</string>
      <string name="temp_file_cleanup_indication">%s тимчасових файлів</string>
      <string name="temp_file_title">Тимчасові файли</string>
@@ -282,6 +281,7 @@
      <string name="ui_main_toast_favorite_removed">Уподобання видалено</string>
      <string name="ui_main_toast_operation_failed">Помилка видаления %1$s</string>
      <string name="uninstall_app_data">Видалити додаток і всі дані</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unmount_inform_text">USB storage will be unmounted.</string>
      <string name="upload_failed">Помилка завантаження</string>
      <string name="upload_file_toolarge_message">%1$d файлів розміром більше 300 Мб не можуть бути відправлені. Будь ласка, перевірте в Управлінні передачами</string>
@@ -304,6 +304,7 @@
      <string name="waiting">Очікування</string>
      <string name="waiting_for_cleaning">Очікування очищення</string>
      <string name="waiting_for_scanning">Очікування сканування</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wangpan_root_path">My Drive</string>
      <string name="wifi_state">Статус Wi-Fi</string>
      <string name="xiaomi_account">Xiaomi акаунт</string>

@@ -2,12 +2,15 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_label">"Пам'ять номерів/SMS/MMS"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_cateogry_courier">Courier</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_cateogry_fraudulent">Fraudulent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_cateogry_intermediary">Intermediary</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_cateogry_meal_delivery">Meal delivery</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_cateogry_sales">Sales</string>
-     <string name="mms_provider_label">MMS</string>
      <string name="mms_sms_provider_label">Повідомлення</string>
-     <string name="sms_provider_label">SMS</string>
 </resources>

@@ -7,7 +7,6 @@
      <string name="calibrate_failed_no_location">Помилка калібрування: Неможливо отримати дані</string>
      <string name="calibrate_failed_timeout">Помилка калібрування: Сервер не відповідає</string>
      <string name="calibrate_success">Калібрування успішно завершено</string>
-     <string name="cannot_get_location">Неможливо отримати дані про ваше місцезнаходження</string>
      <string name="dialog_calibrat_altitude">Калібрування через інтеренет-підключення.</string>
      <string name="dialog_title_no_network">Мереж не знайдено, підключіться до Wi-Fi або увімкніть мобільний інтернет</string>
      <string name="direction_east">Сх</string>
@@ -16,6 +15,7 @@
      <string name="direction_west">Зх</string>
      <string name="getting_location">Отримання координат...</string>
      <string name="guide_toast">"Тут може бути вплив магнітних перешкод. Будь ласка, проводьте калібрування відповідно до вищенаведених жестів."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="latitude">LAT</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
@@ -37,6 +37,7 @@
 	%d: 0 must: 0 -->
      <!-- Original string: WL -->
      <string name="location_west">%s Зх</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="longitude">LON</string>
      <string name="menu_calibrate">Калібрувати</string>
      <string name="menu_calibrate_altitude">Калібрування висоти</string>

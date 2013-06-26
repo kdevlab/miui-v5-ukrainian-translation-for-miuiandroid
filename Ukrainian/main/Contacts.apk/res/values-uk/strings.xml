@@ -101,6 +101,7 @@
      <!-- Original string: Confirm %s? -->
      <string name="callrecordview_menu_delete_confirm">Журнал дзвінків буде очищений</string>
      <string name="callrecordview_menu_delete_missed">Очистити пропущені виклики</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callrecordview_menu_delete_new">Clear call logs of new contacts</string>
      <string name="callrecordview_menu_delete_one">Видалити з журналу викликів</string>
      <string name="callrecordview_menu_delete_stranger">Відкрити пропущені дзвінки</string>
@@ -111,6 +112,7 @@
      <string name="callrecordview_menu_show_all">Всі</string>
      <string name="callrecordview_menu_show_called">Тільки вихідні</string>
      <string name="callrecordview_menu_show_missed">Тільки пропущені</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callrecordview_menu_show_new">New Contacts</string>
      <string name="callrecordview_menu_show_stranger">Тільки незнайомі</string>
      <string name="callrecordview_menu_show_title">Налаштування відображення</string>
@@ -357,7 +359,6 @@
      <string name="frequency_three_days">Кожні 3 дні</string>
      <string name="frequency_weekly">Щотижня</string>
      <string name="frequentList">Часто викликаються</string>
-     <string name="from_account_format">%1$s</string>
      <string name="full_name">"Ім'я"</string>
      <string name="generic_no_account_prompt">Тримайте свої контакти в безпеці, навіть якщо Ви загубили свій телефон: синхронізація с онлайн-сервісом</string>
      <string name="generic_no_account_prompt_title">Додати акаунт</string>
@@ -392,7 +393,6 @@
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
-     <string name="imei">IMEI</string>
      <string name="import_all_vcard_string">Імпорт всіх файлів VCard</string>
      <string name="import_contact_card_button">Імпорт</string>
      <string name="import_failure_no_vcard_file">На SD-карті немає файлів VCard</string>
@@ -459,7 +459,6 @@
      <string name="map_home">Переглянути домашню адресу</string>
      <string name="map_other">Перегляд адреси</string>
      <string name="map_work">Дивитись робочу адресу</string>
-     <string name="meid">MEID</string>
      <string name="menu_accounts">Акаунти</string>
      <string name="menu_addStar">Додати в обране</string>
      <string name="menu_bar_group_add">Додати</string>
@@ -615,7 +614,6 @@
      <string name="not_applied">Не підтримується</string>
      <string name="notification_action_voicemail_play">Прослухати</string>
      <string name="notification_new_voicemail_ticker">Нове гол. повідомлення: %1$s</string>
-     <string name="notification_voicemail_callers_list">%1$s,%2$s</string>
      <string name="online_no_network">"Не можливо під'єднатися до мережі"</string>
      <string name="online_search_hint">Введіть ключові слова</string>
      <string name="openDialKeyboard">Номеронабирач</string>
@@ -637,7 +635,6 @@
      <string name="payphone">Телефон-автомат</string>
      <string name="people">Контакти</string>
      <string name="phoneLabelsGroup">Телефон</string>
-     <string name="phone_info_divider">"  |  "</string>
      <string name="phone_primary">Основний</string>
      <string name="photoPickerNotFoundText">В телефоні немає зображень</string>
      <string name="photo_package_activity_title">Фото пакет</string>
@@ -741,7 +738,9 @@
      <string name="recent_contacts_label">Недавні</string>
      <string name="recent_number">Недавній</string>
      <string name="recent_updates">Недавні поновлення</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="redirect_calls_to_vm_confirm_text">Turn on</string>
      <string name="relationLabelsGroup">Відносини</string>
      <string name="remind_btn_ignore">Пізніше</string>
@@ -775,7 +774,6 @@
      <string name="resource_no_result">Немає результатів</string>
      <string name="resource_notification_default">Сповіщення</string>
      <string name="resource_online">Онлайн %1$s</string>
-     <string name="resource_price_format">(%1$s)</string>
      <string name="resource_price_free">Безкошт.</string>
      <string name="resource_price_unit">кредити MI</string>
      <string name="resource_ringtone_default">Мелодиї</string>
@@ -788,6 +786,7 @@
      <string name="resource_title">Відомості</string>
      <string name="resource_title_select_ringtone">Виберіть мелодію</string>
      <string name="resource_update">Онов.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_waiting_download">Waiting</string>
      <string name="restore_nickname">Відновити</string>
      <string name="returnCall">Зворотній виклик</string>
@@ -820,6 +819,7 @@
      <string name="separatorJoinAggregateSuggestions">Пропоновані контакти</string>
      <string name="service_provider">Надання сервісів</string>
      <string name="set_default">Встановити за замовчуванням</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_photo_failed_msg">Set avatar failed</string>
      <string name="share_error">Не вдалося передати дані</string>
      <string name="share_via">Відправити за допомогою</string>
@@ -862,6 +862,7 @@
      <string name="sms_home">SMS: домашній тел.</string>
      <string name="sms_isdn">SMS: номер ISDN</string>
      <string name="sms_main">SMS: основ. тел.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_mms">MMS</string>
      <string name="sms_mobile">SMS: мобільний</string>
      <string name="sms_other">Відправити SMS</string>

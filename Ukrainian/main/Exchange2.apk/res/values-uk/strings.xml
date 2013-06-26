@@ -11,7 +11,9 @@
      <string name="app_name">Служби Exchange</string>
      <string name="exception_cancel">Скасований захід \"%s\"</string>
      <string name="exception_updated">Відомості про цей захід були змінені: \"%s\"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="exchange_name">Corporate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
      <string name="meeting_accepted">Прийнято: %s</string>
      <string name="meeting_allday">Дата: %s (весь день)</string>

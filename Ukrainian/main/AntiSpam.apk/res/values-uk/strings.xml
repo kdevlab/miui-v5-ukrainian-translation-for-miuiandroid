@@ -40,7 +40,6 @@
      <string name="clear_all_calllog">Очистити</string>
      <string name="clear_all_mslog">Очистити</string>
      <string name="close_rule">Відключити правило</string>
-     <string name="confirm">OK</string>
      <string name="confirm_clear_blacklist">Ви впевнені, що хочете очистити чорний список?</string>
      <string name="confirm_clear_whitelist">Ви впевнені, що хочете очистити білий список?</string>
      <string name="context_add_contact">Додати в існуючий контакт</string>

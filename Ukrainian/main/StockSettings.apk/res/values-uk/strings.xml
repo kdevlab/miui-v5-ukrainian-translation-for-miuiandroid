@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-  <string name="Psbutton">OK</string>
-  <string name="Psfail">Неможливо підключитися до ПК</string>
-	<string name="Psmsg">Якщо ви не можете підключитися до Інтернету через наскрізний інтернет, будь ласка, переконайтеся, що налаштування Вашого Брандмауера дозволяють цей тип підключення. Наскрізний інтернет підтримує тільки TCP з\'єднання, якщо ваш комп\'ютер підключається до Інтернету через PPP (наприклад, Dial Up, XDSL, або VPN)</string>
-	<string name="Pspass">Наскрізний інтернет</string>
-	<string name="Pstitle">Повідомлення</string>
-	<string name="do_not_show_psmsg">"Не показувати наступного разу"</string>
-	<string name="htc_fastboot_summary">Не рекомендується для деяких додатків з Market</string>
-	<string name="htc_fastboot_title">Швидке завантаження</string>
-	<string name="htc_gestures_summary">Включити трьохпальцеві жести від HTC і виключити жести з більшою кількістю пальців</string>
-	<string name="htc_gestures_title">Жести HTC</string>
-	<string name="htc_internet_pt_summary">Підключення до інтернету через PC. Будь ласка вставте USB кабель</string>
-	<string name="htc_internet_pt_title">Наскрізний інтернет</string>
-	<string name="stock_settings">Налаштування пристрою</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="PSButton">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="PSFail">Unable to connect to PC</string>
+     <string name="PSMsg">If you are unable to connect to the Internet via Internet pass-through, please ensure that your PC firewall settings allow this type of connection. Internet pass-through only supports TCP connections if your PC connects to the Internet via PPP (e.g. dial up, xDSL, or VPN).</string>
+     <string name="PSPass">Internet pass-through connected</string>
+     <string name="PSTitle">Internet pass-through Notice</string>
+     <string name="do_not_show_psmsg">"Не показувати наступного разу"</string>
+     <string name="htc_fastboot_summary">Не рекомендується для деяких додатків з Market</string>
+     <string name="htc_fastboot_title">Швидке завантаження</string>
+     <string name="htc_gestures_summary">Включити трьохпальцеві жести від HTC і виключити жести з більшою кількістю пальців</string>
+     <string name="htc_gestures_title">Жести HTC</string>
+     <string name="htc_internet_pt_summary">Підключення до інтернету через PC. Будь ласка вставте USB кабель</string>
+     <string name="htc_internet_pt_title">Наскрізний інтернет</string>
+     <string name="stock_settings">Налаштування пристрою</string>
 </resources>

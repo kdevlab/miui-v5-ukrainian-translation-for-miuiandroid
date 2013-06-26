@@ -20,7 +20,6 @@
      <string name="android_album_settings">Вбудовані обкладинки</string>
      <string name="android_album_summary">Автоматичне використання обкладинки альбому пісні може призвести до помилок</string>
      <string name="artist_albums">Всі альбоми</string>
-     <string name="artist_details_format">%1$s, %2$s</string>
      <string name="artist_edit">Артист</string>
      <string name="artist_hot_audios">Гарячі хіти</string>
      <string name="artists_title">"Виконавці "</string>
@@ -32,7 +31,6 @@
      <string name="cancel">Скасувати</string>
      <string name="cancel_sleep_mode">Сплячий режим відмінено</string>
      <string name="cancle_warining">Спящий режим отключен</string>
-     <string name="channel">FM</string>
      <string name="channel_format" formatted="false">%s %s МГЦ</string>
      <string name="channel_postfix">МГЦ</string>
      <string name="click_to_shuffle">Торкніться для перемішування всіх пісень</string>
@@ -75,7 +73,6 @@
      <string name="equalizer_save_success">Профіль збережений</string>
      <string name="fade_effect_settings">Плавний перехід</string>
      <string name="fade_effect_summary">Увімкнути загасання між кожною піснею</string>
-     <string name="fast_scroll_alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
      <string name="file_not_found">Файл не знайдений</string>
      <string name="filter_by_duration">Фільтр по тривалості</string>
      <string name="filter_by_duration_format">%2$d:%5$02d</string>
@@ -151,6 +148,7 @@
      <string name="no_song_downloaded">Немає треків для завантаження</string>
      <string name="not_selected">Будь-ласка, виберіть пісню</string>
      <string name="online_search_hint">Пошук музики онлайн</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="online_title">Online</string>
      <string name="other_settings">Додатково</string>
      <string name="overwrite_confirm">Перезаписати</string>
@@ -172,6 +170,8 @@
      <string name="playlist_renamed_message">Плейлист перейменований</string>
      <string name="playlists_title">"Плейлисти "</string>
      <string name="powered_by">При підтримці</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="project_device">Xiaomi Box</string>
      <string name="queue">У чергу</string>
      <string name="quit_player">Вихід</string>
      <string name="quit_warining">Автовідключення через %d хвилин (у)</string>
@@ -189,6 +189,7 @@
      <string name="rename_playlist_menu">Перейменувати</string>
      <string name="retry">Повтор</string>
      <string name="ringtone_menu">Як рінгтон</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ringtone_not_support">Not support ringtone of this format.</string>
      <string name="ringtone_set">Трек %s встановлений як рінгтон</string>
      <string name="save">Додати</string>

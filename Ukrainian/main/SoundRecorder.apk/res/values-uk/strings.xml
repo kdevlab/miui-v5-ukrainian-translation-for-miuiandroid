@@ -6,6 +6,7 @@
      <string name="audio_db_album_name">Аудіозаписи</string>
      <string name="audio_db_artist_name">Ваші записи</string>
      <string name="audio_db_playlist_name">Мої записи</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_ok">OK</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 0
@@ -46,12 +47,14 @@
      <string name="overwrite_dialog_message">%s вже існує. Ви хочете перезаписати його?</string>
      <string name="preference_led_indicator">Індикатор запису</string>
      <string name="preference_led_indicator_prompt">Блимати світлодіодом при записі в заблокованому режимі</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_record_type_dialog_title">Select a record type</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_record_type_title">Record type</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_silent_mode">Mute ring</string>
      <string name="record_list">Список записів</string>
      <string name="record_loading">Завантаження записів, будь ласка, зачекайте.</string>
-     <string name="record_name_hour">.</string>
      <string name="record_picker_title">Виберіть запис</string>
      <string name="record_saving">Збереження запису, будь ласка, зачекайте.</string>
      <string name="recording">Запис...</string>

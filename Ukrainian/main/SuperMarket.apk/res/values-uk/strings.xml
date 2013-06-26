@@ -9,7 +9,6 @@
      <string name="bad_comments">Погані</string>
      <string name="button_refresh">Оновити</string>
      <string name="button_search">Пошук</string>
-     <string name="bytes">%1$s/%2$s</string>
      <string name="bytes_unit">%1$sбайт</string>
      <string name="cancel">Скасування</string>
      <string name="category_recommend_tag">Реком.</string>
@@ -36,7 +35,6 @@
      <string name="comment_upload_failed">Помилка відправлення</string>
      <string name="comment_upload_hint">"Ваш коментар з'явиться після перевірки"</string>
      <string name="comment_upload_login_cancel">Скасування</string>
-     <string name="comment_upload_login_ok">OK</string>
      <string name="comment_upload_need_login">Ви бажаєте ввійти в акаунт, щоб залишити коментар?</string>
      <string name="comment_upload_not_logined"> Будь ласка, спочатку ввійдіть в акаунт</string>
      <string name="comment_upload_success">Коментар відправлений!</string>
@@ -46,6 +44,7 @@
 	%d: 0 must: 0 -->
      <!-- Original string: Download incomplete. Please check network connection. -->
      <string name="connect_fail">"Помилка установки %1$s: помилка з'єднання, перевірте підключення до мережі"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="connect_no_enough_space">No enough space to install app. Please cleanup your phone to try again.</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
@@ -53,6 +52,7 @@
      <!-- Original string: Download incomplete. No installation package for your phone. -->
      <string name="connect_no_fit_fail">Помилка установки %1$s: настановний пакет не підходить для вашого телефону</string>
      <string name="connecting">Підключення...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="data_save_mode_tip">Disabled pictures by your setting</string>
      <string name="delta_update">Відновлення %1$s</string>
      <string name="description_info">Опис</string>
@@ -74,7 +74,9 @@
      <string name="enable_updata_local_app">Відновлень додатків: %1$s</string>
      <string name="expand_full_text">Розгорнути весь текст▼</string>
      <string name="expand_full_text_comment">Розгорнути весь текст▼</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="first_recommend_download">Install all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="first_recommend_enter">Start market</string>
      <string name="good_comments">Гарні</string>
      <string name="header_processing">Іде завантаження...</string>
@@ -114,6 +116,7 @@
      <string name="install_sign_not_same_btn_remove">Видалити й обновити</string>
      <string name="install_sign_not_same_message">%1$s update does not match local application signature. You must uninstall the local version to install this update. Continue?</string>
      <string name="install_sign_not_same_title">Невідповідність підпису</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_start_cleanup">Start Cleanup</string>
      <string name="install_storage_not_enough">"Встановлення не завершено. Недостатньо пам'яті"</string>
      <string name="install_title">Встановлення програми</string>
@@ -178,8 +181,10 @@
      <string name="permissions_expand_title">Інші дозволи</string>
      <string name="permissions_title">Дозвіл для %1$s</string>
      <string name="pref_list_auto_update">Автооновлення</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_list_data_save_mode_always">Never</string>
      <string name="pref_list_data_save_mode_network">Only over Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_list_data_save_mode_never">Always</string>
      <string name="pref_list_disable">Завжди показувати</string>
      <string name="pref_list_per_day">Щодня</string>
@@ -192,15 +197,8 @@
      <string name="pref_title_update_notify_mode">Сповіщення оновлень</string>
      <string name="pref_title_update_onlyby_wifi">Автооновлення тільки по Wi-Fi</string>
      <string name="pref_title_use_staging"> Для використання проміжного серверу</string>
-     <string name="price">￥%1$s</string>
-     <string name="progress">%1$s%%</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="quicksearchbox_description">Пошук маркета для додатків</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 2
-	%s: 1 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s. %2$s -->
-     <string name="rank_app_name" formatted="false">%1$s. % 2$s</string>
      <string name="rank_tag">Топ</string>
      <string name="rating_button">%1$s рейтинг</string>
      <string name="recommendation_tag">Усі</string>
@@ -219,7 +217,6 @@
      <string name="share_text">在小米应用商店发现一个有趣的APP：%1$s，分享一下！传送门：%2$s</string>
      <string name="show_all_local_app">Показати всі</string>
      <string name="show_all_local_app_with_count">Всі додатки (%1$d)</string>
-     <string name="size">(%1$s)</string>
      <string name="status_downloading">Завантаження：%1$s%%</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0

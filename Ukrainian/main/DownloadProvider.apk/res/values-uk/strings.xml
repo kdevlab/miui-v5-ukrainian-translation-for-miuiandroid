@@ -12,7 +12,6 @@
      <string name="notification_download_complete">Завантаження завершено</string>
      <string name="notification_download_failed">Не вдалося завантажити файл</string>
      <string name="notification_filename_extras">" і ще %d"</string>
-     <string name="notification_filename_separator">", "</string>
      <string name="notification_need_wifi_for_size">Завантаження тільки по Wi-Fi</string>
      <string name="notification_paused_in_background">Завантаження призупинено</string>
      <string name="permdesc_accessAllDownloads">Програма зможе відкривати та змінювати завантаження незалежно від того, через яке ПЗ вони були завантажені</string>

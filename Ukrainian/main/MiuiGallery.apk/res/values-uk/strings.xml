@@ -5,15 +5,17 @@
      <string name="action_fail_unknown_error">Не вдалося завершити операцію через невідому помилки.</string>
      <string name="activity_not_found">Дія не підтримується ні в одній програмі</string>
      <string name="add_account">Додати акаунт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_sharer">Add sharer</string>
      <string name="add_to_cloud_album">Додати в хмару (альбом)</string>
      <string name="add_to_cloud_fail_too_many_items">Помилка завершення операції. Можливо вибрано занадто багато пунктів.</string>
      <string name="add_to_cloud_folder">Додати в хмару (папка)</string>
      <string name="adding_recipients">Adding recipients…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="album_name">Album name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="album_share_stat_content">New album sharing invitations</string>
      <string name="albums">Альбоми</string>
-     <string name="albumset_page_title_separator"> | </string>
      <string name="alert">Увага</string>
      <string name="alert_message_initial_cloud">"Система буде автоматично завантажувати старі и нові фотографії і скріншоти тільки тоді, коли є Wi-Fi з'єднання"</string>
      <string name="alert_message_open_sync">Необхідна синхронізація. Ви хочете включити її зараз?</string>
@@ -29,17 +31,22 @@
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscrren_slide_exit">Вийти із слайд-шоу через TV</string>
      <string name="browse_category">Перегляд зображень</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="by_email">Email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="by_sms">SMS</string>
      <string name="camera_connected">Камера підключена.</string>
      <string name="camera_disconnected">Камера відключена.</string>
      <string name="camera_folder_display_name">Фотографії</string>
      <string name="camera_setas_wallpaper">Шпалери</string>
      <string name="camera_view_none_message">Фотографії будуть відображатись тут</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="can_modified">Allow sharer to add picture</string>
      <string name="cancel">Скасування</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cancel_hint">Operation is canceled</string>
      <string name="cannot_send_message">"Can't send message"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cannot_send_message_reason">Your message has no valid recipients.</string>
      <string name="cant_delete_system_album">%s це системний альбом, його неможливо видалити!</string>
      <string name="cleaning_cache">Очищення кешу...</string>
@@ -76,10 +83,15 @@
      <string name="confirm_delete_system_album">%s - це системний альбом. Ви впевнені, що хочете видалити?</string>
      <string name="confirm_delete_videos">%s відео</string>
      <string name="contact_photo">Фото контакту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="context_menu_add_contact">Add to contacts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="context_menu_copy">Copy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="context_menu_copy_notice">Selection copied to clipboard</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="context_menu_new_contact">New contact</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="context_menu_view_contact">View contact</string>
      <string name="contrast">Контрастність</string>
      <string name="create_new_cloud_folder">Створити нову хмарову папку</string>
@@ -107,13 +119,16 @@
      <string name="duration">Тривалість</string>
      <string name="edit">Змінити</string>
      <string name="edited_photo_bucket_name">Змінені</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="email_picker_title">Add shared Email</string>
      <string name="empty_album">Немає фото / відео</string>
      <string name="enter_email_hint">"Enter Email address "</string>
      <string name="error_should_not_select_image">Увага: будь ласка, не вибирайте файл зображення</string>
      <string name="error_should_not_select_video">Увага: будь ласка, не вибирайте файл відео</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="exit_share">Exit album</string>
      <string name="exit_share_failed">Exit album &lt;%1$s> failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="exit_share_in_process">Try to exit album, please waiting</string>
      <string name="exit_share_successfully">Exit album &lt;%1$s> successfully</string>
      <string name="exposure_time">Витримка</string>
@@ -122,6 +137,7 @@
      <string name="facelift">Сяйво</string>
      <string name="facetan">Засмага</string>
      <string name="fail_init_gallery_db_helper">Помилка відкривання бази галереї. Диск заповнений. Програма буде закрита</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fail_to_pick_email">No valid email is picked</string>
      <string name="file_size">Розмір файла</string>
      <string name="filllight">Освітлення</string>
@@ -164,9 +180,11 @@
      <string name="internal_miui_capture_screen_folder_display_name">Внутрішні скріншоти</string>
      <string name="internal_sd_card">Внутрішня SD-карта</string>
      <string name="invalid_recipient_message">"Correct the recipient(s) or they won't receive the message."</string>
-     <string name="iso">ISO</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kick_sharer">Remove sharer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kick_sharer_failed">Remove sharer failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kick_sharer_successfully">Remove sharer successfully</string>
      <string name="loading">Триває завантаження...</string>
      <string name="loading_failure">Не вдалося завантажити фото</string>
@@ -186,17 +204,22 @@
      <string name="menu_item_sort_size_desc">За розміром (Z-A)</string>
      <string name="menu_item_sort_visit_asc">За частотою (A-Z)</string>
      <string name="menu_item_sort_visit_desc">За частотою (Z-A)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_view_contact">View contact</string>
      <string name="message_no_delete_access">Помилка доступу. Неможливо видалити файл чи папку: %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="messagelist_sender_self">Me</string>
-     <string name="miliao_folder_display_name">MiTalk</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
      <string name="miliao_saved_folder_display_name">Збережені MiTalk</string>
      <string name="mimetype">Тип MIME</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mishop_saved_folder_display_name">MiShop</string>
      <string name="miui_capture_screen_folder_display_name">Скріншоти</string>
      <string name="model">Модель</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="modify_allow_hint">Adding new images to the album is allowed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="modify_disallow_hint">Adding new images to the album is disallowed</string>
      <string name="more">Ще</string>
      <string name="move_to_cloud_album">Перемістити в хмару</string>
@@ -230,20 +253,25 @@
      <string name="photo_saved">Фотографія збережена в альбомі \"%s\"</string>
      <string name="photoeditor_name">Фотостудія</string>
      <string name="photos">Фотографії</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pick_too_many_recipients">Too many recipients</string>
      <string name="posterize">Постеризация</string>
      <string name="projection">Проекция</string>
-     <string name="recipient_editor_count_format">%d</string>
      <string name="redeye">Червоні очі</string>
      <string name="redeye_tooltip">Натисніть для усунення ефекту червоних очей</string>
      <string name="remove_hidden_album">Скасувати приховування</string>
      <string name="remove_recent_album">Видалити з останніх альбомів</string>
      <string name="rename_failed">Не вдалося перейменувати</string>
      <string name="rename_failed_duplicated_name">"Назва вже існує, не перейменовано"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="request_qr_code">Request QR code, please waiting...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="request_qr_code_failed">Request QR failed, click to retry</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="request_sms_url_failed">Fail to request url for sharing by SMS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="request_sms_url_msg">Request url for sms sharing, please waiting</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="request_sms_url_title">Hint</string>
      <string name="rotate">Поворот</string>
      <string name="rotate_tooltip">Щоб повернути фото, перетягніть його край</string>
@@ -253,6 +281,7 @@
      <string name="save_photo">Зберегти зміни?</string>
      <string name="saving_failure">Не вдалося зберегти фото</string>
      <string name="saving_image">Збереження картинки...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="scan_qr_code">Let people scan QR code to get this shared album.</string>
      <string name="sd_not_available">SD-карта не підключена або недоступна</string>
      <string name="seconds">секунд</string>
@@ -278,16 +307,25 @@
      <string name="settings">Налаштування</string>
      <string name="settings_i_xiaomi_com">"Увійдіть на сайт i.xiaomi.com, щоб переглянути ваші синхронізовані зображення на комп'ютері"</string>
      <string name="shadow">Затемнення</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_album">Share album</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_album_owner">Owner</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_album_qr_code">QR code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_album_share_to">Share to</string>
      <string name="share_by_email_start">Try to share &lt;%1$s> in background</string>
      <string name="share_by_email_successfully">Share &lt;%1$s> by email successfully</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="share_user_name">Name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sharer_status_accepted">Accepted</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sharer_status_refused">Rejected</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sharer_status_waiting">Waiting</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sharer_status_waitting">waiting</string>
      <string name="sharpen">Різкість</string>
      <string name="show_all">Зображення та відео</string>
@@ -328,6 +366,7 @@
      <string name="title">Назва</string>
      <string name="to_count">%d in all</string>
      <string name="too_many_recipients">Message has too many recipientsrei (%1$s). There is a limit of %2$s recipients.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="try_to_send">Try to send</string>
      <string name="turn_left">Повернути</string>
      <string name="turn_right">Повернути</string>

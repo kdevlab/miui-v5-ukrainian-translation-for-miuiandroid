@@ -6,7 +6,6 @@
      <string name="btn_send">Надіслати</string>
      <string name="description">"Опис (обов'язково)"</string>
      <string name="discard_draft_dialog_button_cancel">Скасувати</string>
-     <string name="discard_draft_dialog_button_discard">OK</string>
      <string name="discard_draft_dialog_content">Звіт змінено, натисніть OK для видалення чернетки.</string>
      <string name="discard_draft_dialog_title">Видалити чернетку</string>
      <string name="err_type">Тип звіту</string>
@@ -22,7 +21,6 @@
      <string name="menu_copy">Копіювати</string>
      <string name="menu_discard">Скасувати</string>
      <string name="menu_send">Відправити звіт</string>
-     <string name="network_unavailable_dialog_button_ok">OK</string>
      <string name="network_unavailable_dialog_content">Ваш звіт буде відправлено, як тільки мережа буде доступна</string>
      <string name="network_unavailable_dialog_title">Мережа недоступна</string>
      <string name="packaging_dialog_content">Створення звіту, будь ласка, зачекайте…</string>
@@ -40,7 +38,6 @@
      <string name="toast_report_sent_failed">Помилка відпрвки звіту</string>
      <string name="toast_report_sent_succeed">Звіт був успішно відправлений</string>
      <string name="user_feedback">Відгуки</string>
-     <string name="wlan_unavailable_dialog_button_ok">OK</string>
      <string name="wlan_unavailable_dialog_button_sent">Відправити зараз</string>
      <string name="wlan_unavailable_dialog_content">%s потрібно (2G/3G), натисніть OK для відправлення тільки через WLAN-мережі</string>
      <string name="wlan_unavailable_dialog_title">WLAN-підключення відсутнє</string>

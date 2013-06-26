@@ -78,7 +78,6 @@
      <string name="context_menu_view_contact">Перегляд контактів</string>
      <string name="context_menu_view_mms">Перегляд MMS</string>
      <string name="conversation">Повідомлення</string>
-     <string name="conversation_style">bubble</string>
      <string name="converting_to_picture_message">Перетворення в повідомлення MMS...</string>
      <string name="converting_to_text_message">Перетворення в повідомлення SMS...</string>
      <string name="copy_message_text">Скопіювати текст</string>
@@ -125,6 +124,7 @@
      <string name="error_state_text">Ланцюжки не відповідають одержувачам. Зробіть знімок екрану й відправте повідомлення про помилку через веб-сайт http://go/droidanizer</string>
      <string name="error_timed_msg">Неможливо запланувати час раніше поточного</string>
      <string name="ex_type_mx">Хмарове повідомлення</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ex_type_sms">SMS</string>
      <string name="exceed_message_size_limitation">Досягнуто максимальний розмір повідомлення</string>
      <string name="expire_on">Термін закінчується: %s</string>
@@ -135,8 +135,6 @@
      <string name="festival">Жарти</string>
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Завантаження...</string>
-     <string name="fetion_prefix">[Fetion]</string>
-     <string name="flatshow_page_no">%1$d</string>
      <string name="forward_prefix">Від:</string>
      <string name="found_old_messages">"Знайдені повідомлення з попереднього акаунту на вашому телефоні: %1$s
 ви хочете скопіювати їх у ваш акаунт: %2$s?"</string>
@@ -191,7 +189,6 @@
      <string name="message_too_big_for_video">Повідомлення занадто велике, щоб докласти відео</string>
      <string name="message_type_label">Тип:</string>
      <string name="messagelist_sender_self">Я</string>
-     <string name="mms">MMS</string>
      <string name="move_down">Перемістити вниз</string>
      <string name="move_up">Перемістити вгору</string>
      <string name="msg_type_hint_mms">Мультимедійне повідомлення</string>
@@ -224,6 +221,7 @@
      <string name="mx_enable">Включити хмарові повідомлення</string>
      <string name="mx_enable_int_popup_msg">Cloud Message enables you to send messages between MIUI users. To activate, an international SMS will be sent. Carrier messaging rates may apply, activate now? If not, you may enable it in Settings later</string>
      <string name="mx_enable_popup_msg">Хмарові повідомлення дозволяти вам обмінюватись повідомленнями з іншими користувачами MIUI. Потрібно відправити SMS для активації. Активувати зараз?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mx_int_warning_notice">An international SMS will be sent to activate Cloud Message. Normal carrier data rates may apply</string>
      <string name="mx_msg">Хмарне повідомлення</string>
      <string name="mx_offline">Не в мережі</string>
@@ -271,7 +269,9 @@
      <string name="pref_summary_mms_retrieval_during_roaming">Автоматично завантажувати Mms-Повідомлення в роумінгу</string>
      <string name="pref_summary_new_message_popup">Відображення спливаючих вікон, при отриманні нового повідомлення</string>
      <string name="pref_summary_new_message_popup_when_secure">Спливаючі повідомлення приховані в режимі гостю</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_summary_notification_body_enabled">Preview messages on lockscreen and status bar</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_summary_notification_body_enabled_when_secure">Preview messages disabled when access controlled</string>
      <string name="pref_summary_off_system_mms_priority">Інші програми для повідомлень будуть отримувати повідомлення першими</string>
      <string name="pref_summary_on_system_mms_priority">Системний додаток буде отримувати повідомлення першим</string>
@@ -289,6 +289,7 @@
      <string name="pref_title_mms_read_reports">Звіти про прочитання</string>
      <string name="pref_title_mms_retrieval_during_roaming">Автозавантаження в роумінгу</string>
      <string name="pref_title_new_message_popup">Спливаючі вікна</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_notification_body_enabled">Show previews</string>
      <string name="pref_title_ringtone_repeat">Кількість нагадувань</string>
      <string name="pref_title_show_recent_contacts">Показати недавні контакти</string>
@@ -312,7 +313,6 @@
      <string name="prvate_contact">Приватні контакти</string>
      <string name="rate_limit_surpassed">Підтвердити</string>
      <string name="received_label">Отримані:</string>
-     <string name="recipient_editor_count_format">%d людей</string>
      <string name="recipient_label">Одержувач:</string>
      <string name="refresh">Оновити</string>
      <string name="refresh_failed">Оновлення не виконано</string>
@@ -406,6 +406,7 @@
      <string name="too_many_recipients">Зазначено занадто багато одержувачів (%1$s). Дозволене не більше %2$s.</string>
      <string name="too_many_unsent_mms">Не вдалося відправити повідомлення. Занадто багато невідправлених MMS.</string>
      <string name="try_to_send">Спробувати відправити</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="type_attachment">attachment</string>
      <string name="type_audio">Аудіозапис</string>
      <string name="type_picture">Зображення</string>

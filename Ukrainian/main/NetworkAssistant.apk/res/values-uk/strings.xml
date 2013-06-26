@@ -2,6 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="about">Про програму</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="adjust_no_network_update_data_fail">Update data fail.Please try again after checking the settings of network.</string>
      <string name="adjust_traffic_auto_adjust_hint">Система автоматично регулює передачу даних та регулярно отримує дані від операторів. Вам потрібно налаштувати інформацію про операторів</string>
      <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляція включена, система автоматично контролює обсяг використаного трафіку</string>
@@ -25,10 +26,10 @@
      <string name="app_detail_internet_control_category">Управління мережею</string>
      <string name="app_detail_title">Інф. про прог.</string>
      <string name="app_detail_version">Версія: %s</string>
+     <string name="app_has_deleted">%s has been deleted.</string>
      <string name="app_name">Монітор</string>
      <string name="app_traffic_detail">" трафік(%s)"</string>
      <string name="apply_rules_failed">Не вдалося включити брандмауер, спробуйте ще раз. (%s)</string>
-     <string name="apply_rules_failed_known">OK</string>
      <string name="batch_connect_control">"Управління з'єднаннями"</string>
      <string name="cancel_txt">Відміна</string>
      <string name="cannot_find_sms_cmd">Не вдается знайти SMS-команду</string>
@@ -59,6 +60,7 @@
      <string name="fire_wall_is_closed">Файрвол не увімкнено</string>
      <string name="force_stop_dlg_text">Завершення програми може призвести до помилок</string>
      <string name="force_stop_dlg_title">Завершити?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_known_button">OK</string>
      <string name="input_hint">Будь-ласка, введіть</string>
      <string name="loading_app">Завантаження...</string>
@@ -78,8 +80,6 @@
      <string name="menu_sort_by_name">За іменем програм</string>
      <string name="menu_traffic_adjust">Регулювання трафіку</string>
      <string name="menu_traffic_settings">Налаштування трафіку</string>
-     <string name="mobile_traffic">2G/3G: %s</string>
-     <string name="mobile_type">2G/3G</string>
      <string name="month_traffic_settings_title">Налаштування місячного трафіку</string>
      <string name="notify_carrier_settings_title">"Ви не налаштували постачальника послуг зв'язку. Налаштувати зараз?"</string>
      <string name="notify_traffic_settings_cancel_hint">Сповіщення і контроль за трафіком будуть вимкнені. Вийти зараз?</string>
@@ -117,6 +117,7 @@
      <string name="pref_traffic_adjust_title">Регулювання трафіку</string>
      <string name="pref_traffic_daily_limit_settings">Налаштування денного ліміту</string>
      <string name="pref_traffic_settings">Налаштування трафіку</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="process_kernel_label">Android OS</string>
      <string name="retry">Повторити</string>
      <string name="save">Зберегти</string>

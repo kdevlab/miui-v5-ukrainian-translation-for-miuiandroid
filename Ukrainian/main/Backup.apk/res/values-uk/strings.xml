@@ -76,7 +76,6 @@
      <string name="enable_encrypt">Увімкнути зараз</string>
      <string name="enable_encrypt_fail">Увімкнути шифрування не вдалось</string>
      <string name="enable_encrypt_indicator">Резервні копії не зашифровані, натисніть кнопку для ввімкнення шифрування</string>
-     <string name="enable_encrypt_ok">OK</string>
      <string name="enable_encrypt_summery1">Система зашифрує ваш локальний бекап на основі акаунту Xiaomi, вам буде потрібно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
      <string name="enable_encrypt_summery2">Новий бекап буде автоматично шифруватися. Вам необхідно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
      <string name="enable_encrypt_title">Шифрування увімкнено</string>

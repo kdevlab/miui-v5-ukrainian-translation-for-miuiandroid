@@ -70,7 +70,6 @@
      <string name="edit_label">Змінити</string>
      <string name="email_guests_label">E-mail</string>
      <string name="email_picker_label">E-mail із</string>
-     <string name="email_subject_prefix">"Re: "</string>
      <string name="empty_event">Не можна створити захід без даних</string>
      <string name="event_create">Новий захід</string>
      <string name="event_delete">Видалити захід</string>

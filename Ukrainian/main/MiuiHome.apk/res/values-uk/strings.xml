@@ -64,6 +64,7 @@
      <string name="gadget_weather_loading">Немає даних про погоду</string>
      <string name="gadget_weather_low_temp">Мін.</string>
      <string name="gadget_weather_theme_type">Тип віджета</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gadget_weather_time_format">EEE, d.MM</string>
      <string name="gadget_weather_title_14">Погода 1X4</string>
      <string name="gadget_weather_title_24">Погода 2X4</string>
@@ -132,13 +133,13 @@
      <string name="starting_preset_app">Запуск...</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Автопідсв.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="status_bar_toggle_bluetooth">Bluetooth</string>
      <string name="status_bar_toggle_brightness">Яскравість</string>
      <string name="status_bar_toggle_data">Інтернет</string>
      <string name="status_bar_toggle_divider">Ще</string>
      <string name="status_bar_toggle_drive_mode">В машині</string>
      <string name="status_bar_toggle_flight_mode">В літаку</string>
-     <string name="status_bar_toggle_gps">GPS</string>
      <string name="status_bar_toggle_lock">Блокування</string>
      <string name="status_bar_toggle_mute">Без звуку</string>
      <string name="status_bar_toggle_network_type">Тип мережі</string>

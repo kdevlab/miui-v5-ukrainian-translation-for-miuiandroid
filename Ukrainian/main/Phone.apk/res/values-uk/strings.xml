@@ -37,15 +37,12 @@
      <string name="answer_widget_sliding_vertical_miui">Вертикальний</string>
      <string name="answer_widget_title_miui">Жест відповіді</string>
      <string name="antispam_marked_count">Відмічено контактів: %1$d</string>
-     <string name="antispam_marked_title">%1$s</string>
      <string name="antispam_notification_title">Визначено невідомий номер</string>
      <string name="apn_settings">Точки доступу (APN)</string>
-     <string name="areacode_required_accept_miui">OK</string>
      <string name="areacode_required_for_emergency_number_miui">Наберіть екстрений телефонний код області чи міста</string>
      <string name="areacode_required_miui">Введіть свій код міста</string>
      <string name="atr_disable">Інформація про корки відключена</string>
      <string name="atr_enable">Інформація про корки включена</string>
-     <string name="audio_mode_bluetooth">Bluetooth</string>
      <string name="audio_mode_earpiece">Динамік гарнітури</string>
      <string name="audio_mode_speaker">Динамік</string>
      <string name="audio_mode_wired_headset">Провідна гарнітура</string>
@@ -177,7 +174,9 @@
      <string name="cdma_activate_device">Активувати пристрій</string>
      <string name="cdma_conference_call_miui">"Конференц-зв'язок"</string>
      <string name="cdma_display_precise_call_state_message_miui">If your operator does not support, the call state will be incorrect when this switch is opened. Are you sure to open it?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cdma_display_precise_call_state_summary_miui">CDMA call timer is restrict by network operator. If local operator supports, call state can be shown precisely.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cdma_display_precise_call_state_title_miui">Display precise call state</string>
      <string name="cdma_lte_data_service">Налаштувати передачу даних</string>
      <string name="cdma_options">Параметри CDMA</string>
@@ -271,7 +270,6 @@
      <string name="deleting_fdn_contact">Виконується видалення номеру обмеженого набору...</string>
      <string name="deleting_sim_entry_miui">Видалення контактів на SIM-картці</string>
      <string name="description_call_recording_miui">Запис поточної розмови</string>
-     <string name="description_delete_button">повернення</string>
      <string name="description_dial_button">набір номеру</string>
      <string name="description_direction_left">Ліворуч для %s</string>
      <string name="description_direction_left_miui">Ліворуч для %s</string>
@@ -369,8 +367,6 @@
      <string name="enable_telocation_title_miui">Показати властивості для номеру</string>
      <string name="enforce_proximity_summary_miui">"Запобігання помилки з'єднання, коли мобільний телефон у кишені брюк"</string>
      <string name="enforce_proximity_title_miui">Датчик наближення</string>
-     <string name="enter_pin2_text">PIN2</string>
-     <string name="enter_pin2_text_miui">PIN2</string>
      <string name="enter_pin_text">PIN SIM-карти:</string>
      <string name="entertainment_news_settings">Калейдоскоп</string>
      <string name="eo_disable">Вакансії відключені</string>
@@ -475,11 +471,17 @@
      <string name="label_puk2_code">Введіть код PUK2</string>
      <string name="label_puk2_code_miui">Введіть PUK2-код</string>
      <string name="label_puk_code_miui">Введіть PUK-код</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_rcdp">RUIM corporate unlock PIN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_rdp">RUIM RUIM unlock PIN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_rhrpd">RUIM hrpd unlock PIN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_rn1dp">RUIM network1 unlock PIN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_rn2dp">RUIM network2 unlock PIN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_rspdp">RUIM service provider unlock PIN</string>
      <string name="lafs_disable">Розклад рейсів місцевого аеропорту відключено</string>
      <string name="lafs_enable">Розклад рейсів місцевого аеропорту включено</string>
@@ -557,6 +559,7 @@
      <string name="not_connected_miui">Не підключено</string>
      <string name="not_voice_capable">Голосові дзвінки не підтримуються</string>
      <string name="notification_action_end_call">Завершити</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="notification_dialing">Dialing</string>
      <string name="notification_incoming_call">Вхідний дзвінок</string>
      <string name="notification_missedCallTicker">Пропущені виклики від абонента %s</string>
@@ -601,7 +604,6 @@
      <string name="onscreenShowDialpadText">Кнопки</string>
      <string name="onscreenSwapCallsText">Переклад дзвінка</string>
      <string name="onscreen_add_call_text_miui">Контакт</string>
-     <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
      <string name="onscreen_audio_mode_handset_miui">"Гучний зв'язок"</string>
      <string name="onscreen_audio_mode_headset_miui">Навушники</string>
      <string name="onscreen_audio_mode_miui">Відповідь через</string>
@@ -664,6 +666,7 @@
      <string name="pin2_invalid_or_name_is_too_long">"FDN не оновлено: ​​Ви ввели невірний PIN-код або надто довге ім'я"</string>
      <string name="pin2_lock_warning_miui">"
 Зверніть увагу, що PIN2 буде заблокований, якщо ще раз помилитеся! "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2</string>
      <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
      <string name="pin_attempts_miui">Залишилось %d спроб</string>
@@ -697,14 +700,12 @@
      <string name="preferred_network_mode_wcdma_perf_summary">Бажана мережа: WCDMA</string>
      <string name="preferred_network_type_3g_only_warning_miui">"Ви вибрали тільки 3G як тип мережі, через це можлива втрата мережі при поганому покритті мереж 3G
 Натисніть OK для продовження "</string>
-     <string name="preferred_network_type_cdma_miui">CDMA</string>
-     <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
      <string name="preferred_network_type_pref_entries_3g_preferred_miui">Переважно 3G</string>
      <string name="preferred_network_type_pref_entries_auto_miui">Автоматично</string>
      <string name="preferred_network_type_pref_entries_global_miui">Глобальний</string>
      <string name="preferred_network_type_pref_entries_only_2g_miui">2G (енергозбереження)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferred_network_type_pref_entries_only_3g_miui">3G</string>
-     <string name="preferred_network_type_tds_cdma_miui">GSM/TDS-CDMA</string>
      <string name="preferred_network_type_title_miui">Вибір типу мережі</string>
      <string name="primary_account_summary_with">Основний акаунт. %s</string>
      <string name="private_num">Прихований номер</string>
@@ -717,7 +718,9 @@
      <string name="puk_requested">Невірний пароль, SIM-карта заблокована! Введіть код PUK2</string>
      <string name="puk_unlocked">SIM-карта розблокована. Здійснюється розблокування телефону...</string>
      <string name="radio_off_error">Щоб побачити ці налаштування, потрібно включити радіо</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="readingSimContacts">SIM card information is being read. This operation may take a minute, please be patient.</string>
      <string name="reading_settings">Читання налаштувань...</string>
      <string name="regional_disable">Регіональні новини відключені</string>
@@ -745,11 +748,17 @@
      <string name="remove_miui">Видалити</string>
      <string name="remove_sip_account">Видалити акаунт</string>
      <string name="removing_account">Видалення акаунту...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_rc_unlock">Requesting RUIM corporate unlock...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_rhrpd_unlock">Requesting RUIM hrpd unlock...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_rnw1_unlock">Requesting RUIM network1 unlock...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_rnw2_unlock">Requesting RUIM network2 unlock...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_rsp_unlock">Requesting RUIM service provider unlock...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_ruim_unlock">Requesting RUIM RUIM unlock...</string>
      <string name="requesting_unlock">Запит розблокування мережі...</string>
      <string name="reset_my_choice_hint">В налаштуваннях дзвінків можна змінити акаунт інтернет-телефонії, який використовується за промовчанням при виконанні викликів. Для цього виберіть інший рахунок у налаштуваннях інтернет-дзвінків</string>
@@ -773,16 +782,21 @@
      <string name="retail_directory_disable">Торговий каталог відключений</string>
      <string name="retail_directory_enable">Торговий каталог включений</string>
      <string name="reverting_settings">Повернення до попередніх налаштувань...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rhrpd_unlock_failed">RUIM Hrpd unlock request unsuccessful.</string>
      <string name="ringtone_title">Мелодия телефона</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rnw1_unlock_failed">RUIM Network1 unlock request unsuccessful.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rnw2_unlock_failed">RUIM Network2 unlock request unsuccessful.</string>
      <string name="roaming">Інтернет-роумінг</string>
      <string name="roaming_disable">Підключатися до служб передачі даних в роумінгу</string>
      <string name="roaming_enable">Підключатися до служб передачі даних в роумінгу</string>
      <string name="roaming_reenable_message">Передача даних припинена, тому що телефон знаходиться за межами домашньої мережі, а інтернет-роумінг вимкнений</string>
      <string name="roaming_warning">Дозволити інтернет-роумінг? Можливі високі витрати за використання роумінгу</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rsp_unlock_failed">RUIM Service Provider unlock request unsuccessful.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ruim_unlock_failed">RUIM RUIM unlock request unsuccessful.</string>
      <string name="save">Зберегти</string>
      <string name="saving_account">Збереження акаунта...</string>
@@ -903,10 +917,6 @@ Next period starts in %2$d days (%3$s) -->
      <string name="throttle_time_frame_subtext">"%1$s перевищено максимум.
 Частота даних зменшена до %2$d кБ/с "</string>
      <string name="transport_title">Протокол</string>
-     <string name="tty_mode_entries_full_miui">TTY Full</string>
-     <string name="tty_mode_entries_hco_miui">TTY HCO</string>
-     <string name="tty_mode_entries_off_miui">TTY Off</string>
-     <string name="tty_mode_entries_vco_miui">TTY VCO</string>
      <string name="tty_mode_option_summary">Встановити режим телетайпу</string>
      <string name="tty_mode_option_summary_miui">Встановити режим телетайпу</string>
      <string name="tty_mode_option_title">Режим телетайпу</string>

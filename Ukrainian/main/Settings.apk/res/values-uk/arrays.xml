@@ -74,12 +74,6 @@
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
      </string-array>
-     <string-array name="enable_opengl_traces_values">
-        <item>0</item>
-        <item>1</item>
-        <item>systrace</item>
-        <item>error</item>
-     </string-array>
      <string-array name="entries_font_size">
         <item>Дрібний</item>
         <item>Звичайний</item>
@@ -177,28 +171,28 @@
         <item>Mac OS</item>
         <item>Linux</item>
      </string-array>
-   <string-array name="msd_pc_system_install_finish_summary">
-        <item>Якщо ви встановили цей драйвер\nМобильное обладнання зберігання MI-2 повинне бути на вашому комп'ютері</item>
-        <item> Для Windows Vista або новіше,\nмузичний плеєр MI-2 повинен з'явиться на вашому комп'ютері</item>
+     <string-array name="msd_pc_system_install_finish_summary">
+        <item>"Якщо ви встановили цей драйвер\nМобильное обладнання зберігання MI-2 повинне бути на вашому комп'ютері"</item>
+        <item>" Для Windows Vista або новіше,\nмузичний плеєр MI-2 повинен з'явиться на вашому комп'ютері"</item>
         <item>Якщо ви встановили драйвер\nКомп’ютер буде автоматично відкривати й читати дані телефону</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_start_summary">
         <item> Для Windows XP або старіше,\nдрайвер повинен бути встановлений вручну</item>
-        <item> Для Windows Vista або новее,\nмузичний плеєр MI-2 з'явиться на вашому комп'ютері</item>
+        <item>" Для Windows Vista або новее,\nмузичний плеєр MI-2 з'явиться на вашому комп'ютері"</item>
         <item> Для операційної системи OS X,\nдрайвер повинен бути встановлений вручну</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_step_1_summary">
-        <item>( Будь ласка, ігноруйте спливаючі вікна майстра встановлення)\nзапам’ятвуючі пристрої XIAOMI з'явитляться на вашому комп'ютері\nОткройте і виберіть файл Setup.exe для встановлення</item>
+        <item>"( Будь ласка, ігноруйте спливаючі вікна майстра встановлення)\nзапам’ятвуючі пристрої XIAOMI з'явитляться на вашому комп'ютері\nОткройте і виберіть файл Setup.exe для встановлення"</item>
         <item></item>
-        <item> Запам'ятовуючий пристрій XIAOMI з'явиться на вашому комп'ютері\nвідкрийте і виберіть файл Androidfiletransfer.dmg для встановлення</item>
+        <item>" Запам'ятовуючий пристрій XIAOMI з'явиться на вашому комп'ютері\nвідкрийте і виберіть файл Androidfiletransfer.dmg для встановлення"</item>
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_step_2_summary">
-        <item>2. Мобільний пристрій зберігання MI-2 з'явиться на вашому комп'ютері\nТеперь ви можете передавати файли</item>
+        <item>"2. Мобільний пристрій зберігання MI-2 з'явиться на вашому комп'ютері\nТеперь ви можете передавати файли"</item>
         <item></item>
-        <item>Комп'ютер буде автоматично відкривати й читати дані телефону\nТеперь ви можете передавати файли</item>
+        <item>"Комп'ютер буде автоматично відкривати й читати дані телефону\nТеперь ви можете передавати файли"</item>
         <item></item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
@@ -418,7 +412,7 @@
      <string-array name="wifi_status_with_ssid">
         <item></item>
         <item>Пошук...</item>
-        <item>З'єднання з мережею %1$s…</item>
+        <item>"З'єднання з мережею %1$s…"</item>
         <item>Аутентифікація в мережі %1$s...</item>
         <item>Одержання Ip-Адреси від %1$s…</item>
         <item>Підключене до %1$s</item>
@@ -439,5 +433,3 @@
         <item>10x</item>
      </string-array>
 </resources>
-
-

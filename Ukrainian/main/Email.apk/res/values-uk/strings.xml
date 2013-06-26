@@ -63,11 +63,15 @@
      <string name="account_settings_vibrate_when_never">Ніколи</string>
      <string name="account_settings_vibrate_when_silent">Тільки в режимі Без звуку</string>
      <string name="account_settings_vibrate_when_summary">Вібросигнал при отриманні повідомлення</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_account_type_exchange_action">Exchange</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
      <string name="account_setup_account_type_headline">Тип акаунту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_account_type_imap_action">IMAP</string>
      <string name="account_setup_account_type_instructions">Виберіть тип акаунту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_account_type_pop_action">POP3</string>
      <string name="account_setup_account_type_title">Налаштування акаунту</string>
      <string name="account_setup_basic_description_label">"Ім'я акаунту (опціонально)"</string>
@@ -131,6 +135,7 @@
      <string name="account_setup_incoming_security_none_label">Ні</string>
      <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
      <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (приймати всі сертифікати)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (приймати всі сертифікати)</string>
      <string name="account_setup_incoming_title">Налаштування акаунту</string>
@@ -266,6 +271,7 @@
      <string name="eml_view_title">Перегляд файлу %s</string>
      <string name="error_loading_message_body">Не вдалося завантажити повідомлення. Можливо, воно занадто велике</string>
      <string name="exchange_name">Корпоративний</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
      <string name="failed_bad_response">Помилка служби</string>
      <string name="failed_network_error">Помилка мережі</string>
