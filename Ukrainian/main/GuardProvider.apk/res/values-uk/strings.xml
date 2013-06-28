@@ -2,6 +2,6 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_name">Антивірус Jinshan</string>
-     <string name="hello_world">Привіт світ!</string>
+     <string name="hello_world">Привіт, Світ!</string>
      <string name="menu_settings">Налаштування</string>
 </resources>
