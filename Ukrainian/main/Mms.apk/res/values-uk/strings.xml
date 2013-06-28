@@ -203,9 +203,9 @@
      <string name="mx_activate_hint_malformed_info">Ваші персональні дані пошкоджені. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
      <string name="mx_activate_hint_server">Сервер відхилив запит активації. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
      <string name="mx_activate_hint_sim_change"> Sim-Карта помінялась. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
-     <string name="mx_activate_int_hint_malformed_info">Your personal info interrupted. An international SMS is required to reactivate Cloud Message. Activate it now?</string>
-     <string name="mx_activate_int_hint_server">Server refused to activate, failed to activate Cloud Message? An international SMS is required to reactivate Cloud Message. Activate it now?</string>
-     <string name="mx_activate_int_hint_sim_change">SIM card changed. An international SMS is required to reactivate Cloud Message. Activate it now?</string>
+     <string name="mx_activate_int_hint_malformed_info">Ваші особисті дані пошкоджені. Потрібна відправка міжнародного SMS для повторної активації хмарних повідомлень. Активувати?</string>
+     <string name="mx_activate_int_hint_server">Сервер відхилив запит активації. Потрібна відправка міжнародного SMS для повторної активації хмарних повідомлень. Активувати?</string>
+     <string name="mx_activate_int_hint_sim_change">SIM-карта змінилася. Потрібна відправка міжнародного SMS для повторної активації хмарних повідомлень. Активувати?</string>
      <string name="mx_auto_resend_mms">Відправити як MMS</string>
      <string name="mx_auto_resend_mms_summary">Відправити як MMS, коли хмарові повідомлення не доступні. Вартість залежить від оператора</string>
      <string name="mx_auto_resend_sms">Відправити як SMS</string>
@@ -222,7 +222,7 @@
      <string name="mx_enable_int_popup_msg">Cloud Message enables you to send messages between MIUI users. To activate, an international SMS will be sent. Carrier messaging rates may apply, activate now? If not, you may enable it in Settings later</string>
      <string name="mx_enable_popup_msg">Хмарові повідомлення дозволяти вам обмінюватись повідомленнями з іншими користувачами MIUI. Потрібно відправити SMS для активації. Активувати зараз?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mx_int_warning_notice">An international SMS will be sent to activate Cloud Message. Normal carrier data rates may apply</string>
+     <string name="mx_int_warning_notice">Для активації хмарних повідомлень буде надіслано міжнародне SMS. Вартість повідомлення залежить від оператора мережі</string>
      <string name="mx_msg">Хмарне повідомлення</string>
      <string name="mx_offline">Не в мережі</string>
      <string name="mx_online">У мережі</string>
@@ -270,9 +270,9 @@
      <string name="pref_summary_new_message_popup">Відображення спливаючих вікон, при отриманні нового повідомлення</string>
      <string name="pref_summary_new_message_popup_when_secure">Спливаючі повідомлення приховані в режимі гостю</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_summary_notification_body_enabled">Preview messages on lockscreen and status bar</string>
+     <string name="pref_summary_notification_body_enabled">Попередній перегляд повідомлення на екрані блокування і в рядку стану</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_summary_notification_body_enabled_when_secure">Preview messages disabled when access controlled</string>
+     <string name="pref_summary_notification_body_enabled_when_secure">Попередній перегляд повідомлень відключений при гостьовому режимі</string>
      <string name="pref_summary_off_system_mms_priority">Інші програми для повідомлень будуть отримувати повідомлення першими</string>
      <string name="pref_summary_on_system_mms_priority">Системний додаток буде отримувати повідомлення першим</string>
      <string name="pref_summary_show_recent_contacts">Показати список останніх контактів при створенні нового повідомлення</string>
@@ -407,7 +407,7 @@
      <string name="too_many_unsent_mms">Не вдалося відправити повідомлення. Занадто багато невідправлених MMS.</string>
      <string name="try_to_send">Спробувати відправити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="type_attachment">attachment</string>
+     <string name="type_attachment">вкладення</string>
      <string name="type_audio">Аудіозапис</string>
      <string name="type_picture">Зображення</string>
      <string name="type_to_compose_text_enter_to_send">Введіть повідомлення</string>
