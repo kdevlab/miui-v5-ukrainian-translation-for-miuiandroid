@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="account_contact_backup_info">Данні акаунтів та контакти</string>
+     <string name="account_contact_backup_info">Данні облік. записів та контакти</string>
      <string name="account_login">Увійти в систему</string>
      <string name="account_summary">- Налаштування облікового запису</string>
      <string name="already_enable_encrypt">Включити шифрування</string>
@@ -14,7 +14,8 @@
      <string name="auto_backup_date">Частота Р.К. (у днях)</string>
      <string name="auto_backup_only_wifi">Тільки через Wi-Fi</string>
      <string name="auto_backup_open">Увімкнути автоматичне резервне копіювання</string>
-     <string name="auto_backup_progress">"Виконання автоматичного резервного копіювання. Зачекайте, будь ласка..."</string>
+     <string name="auto_backup_progress">Виконання автомат. резервн. копіювання. 
+Зачекайте, будь ласка...</string>
      <string name="auto_backup_select_user_apps">Вибір програм</string>
      <string name="auto_backup_selected_user_apps">Вибрані програми</string>
      <string name="auto_backup_setting">Налаштування Р.К. за розкладом</string>
@@ -57,15 +58,15 @@
      <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
      <string name="cloud_last_backup">Остання:</string>
      <string name="cloud_no_backup">Немає резервних копій</string>
-     <string name="cloud_restore_guide">"Натисніть кнопку \"Почати\" для відновлення даних
-Ви можете відновити %s в Р.К."</string>
+     <string name="cloud_restore_guide">Натисніть кнопку \"Почати\" для відновлення даних
+Ви можете відновити %s в Р.К.</string>
      <string name="cloud_restore_title">Відновлення</string>
      <string name="cloud_restore_window_title">Відновлення з хмари</string>
      <string name="cloud_search">Пошук...</string>
      <string name="compute_backup_info">Отримання інформації резервного копіювання</string>
      <string name="compute_delete_contact_info">Видалення інформації контактів</string>
      <string name="contact_title">Контакти</string>
-     <string name="current_account">Акаунт %s</string>
+     <string name="current_account">Облік. запис %s</string>
      <string name="current_sim">Поточна SIM-карта</string>
      <string name="data_no_enough_space">"Недостатньо пам'яті"</string>
      <string name="data_no_enough_space_message">Резервне копіювання може завершитись з помилкою, будь ласка звільніть місце на внутрішньому накопичувачі</string>
@@ -76,11 +77,11 @@
      <string name="enable_encrypt">Увімкнути зараз</string>
      <string name="enable_encrypt_fail">Увімкнути шифрування не вдалось</string>
      <string name="enable_encrypt_indicator">Резервні копії не зашифровані, натисніть кнопку для ввімкнення шифрування</string>
-     <string name="enable_encrypt_summery1">Система зашифрує ваш локальний бекап на основі акаунту Xiaomi, вам буде потрібно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
+     <string name="enable_encrypt_summery1">Система зашифрує ваш локальний бекап на основі облік. запису Xiaomi, Вам буде потрібно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
      <string name="enable_encrypt_summery2">Новий бекап буде автоматично шифруватися. Вам необхідно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
      <string name="enable_encrypt_title">Шифрування увімкнено</string>
      <string name="enable_encrypt_xiaomi_account">Ця резервна копія була створена %1$s, будь ласка, видаліть поточний акаунт, і увійдіть в %2$s для відновлення даних</string>
-     <string name="exchange_account">Змінити акаунт</string>
+     <string name="exchange_account">Змінити облік. запис</string>
      <string name="fail">Помилка</string>
      <string name="findlost_contact">Знайти втрачений контакт(и)</string>
      <string name="findlost_contact_online">Онлайн відновлення контактів</string>
@@ -94,7 +95,7 @@
      <string name="local_home_title">Локальне</string>
      <string name="local_no_backup">Немає резервних копій</string>
      <string name="local_restore_window_title">Локальне відновлення</string>
-     <string name="local_select_account_contact">Аккаути та контакти</string>
+     <string name="local_select_account_contact">Облік. записи та контакти</string>
      <string name="local_select_sysdata">Налаштування системи</string>
      <string name="local_select_userapp">Програми + дані</string>
      <string name="menu_patch_delete">Видалення резервних копій</string>
@@ -132,7 +133,7 @@
      <string name="sc_internal_server_error">Внутрішня помилка сервера</string>
      <string name="sc_network_unavailable">Мережа не доступна</string>
      <string name="sc_others">Виключені програми</string>
-     <string name="sc_precondition_failed">"Ваш акккаунт Xiaomi не пов'язаний з будь-якою адресою електронної пошти"</string>
+     <string name="sc_precondition_failed">"Ваш облік. запис Xiaomi не пов'язаний з будь-якою адресою електронної пошти"</string>
      <string name="sc_request_timeout">Тайм-аут запиту</string>
      <string name="sc_service_unavailable">Можливо, сервіс недоступний</string>
      <string name="sc_unaccess_password_file">Не зберігати паролі мереж Wi-Fi</string>
