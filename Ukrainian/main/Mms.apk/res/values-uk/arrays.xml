@@ -54,12 +54,12 @@
         <item>Ніколи</item>
      </string-array>
      <string-array name="resent_via_entries_mms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>За допомогою ММS</item>
+        <item>За допомогою хмарного MMS</item>
      </string-array>
      <string-array name="resent_via_entries_sms">
-        <item>Via message</item>
-        <item>Via Cloud message</item>
+        <item>За допомогою SMS</item>
+        <item>За допомогою хмарного SMS</item>
      </string-array>
      <string-array name="select_dialog_items">
         <item>1 секунда</item>
