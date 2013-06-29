@@ -14,8 +14,8 @@
      <string name="auto_backup_date">Частота Р.К. (у днях)</string>
      <string name="auto_backup_only_wifi">Тільки через Wi-Fi</string>
      <string name="auto_backup_open">Увімкнути автоматичне резервне копіювання</string>
-     <string name="auto_backup_progress">Виконання автомат. резервн. копіювання. 
-Зачекайте, будь ласка...</string>
+     <string name="auto_backup_progress">"Виконання автомат. резервн. копіювання. 
+Зачекайте, будь ласка..."</string>
      <string name="auto_backup_select_user_apps">Вибір програм</string>
      <string name="auto_backup_selected_user_apps">Вибрані програми</string>
      <string name="auto_backup_setting">Налаштування Р.К. за розкладом</string>
@@ -31,8 +31,8 @@
      <string name="backup_failed">Резервне копіювання не вдалося, спробуйте ще раз</string>
      <string name="backup_file_error">Файли резерной копії пошкоджені, операція не завершена</string>
      <string name="backup_finished">Готово</string>
-     <string name="backup_hint">Не вимикайте телефон - 
-це пошкодить ваші дані!</string>
+     <string name="backup_hint">"Не вимикайте телефон - 
+це пошкодить ваші дані!"</string>
      <string name="backup_items_app_tailer">- дані додатків</string>
      <string name="backup_items_sysdata_tailer">- системні дані,</string>
      <string name="backup_new">Новий</string>
@@ -59,8 +59,8 @@
      <string name="cloud_item_info_summary">(Локально: %1$s|Онлайн: %2$s)</string>
      <string name="cloud_last_backup">Остання:</string>
      <string name="cloud_no_backup">Немає резервних копій</string>
-     <string name="cloud_restore_guide">Натисніть кнопку \"Почати\" для відновлення даних
-Ви можете відновити %s в Р.К.</string>
+     <string name="cloud_restore_guide">"Натисніть кнопку \"Почати\" для відновлення даних
+Ви можете відновити %s в Р.К."</string>
      <string name="cloud_restore_title">Відновлення</string>
      <string name="cloud_restore_window_title">Відновлення з хмари</string>
      <string name="cloud_search">Пошук...</string>

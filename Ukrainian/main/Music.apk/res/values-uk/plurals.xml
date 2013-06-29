@@ -33,6 +33,10 @@
         <item quantity="other">"папки"</item>
         <item quantity="one">"папка"</item>
      </plurals>
+     <plurals name="Nhot_tracks_total">
+        <item quantity="other">%d hot songs</item>
+        <item quantity="one">%d hot song</item>
+     </plurals>
      <plurals name="Nitems_batch_selection">
         <item quantity="other">Selected %d items</item>
         <item quantity="one">Selected %d item</item>

@@ -986,9 +986,9 @@
      <string name="location_title">Моє місце розташування</string>
      <string name="lock_after_timeout">Автоблокування</string>
      <string name="lock_after_timeout_summary">Після %1$s сплячого режиму</string>
-     <string name="lock_intro_message">Protect your phone from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen. 
+     <string name="lock_intro_message">"Protect your phone from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen. 
 
-Ready to start? Touch Next.</string>
+Ready to start? Touch Next."</string>
      <string name="lock_screen_unlock_show">Показати інтерфейс введення пароля</string>
      <string name="lock_screen_unlock_show_summary">Не використовуйте інші локскріни після включення, досить зайти в інтерфейс для розблокування екрана</string>
      <string name="lock_settings_picker_settings">Встановити блокування екрана</string>
