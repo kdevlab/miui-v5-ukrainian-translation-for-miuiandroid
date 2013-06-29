@@ -255,6 +255,7 @@
      <string name="days">%d days</string>
      <string name="delete">Видалити</string>
      <string name="deprecated_alarm_message_12_hour_formate" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_xiaomi">Xiaomi Phone</string>
      <string name="double_seventh_day" />
      <string name="emergency_call_string">Екстрені</string>
@@ -310,6 +311,7 @@
      <string name="labour_day" />
      <string name="lantern_festival" />
      <string name="light_snow" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_screen_date">EEEE, d MMMM</string>
      <string name="lockscreen_access_pattern_cell_added">Стільниковий добавлений</string>
      <string name="lockscreen_access_pattern_cleared">Шаблон очищений</string>
@@ -332,6 +334,7 @@
      <string name="lunar_er_shi">二十</string>
      <string name="lunar_jiu">九</string>
      <string name="lunar_leap">闰</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lunar_ling">O</string>
      <string name="lunar_liu">六</string>
      <string name="lunar_nian">廿</string>
@@ -351,6 +354,7 @@
      <string name="memory_clear_result">"Звільнено: %1$s | Доступно: %2$s"</string>
      <string name="minutes">%d хвилин</string>
      <string name="miui_copyright_title">Авторське право</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="miui_device_name">MIUI</string>
      <string name="miui_mibi_license_title">Ліцензійна угода MiCredit</string>
      <string name="miui_privacy_policy_title">Політика конфіденційності</string>
@@ -421,6 +425,7 @@
      <string name="short_pincode_error_msg">Будь ласка, введіть 4-8 цифр</string>
      <string name="short_pukcode_error_msg">Будь ласка, введіть щонайменше 8 цифр</string>
      <string name="shutdown_confirm_title">Ви впевнені, що бажаєте вимкнути телефон?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_account_name">SIM</string>
      <string name="sim_changed_reactivate_int_notice">Поточна SIM деактивована. Для активації сервісу, потребує відправки міжнародного SMS. Активувати зараз?</string>
      <string name="sim_changed_reactivate_notice">Поточна SIM-карта не активована. Необхідна відправка SMS для активації послуги Xiaomi синхронізації. Активувати зараз?</string>
@@ -450,6 +455,7 @@
      <string name="tomorrow">"Завтра "</string>
      <string name="unknown">Невідомо</string>
      <string name="unknown_caller">Невідомий абонент</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unlock_string">OK</string>
      <string name="unlocking_sim_card">Разблокування SIM-карти</string>
      <string name="unlockscreen_low_battery">Підключіть зарядний пристрій</string>
@@ -472,6 +478,7 @@
      <string name="valentines_day" />
      <string name="vernal_equinox" />
      <string name="volume_alarm">Будильник</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="volume_icon_description_bluetooth">Bluetooth</string>
      <string name="volume_icon_description_incall">Виклик</string>
      <string name="volume_icon_description_media">Медіа</string>
