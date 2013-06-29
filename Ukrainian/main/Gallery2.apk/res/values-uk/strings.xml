@@ -165,7 +165,7 @@
      <string name="import_fail">Збій імпорту</string>
      <string name="iso">ISO</string>
      <string name="loading">Триває завантаження...</string>
-     <string name="loading_account">Завантаження акаунту...</string>
+     <string name="loading_account">Завантаження облік. запису...</string>
      <string name="loading_failure">Не вдалося завантажити фото</string>
      <string name="loading_image">Завантаження зображення...</string>
      <string name="loading_video">Завантаження відео...</string>
@@ -248,11 +248,11 @@
      <string name="pref_camera_flashmode_entry_on">Увімк.</string>
      <string name="pref_camera_flashmode_title">Режим спалаху</string>
      <string name="pref_camera_focusmode_entry_auto">Автом.</string>
-     <string name="pref_camera_focusmode_entry_continuouspicture">Continuous picture</string>
-     <string name="pref_camera_focusmode_entry_continuousvideo">Continuous video</string>
-     <string name="pref_camera_focusmode_entry_extended">Extended</string>
-     <string name="pref_camera_focusmode_entry_facedetect">Face detect</string>
-     <string name="pref_camera_focusmode_entry_facepriority">Face priority</string>
+     <string name="pref_camera_focusmode_entry_continuouspicture">Безперервна картина</string>
+     <string name="pref_camera_focusmode_entry_continuousvideo">Безперервне відео</string>
+     <string name="pref_camera_focusmode_entry_extended">Розширений</string>
+     <string name="pref_camera_focusmode_entry_facedetect">Визначення обличчя</string>
+     <string name="pref_camera_focusmode_entry_facepriority">Пріоритет обличчя</string>
      <string name="pref_camera_focusmode_entry_fixed">Fixed</string>
      <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfocal</string>
      <string name="pref_camera_focusmode_entry_infinity">Безкінечн.</string>
