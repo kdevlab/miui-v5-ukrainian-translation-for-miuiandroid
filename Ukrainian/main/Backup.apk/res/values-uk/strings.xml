@@ -31,7 +31,8 @@
      <string name="backup_failed">Резервне копіювання не вдалося, спробуйте ще раз</string>
      <string name="backup_file_error">Файли резерной копії пошкоджені, операція не завершена</string>
      <string name="backup_finished">Готово</string>
-     <string name="backup_hint">Не вимикайте телефон - це пошкодить ваші дані!</string>
+     <string name="backup_hint">Не вимикайте телефон - 
+це пошкодить ваші дані!</string>
      <string name="backup_items_app_tailer">- дані додатків</string>
      <string name="backup_items_sysdata_tailer">- системні дані,</string>
      <string name="backup_new">Новий</string>
@@ -109,7 +110,7 @@
      <string name="note_title">Нотатки</string>
      <string name="nothing_searched">Нічого не знайдено</string>
      <string name="progress_backup_hint">Створення резервної копії...</string>
-     <string name="progress_restore_hint">\"Відновлення даних: \"</string>
+     <string name="progress_restore_hint">Відновлення даних:</string>
      <string name="prompt_reading">Читання...</string>
      <string name="prompt_sending">Відправка...</string>
      <string name="prompt_writing">Запис...</string>
