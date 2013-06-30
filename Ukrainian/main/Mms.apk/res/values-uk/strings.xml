@@ -136,10 +136,10 @@
      <string name="festival_sms_category_count_format">(%s)</string>
      <string name="festival_sms_loading">Завантаження...</string>
      <string name="forward_prefix">Від:</string>
-     <string name="found_old_messages">"Знайдені повідомлення з попереднього акаунту на вашому телефоні: %1$s
-ви хочете скопіювати їх у ваш акаунт: %2$s?"</string>
+     <string name="found_old_messages">"Знайдені повідомлення з попереднього облік. запису на Вашому телефоні: %1$s
+Ви хочете скопіювати їх у ваш новий обік. запис: %2$s?"</string>
      <string name="found_old_messages_title">Завантаження повідомлень</string>
-     <string name="found_wild_messages">Знайдено повідомлень з інших Sim-Карт у хмарі: %s. Ви хочете завантажити їх?</string>
+     <string name="found_wild_messages">Знайдено повідомлень з інших SIM-карт у хмарі: %s. Ви хочете завантажити їх?</string>
      <string name="found_wild_messages_title">Завантаження повідомлень</string>
      <string name="from_label">Від:</string>
      <string name="group_message">Групове повідомлення</string>
@@ -198,11 +198,11 @@
      <string name="multimedia_notification">Повідомлення про MMS</string>
      <string name="mx_activate_error_malformed_info">Ваші персональні дані пошкоджені, потрібна повторна активація хмарових повідомлень</string>
      <string name="mx_activate_error_server">Сервер відхилив запитий активації</string>
-     <string name="mx_activate_error_sim_change"> Sim-Карта помінялась, потрібна повторна активація хмарових повідомлень</string>
+     <string name="mx_activate_error_sim_change"> SIM-rарта помінялась, потрібна повторна активація хмарових повідомлень</string>
      <string name="mx_activate_error_title">Помилка активації хмарових повідомлень</string>
      <string name="mx_activate_hint_malformed_info">Ваші персональні дані пошкоджені. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
      <string name="mx_activate_hint_server">Сервер відхилив запит активації. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
-     <string name="mx_activate_hint_sim_change"> Sim-Карта помінялась. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
+     <string name="mx_activate_hint_sim_change"> SIM-карта змінилась. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
      <string name="mx_activate_int_hint_malformed_info">Ваші особисті дані пошкоджені. Потрібна відправка міжнародного SMS для повторної активації хмарних повідомлень. Активувати?</string>
      <string name="mx_activate_int_hint_server">Сервер відхилив запит активації. Потрібна відправка міжнародного SMS для повторної активації хмарних повідомлень. Активувати?</string>
      <string name="mx_activate_int_hint_sim_change">SIM-карта змінилася. Потрібна відправка міжнародного SMS для повторної активації хмарних повідомлень. Активувати?</string>
@@ -287,7 +287,7 @@
      <string name="pref_title_mms_retrieval_during_roaming">Автозавантаження в роумінгу</string>
      <string name="pref_title_new_message_popup">Спливаючі вікна</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_title_notification_body_enabled">Show previews</string>
+     <string name="pref_title_notification_body_enabled">Показати попередньо</string>
      <string name="pref_title_ringtone_repeat">Кількість нагадувань</string>
      <string name="pref_title_show_recent_contacts">Показати недавні контакти</string>
      <string name="pref_title_sms_delete">Макс. кількість SMS</string>
@@ -326,7 +326,7 @@
      <string name="resize_image_error_information">Зображення занадто велике для відправки навіть після зміни розміру.</string>
      <string name="save">Зберегти</string>
      <string name="save_ringtone">Зберегти як мелодію дзвінка</string>
-     <string name="save_to_sim">Зберегти на Sim-Карту</string>
+     <string name="save_to_sim">Зберегти на SIM-карту</string>
      <string name="saved_label">Збережено:</string>
      <string name="saved_ringtone">Рінгтон збережений</string>
      <string name="saved_ringtone_fail">Рінгтон не збережено</string>
