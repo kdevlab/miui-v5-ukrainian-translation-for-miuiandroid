@@ -402,7 +402,7 @@
     <string name="permdesc_injectEvents">Дозволяє програмі передавати власні події введення (натискання клавіш тощо) іншим програмам. Шкідливі програми можуть використовувати це для контролю над телефоном.</string>
     <string name="permlab_readInputState">записувати, що ви вводите та які дії викон.</string>
     <string name="permdesc_readInputState">Дозволяє програмі бачити клавіші, які ви натискаєте, навіть під час взаємодії з іншою програмою (як-от під час введення пароля). Ніколи не застосовується для звичайних програм.</string>
-    <string name="permlab_bindInputMethod">"прив'яз. до методу введ."</string>
+    <string name="permlab_bindInputMethod">"прив\’яз. до методу введ."</string>
     <string name="permdesc_bindInputMethod">Дозволяє власнику прив\’язуватися до інтерфейсу верхнього рівня методу введення. Ніколи не застосовується для звичайних програм.</string>
     <string name="permlab_bindAccessibilityService">прив\’язуватися до служби доступності</string>
     <string name="permdesc_bindAccessibilityService">Дозволяє власникові прив\’язуватися до інтерфейсу верхнього рівня служби доступності. Ніколи не застосовується для звичайних програм.</string>
@@ -412,7 +412,7 @@
     <string name="permdesc_bindVpnService">Дозволяє власникові прив\’язуватися до інтерфейсу верхнього рівня служби VPN. Ніколи не застосовується для звичайних програм.</string>
     <string name="permlab_bindWallpaper">прив\’язати до фонового малюнка</string>
     <string name="permdesc_bindWallpaper">Дозволяє власнику прив\’язуватися до інтерфейсу верхнього рівня фонового малюнка. Ніколи не застосовується для звичайних програм.</string>
-    <string name="permlab_bindRemoteViews">"прив'язувати до служби віджетів"</string>
+    <string name="permlab_bindRemoteViews">"прив\’язувати до служби віджетів"</string>
     <string name="permdesc_bindRemoteViews">Дозволяє власникові прив\’язуватися до інтерфейсу верхнього рівня служби віджетів. Ніколи не застосовується для звичайних програм.</string>
     <string name="permlab_bindDeviceAdmin">взаємодіяти з адмін. пристрою</string>
     <string name="permdesc_bindDeviceAdmin">Дозволяє власнику надсилати задавані функції адміністратору пристрою. Ніколи не застосовується для звичайних програм.</string>
@@ -510,15 +510,15 @@
     <string name="permdesc_mount_unmount_filesystems">Дозволяє програмі підключати та відключати файлові системи для пам\’яті на знімних носіях.</string>
     <string name="permlab_mount_format_filesystems">очищати носій USB</string>
     <string name="permdesc_mount_format_filesystems">Дозволяє програмі форматувати пам\’ять на знімних носіях.</string>
-    <string name="permlab_asec_access">"переносити інф-ю у внутрішню пам'ять"</string>
+    <string name="permlab_asec_access">"переносити інф-ю у внутрішню пам\’ять"</string>
     <string name="permdesc_asec_access">Дозволяє програмі отримувати інформацію про внутрішню пам\’ять.</string>
-    <string name="permlab_asec_create">"створ. внутрішню пам'ять"</string>
+    <string name="permlab_asec_create">створ. внутрішню пам\’ять</string>
     <string name="permdesc_asec_create">Дозволяє програмі створювати внутрішню пам\’ять.</string>
-    <string name="permlab_asec_destroy">"знищувати внутрішню пам'ять"</string>
+    <string name="permlab_asec_destroy">"знищувати внутрішню пам\’ять"</string>
     <string name="permdesc_asec_destroy">Дозволяє програмі знищувати внутрішню пам\’ять.</string>
     <string name="permlab_asec_mount_unmount">підключати чи відключати внутрішню пам\’ять</string>
     <string name="permdesc_asec_mount_unmount">Дозволяє програмі підключати чи відключати внутрішню пам\’ять.</string>
-    <string name="permlab_asec_rename">"переймен. внутр. пам'ять"</string>
+    <string name="permlab_asec_rename">переймен. внутр. пам\’ять</string>
     <string name="permdesc_asec_rename">Дозволяє програмі перейменовувати внутрішню пам\’ять.</string>
     <string name="permlab_vibrate">контролювати вібросигнал</string>
     <string name="permdesc_vibrate">Дозволяє програмі контролювати вібросигнал.</string>
@@ -782,10 +782,10 @@
     <string name="lockscreen_glogin_forgot_pattern">Обл. зап. розбл.</string>
     <string name="lockscreen_glogin_too_many_attempts">Забагато спроб намалювати ключ</string>
     <string name="lockscreen_glogin_instructions">Щоб розблокувати, увійдіть, використовуючи дані облікового запису Google.</string>
-    <string name="lockscreen_glogin_username_hint">"Ім'я кор. (пошта)"</string>
+    <string name="lockscreen_glogin_username_hint">Ім\’я кор. (пошта)</string>
     <string name="lockscreen_glogin_password_hint">Пароль</string>
     <string name="lockscreen_glogin_submit_button">Увійти</string>
-    <string name="lockscreen_glogin_invalid_input">"Недійсне ім'я корист. чи пароль."</string>
+    <string name="lockscreen_glogin_invalid_input">"Недійсне ім\’я корист. чи пароль."</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Не пам\’ятаєте ім\’я користувача чи пароль?
 Відвідайте сторінку "<b>google.com/accounts/recovery</b>.</string>
     <string name="lockscreen_glogin_checking_password">Перевірка…</string>
@@ -856,9 +856,9 @@
     <string name="permdesc_accessContentProvidersExternally">Дозволяє власнику отримувати ззовні доступ до постачальників вмісту. Ніколи не застосовується для звичайних програм.</string>
     <string name="permlab_updateLock">перешкоджати автом. оновленням пристрою</string>
     <string name="permdesc_updateLock">Дозволяє власникові надавати системі інформацію про найкращий час для оновлення пристрою шляхом неінтерактивного перезавантаження.</string>
-    <string name="save_password_message">"Хочете, щоб переглядач запам'ятав цей пароль?"</string>
+    <string name="save_password_message">"Хочете, щоб переглядач запам\’ятав цей пароль?"</string>
     <string name="save_password_notnow">Не зараз</string>
-    <string name="save_password_remember">"Запам'ятати"</string>
+    <string name="save_password_remember">"Запам\’ятати"</string>
     <string name="save_password_never">Ніколи</string>
     <string name="open_permission_deny">У вас немає дозволу на відкривання цієї сторінки.</string>
     <string name="text_copied">Текст скопійов. в буф. обм.</string>
@@ -1124,7 +1124,7 @@
     <string name="media_bad_removal">Карту SD вилучено раніше ніж її було відключено.</string>
     <string name="media_checking">Носій USB наразі перевіряється.</string>
     <string name="media_removed">Карту SD вилучено.</string>
-    <string name="media_shared">"Наразі комп'ютер використовує носій USB."</string>
+    <string name="media_shared">Наразі комп\’ютер використовує носій USB.</string>
     <string name="media_unknown_state">Зовнішні носії в невідомому стані.</string>
     <string name="share">Надіслати</string>
     <string name="find">Знайти</string>
