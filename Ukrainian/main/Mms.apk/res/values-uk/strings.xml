@@ -43,7 +43,7 @@
      <string name="bookmark_list_title">Уподобання (%1$d)</string>
      <string name="cannot_add_picture_and_video">Не можна додати на слайд і картинку, і відео</string>
      <string name="cannot_add_slide_anymore">Додане максимальне число слайдів.</string>
-     <string name="cannot_forward_drm_obj">"Не можна переслати Drm-Об'єкт з цього повідомлення"</string>
+     <string name="cannot_forward_drm_obj">"Не можна переслати Drm-Об\’єкт з цього повідомлення"</string>
      <string name="cannot_get_details">Не вдалося завантажити дані</string>
      <string name="cannot_send_message">Не вдалося відправити повідомлення</string>
      <string name="cannot_send_message_reason">Не вказано жодного реального одержувача</string>
@@ -129,7 +129,7 @@
      <string name="exceed_message_size_limitation">Досягнуто максимальний розмір повідомлення</string>
      <string name="expire_on">Термін закінчується: %s</string>
      <string name="exporting_progress_private_message">Експорт повідомлень у приватний ящик повідомлень...</string>
-     <string name="failed_to_add_media">"Неможливо додати цей об'єкт (%1$s)"</string>
+     <string name="failed_to_add_media">"Неможливо додати цей об\’єкт (%1$s)"</string>
      <string name="failed_to_resize_image">Не вдалося змінити розмір малюнка</string>
      <string name="fdn_check_failure">Ви можете відправляти повідомлення тільки на номери зі свого списку дозволених номерів</string>
      <string name="festival">Жарти</string>
@@ -233,7 +233,7 @@
      <string name="new_message_arrived">Нове повідомлення отримано</string>
      <string name="new_phrase">Додати фразу</string>
      <string name="new_phrase_hint">Введіть фразу</string>
-     <string name="nickname_placeholder">"Ім'я"</string>
+     <string name="nickname_placeholder">"Ім\’я"</string>
      <string name="no">Скасувати</string>
      <string name="no_conversations">Поки нічого немає</string>
      <string name="no_subject">( Без тими)</string>
@@ -339,7 +339,7 @@
      <string name="secs">з.</string>
      <string name="select_audio">Вибір аудіо</string>
      <string name="select_bottom_text">Текст унизу</string>
-     <string name="select_different_media">"Виберіть інший об'єкт (%1$s)"</string>
+     <string name="select_different_media">"Виберіть інший об\’єкт (%1$s)"</string>
      <string name="select_link_title">Вибір дії</string>
      <string name="select_local_audio">Вибір аудіо...</string>
      <string name="select_local_video">Вибір відео...</string>
@@ -356,7 +356,7 @@
      <string name="service_not_activated">Послуга не активована в мережі</string>
      <string name="set">Зберегти</string>
      <string name="show_all_messages">Показати всі повідомлення</string>
-     <string name="sim_copy_to_phone_memory">"Копіювати в пам'ять телефону"</string>
+     <string name="sim_copy_to_phone_memory">"Копіювати в пам\’ять телефону"</string>
      <string name="sim_delete">Видалити</string>
      <string name="sim_empty">На Sim-Карті немає повідомлень</string>
      <string name="sim_full_body">Видаліть кілька повідомлень, щоб звільнити місце</string>
@@ -367,8 +367,8 @@
      <string name="slide_show_part">Частина %1$s з %2$s</string>
      <string name="slideshow_activity"> Слайд-Шоу</string>
      <string name="sms_content">Вміст повідомлення</string>
-     <string name="sms_full_body">"Пам'ять переповнена. Щоб зберегти нові повідомлення, видаліть кілька старих."</string>
-     <string name="sms_full_title">"Пам'ять для текстових повідомлень переповнена"</string>
+     <string name="sms_full_body">"Пам\’ять переповнена. Щоб зберегти нові повідомлення, видаліть кілька старих."</string>
+     <string name="sms_full_title">"Пам\’ять для текстових повідомлень переповнена"</string>
      <string name="sms_rejected_body">Вхідне повідомлення відхилено з невідомої причини</string>
      <string name="sms_rejected_title">Повідомлення SMS відхилено</string>
      <string name="status_failed">Збій</string>
