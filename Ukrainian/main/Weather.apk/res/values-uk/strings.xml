@@ -19,12 +19,12 @@
      <string name="act_set_city_find_side_on">Відкрити визначення місцезнаходження</string>
      <string name="act_set_city_re_find_side">Визначення місця розташування…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_weather_aqi_share">Share</string>
+     <string name="act_weather_aqi_share">Поділитися</string>
      <string name="act_weather_aqi_title">Індекс чистоти повітря</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_weather_cycle_low_temp">low temp</string>
+     <string name="act_weather_cycle_low_temp">низька темп.</string>
      <string name="act_weather_cycle_update">Оновлення…</string>
-     <string name="act_weather_main_aqi_index">Air quality %s</string>
+     <string name="act_weather_main_aqi_index">Якість повітря %s</string>
      <string name="act_weather_main_data_null">Немає даних про погоду, оновіть</string>
      <string name="act_weather_range_select">Виберіть місто</string>
      <string name="act_weather_range_title">Навколишній прогноз погоди</string>
@@ -39,24 +39,24 @@
      <string name="app_love_sms_title">SMS</string>
      <string name="app_love_view_title">Предперегляд</string>
      <string name="app_name">Погода</string>
-     <string name="app_nohave_net">"Немає з'єднання з мережею"</string>
-     <string name="app_unquiet_net">"З'єднання нестабільне. Спробуйте пізніше"</string>
+     <string name="app_nohave_net">"Немає з\’єднання з мережею"</string>
+     <string name="app_unquiet_net">"З\’єднання нестабільне. Спробуйте пізніше"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_good">All the people may free activities in the outdoor.</string>
-     <string name="aqi_details_hazardous">Everyone should avoid all physical activity outdoors; people with heart or lung disease, older adults, and children should remain indoors and keep activity levels low.</string>
+     <string name="aqi_details_hazardous">Кожен повинен уникати всіх фізичних навантажень на відкритому повітрі, люди з захворюваннями серця та легень, літні люди, і діти повинні залишатися в приміщенні.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
-     <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
+     <string name="aqi_details_light_pollution">Люди із захворюваннями серця та легень, літні люди, і діти повинні скоротити тривалі або важкі навантаження.</string>
+     <string name="aqi_details_unhealthy">Люди із захворюваннями серця та легень, літні люди, і діти повинні уникати тривалого або важкого зусилля; всі інші повинні зменшити тривале або важкі навантаження.</string>
      <string name="aqi_quality_index_dangerous">Небезпечний</string>
      <string name="aqi_quality_index_good">Добре</string>
      <string name="aqi_quality_index_hazardous">Заражений</string>
      <string name="aqi_quality_index_light_pollution">Світлове забруднення</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="aqi_quality_index_moderate">Moderate</string>
+     <string name="aqi_quality_index_moderate">Помірний</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_pure">Pure</string>
      <string name="aqi_quality_index_unhealthy">Шкідливий</string>
@@ -69,7 +69,7 @@
      <string name="enable_notification_city">Буде відкрито %s погодне повідомлення, системне оповіщення повідомлення при зміні погоди</string>
      <string name="enable_notification_summary">Посилати системні повідомлення при зміні погоди</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="first_start_network_toast_text">Access network to get weather information.</string>
+     <string name="first_start_network_toast_text">Доступ до мережі, для отримання інформ. про погоду</string>
      <string name="format_date_md">M/d kk:mm</string>
      <string name="format_date_trend_md">M/d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -83,22 +83,22 @@
      <string name="location_notification">Оповіщення про місцезнаходження</string>
      <string name="menu_about"> Про програму</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_around">Surrounding</string>
+     <string name="menu_around">Навколишнє</string>
      <string name="menu_delete">Вилучити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_location">Location management</string>
+     <string name="menu_location">Керування розміщенням</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_main">Index</string>
+     <string name="menu_main">Індекс</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_notification">Notification</string>
+     <string name="menu_notification">Сповіщення</string>
      <string name="menu_reload">Оновити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_reloading">Updating</string>
+     <string name="menu_reloading">Оновлення</string>
      <string name="menu_send_sms">Відправити</string>
      <string name="menu_settings">Налаштування</string>
      <string name="menu_share">Поділитися</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_trend">Trend</string>
+     <string name="menu_trend">Тенденція</string>
      <string name="save_screen_shot_failed">Помилка збереження скріншота</string>
      <string name="selected_format">Обране місто %d</string>
      <string name="send_sms_notification">Відправлення погоди</string>
@@ -114,12 +114,12 @@
      <string name="settings_weather_preview">Перегляд анімації погоди</string>
      <string name="settings_weather_title">Налаштування</string>
      <string name="share_aqi_content">"\#MIUI weather#
-Today %1$s's air quality index is %2$s, %3$s. %4$s %5$s published."</string>
+Сьогодні %1$s показник якості повітря є %2$s, %3$s. %4$s %5$s опублікована."</string>
      <string name="share_content">\#MIUI weather#</string>
      <string name="share_qq">Відправити через Tencent Weibo</string>
      <string name="share_sina">Відправити через Sina Weibo</string>
      <string name="share_weather_content">"\#MIUI weather#
-Today %1$s's weather is %2$s, %3$s, %4$s. %5$s published."</string>
+Сьогодні %1$s погода є %2$s, %3$s, %4$s. %5$s опублікована."</string>
      <string name="share_weather_title">Поділитися даними про погоду</string>
      <string name="sms_notification">SMS повідомлення</string>
      <string name="tip_weather">Повідомлення MIUI погоди</string>
@@ -127,9 +127,9 @@ Today %1$s's weather is %2$s, %3$s, %4$s. %5$s published."</string>
      <string name="tip_weather_info_title_1">%1$s очікувана різниця в температурі %2$d градусів</string>
      <string name="tip_weather_info_title_2">%1$s сьогодні температура буде %2$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="trend_weather_today">Today</string>
+     <string name="trend_weather_today">Сьогодні</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="trend_weather_tomorrow">Tomorrow</string>
+     <string name="trend_weather_tomorrow">Завтра</string>
      <string name="weather_notification">Оповіщення про погоду</string>
      <string name="widget_loading">Немає даних про погоду</string>
 </resources>
