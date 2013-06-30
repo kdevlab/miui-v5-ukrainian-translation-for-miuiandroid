@@ -98,7 +98,7 @@
      <string name="fw_ms_muted">Повідомлення беззвучно</string>
      <string name="fw_ms_rejected">Повідомлення заблоковано</string>
      <string name="fw_no_effect">Режим захисту не включений</string>
-     <string name="fw_notes_hint">"Примітка (необов'язково)"</string>
+     <string name="fw_notes_hint">"Примітка (необов\’язково)"</string>
      <string name="fw_notification_settings">Сповіщення та інше</string>
      <string name="fw_on">Фільтрація включена</string>
      <string name="fw_period">Період</string>
