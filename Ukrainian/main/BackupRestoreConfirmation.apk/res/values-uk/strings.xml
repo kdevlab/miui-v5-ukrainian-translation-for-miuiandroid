@@ -3,7 +3,7 @@
 <resources>
      <string name="allow_backup_button_label">Створити резервну копію даних</string>
      <string name="allow_restore_button_label">Відновити дані</string>
-     <string name="backup_confirm_text">"Запит на резервне копіювання всих даних на підключеному комп'ютері. Дозволити?
+     <string name="backup_confirm_text">"Запит на резервне копіювання всих даних на підключеному комп\’ютері. Дозволити?
 
 Якщо ви не запитували цього, не дозволяйте виконання операції"</string>
      <string name="backup_confirm_title">Повне резервне копіювання</string>
@@ -14,7 +14,7 @@
      <string name="deny_restore_button_label">Не відновлювати</string>
      <string name="device_encryption_backup_text">Введіть пароль для шифрування пристрою та архиву резервних копій</string>
      <string name="device_encryption_restore_text">Введіть пароль для шифрування пристрою</string>
-     <string name="restore_confirm_text">"Підключений комп'ютер надсилає запит на відновлення всих даних. Дозволити?
+     <string name="restore_confirm_text">"Підключений комп\’ютер надсилає запит на відновлення всих даних. Дозволити?
 
 Якщо ви не запитували цього, не дозволяйте виконання операції, оскільки вона замінить всі дані на цьому пристрої"</string>
      <string name="restore_confirm_title">Повне відновлення</string>
