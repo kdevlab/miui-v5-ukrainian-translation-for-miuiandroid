@@ -12,8 +12,8 @@
      <string name="initializing">Підготовка до роботи</string>
      <string name="invalid_choice_tts">Невірний вибір</string>
      <string name="listening">Слухаю...</string>
-     <string name="logging_disabled">Журнал Голосового набору вимкнено</string>
-     <string name="logging_enabled">Журнал Голосового набору увімкнено</string>
+     <string name="logging_disabled">Журнал голосового набору вимкнено</string>
+     <string name="logging_enabled">Журнал голосового набору увімкнено</string>
      <string name="no_results_tts">Безрезультатно, повторіть спробу</string>
      <string name="on_mobile">" , мобільній"</string>
      <string name="please_try_again">Спробуйте ще</string>
