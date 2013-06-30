@@ -4,7 +4,7 @@
      <string name="action_submit">Надіслати</string>
      <string name="app_label">Відгуки</string>
      <string name="btn_send">Надіслати</string>
-     <string name="description">"Опис (обов'язково)"</string>
+     <string name="description">"Опис (обов\’язково)"</string>
      <string name="discard_draft_dialog_button_cancel">Скасувати</string>
      <string name="discard_draft_dialog_content">Звіт змінено, натисніть OK для видалення чернетки.</string>
      <string name="discard_draft_dialog_title">Видалити чернетку</string>
