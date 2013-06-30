@@ -69,7 +69,7 @@
      <string name="contact_title">Контакти</string>
      <string name="current_account">Облік. запис %s</string>
      <string name="current_sim">Поточна SIM-карта</string>
-     <string name="data_no_enough_space">"Недостатньо пам'яті"</string>
+     <string name="data_no_enough_space">"Недостатньо пам\’яті"</string>
      <string name="data_no_enough_space_message">Резервне копіювання може завершитись з помилкою, будь ласка звільніть місце на внутрішньому накопичувачі</string>
      <string name="delete">Видалити</string>
      <string name="delete_backup_process">Виконується видалення, будь ласка, зачекайте...</string>
@@ -81,14 +81,14 @@
      <string name="enable_encrypt_summery1">Система зашифрує ваш локальний бекап на основі облік. запису Xiaomi, Вам буде потрібно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
      <string name="enable_encrypt_summery2">Новий бекап буде автоматично шифруватися. Вам необхідно увійти в свій обліковий запис Xiaomi - для видалення даних чи викристання інших пристроїв для відновлення резервної копії</string>
      <string name="enable_encrypt_title">Шифрування увімкнено</string>
-     <string name="enable_encrypt_xiaomi_account">Ця резервна копія була створена %1$s, будь ласка, видаліть поточний акаунт, і увійдіть в %2$s для відновлення даних</string>
+     <string name="enable_encrypt_xiaomi_account">Ця резервна копія була створена %1$s, будь ласка, видаліть поточний облік. запис, і увійдіть в %2$s для відновлення даних</string>
      <string name="exchange_account">Змінити облік. запис</string>
      <string name="fail">Помилка</string>
      <string name="findlost_contact">Знайти втрачений контакт(и)</string>
      <string name="findlost_contact_online">Онлайн відновлення контактів</string>
      <string name="guarded_mode_dialog_message">Не можу працювати в режимі захисту</string>
      <string name="guarded_mode_dialog_title">Режим захисту</string>
-     <string name="import_from_xiaomi_account_hint1">\"1. Увімкніть телефон з контактами 2. Встановіть MiTalk і увійдіть в нього. http://www.miliao.com 3. Зайдіть в налаштування MiTalk і виберіть \"Створити резервну копію контактів в акаунт Xiaomi\"\"</string>
+     <string name="import_from_xiaomi_account_hint1">\"1. Увімкніть телефон з контактами 2. Встановіть MiTalk і увійдіть в нього. http://www.miliao.com 3. Зайдіть в налаштування MiTalk і виберіть \"Створити резервну копію контактів в облік. запис Xiaomi\"\"</string>
      <string name="import_from_xiaomi_account_hint2">Примітка: Перейдіть до наступного кроку, якщо резервна копія вже існує</string>
      <string name="import_from_xiaomi_account_hint_title">Використовуйте MiTalk для резервного копіювання контактів на інших пристроях</string>
      <string name="local_app_name">Резерве копіювання</string>
@@ -100,13 +100,13 @@
      <string name="local_select_sysdata">Налаштування системи</string>
      <string name="local_select_userapp">Програми + дані</string>
      <string name="menu_patch_delete">Видалення резервних копій</string>
-     <string name="miliao_account_guide">"MiTalk підвищено до акаунту Xiaomi
+     <string name="miliao_account_guide">"MiTalk підвищено до облік. запису Xiaomi
 Насолоджуйтесь усіма сервісами Xiaomi"</string>
      <string name="miliao_account_login">Увійти в MiTalk</string>
      <string name="mms_title">MMS повідомлення</string>
      <string name="multi_select_title">Обрано: %1$s</string>
      <string name="no_encrypt_password">Немає шифрування пароля</string>
-     <string name="no_network">"Немає мережевого з'єднання. Будь ласка, перевірте ваше з'єднання і спробуйте ще раз"</string>
+     <string name="no_network">"Немає мережевого з\’єднання. Будь ласка, перевірте ваше з\’єднання і спробуйте ще раз"</string>
      <string name="note_title">Нотатки</string>
      <string name="nothing_searched">Нічого не знайдено</string>
      <string name="progress_backup_hint">Створення резервної копії...</string>
@@ -119,7 +119,7 @@
      <string name="restore">Відновлення</string>
      <string name="restore_contact">Відновлення контактів</string>
      <string name="restore_contact_content">При відновленні адресної книги може відбутися дублювання контактів, продовжити?</string>
-     <string name="restore_contacts_hit">Примітка: для відновлення контактов необхідно створити оригінальний акаунт</string>
+     <string name="restore_contacts_hit">Примітка: для відновлення контактов необхідно створити оригінальний облік. запис</string>
      <string name="restore_counts">Відновлення:</string>
      <string name="restore_data">Відновити</string>
      <string name="restore_failed">Помилка відновленя</string>
@@ -134,12 +134,12 @@
      <string name="sc_internal_server_error">Внутрішня помилка сервера</string>
      <string name="sc_network_unavailable">Мережа не доступна</string>
      <string name="sc_others">Виключені програми</string>
-     <string name="sc_precondition_failed">"Ваш облік. запис Xiaomi не пов'язаний з будь-якою адресою електронної пошти"</string>
+     <string name="sc_precondition_failed">"Ваш облік. запис Xiaomi не пов\’язаний з будь-якою адресою електронної пошти"</string>
      <string name="sc_request_timeout">Тайм-аут запиту</string>
      <string name="sc_service_unavailable">Можливо, сервіс недоступний</string>
      <string name="sc_unaccess_password_file">Не зберігати паролі мереж Wi-Fi</string>
      <string name="sc_unauthorized">Сертифікація не дійсна</string>
-     <string name="sdcard_no_enough_space">"Недостатньо пам'яті на SD-карті"</string>
+     <string name="sdcard_no_enough_space">"Недостатньо пам\’яті на SD-карті"</string>
      <string name="sdcard_no_enough_space_message">Резервне копіювання може завершитись з помилкою, будь ласка звільніть місце на SD-карті</string>
      <string name="sdcard_unmounted">SD-карта не знайдена або відключена</string>
      <string name="select_all">Усі</string>
