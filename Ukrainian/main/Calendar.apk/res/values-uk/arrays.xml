@@ -48,9 +48,9 @@
         <item>Ніколи</item>
      </string-array>
      <string-array name="prefValues_alerts_vibrateWhen">
-        <item>always</item>
-        <item>silent</item>
-        <item>never</item>
+        <item>завжди</item>
+        <item>тиша</item>
+        <item>ніколи</item>
      </string-array>
      <string-array name="preferences_default_reminder_labels">
         <item>Немає</item>
@@ -81,7 +81,7 @@
         <item>Запізнююсь на декілька хвилин</item>
         <item>Буду там через 10 хвилин</item>
         <item>Починайте без мене</item>
-        <item>"Вибачте, я не можу це зробити. Потрібно переглянути розклад"</item>
+        <item>Вибачте, я не можу це зробити. Потрібно переглянути розклад</item>
      </string-array>
      <string-array name="reminder_methods_labels">
         <item>Оповіщення</item>
