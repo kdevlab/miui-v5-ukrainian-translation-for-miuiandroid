@@ -26,8 +26,8 @@
      <string name="accessibility_state_frozen">Збережена сторінка</string>
      <string name="accessibility_state_incognito">Сторінка в режимі інкогніто</string>
      <string name="accessibility_transition_navscreen">Управління вкладками</string>
-     <string name="account">Акаунт</string>
-     <string name="account_chooser_dialog_title">Виберіть акаунт</string>
+     <string name="account">Облік. запис</string>
+     <string name="account_chooser_dialog_title">Виберіть облік. запис</string>
      <string name="action">Вхід</string>
      <string name="add_bookmark">Додати закладку</string>
      <string name="add_bookmark_short">Додати</string>
@@ -36,14 +36,14 @@
      <string name="add_to_bookmarks_menu_option">Закладки</string>
      <string name="add_to_homescreen_menu_option">Головний екран</string>
      <string name="add_to_other_folder_menu_option">Інша папка</string>
-     <string name="add_xiaomi_account_warning">Будь ласка, увійдіть в акаунт Xiaomi</string>
+     <string name="add_xiaomi_account_warning">Будь ласка, увійдіть в облік. запис Xiaomi</string>
      <string name="added_to_bookmarks">Додано в закладки</string>
-     <string name="alert_tips">This site may be a security risk, please carefully access!</string>
+     <string name="alert_tips">Цей сайт може становити загрозу безпеці, будь ласка, будьте обережні!</string>
      <string name="allow">Дозволити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_new_version">Download complete and latest version of application installed already</string>
+     <string name="app_new_version">Завнтаження завершено і остання версія встановленаy</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_update_install">Download complete and ready to install upgraded version</string>
+     <string name="app_update_install">Завнтаження завершено і готове для встановлення оновленої версії</string>
      <string name="application_name">Браузер</string>
      <string name="autofill_profile_editor_address_line_1">Адресний рядок 1:</string>
      <string name="autofill_profile_editor_address_line_1_hint">Адреса, поштовий ящик, адреса до запитання</string>
@@ -55,7 +55,7 @@
      <string name="autofill_profile_editor_delete_profile">Видалити</string>
      <string name="autofill_profile_editor_email_address">Ел. пошта:</string>
      <string name="autofill_profile_editor_heading">Введіть текст для автозаповнення</string>
-     <string name="autofill_profile_editor_name">"Повне ім'я:"</string>
+     <string name="autofill_profile_editor_name">"Повне ім\’я:"</string>
      <string name="autofill_profile_editor_phone_number">Номер телефону:</string>
      <string name="autofill_profile_editor_phone_number_invalid">Неправильний номер телефону</string>
      <string name="autofill_profile_editor_save_profile">Зберегти</string>
@@ -89,7 +89,7 @@
      <string name="bookmark_url_not_valid">Неправильна URL-адреса</string>
      <string name="bookmarks">Закладки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bookmarks_content_is_null">Content is null</string>
+     <string name="bookmarks_content_is_null">Контент є null</string>
      <string name="bookmarks_management">Закладки</string>
      <string name="bookmarks_root_folder">Корінь</string>
      <string name="bookmarks_search">Браузер</string>
@@ -105,11 +105,11 @@
      <string name="clear">Очистити</string>
      <string name="clear_history">Очистити історію</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="clear_history_group">clear all history</string>
-     <string name="clip_dialog_title">Open the copied link?</string>
-     <string name="close_all_tab_alert_message">Are you sure close all tabs?</string>
+     <string name="clear_history_group">очистити історію</string>
+     <string name="clip_dialog_title">Відкрити зкопійоване посилання?</string>
+     <string name="close_all_tab_alert_message">Ви впевнені, що бажаєте закрити всі вкладки?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="close_all_tab_alert_title">Close all Tabs</string>
+     <string name="close_all_tab_alert_title">Закрити всі вкладки</string>
      <string name="containing_folder">Додати в</string>
      <string name="contextheader_folder_bookmarkcount">Закладок: %d</string>
      <string name="contextheader_folder_empty">Папка порожня</string>
@@ -140,14 +140,14 @@
      <string name="disable_autofill">Відключити автозаповнення</string>
      <string name="do_not_save">Скасувати</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_complete">File download complete</string>
+     <string name="download_complete">Завантаження файлу завершено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_failed">Download failed</string>
-     <string name="download_no_sdcard_dlg_msg">Для завантаження %s необхідна SD-карта</string>
-     <string name="download_no_sdcard_dlg_title">SD-карта відсутня</string>
+     <string name="download_no_sdcard_dlg_msg">Для завантаження %s необхідна SD карта</string>
+     <string name="download_no_sdcard_dlg_title">SD карта відсутня</string>
      <string name="download_pending">Починається завантаження…</string>
-     <string name="download_sdcard_busy_dlg_msg">SD-карта зайнята. Щоб дозволити завантаження, виберіть Вимкнути USB-накопичувач \" в повідомленні</string>
-     <string name="download_sdcard_busy_dlg_title">SD-карта недоступна</string>
+     <string name="download_sdcard_busy_dlg_msg">SD карта зайнята. Щоб дозволити завантаження, виберіть Вимкнути USB-накопичувач \" в повідомленні</string>
+     <string name="download_sdcard_busy_dlg_title">SD карта недоступна</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dump_counters">Dump V8 counters</string>
      <string name="dump_display_tree">Дамп Display дерева в файл</string>
@@ -170,22 +170,22 @@
      <string name="export_bookmark_sucess">Закладки успішно експортовані на SD-карту!</string>
      <string name="exported_bookmark_file_name">Моє обране</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="file_dir">Directory</string>
+     <string name="file_dir">Каталог</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="file_name">Filename</string>
+     <string name="file_name">Назва файлу</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="file_picker">Select Path</string>
+     <string name="file_picker">Виберіть шлях</string>
      <string name="file_picker_new_folder">Нова папка</string>
-     <string name="file_picker_sdcard_not_found">SD-карта не знайдена, будь ласка, перевірте, чи не підключено пристрій до ПК</string>
-     <string name="filename_empty_alert_message">"File name can't be empty"</string>
+     <string name="file_picker_sdcard_not_found">SD карта не знайдена, будь ласка, перевірте, чи не підключено пристрій до ПК</string>
+     <string name="filename_empty_alert_message">Назва файлу не може бути пустою</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="filename_illegal_alert_message">File name has illegal character, already auto remove.</string>
+     <string name="filename_illegal_alert_message">Ім'я файлу має незаконний характер, автоматично вилалиться</string>
      <string name="find_on_page">Знайти на сторінці</string>
      <string name="folder_name">"Назва папки"</string>
      <string name="forward">Вперед</string>
      <string name="geolocation_permissions_prompt_dont_share">Відхилити</string>
      <string name="geolocation_permissions_prompt_message">%s запит даних про Ваше місцезнаходження</string>
-     <string name="geolocation_permissions_prompt_remember">"Запам'ятати налаштування"</string>
+     <string name="geolocation_permissions_prompt_remember">"Запам\’ятати налаштування"</string>
      <string name="geolocation_permissions_prompt_share">Дозволити</string>
      <string name="geolocation_permissions_prompt_toast_allowed">У цього сайту є доступ до даних про ваше місцезнаходження. Щоб заборонити його, виберіть \"Налаштування -> Розширенні -> Налаштування веб-сайтів\".</string>
      <string name="geolocation_permissions_prompt_toast_disallowed">У цього сайту немає доступу до даних про ваше місцезнаходження. Щоб надати його, виберіть \"Налаштування -> Розширенні -> Налаштування веб-сайтів\".</string>
@@ -200,26 +200,26 @@
      <string name="have_sent_bookmark_to_home_screen">Відправлено на робочий стіл</string>
      <string name="history">Історія</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="history_browsed">Browsing history</string>
+     <string name="history_browsed">Історія перегляду</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="history_most_visited">Most visited</string>
+     <string name="history_most_visited">Найбільш відвідувані</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="history_saved_webpage">Save webpage</string>
+     <string name="history_saved_webpage">Зберегти сторінку</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="history_track">History</string>
+     <string name="history_track">Історія</string>
      <string name="homepage_set">Головна сторінка встановлена</string>
      <string name="import_bookmark">Імпорт закладок</string>
      <string name="import_bookmark_failure">Помилка імпорту закладок!</string>
      <string name="import_bookmark_sucess">Закладки успішно імпортовані!</string>
-     <string name="import_bookmarks_dialog_add">Додати закладки до акаунту Google</string>
-     <string name="import_bookmarks_dialog_confirm_add">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з акаунтом %s?</string>
-     <string name="import_bookmarks_dialog_confirm_delete">Видалити закладки з пристрою і почати синхронізацію з акаунтом %s?</string>
-     <string name="import_bookmarks_dialog_delete_select_account">Видалити закладки з пристрою і почати синхронізацію з акаунтом Google</string>
-     <string name="import_bookmarks_dialog_description">"Закладки на пристрої поки не пов'язані з акаунтом Google. Щоб зберегти і синхронізувати закладки, додайте їх до системи. В іншому випадку просто видаліть їх"</string>
-     <string name="import_bookmarks_dialog_import">Додати закладки Android в акаунт %s</string>
+     <string name="import_bookmarks_dialog_add">Додати закладки до облік. запису Google</string>
+     <string name="import_bookmarks_dialog_confirm_add">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з обліковим записом %s?</string>
+     <string name="import_bookmarks_dialog_confirm_delete">Видалити закладки з пристрою і почати синхронізацію з обліковим записом %s?</string>
+     <string name="import_bookmarks_dialog_delete_select_account">Видалити закладки з пристрою і почати синхронізацію з обліковим записом Google</string>
+     <string name="import_bookmarks_dialog_description">"Закладки на пристрої поки не пов\’язані з обліковим записом Google. Щоб зберегти і синхронізувати закладки, додайте їх до системи. В іншому випадку просто видаліть їх"</string>
+     <string name="import_bookmarks_dialog_import">Додати закладки Android в облік. запис %s</string>
      <string name="import_bookmarks_dialog_remove">Видалити закладки</string>
-     <string name="import_bookmarks_dialog_select_add_account">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з акаунтом Google</string>
-     <string name="import_bookmarks_dialog_title">Синхронізація з акаунтом Google</string>
+     <string name="import_bookmarks_dialog_select_add_account">Додати закладки, наявні на цьому пристрої, і почати синхронізацію з обліковим записом Google</string>
+     <string name="import_bookmarks_dialog_title">Синхронізація з обліковим записом Google</string>
      <string name="import_bookmarks_wizard_cancel">Скасувати</string>
      <string name="import_bookmarks_wizard_done">Готово</string>
      <string name="import_bookmarks_wizard_next">Далі</string>
@@ -251,13 +251,13 @@
      <string name="multi_select_title">Вибрано %1$s штук(а)</string>
      <string name="name">Ярлик</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="navigation_button_close">Close</string>
+     <string name="navigation_button_close">Закрити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="navigation_button_newtab">New</string>
+     <string name="navigation_button_newtab">Нова</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="navigation_button_tab">Tabs</string>
+     <string name="navigation_button_tab">Вкладка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="navigation_button_view">View</string>
+     <string name="navigation_button_view">Вигляд</string>
      <string name="new_folder">Нова папка</string>
      <string name="new_incognito_tab">Нова вкладка (інкогніто)</string>
      <string name="new_tab">Нова вкладка</string>
@@ -269,9 +269,9 @@
      <string name="open_all_in_new_window">Відкрити все в нових вкладках</string>
      <string name="open_bookmark">Відкрити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="open_history_group_in_new_window">open all history in new window</string>
+     <string name="open_history_group_in_new_window">Відкрити усю історію у новому вікні</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="open_history_most_visited_group_in_new_window">open all most visited history</string>
+     <string name="open_history_most_visited_group_in_new_window">Відкрити історію найбільш відвідуваних</string>
      <string name="other_bookmarks">Другі закладки</string>
      <string name="page_info">Інформація про сторінку</string>
      <string name="page_info_address">Адреса:</string>
@@ -305,7 +305,7 @@
      <string name="pref_content_open_in_background_summary">Відкривати нові вкладки позаду поточної</string>
      <string name="pref_content_plugins">Дозволити плагіни</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_content_preload_title">Preload content</string>
+     <string name="pref_content_preload_title">Попереднє завантаження контенту</string>
      <string name="pref_content_search_engine">Пошукова система</string>
      <string name="pref_content_search_engine_summary">Виберіть пошукову систему</string>
      <string name="pref_content_title">Зміст сторінки</string>
@@ -313,7 +313,7 @@
      <string name="pref_data_preload_summary">Дозволити браузеру попередньо завантажувати результати пошуку в фоновому режимі</string>
      <string name="pref_data_preload_title">Завантаження результатів пошуку</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_data_preload_value_never_summary">Never Allow browser to preload high confidence search results in the background</string>
+     <string name="pref_data_preload_value_never_summary">Ніколи не дозволяйте переглядачу попереднє завантаження висококонфедеційних результатів у фоновому режимі</string>
      <string name="pref_data_title">Налаштування контенту</string>
      <string name="pref_default_text_encoding">Кодування тексту</string>
      <string name="pref_default_text_encoding_dialogtitle">Кодування тексту</string>
@@ -344,7 +344,7 @@
      <string name="pref_extras_website_settings_summary">Додаткові налаштування для окремих сайтів</string>
      <string name="pref_fling_on_border_enabled">Кинути на межі</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_fling_on_border_enabled_title_summary">Fling on border of the screen</string>
+     <string name="pref_fling_on_border_enabled_title_summary">Кидати на межі екрану</string>
      <string name="pref_fling_on_border_operation">Операція Кинути на межі</string>
      <string name="pref_font_size_category">Розмір тексту</string>
      <string name="pref_force_userscalable">Фікс. масштаб</string>
@@ -356,18 +356,18 @@
      <string name="pref_general_title">Загальні</string>
      <string name="pref_gesture_title">Жести</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_image_display_control">Image display control</string>
+     <string name="pref_image_display_control">Керування зображенням дисплею</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_images_preload_dialogtitle">Images preloading</string>
-     <string name="pref_images_preload_summary">" Allow browser to preload images when server allows"</string>
+     <string name="pref_images_preload_dialogtitle">Попереднє завантаження зображень</string>
+     <string name="pref_images_preload_summary">Дозволити браузеру попереднього завантажувати зображенння, якщо це дозволяє сервер</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_images_preload_title">Images preloading</string>
+     <string name="pref_images_preload_title">Попереднє завантаження зображень</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_images_preload_value_always_summary">Always Allow browser to preload images when server allows</string>
+     <string name="pref_images_preload_value_always_summary">Дозволити браузеру попереднього завантажувати зображенння, якщо це дозволяє сервер</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_images_preload_value_never_summary">Never Allow browser to preload images when server allows</string>
+     <string name="pref_images_preload_value_never_summary">Не дозволити браузеру попереднього завантажувати зображенння, якщо це дозволяє сервер</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_images_preload_value_wifi_only_summary">Smart Allow browser to preload images when server allows</string>
+     <string name="pref_images_preload_value_wifi_only_summary">Розумне завантаження зображеннь, якщо це дозволяє сервер</string>
      <string name="pref_inverted">Інверсія</string>
      <string name="pref_inverted_category">Режим інверсії</string>
      <string name="pref_inverted_contrast">Контраст</string>
@@ -380,10 +380,10 @@
      <string name="pref_lab_quick_controls_summary">Щоб відкрити панель інструментів, почніть перегортати сторінку справа або зліва</string>
      <string name="pref_lab_title">Лабораторія Google</string>
      <string name="pref_link_prefetch_dialogtitle">Завантаження веб-сторінок</string>
-     <string name="pref_link_prefetch_summary">"Дозволити браузеру попередньо завантажувати пов'язані веб-сторінки у фоновому режимі"</string>
+     <string name="pref_link_prefetch_summary">Дозволити браузеру попередньо завантажувати веб-сторінки у фоновому режимі</string>
      <string name="pref_link_prefetch_title">Завантаження веб-сторінок</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_link_prefetch_value_never_summary">Never Allow browser to preload linked web pages in the background</string>
+     <string name="pref_link_prefetch_value_never_summary">Не дозволити браузеру попередньо завантажувати веб-сторінки у фоновому режимі</string>
      <string name="pref_min_font_size">Мін. розмір шрифту</string>
      <string name="pref_min_font_size_value">%d pt</string>
      <string name="pref_privacy_clear_cache">Очистити кеш</string>
@@ -399,7 +399,7 @@
      <string name="pref_privacy_clear_geolocation_access_dlg">Закрити геодані?</string>
      <string name="pref_privacy_clear_geolocation_access_summary">Очистити список сайтів, що мають доступ до даних про місцезнаходження</string>
      <string name="pref_privacy_clear_history">Очистити історію</string>
-     <string name="pref_privacy_clear_history_by_group_dlg">Are you sure you want to clear history ？</string>
+     <string name="pref_privacy_clear_history_by_group_dlg">Ви впевнені, що хочете очистити історію переглядів?</string>
      <string name="pref_privacy_clear_history_dlg">Видалити історію браузера?</string>
      <string name="pref_privacy_clear_history_summary">Очистити список відвіданих в Інтернеті сторінок</string>
      <string name="pref_privacy_clear_passwords">Очистити паролі</string>
@@ -419,7 +419,7 @@
      <string name="pref_security_remember_passwords">Зберігати паролі</string>
      <string name="pref_security_remember_passwords_summary">Зберігати імена користувачів і паролі веб-сайтів</string>
      <string name="pref_security_save_form_data">Зберігати дані форм</string>
-     <string name="pref_security_save_form_data_summary">"Запам'ятовувати введені у форми дані для подальшого використання"</string>
+     <string name="pref_security_save_form_data_summary">"Запам\’ятовувати введені у форми дані для подальшого використання"</string>
      <string name="pref_security_show_security_warning">Повідомляти про небезпеку</string>
      <string name="pref_security_show_security_warning_summary">Повідомляти про проблеми з безпекою сайтів</string>
      <string name="pref_set_homepage_to">Зберегти</string>
@@ -428,7 +428,7 @@
      <string name="pref_ua_string">Визначення браузера як</string>
      <string name="pref_ua_title">Налаштування User-Agent</string>
      <string name="pref_use_instant_search">Google Живий пошук</string>
-     <string name="pref_use_instant_search_summary">"У Живому пошуку результати з'являються прямо при введенні тексту (можливе збільшення обсягу переданих даних)"</string>
+     <string name="pref_use_instant_search_summary">"У Живому пошуку результати з\’являються прямо при введенні тексту (можливе збільшення обсягу переданих даних)"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_preload_dialogtitle">Video preloading</string>
      <string name="pref_video_preload_summary">"Дозволити браузеру попередньо завантажувати відео файли, якщо це можливо"</string>
@@ -459,10 +459,10 @@
      <string name="return_to_homepage">Домашня сторінка</string>
      <string name="save">ОК</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="save_dialog_title">Save</string>
-     <string name="save_file_already_exist_alert_message">File already exists, overwrite it?</string>
+     <string name="save_dialog_title">Зберегти</string>
+     <string name="save_file_already_exist_alert_message">Файл вже існує, перезаписати його?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="save_file_already_exist_alert_title">Alert</string>
+     <string name="save_file_already_exist_alert_title">Тривога</string>
      <string name="save_to_bookmarks">Додати закладку</string>
      <string name="saving_snapshot">Зберігається...</string>
      <string name="search_button_text">Пошук</string>
@@ -501,11 +501,11 @@
      <string name="stop_loading">Стоп</string>
      <string name="stopping">Зупинка...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="storage_internal">Internal storage</string>
+     <string name="storage_internal">Внутрішня пам\'ять</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="storage_sd_card">SD card</string>
+     <string name="storage_sd_card">Карта SD</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="storage_usb">USB storage</string>
+     <string name="storage_usb">USB накопичувач</string>
      <string name="tab_bookmarks">Закладки</string>
      <string name="tab_closed">Вкладка закрита</string>
      <string name="tab_history">Історія</string>
@@ -524,7 +524,7 @@
      <string name="uploads_disabled">Додавання файлів відключено</string>
      <string name="url_copy_done">URL скопійований</string>
      <string name="url_hint">Пошук або введіть URL</string>
-     <string name="username">"Ім'я"</string>
+     <string name="username">Ім\’я</string>
      <string name="view_certificate">Переглянути сертифікат</string>
      <string name="warning">Увага</string>
      <string name="website_settings_clear_all">Видалити все</string>
@@ -535,7 +535,7 @@
      <string name="webstorage_clear_data_dialog_message">Видалити всі дані, збережені цим веб-сайтом?</string>
      <string name="webstorage_clear_data_dialog_ok_button">ОК</string>
      <string name="webstorage_clear_data_title">Видалити збережені дані</string>
-     <string name="webstorage_origin_summary_mb_stored">"Обсяг використаної пам'яті телефону (МБ)"</string>
+     <string name="webstorage_origin_summary_mb_stored">"Обсяг використаної пам\’яті телефону (МБ)"</string>
      <string name="webstorage_outofspace_notification_text">Натисніть, щоб звільнити місце</string>
-     <string name="webstorage_outofspace_notification_title">"Пам'ять браузера переповнена"</string>
+     <string name="webstorage_outofspace_notification_title">"Пам\’ять браузера переповнена"</string>
 </resources>
