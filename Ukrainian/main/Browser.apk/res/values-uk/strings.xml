@@ -41,7 +41,7 @@
      <string name="alert_tips">Цей сайт може становити загрозу безпеці, будь ласка, будьте обережні!</string>
      <string name="allow">Дозволити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_new_version">Завнтаження завершено і остання версія встановленаy</string>
+     <string name="app_new_version">Завнтаження завершено і остання версія встановлена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_update_install">Завнтаження завершено і готове для встановлення оновленої версії</string>
      <string name="application_name">Браузер</string>
