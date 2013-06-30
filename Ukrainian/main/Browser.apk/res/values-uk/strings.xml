@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="MIUI_startpage">Стартова сторінка</string>
+     <string name="MIUI_startpage">Початкова сторінка</string>
      <string name="accessibility_button_addbookmark">Додати сторінку в закладки</string>
      <string name="accessibility_button_back">Назад</string>
      <string name="accessibility_button_bookmark">Закладки</string>
