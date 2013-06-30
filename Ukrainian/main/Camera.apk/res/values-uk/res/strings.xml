@@ -8,9 +8,9 @@
     <string name="camera_label">Камера</string>
     <string name="video_camera_label">Відеокамера</string>
     <string name="wait"> Будь ласка зачекайте...</string>
-    <string name="no_storage">Вставте Sd-карту перед використанням камери</string>
+    <string name="no_storage">Вставте Sd карту перед використанням камери</string>
     <string name="not_enough_space">Не вистачає вільного місця</string>
-    <string name="preparing_sd">Підготовка Sd rарти...</string>
+    <string name="preparing_sd">Підготовка Sd карти...</string>
     <string name="access_sd_fail">"Немає доступу до карти пам\’яті"</string>
     <string name="confirm_restore_title">Скинути налаштування</string>
     <string name="confirm_restore_message">Відновити налаштування за замовчуванням?</string>
