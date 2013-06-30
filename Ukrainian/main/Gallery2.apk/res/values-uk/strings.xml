@@ -341,7 +341,7 @@
      <string name="pref_camera_scenemode_entry_flowers">Квіти</string>
      <string name="pref_camera_scenemode_entry_hdr">HDR</string>
      <string name="pref_camera_scenemode_entry_landscape">Пейзаж</string>
-     <string name="pref_camera_scenemode_entry_mood">Mood</string>
+     <string name="pref_camera_scenemode_entry_mood">Настрій</string>
      <string name="pref_camera_scenemode_entry_night">Ніч</string>
      <string name="pref_camera_scenemode_entry_nightindoor">В приміщенні</string>
      <string name="pref_camera_scenemode_entry_nightportrait">Нічний портрет</string>
@@ -373,7 +373,7 @@
      <string name="pref_camera_whitebalance_entry_incandescent">Лампа розжар.</string>
      <string name="pref_camera_whitebalance_title">Баланс білого</string>
      <string name="pref_exposure_title">Експозиція</string>
-     <string name="pref_nohands_persistent_title">Persistent handsfree</string>
+     <string name="pref_nohands_persistent_title">Постійно вільні руки</string>
      <string name="pref_video_effect_title">Ефекти</string>
      <string name="pref_video_quality_entry_high">Висока</string>
      <string name="pref_video_quality_entry_low">Низька</string>
