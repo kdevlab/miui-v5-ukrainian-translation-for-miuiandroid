@@ -179,7 +179,7 @@
      <string name="file_picker_sdcard_not_found">SD карта не знайдена, будь ласка, перевірте, чи не підключено пристрій до ПК</string>
      <string name="filename_empty_alert_message">Назва файлу не може бути пустою</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="filename_illegal_alert_message">Ім'я файлу має незаконний характер, автоматично вилалиться</string>
+     <string name="filename_illegal_alert_message">Ім\'я файлу має незаконний характер, автоматично вилалиться</string>
      <string name="find_on_page">Знайти на сторінці</string>
      <string name="folder_name">"Назва папки"</string>
      <string name="forward">Вперед</string>
