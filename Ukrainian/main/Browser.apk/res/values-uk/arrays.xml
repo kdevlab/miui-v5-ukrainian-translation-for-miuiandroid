@@ -59,9 +59,9 @@
         <item>Інша</item>
      </string-array>
      <string-array name="pref_images_preload_choices">
-        <item>Never</item>
-        <item>Smart</item>
-        <item>Always</item>
+        <item>Ніколи</item>
+        <item>Розумний</item>
+        <item>Завжди</item>
      </string-array>
      <string-array name="pref_link_prefetch_choices">
         <item>Ніколи</item>
@@ -76,9 +76,9 @@
         <item>Величезний</item>
      </string-array>
      <string-array name="pref_video_preload_choices">
-        <item>Never</item>
-        <item>Only on WiFi</item>
-        <item>Always</item>
+        <item>Ніколи</item>
+        <item>Тільки по WiFi</item>
+        <item>Завжди</item>
      </string-array>
      <string-array name="pref_volume_key_choices">
         <item>Прокрутка сторінки</item>
