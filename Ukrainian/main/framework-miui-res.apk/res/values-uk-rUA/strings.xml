@@ -407,9 +407,9 @@
      <string name="return_to_me_message">Будь ласка, поверніть, якщо я загубив</string>
      <string name="reverse_all">Очистити виділене</string>
      <string name="safetylegal_activity_unreachable">Ваш телефон не підключений до мережі. Для перегляду цієї інформації в реальному часі, перейдіть до %s з будь-якого комп\’ютера.</string>
-     <string name="screen_button_notification_text">Натисніть 'Home'+'Power' для увімкнення"</string>
+     <string name="screen_button_notification_text">Натисніть \'Home\'+\'Power\' для увімкнення"</string>
      <string name="screen_button_notification_title">Кнопки на дисплеї вимкнені</string>
-     <string name="screen_on_proximity_sensor_hint">Примусовий вихід: натисніть кнопки 'НАЗАД'+'Гучність+'. Режим запобігання помилок може бути вимкнений в 'Налаштування - Екран'</string>
+     <string name="screen_on_proximity_sensor_hint">Примусовий вихід: натисніть кнопки \'НАЗАД\'+\'Гучність+\'. Режим запобігання помилок може бути вимкнений в \'Налаштування - Екран\'</string>
      <string name="screen_on_proximity_sensor_summary">Не закривайте верхню частину екрану"</string>
      <string name="screen_on_proximity_sensor_title">Режим попередження помилок</string>
      <string name="sd_not_available">SD карта не доступна, вставте або підключіть її</string>
