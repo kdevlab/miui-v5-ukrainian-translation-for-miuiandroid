@@ -5,7 +5,7 @@
      <string name="activate_fail_notification_title">Будь ласка, активуйте повторно послугу Xiaomi синхронізації</string>
      <string name="activating">Активація...</string>
      <string name="alwaysUsePrompt">Викор. за замовченням</string>
-     <string name="android_lockscreen_glogin_instructions">Щоб розблокувати, увійдіть до свого акаунту</string>
+     <string name="android_lockscreen_glogin_instructions">Щоб розблокувати, увійдіть до свого облік. запису</string>
      <string name="arbor_day" />
      <string name="autumn_begins" />
      <string name="autumn_equinox" />
@@ -20,10 +20,10 @@
      <string name="christmas_day">Різдво</string>
      <string name="clear_and_bright" />
      <string name="cold_dews" />
-     <string name="contact_carrier_message">"Будь ласка, зв'яжіться з оператором по будь-якому питанню"</string>
+     <string name="contact_carrier_message">Будь ласка, зв\’яжіться з оператором по будь-якому питанню</string>
      <string name="country_name_ac">Сходження</string>
      <string name="country_name_ad">Андора</string>
-     <string name="country_name_ae">"Об'єднані Арабські Емірати"</string>
+     <string name="country_name_ae">Об\’єднані Арабські Емірати</string>
      <string name="country_name_af">Афганістан</string>
      <string name="country_name_ag">Антигуа і Барбуда</string>
      <string name="country_name_ai">Ангілья</string>
@@ -153,7 +153,7 @@
      <string name="country_name_mh">Маршалові Острови</string>
      <string name="country_name_mk">Республіка Македонія</string>
      <string name="country_name_ml">Малі</string>
-     <string name="country_name_mm">"М'янма"</string>
+     <string name="country_name_mm">М\’янма</string>
      <string name="country_name_mn">Монголія</string>
      <string name="country_name_mo">Макао, Китай</string>
      <string name="country_name_mp">Північні Маріанські острови</string>
@@ -186,7 +186,7 @@
      <string name="country_name_ph">Філіпіни</string>
      <string name="country_name_pk">Пакистан</string>
      <string name="country_name_pl">Польща</string>
-     <string name="country_name_pm">"Сен-П'єр і Мікелон"</string>
+     <string name="country_name_pm">Сен-П\’єр і Мікелон</string>
      <string name="country_name_pr">Пуерто-Ріко</string>
      <string name="country_name_ps">Палестина</string>
      <string name="country_name_pt">Португалія</string>
@@ -243,7 +243,7 @@
      <string name="country_name_ve">Венесуела</string>
      <string name="country_name_vg">Британські Віргінські острови</string>
      <string name="country_name_vi">Віргінські острови</string>
-     <string name="country_name_vn">"В'єтнам"</string>
+     <string name="country_name_vn">В\’єтнам</string>
      <string name="country_name_vu">Вануату</string>
      <string name="country_name_wf">Уолліс і Футуна</string>
      <string name="country_name_ws">Західні Самоа</string>
@@ -252,14 +252,14 @@
      <string name="country_name_zm">Замбія</string>
      <string name="country_name_zw">Зімбабве</string>
      <string name="day_of_month">" %d"</string>
-     <string name="days">%d days</string>
+     <string name="days">%d днів</string>
      <string name="delete">Видалити</string>
      <string name="deprecated_alarm_message_12_hour_formate" />
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_xiaomi">Xiaomi Phone</string>
      <string name="double_seventh_day" />
      <string name="emergency_call_string">Екстрені</string>
-     <string name="error_forbidden">Помилки в акаунті. Синхронізація відключена</string>
+     <string name="error_forbidden">Помилки в облік. записі. Синхронізація відключена</string>
      <string name="error_not_acceptable">Помилки на сервері. Синхронізація відключена</string>
      <string name="error_title">Помилка синхронізації для %s</string>
      <string name="error_unauthorized">Занадто багато спроб авторизації. Синхронізація відключена</string>
@@ -272,7 +272,7 @@
      <string name="experimental_validate_username">Логін Xiaomi</string>
      <string name="experimental_validate_warning">Кожне Ваше дослідження допомагає стати MIUI краще!</string>
      <string name="find_device_check_sim">Перевірка SIM…</string>
-     <string name="find_device_sim_change_instructions">"Ваш пристрій заблоковано. Вставте SIM-карту або введіть ваш пароль для акаунту Xiaomi"</string>
+     <string name="find_device_sim_change_instructions">"Ваш пристрій заблоковано. Вставте SIM-карту або введіть ваш пароль для облік. запису Xiaomi"</string>
      <string name="find_device_sim_change_instructions_no_network">"Ваш пристрій заблоковано, вставте оригінальну SIM-карту"</string>
      <string name="find_device_turn_off_flight_mode">Увімкнути режим \"В літаку\"</string>
      <string name="find_device_turn_off_flight_mode_instructions">"Ваш пристрій заблоковано, вимкніть режим \"В літаку\""</string>
@@ -293,7 +293,7 @@
      <string name="great_heat" />
      <string name="group_name_contacts">Контакти</string>
      <string name="group_name_coworkers">Колеги</string>
-     <string name="group_name_family">"Сім'я"</string>
+     <string name="group_name_family">"Сім\’я"</string>
      <string name="group_name_friends">Друзі</string>
      <string name="heavy_snow" />
      <string name="hoar_frost_falls" />
@@ -350,7 +350,7 @@
      <string name="lunar_yi">一</string>
      <string name="lunar_yue">月</string>
      <string name="lunar_zheng">正</string>
-     <string name="memory_clear_nothing_result">"Немає пам'яті для очищення"</string>
+     <string name="memory_clear_nothing_result">Немає пам\’яті для очищення</string>
      <string name="memory_clear_result">"Звільнено: %1$s | Доступно: %2$s"</string>
      <string name="minutes">%d хвилин</string>
      <string name="miui_copyright_title">Авторське право</string>
@@ -406,16 +406,16 @@
      <string name="reboot_progress">Перезавантаження...</string>
      <string name="return_to_me_message">Будь ласка, поверніть, якщо я загубив</string>
      <string name="reverse_all">Очистити виділене</string>
-     <string name="safetylegal_activity_unreachable">"Ваш телефон не підключений до мережі. Для перегляду цієї інформації в реальному часі, перейдіть до %s з будь-якого комп'ютера."</string>
-     <string name="screen_button_notification_text">"Натисніть 'Home'+'Power' для увімкнення"</string>
+     <string name="safetylegal_activity_unreachable">Ваш телефон не підключений до мережі. Для перегляду цієї інформації в реальному часі, перейдіть до %s з будь-якого комп\’ютера.</string>
+     <string name="screen_button_notification_text">Натисніть 'Home'+'Power' для увімкнення"</string>
      <string name="screen_button_notification_title">Кнопки на дисплеї вимкнені</string>
-     <string name="screen_on_proximity_sensor_hint">"Примусовий вихід: натисніть кнопки 'НАЗАД'+'Гучність+'. Режим запобігання помилок може бути вимкнений в 'Налаштування - Екран'"</string>
-     <string name="screen_on_proximity_sensor_summary">"Не закривайте верхню частину екрану"</string>
+     <string name="screen_on_proximity_sensor_hint">Примусовий вихід: натисніть кнопки 'НАЗАД'+'Гучність+'. Режим запобігання помилок може бути вимкнений в 'Налаштування - Екран'</string>
+     <string name="screen_on_proximity_sensor_summary">Не закривайте верхню частину екрану"</string>
      <string name="screen_on_proximity_sensor_title">Режим попередження помилок</string>
-     <string name="sd_not_available">SD-карта не доступна, вставте або підключіть її</string>
+     <string name="sd_not_available">SD карта не доступна, вставте або підключіть її</string>
      <string name="sd_not_available_low_internal_storage">SD-карта не доступна і відсутній внутрішній пристрій збереження</string>
-     <string name="sd_not_available_saved_to_internal_storage">"Файл збережено у внутрішню пам'ять"</string>
-     <string name="sd_not_available_use_internal_storage">"SD-карта не доступна, буде використана внутрішня пам'ять"</string>
+     <string name="sd_not_available_saved_to_internal_storage">"Файл збережено у внутрішню пам\’ять"</string>
+     <string name="sd_not_available_use_internal_storage">"SD-карта не доступна, буде використана внутрішня пам\’ять"</string>
      <string name="select">Вибрати</string>
      <string name="select_all">Вибрати все</string>
      <string name="send">Надіслати</string>
