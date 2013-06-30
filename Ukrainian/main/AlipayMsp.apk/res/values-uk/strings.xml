@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version=\’1.0\’ encoding=\’UTF-8\’?>
 <resources>
   <string name="No">Ні</string>
   <string name="StrConfirmPayTitle">Підказка</string>
@@ -15,7 +15,7 @@
   <string name="cert_manager">Менеджер сертифікатів</string>
   <string name="cert_not_exist">Сертифікат не знайдено</string>
   <string name="cert_ready">Ви згідні встановити цифровий сертифікат…</string>
-  <string name="cert_storage_size">Мало пам'яті для зберігання, видаліть деякі файли, щоб звільнити місце і повторіть установку сертифікату</string>
+  <string name="cert_storage_size">Мало пам\’яті для зберігання, видаліть деякі файли, щоб звільнити місце і повторіть установку сертифікату</string>
   <string name="cert_tips">Вам необхідно встановити сертифікат на пристрій для забезпечення захисту</string>
   <string name="cert_title">Встановлення цифрового сертифікату</string>
   <string name="cert_verify_fail_tips">Помилка провірки сертифікату</string>
@@ -49,6 +49,6 @@
   <string name="update_downloading">Завантаження нової версії…</string>
   <string name="update_hint">Оновлення, повторіть пізніше</string>
   <string name="welcome_step_1">Увімкнення послуги контекстної оплати…</string>
-  <string name="welcome_step_2">Полягає в створенні захищеного мережного з'єднання…</string>
+  <string name="welcome_step_2">Полягає в створенні захищеного мережного з\’єднання…</string>
   <string name="welcome_step_3">Дані передаються, будь ласка, зачекайте…</string>
 </resources>
