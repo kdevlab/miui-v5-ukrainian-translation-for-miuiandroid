@@ -37,7 +37,7 @@
         <item>Налаштування будильника</item>
         <item>Нотатки</item>
         <item>Чорний список</item>
-        <item>Акаунт</item>
+        <item>Обліковий запис</item>
      </string-array>
      <string-array name="system_package_label">
         <item>Браузер</item>
