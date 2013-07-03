@@ -198,7 +198,7 @@
      <string name="multimedia_notification">Повідомлення про MMS</string>
      <string name="mx_activate_error_malformed_info">Ваші персональні дані пошкоджені, потрібна повторна активація хмарових повідомлень</string>
      <string name="mx_activate_error_server">Сервер відхилив запитий активації</string>
-     <string name="mx_activate_error_sim_change"> SIM-rарта помінялась, потрібна повторна активація хмарових повідомлень</string>
+     <string name="mx_activate_error_sim_change"> SIM-карта помінялась, потрібна повторна активація хмарових повідомлень</string>
      <string name="mx_activate_error_title">Помилка активації хмарових повідомлень</string>
      <string name="mx_activate_hint_malformed_info">Ваші персональні дані пошкоджені. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
      <string name="mx_activate_hint_server">Сервер відхилив запит активації. Потрібно відправити SMS для повторної активації хмарових повідомлень. Активувати?</string>
@@ -215,11 +215,12 @@
 	%s: 0 must: 0
 	%d: 1 must: 2 -->
      <!-- Original string: Since enabled, you have sent %1$d cloud text messages and %2$d cloud multimedia messages -->
-     <string name="mx_count_dspt">Після увімкнення MIUI відправили %d повідомлень вам</string>
+     <string name="mx_count_dspt">"Хмарних повідомлень надіслано: 
+SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_current_status">Статус: у мережі</string>
      <string name="mx_dspt">Відправляти повідомлення через інтернет</string>
      <string name="mx_enable">Включити хмарові повідомлення</string>
-     <string name="mx_enable_int_popup_msg">Cloud Message enables you to send messages between MIUI users. To activate, an international SMS will be sent. Carrier messaging rates may apply, activate now? If not, you may enable it in Settings later</string>
+     <string name="mx_enable_int_popup_msg">Хмара дозволяє обмінюватися повідомленнями між користувачами MIUI. Для активації буде надіслано міжнародне SMS. Вартість повідомлення залежить від оператора мережі, активувати зараз? Ви зможете активувати пізніше в Налаштуваннях</string>
      <string name="mx_enable_popup_msg">Хмарові повідомлення дозволяти вам обмінюватись повідомленнями з іншими користувачами MIUI. Потрібно відправити SMS для активації. Активувати зараз?</string>
      <string name="mx_int_warning_notice">Для активації хмарних повідомлень буде надіслано міжнародне SMS. Вартість повідомлення залежить від оператора мережі</string>
      <string name="mx_msg">Хмарне повідомлення</string>
