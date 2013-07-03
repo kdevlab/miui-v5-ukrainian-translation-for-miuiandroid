@@ -102,7 +102,7 @@
      <string name="callrecordview_menu_delete_confirm">Журнал дзвінків буде очищений</string>
      <string name="callrecordview_menu_delete_missed">Очистити пропущені виклики</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callrecordview_menu_delete_new">Очистити журнали викликів нових контактів/string>
+     <string name="callrecordview_menu_delete_new">Очистити журнали викликів нових контактів</string>
      <string name="callrecordview_menu_delete_one">Видалити з журналу викликів</string>
      <string name="callrecordview_menu_delete_stranger">Відкрити пропущені дзвінки</string>
      <string name="callrecordview_menu_paste">Вставити</string>
