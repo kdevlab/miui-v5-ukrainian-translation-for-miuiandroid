@@ -3,7 +3,7 @@
 <resources>
      <string name="continues">Продовжити</string>
      <string name="data_usage_summary">Якщо Ви ще не налаштували ліміт трафіку, рекомендується відключити використання даних. В іншому випадку, Ваш оператор може стягувати додаткові грошові витрати.</string>
-     <string name="default_gprs_sim_name">Please input \"%s\" data plan limits</string>
+     <string name="default_gprs_sim_name">Будь ласка, вкажіть \"%s\" обмеження для Вашого тарифного плану</string>
      <string name="input_method">Метод введення</string>
      <string name="input_method_category">Виберіть метод введення за замовчуванням</string>
      <string name="next">Далі</string>
@@ -26,7 +26,7 @@
      <string name="setup_complete_summary">Налаштування завершено! Насолоджуйтесь MIUI!</string>
      <string name="shutdown">Вимкнути</string>
      <string name="sim_card_detection_dialog_message">Пошук SIM-карти. Будь ласка, зачекайте...</string>
-     <string name="sim_card_detection_info">Ви не можете налаштувати акаунт Xiaomi без SIM-карти. Вам необхідна SIM-карта для синхронізації контактів, пошуку телефону і т.д.</string>
+     <string name="sim_card_detection_info">Ви не можете налаштувати облік. запис Xiaomi без SIM-карти. Вам необхідна SIM-карта для синхронізації контактів, пошуку телефону і т.д.</string>
      <string name="sim_card_detection_label">Пошук SIM-карти</string>
      <string name="sim_card_detection_status_absent">SIM-карта не знайдено. Будь ласка, вставте SIM-карту і перезавантажте телефон.</string>
      <string name="traffic_protection_label">Регулювання трафіку</string>
