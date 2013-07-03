@@ -8,7 +8,7 @@
         <item>Супер продуктивність</item>
     </string-array>
     <string-array name="lowmem_entries">
-        <item> За замовчуванням</item>
+        <item>За замовчуванням</item>
         <item>Агресивний</item>
         <item>Збалансований</item>
         <item>Мультизадачный</item>
