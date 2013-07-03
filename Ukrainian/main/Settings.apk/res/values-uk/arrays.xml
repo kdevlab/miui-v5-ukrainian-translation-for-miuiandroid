@@ -69,7 +69,7 @@
         <item>Вібрація</item>
      </string-array>
      <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Жоден</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
@@ -114,14 +114,14 @@
      </string-array>
      <!-- The size of the array does not match! Now: 9 must: 8 -->
      <string-array name="led_color_values">
-        <item>green</item>
-        <item>red</item>
-        <item>blue</item>
-        <item>yellow</item>
-        <item>cyan</item>
-        <item>\#800080</item>
-        <item>\#ffc0cb</item>
-        <item>\#ffa500</item>
+        <item>зелений</item>
+        <item>червоний</item>
+        <item>синій</item>
+        <item>жовтий</item>
+        <item>блакитний</item>
+        <item>фіолетовий</item>
+        <item>рожевий</item>
+        <item>помаранчевий</item>
      </string-array>
      <string-array name="led_freq_entries">
         <item>2 секунди</item>
@@ -150,24 +150,24 @@
         <item>Довгий</item>
      </string-array>
      <string-array name="mi1_led_color_entries">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
-        <item>Pink</item>
-        <item>Violet</item>
-        <item>Purple</item>
+        <item>Синій</item>
+        <item>Червоний</item>
+        <item>Зелений</item>
+        <item>Рожевий</item>
+        <item>Фіолетовий</item>
+        <item>Пурпурний</item>
      </string-array>
      <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
+        <item>синій</item>
+        <item>червоний</item>
+        <item>зелений</item>
+        <item>рожевий</item>
+        <item>фіолетовий</item>
+        <item>пурпурний</item>
      </string-array>
      <string-array name="msd_pc_system">
-        <item>Windows XP or older versions</item>
-        <item>Windows Vista or newer versions</item>
+        <item>Windows XP або старіша версія</item>
+        <item>Windows Vista або новіша версія</item>
         <item>Mac OS</item>
         <item>Linux</item>
      </string-array>
@@ -200,7 +200,7 @@
         <item>720x480 mdpi</item>
         <item>1280x720 tvdpi</item>
         <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi та 1920x1080 xhdpi</item>
      </string-array>
      <string-array name="perm_hips_action">
         <item>Дозволити</item>
@@ -236,13 +236,13 @@
      </string-array>
      <!-- The size of the array does not match! Now: 8 must: 7 -->
      <string-array name="screen_timeout_entries">
-        <item>15 сік</item>
-        <item>30 сік</item>
-        <item>1 мін</item>
-        <item>2 мін</item>
-        <item>5 мін</item>
-        <item>10 мін</item>
-        <item>30 мін</item>
+        <item>15 сек</item>
+        <item>30 сек</item>
+        <item>1 хв</item>
+        <item>2 хв</item>
+        <item>5 хв</item>
+        <item>10 хв</item>
+        <item>30 хв</item>
      </string-array>
      <string-array name="security_settings_premium_sms_values">
         <item>Запитувати</item>
@@ -316,11 +316,11 @@
      </string-array>
      <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/Ipsec VPN with pre-shared keys</item>
-        <item>L2TP/Ipsec VPN with certificates</item>
-        <item>Ipsec VPN with pre-shared keys and Xauth authentication</item>
-        <item>Ipsec VPN with certificates and Xauth authentication</item>
-        <item>Ipsec VPN with certificates and hybrid authentication</item>
+        <item>L2TP/Ipsec VPN з погодженими ключами</item>
+        <item>L2TP/Ipsec VPN з сертифікатами</item>
+        <item>Ipsec VPN з погодженими ключами and Xauth аутетифікацією</item>
+        <item>Ipsec VPN з погодженими ключами Xauth аутетифікацією</item>
+        <item>Ipsec VPN з погодженими ключами та гібридною аутетифікацією</item>
      </string-array>
      <string-array name="wfd_status">
         <item>Пристрій підключений, створення сесії...</item>
@@ -351,16 +351,16 @@
         <item>Статичний</item>
      </string-array>
      <string-array name="wifi_p2p_status">
-        <item>Підключене</item>
-        <item>Запрошене</item>
+        <item>Підключено</item>
+        <item>Запрошено</item>
         <item>Збій</item>
         <item>Доступно</item>
-        <item> Поза діапазоном</item>
+        <item>Поза діапазоном</item>
      </string-array>
      <string-array name="wifi_p2p_wps_setup">
-        <item> Push-Кнопка</item>
-        <item> Pin-Код з виявленого обладнання</item>
-        <item> Pin-Код цього обладнання</item>
+        <item>Push-Кнопка</item>
+        <item>Pin-Код з виявленого обладнання</item>
+        <item>Pin-Код цього обладнання</item>
      </string-array>
      <string-array name="wifi_phase2_entries">
         <item>Немає</item>
