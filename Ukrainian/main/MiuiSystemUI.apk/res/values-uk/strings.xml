@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="accessibility_airplane_mode">Режим польоту</string>
+     <string name="accessibility_airplane_mode">Режим "У літаку"</string>
      <string name="accessibility_back">Назад</string>
      <string name="accessibility_battery_level">Заряд батареї - %d відсотків</string>
      <string name="accessibility_bluetooth_connected">"Bluetooth-з'єднання встановлено"</string>
@@ -71,13 +71,13 @@
      <string name="compat_mode_help_header">Масштаб і сумісність</string>
      <string name="compat_mode_off">Розтягнути на весь екран</string>
      <string name="compat_mode_on">Підігнати за розмірами екрану</string>
-     <string name="data_usage_disabled_dialog">"Досягнуто ліміт трафіку.
+     <string name="data_usage_disabled_dialog">"Досягнуто межу трафіку.
 
 При відновленні підключення оператор може стягувати плату за передачу даних "</string>
      <string name="data_usage_disabled_dialog_3g_title">Передача даних по каналах 2G і 3G відключена</string>
      <string name="data_usage_disabled_dialog_4g_title">Передача даних по каналу 4G відключена</string>
      <string name="data_usage_disabled_dialog_enable">Відновити підключення</string>
-     <string name="data_usage_disabled_dialog_mobile_title">Моб. Інтернет відключений</string>
+     <string name="data_usage_disabled_dialog_mobile_title">Моб. інтернет відключений</string>
      <string name="data_usage_disabled_dialog_title">Передача даних відключена</string>
      <string name="description_direction_left">Зсуньте вліво для %s</string>
      <string name="description_direction_up">Зсуньте вгору для %s</string>
@@ -192,7 +192,7 @@
      <string name="share">Поділитись</string>
      <string name="status_bar_date_format">"EEEE
 d MMMM yyyy"</string>
-     <string name="status_bar_input_method_settings_configure_input_methods">Налаштування способів введення</string>
+     <string name="status_bar_input_method_settings_configure_input_methods">Налаштування методів введення</string>
      <!-- The count of MNPS does not match! Now: 2 must: 3
 	%s: 2 must: 3
 	%d: 0 must: 0 -->
@@ -210,11 +210,11 @@ d MMMM yyyy"</string>
      <string name="status_bar_recent_guide_bottom">Потягніть вниз для блокування</string>
      <string name="status_bar_recent_guide_top">Потягніть вверх щоб закрити</string>
      <string name="status_bar_recent_inspect_item_title">Про програму</string>
-     <string name="status_bar_recent_memory_info">Доступно %1$s із %2$s</string>
+     <string name="status_bar_recent_memory_info">Доступно %1$s з %2$s</string>
      <string name="status_bar_recent_remove_item_title">Видалення зі списку</string>
-     <string name="status_bar_recording_back">Нажмите для возвращения в Диктофон</string>
-     <string name="status_bar_recording_pause">Пауза. Нажмите для перехода в Диктофон</string>
-     <string name="status_bar_settings_airplane">Режим польоту</string>
+     <string name="status_bar_recording_back">Натисніть для повернення в Диктофон</string>
+     <string name="status_bar_recording_pause">Пауза. Натисніть для переходу в Диктофон</string>
+     <string name="status_bar_settings_airplane">Режим "У літаку"</string>
      <string name="status_bar_settings_auto_brightness_label">Автоматично</string>
      <string name="status_bar_settings_auto_rotation">Автоповорот екрана</string>
      <string name="status_bar_settings_notifications">Повідомлення</string>
@@ -231,7 +231,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_toggle_data">Інтернет</string>
      <string name="status_bar_toggle_divider">Ще</string>
      <string name="status_bar_toggle_drive_mode">За кермом</string>
-     <string name="status_bar_toggle_flight_mode">В літаку</string>
+     <string name="status_bar_toggle_flight_mode">У літаку</string>
      <string name="status_bar_toggle_lock">Блокування</string>
      <string name="status_bar_toggle_mute">Без звуку</string>
      <string name="status_bar_toggle_network_type">Тип мережі</string>
