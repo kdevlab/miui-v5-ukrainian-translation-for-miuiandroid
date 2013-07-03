@@ -2,7 +2,7 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="account_abnormal_state">Невірна інформація облікового запису. Спробуйте увійти знову або поторіть спробу пізніше!</string>
-     <string name="account_container_title">Із акаунту</string>
+     <string name="account_container_title">Із облік. запису</string>
      <string name="account_default">Телефон</string>
      <string name="account_phone">Тільки телефон, без синхронізації</string>
      <string name="account_sim">SIM-карта</string>
@@ -14,19 +14,19 @@
      <string name="activity_title_settings">Налаштування</string>
      <string name="addPeopleToGroup">Щоб добавити контакт у групу, перейдіть в режим редагування групи</string>
      <string name="add_2sec_pause">Додати 2-сек. паузу</string>
-     <string name="add_account">Додати акаунт</string>
+     <string name="add_account">Додати облік. запис</string>
      <string name="add_blacklist">Додати в чорний список</string>
      <string name="add_connection_button">Додати соцмережу</string>
      <string name="add_contact_dlg_message_fmt">Додати в контакти %s?</string>
      <string name="add_field">Додати поле</string>
-     <string name="add_new_account">Додати акаунт</string>
+     <string name="add_new_account">Додати облік. запис</string>
      <string name="add_new_entry_for_section">Додати</string>
      <string name="add_organization">Додати організацію</string>
      <string name="add_to_my_contacts">Додати в групу \"Мої контакти\"</string>
      <string name="add_wait">Додати очікування</string>
-     <string name="add_xiaomi_account_dialog_btn">В акаунт Xiaomi</string>
-     <string name="add_xiaomi_account_dialog_msg">"Рекомендуємо зберігати контакти в акаунті Xiaomi. Акаунт Xiaomi дозволяє проводити синхронізацію і резервне копіювання контактної інформації і управління контактами на Вашому комп'ютері."</string>
-     <string name="add_xiaomi_account_dialog_title">Виберіть акаунт</string>
+     <string name="add_xiaomi_account_dialog_btn">В облік. запис Xiaomi</string>
+     <string name="add_xiaomi_account_dialog_msg">"Рекомендуємо зберігати контакти в облік. записі Xiaomi. Облік. запис Xiaomi дозволяє проводити синхронізацію і резервне копіювання контактної інформації і управління контактами на Вашому комп'ютері."</string>
+     <string name="add_xiaomi_account_dialog_title">Виберіть облік. запис</string>
      <string name="aggregation_suggestion_edit_dialog_message">Переключитися на редагування вибраного контакту? Введена інформація буде скопійована.</string>
      <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
      <string name="aggregation_suggestion_join_dialog_message">"Об'єднати поточний контакт з обраним контактом?"</string>
@@ -102,7 +102,7 @@
      <string name="callrecordview_menu_delete_confirm">Журнал дзвінків буде очищений</string>
      <string name="callrecordview_menu_delete_missed">Очистити пропущені виклики</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callrecordview_menu_delete_new">Clear call logs of new contacts</string>
+     <string name="callrecordview_menu_delete_new">Очистити журнали викликів нових контактів/string>
      <string name="callrecordview_menu_delete_one">Видалити з журналу викликів</string>
      <string name="callrecordview_menu_delete_stranger">Відкрити пропущені дзвінки</string>
      <string name="callrecordview_menu_paste">Вставити</string>
@@ -113,7 +113,7 @@
      <string name="callrecordview_menu_show_called">Тільки вихідні</string>
      <string name="callrecordview_menu_show_missed">Тільки пропущені</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="callrecordview_menu_show_new">New Contacts</string>
+     <string name="callrecordview_menu_show_new">Нові контакти</string>
      <string name="callrecordview_menu_show_stranger">Тільки незнайомі</string>
      <string name="callrecordview_menu_show_title">Налаштування відображення</string>
      <string name="cancel_confirmation_dialog_message">Скасувати зміни?</string>
@@ -165,9 +165,9 @@
      <string name="contact_edit_title_edit">Редагування</string>
      <string name="contact_edit_title_insert">Створити контакт %s</string>
      <string name="contact_edit_title_readonly">Тільки на читання контакту</string>
-     <string name="contact_editor_prompt_multiple_accounts">Виберіть акаунт, в який слід додати новий контакт.</string>
-     <string name="contact_editor_prompt_one_account">Контакт буде додано до акаунту %1$s.</string>
-     <string name="contact_editor_prompt_zero_accounts">Резервна копія нового контакту не буде збережена. Додати акаунт для збереження контактів в Інтернеті?</string>
+     <string name="contact_editor_prompt_multiple_accounts">Виберіть облік. запис, в який слід додати новий контакт.</string>
+     <string name="contact_editor_prompt_one_account">Контакт буде додано до облік. запису %1$s.</string>
+     <string name="contact_editor_prompt_zero_accounts">Резервна копія нового контакту не буде збережена. Додати облік. запис для збереження контактів в Інтернеті?</string>
      <string name="contact_list_loading">Завантаження…</string>
      <string name="contact_pick_photo">Фото</string>
      <string name="contact_read_only">Тут доступно тільки для читання</string>
@@ -179,7 +179,7 @@
      <string name="contactsGroupsLabel">Групи</string>
      <string name="contactsJoinedMessage">"Контакти об'єднані"</string>
      <string name="contactsList">Контакти</string>
-     <string name="contacts_unavailable_add_account">Увійдіть в акаунт</string>
+     <string name="contacts_unavailable_add_account">Увійдіть в облік. запис</string>
      <string name="contacts_unavailable_create_contact">Створити новий контакт</string>
      <string name="contacts_unavailable_import_contacts">Імпорт контактів з файлу</string>
      <string name="copy_text">Копіювати в буфер обміну</string>
@@ -248,12 +248,12 @@
      <string name="deselect_all">Зняти виділення</string>
      <string name="device_bluetooth_title">Підготовчі роботи</string>
      <string name="device_brand_title">Виберіть марку мобільного телефону</string>
-     <string name="device_import_account_dialog_title">Виберіть акаунт для імпорту</string>
+     <string name="device_import_account_dialog_title">Виберіть облік. запис для імпорту</string>
      <string name="device_import_account_dialog_title_suffix">"
 (найдено %1$s контактов)"</string>
      <string name="device_import_done_toast">%1$d контактів імпортовано</string>
      <string name="device_import_failed_message">Помилка імпорту!</string>
-     <string name="device_import_local_account">Локальний акаунт</string>
+     <string name="device_import_local_account">Локальний облік. запис</string>
      <string name="device_import_message">Імпорт</string>
      <string name="device_import_progress_begin_message">Підготовка до імпорту…</string>
      <string name="device_import_progress_end_message">Імпорт завершений!</string>
@@ -281,8 +281,8 @@
      <string name="dialer_useDtmfDialpad">Використовувати тональну клавіатуру</string>
      <string name="dialog_import">Імпорт контактів</string>
      <string name="dialog_import_export">Імпорт/експорт контактів</string>
-     <string name="dialog_new_contact_account">Створити контакт в акаунті</string>
-     <string name="dialog_new_group_account">Створення групи в акаунті</string>
+     <string name="dialog_new_contact_account">Створити контакт в облік. записі</string>
+     <string name="dialog_new_group_account">Створення групи в облік. записі</string>
      <string name="dialog_phone_call_prohibited_message">Виклик не здійснено</string>
      <string name="dialog_sync_add">Додати групу синхронізації</string>
      <string name="dialog_voicemail_airplane_mode_message">Для виклику голосової пошти, спочатку виключіть режим "у літаку"</string>
@@ -361,7 +361,7 @@
      <string name="frequentList">Часто викликаються</string>
      <string name="full_name">"Ім'я"</string>
      <string name="generic_no_account_prompt">Тримайте свої контакти в безпеці, навіть якщо Ви загубили свій телефон: синхронізація с онлайн-сервісом</string>
-     <string name="generic_no_account_prompt_title">Додати акаунт</string>
+     <string name="generic_no_account_prompt_title">Додати облік. запис</string>
      <string name="ghostData_company">Організація</string>
      <string name="ghostData_title">Назва</string>
      <string name="groupSavedErrorToast">Не вдалося зберегти зміни</string>
@@ -405,8 +405,8 @@
      <string name="import_to_xiaomi_account_confirm">Імпорт</string>
      <string name="import_to_xiaomi_account_progress_finish">Імпорт завершено</string>
      <string name="import_to_xiaomi_account_progress_message">Імпортування...</string>
-     <string name="import_to_xiaomi_account_progress_title">Імпортувати контакти в акаунт Xiaomi</string>
-     <string name="import_to_xiaomi_account_title">Ви впевнені, що хочете імпортувати контакти в акаунт Xiaomi?</string>
+     <string name="import_to_xiaomi_account_progress_title">Імпортувати контакти в облік. запис Xiaomi</string>
+     <string name="import_to_xiaomi_account_title">Ви впевнені, що хочете імпортувати контакти в облік. запис Xiaomi?</string>
      <string name="import_vcard_description">Імпортувати з SD-карти</string>
      <string name="import_weibo_dialog_title">Імпорт контактів sina weibo</string>
      <string name="import_weibo_fetch_followers">Отримання користувачів weibo…</string>
@@ -459,8 +459,8 @@
      <string name="map_home">Переглянути домашню адресу</string>
      <string name="map_other">Перегляд адреси</string>
      <string name="map_work">Дивитись робочу адресу</string>
-     <string name="menu_accounts">Акаунти</string>
-     <string name="menu_addStar">Додати в обране</string>
+     <string name="menu_accounts">Облік. записи</string>
+     <string name="menu_addStar">В обране</string>
      <string name="menu_bar_group_add">Додати</string>
      <string name="menu_bar_group_delete">Видалити групу</string>
      <string name="menu_bar_group_rename">Перейменувати</string>
@@ -511,8 +511,8 @@
      <string name="messageShortcutActivityTitle">Вибрати номер для відправки повідомлення</string>
      <string name="missing_name">(без імені)</string>
      <string name="move_and_resize">Зміна розміру і положення</string>
-     <string name="multipleContactDeleteConfirmation">Видалення цього контакту видалить всю інформацію про цей контакт із акаунтів</string>
-     <string name="multipleContactDeleteConfirmationDetail">Видалення \"%s\" видалить всю інформацію про цей контакт із акаунтів</string>
+     <string name="multipleContactDeleteConfirmation">Видалення цього контакту видалить всю інформацію про цей контакт із облік. записів</string>
+     <string name="multipleContactDeleteConfirmationDetail">Видалення \"%s\" видалить всю інформацію про цей контакт із облік. записів</string>
      <string name="my_phone_not_provider_bluetooth">немає провайдера bluetooth</string>
      <string name="my_phone_provider_bluetooth">мій провайдер bluetooth</string>
      <string name="nameLabelsGroup">"Ім'я"</string>
@@ -532,26 +532,26 @@
      <string name="nickname_editor_title">Змінити нікнейм</string>
      <string name="nickname_picker_name_column">"Ім'я контакту"</string>
      <string name="nickname_picker_nickname_column">"Ім'я"</string>
-     <string name="noAccounts">Для створення груп потрібен акаунт</string>
+     <string name="noAccounts">Для створення груп потрібен облік. запис</string>
      <string name="noContactHelpTextAccountsInfo">Синхронізувати контакти з Google, Exchange</string>
-     <string name="noContactHelpTextImportXiaomiAccountInfo">Відновити контакти з резервної копії в акаунті Xiaomi і MiTalk</string>
+     <string name="noContactHelpTextImportXiaomiAccountInfo">Відновити контакти з резервної копії в облік. записи Xiaomi і MiTalk</string>
      <string name="noContacts">Немає контактів</string>
      <string name="noContactsHelpText">"Немає контактів для показу.
  
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
-Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
+Облік. записи: додавання або налаштування облік. запису за контактами, які можна синхронізувати з телефоном.
  
 Новий контакт: додавання контакту.
  
 Імпорт/експорт: імпорт контактів з SIM-або SD-карти.
 "</string>
      <string name="noContactsHelpTextForCreateShortcut">Відсутні контакти для відображення</string>
-     <string name="noContactsHelpTextWithSync">"Немає контактів для показу. Якщо ви тільки що додали акаунт, синхронізація контактів може зайняти декілька хвилин.
+     <string name="noContactsHelpTextWithSync">"Немає контактів для показу. Якщо ви тільки що додали облік. запис, синхронізація контактів може зайняти декілька хвилин.
  
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
-Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
+Облік. записи: додавання або налаштування облік. запису за контактами, які можна синхронізувати з телефоном.
  
 Фільтр контактів: налаштування параметрів показу контактів.
  
@@ -559,22 +559,22 @@
  
 Імпорт/експорт: імпорт контактів з SIM-або SD-карти.
 "</string>
-     <string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо акаунт був тільки що доданий, потрібно кілька хвилин для синхронізації контактів.)</string>
+     <string name="noContactsHelpTextWithSyncForCreateShortcut">Відсутні контакти для відображення. (Якщо облік. запис був тільки що доданий, потрібно кілька хвилин для синхронізації контактів.)</string>
      <string name="noContactsNoSimHelpText">"Немає контактів для показу.
  
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
-Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
+Облік. записи: додавання або налаштування облік. запису за контактами, які можна синхронізувати з телефоном.
  
 Новий контакт: додавання контакту.
  
 Імпорт/експорт: імпорт контактів з SD-карти.
 "</string>
-     <string name="noContactsNoSimHelpTextWithSync">"Немає контактів для показу. Якщо ви тільки що додали акаунт, синхронізація контактів може зайняти декілька хвилин.
+     <string name="noContactsNoSimHelpTextWithSync">"Немає контактів для показу. Якщо ви тільки що додали облік. запис, синхронізація контактів може зайняти декілька хвилин.
  
 Щоб додати контакти, натисніть Меню і виберіть один з варіантів.
  
-Акаунти: додавання або налаштування акаунту за контактами, які можна синхронізувати з телефоном.
+Облік. записи: додавання або налаштування облік. запису за контактами, які можна синхронізувати з телефоном.
  
 Фільтр контактів: налаштування параметрів показу контактів.
  
@@ -596,7 +596,7 @@
      <string name="noGroups">Немає груп</string>
      <string name="noMatchingContacts">Відповідні контакти не знайдені</string>
      <string name="noRecentContacts">Немає контактів</string>
-     <string name="no_account_prompt">"Підключіть Контакти до акаунту Google, щоб:
+     <string name="no_account_prompt">"Підключіть Контакти до облік. запису Google, щоб:
  
 Завжди мати під рукою оновлені дані - на будь-якому пристрої.
 Синхронізувати всі контакти - ви ніколи не втратите їх "</string>
@@ -670,9 +670,9 @@
      <string name="pref_key_photo_word_title">Автоматичний вибір фото для контактів</string>
      <string name="pref_key_rebuild_t9_index_message">Індексація контактів для пошуку за допомогою T9</string>
      <string name="pref_key_rebuild_t9_index_title">Індексація</string>
-     <string name="pref_summary_import_from_account">Імпорт контактів з акаунту Google в акаунт Xiaomi</string>
-     <string name="pref_title_account_import">Імпорт із акаунту</string>
-     <string name="pref_title_import_from_account">Імпорт в акаунт Xiaomi</string>
+     <string name="pref_summary_import_from_account">Імпорт контактів з облік. запису Google в облік. запис Xiaomi</string>
+     <string name="pref_title_account_import">Імпорт із облік. запису</string>
+     <string name="pref_title_import_from_account">Імпорт в облік. запис Xiaomi</string>
      <string name="preference_auto_ip_summary_disable">Не ввімкнено</string>
      <string name="preference_auto_ip_summary_on">Префікс оператора: %s</string>
      <string name="preference_auto_ip_title">Автоматичний IP</string>
@@ -719,9 +719,9 @@
      <string name="progress_notifier_message" formatted="false">Імпорт %s/%s:%s</string>
      <string name="quickcontact_missing_app">Дія не підтримується в жодній з програм</string>
      <string name="quit_dialog_confirm_title">"Ви дійсно хочете вийти з об'єднання контактів?"</string>
-     <string name="readOnlyContactDeleteConfirmation">Цей контакт містить інформацію з різних акаунтів. Інформація з акаунтів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
-     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" містить інформацію з різних акаунтів. Інформація з акаунтів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
-     <string name="readOnlyContactWarning">Неможливо видалити контакти з акаунту, доступного тільки для читання, проте їх можна приховати в списках контактів</string>
+     <string name="readOnlyContactDeleteConfirmation">Цей контакт містить інформацію з різних облік. записів. Інформація з облік. записів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
+     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" містить інформацію з різних облік. записів. Інформація з облік. записів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
+     <string name="readOnlyContactWarning">Неможливо видалити контакти з облік. запису, доступного тільки для читання, проте їх можна приховати в списках контактів</string>
      <string name="reading_vcard_canceled_title">Читання даних vCard відмінено</string>
      <string name="reading_vcard_failed_title">Помилка читання vCard-файлу</string>
      <string name="rebuild_t9_index_dialog_message">Перелаштування даних індексу...</string>
@@ -739,9 +739,9 @@
      <string name="recent_number">Недавній</string>
      <string name="recent_updates">Недавні поновлення</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
+     <string name="redirect_calls_to_vm_confirm_message">Якщо ви не застосували це у оператора, будь ласка, не включайте. Інакше, можливо, ви не зможете отримувати виклики від цього контакту.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="redirect_calls_to_vm_confirm_text">Turn on</string>
+     <string name="redirect_calls_to_vm_confirm_text">Увімкнути</string>
      <string name="relationLabelsGroup">Відносини</string>
      <string name="remind_btn_ignore">Пізніше</string>
      <string name="remind_btn_sync_now">Зараз</string>
@@ -763,7 +763,7 @@
      <string name="resource_downloaded_title">Завантажені</string>
      <string name="resource_downloading">Завантаження</string>
      <string name="resource_get_auth_checking">Перевірка...</string>
-     <string name="resource_get_auth_exceed_max_limit_tips">Тема не може працювати на цьому пристрої з Вашого акаунту, так як обмеження складає до 10 мобільних пристроїв кожен рік. Будь ласка, спробуйте інші акаунти Xiaomi.</string>
+     <string name="resource_get_auth_exceed_max_limit_tips">Тема не може працювати на цьому пристрої з Вашого облік. запису, так як обмеження складає до 10 мобільних пристроїв кожен рік. Будь ласка, спробуйте інші облік. записи Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Перевищено межу авторизацій</string>
      <string name="resource_get_auth_missing">Тема завантажена з неофіційного маркету. Будь ласка, завантажте аналогічну тему з офіційного маркету.</string>
      <string name="resource_get_auth_retrieving">Отримання авторизації...</string>
@@ -787,7 +787,7 @@
      <string name="resource_title_select_ringtone">Виберіть мелодію</string>
      <string name="resource_update">Онов.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_waiting_download">Waiting</string>
+     <string name="resource_waiting_download">Очікування</string>
      <string name="restore_nickname">Відновити</string>
      <string name="returnCall">Зворотній виклик</string>
      <string name="ringLabelsGroup">Рінгтон</string>
@@ -820,7 +820,7 @@
      <string name="service_provider">Надання сервісів</string>
      <string name="set_default">Встановити за замовчуванням</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="set_photo_failed_msg">Set avatar failed</string>
+     <string name="set_photo_failed_msg">Встановлення аватару невдале</string>
      <string name="share_error">Не вдалося передати дані</string>
      <string name="share_via">Відправити за допомогою</string>
      <string name="share_visible_contacts">Передати всі контакти</string>
