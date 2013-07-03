@@ -3,7 +3,7 @@
 <resources>
      <string name="about">Про програму</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="adjust_no_network_update_data_fail">Update data fail.Please try again after checking the settings of network.</string>
+     <string name="adjust_no_network_update_data_fail">Помилка оновлення даних. Перевірте налаштування підключення до мережі.</string>
      <string name="adjust_traffic_auto_adjust_hint">Система автоматично регулює передачу даних та регулярно отримує дані від операторів. Вам потрібно налаштувати інформацію про операторів</string>
      <string name="adjust_traffic_auto_adjust_open_hint">Авторегуляція включена, система автоматично контролює обсяг використаного трафіку</string>
      <string name="adjust_traffic_auto_adjust_title">Авторегулювання трафіку</string>
@@ -84,24 +84,24 @@
      <string name="notify_carrier_settings_title">"Ви не налаштували постачальника послуг зв'язку. Налаштувати зараз?"</string>
      <string name="notify_traffic_settings_cancel_hint">Сповіщення і контроль за трафіком будуть вимкнені. Вийти зараз?</string>
      <string name="notify_traffic_settings_title">Ви не налаштували ваш тарифний план. Налаштувати зараз?</string>
-     <string name="overseas_menu_traffic_adjust">Налаштування вручну</string>
+     <string name="overseas_menu_traffic_adjust">Налаштувати вручну</string>
      <string name="overseas_menu_traffic_settings">Межа трафіку</string>
      <string name="overseas_unknown_traffic_hint">Межа трафіку не налаштована. Налаштувати зараз?</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
      <!-- Original string: Used -->
-     <string name="plate_traffic_already_used">Використано (%s)</string>
+     <string name="plate_traffic_already_used">Використано</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
      <!-- Original string: Exceeded -->
-     <string name="plate_traffic_exceed">Перевищено (%s)</string>
+     <string name="plate_traffic_exceed">Перевищено</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
      <!-- Original string: Remaining -->
-     <string name="plate_traffic_remain">Залишилось (%s)</string>
+     <string name="plate_traffic_remain">Залишилось</string>
      <string name="powered_by">Технічна підтримка: ROMZ.bz</string>
      <string name="pref_category_adjust_traffic">Регулювання трафіку</string>
      <string name="pref_connect_settings_enable_backgroung">Включити фонові служби</string>
