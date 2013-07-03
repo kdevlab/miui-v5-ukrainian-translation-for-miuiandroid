@@ -43,13 +43,13 @@
      <string name="bookmark_list_title">Уподобання (%1$d)</string>
      <string name="cannot_add_picture_and_video">Не можна додати на слайд і картинку, і відео</string>
      <string name="cannot_add_slide_anymore">Додане максимальне число слайдів.</string>
-     <string name="cannot_forward_drm_obj">"Не можна переслати Drm-Об\’єкт з цього повідомлення"</string>
+     <string name="cannot_forward_drm_obj">"Не можна переслати Drm-об\’єкт з цього повідомлення"</string>
      <string name="cannot_get_details">Не вдалося завантажити дані</string>
      <string name="cannot_send_message">Не вдалося відправити повідомлення</string>
      <string name="cannot_send_message_reason">Не вказано жодного реального одержувача</string>
      <string name="change_duration_activity">Змінити тривалість</string>
      <string name="check_all">Усі</string>
-     <string name="chenghu_disable_mms">Неприпустимий адресі MMS</string>
+     <string name="chenghu_disable_mms">Неприпустима адреса MMS</string>
      <string name="class_0_message_activity">Повідомлення класу 0</string>
      <string name="close">Закрити</string>
      <string name="compressing">Картинка занадто велика. Виконується стискання...</string>
