@@ -33,12 +33,12 @@
      <string name="accessibility_global_gesture_preference_summary_on">Вкл.</string>
      <string name="accessibility_global_gesture_preference_title">Швидке включення</string>
      <string name="accessibility_long_press_timeout_preference_title">Затримка при натисканні та утриманні</string>
-     <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
+     <string name="accessibility_long_press_timeout_title">Затримка при натисканні та утриманні</string>
      <string name="accessibility_menu_item_settings">Налаштування</string>
      <string name="accessibility_no_services_installed">Служби не встановлені</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка живлення завершує дзвінок</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_power_button_ends_call_title">Power button ends call</string>
+     <string name="accessibility_power_button_ends_call_title">Кнопка живлення завершує виклик</string>
      <string name="accessibility_screen_magnification_summary">"Ця функція дозволяє збільшувати і зменшувати зображення, тричі натиснувши на екран.
 
 При збільшеному масштабі можливо:
@@ -55,7 +55,7 @@
      <string name="accessibility_script_injection_disallowed">Заборонено</string>
      <string name="accessibility_script_injection_security_warning_summary">Дозволити програмам встановлювати скрипти Google для підвищення доступності веб-контенту?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_script_injection_title">Enhance web accessibility</string>
+     <string name="accessibility_script_injection_title">Підвищення доступності веб-сайтів</string>
      <string name="accessibility_service_default_description">Немає опису</string>
      <string name="accessibility_service_disable_warning_summary">Щоб відключити %1$s, натисніть ОК</string>
      <string name="accessibility_service_disable_warning_title">Вимкнути %1$s?</string>
@@ -64,21 +64,21 @@
      <string name="accessibility_service_security_warning_summary">Служба %1$s може зберігати будь-який текст що вводиться, крім паролів. Зокрема, зберігаються особисті відомості, наприклад номери кредитних карт. Крім того, можуть збиратися дані про використання телефону</string>
      <string name="accessibility_service_security_warning_title">Використовувати %1$s?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_service_state_off">Off</string>
+     <string name="accessibility_service_state_off">Вимк.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_service_state_on">On</string>
+     <string name="accessibility_service_state_on">Вкл.</string>
      <string name="accessibility_services_title">Служби</string>
      <string name="accessibility_settings">Спец. можливості</string>
      <string name="accessibility_settings_title">Налаштування спеціальних можливостей</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_speak_password_title">Speak passwords</string>
+     <string name="accessibility_speak_password_title">Промовляти пароль</string>
      <string name="accessibility_sync_disabled">Синхронізація відключена</string>
      <string name="accessibility_sync_enabled">Синхронізація включена</string>
      <string name="accessibility_sync_error">Помилка синхронізації</string>
      <string name="accessibility_system_title">Система</string>
      <string name="accessibility_toggle_large_text_preference_title">Великий текст</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_toggle_large_text_title">Large text</string>
+     <string name="accessibility_toggle_large_text_title">Великий текст</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Зберігати масштаб при переході між додатками</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Автооновленя маштабу</string>
      <string name="accessibility_toggle_screen_magnification_preference_title">Маштабування</string>
@@ -231,7 +231,7 @@
      <string name="battery_desc_radio">"Витрата енергії на підтримку зв'язку з мережею в режимі очікування"</string>
      <string name="battery_desc_standby">Витрата заряду батареї в режимі очікування</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="battery_desc_users">Battery used by user</string>
+     <string name="battery_desc_users">Використання батареї користувачем</string>
      <string name="battery_desc_voice">Використання батареї для голосових викликів</string>
      <string name="battery_desc_wifi">Використання батареї модулем Wi-Fi</string>
      <string name="battery_history_days">%1$d дн. %2$d г. %3$d хв. %4$dс.</string>
@@ -257,7 +257,7 @@
      <string name="battery_info_power_unknown">Невідомо</string>
      <string name="battery_info_power_unplugged">Не підключено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="battery_info_power_wireless">wireless</string>
+     <string name="battery_info_power_wireless">бездротова</string>
      <string name="battery_info_scale_label">Шкала батареї:</string>
      <string name="battery_info_screen_on">Час роботи екрану:</string>
      <string name="battery_info_status_charging">Йде зарядка</string>
@@ -373,7 +373,7 @@
      <string name="bluetooth_name_not_set">"Без налаштування імені, використовувати ім'я облікового запису"</string>
      <string name="bluetooth_no_devices_found">Пристрої Bluetooth не знайдено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_not_discoverable">Make device discoverable</string>
+     <string name="bluetooth_not_discoverable">Зробити пристрій видимим</string>
      <string name="bluetooth_not_visible_to_other_devices">Не відображати для інших Bluetooth-пристроїв</string>
      <string name="bluetooth_notif_message">Натисніть для підключення до пристрою \"%1$s\"</string>
      <string name="bluetooth_notif_ticker">Запит сполучення Bluetooth</string>
@@ -430,10 +430,10 @@
      <string name="bluetooth_unknown" />
      <string name="bluetooth_untether_blank">Підключення до %1$s буде перервано</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_visibility">Discoverable</string>
+     <string name="bluetooth_visibility">Видимість</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут доступності</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_visibility_timeout_summary">Set how long device will be discoverable</string>
+     <string name="bluetooth_visibility_timeout_summary">Вкажіть, протягом якого часу пристрій буде видимим</string>
      <string name="breathing_light_color_summary">Колір LED при отриманні нового повідомлення</string>
      <string name="breathing_light_color_title">. Колір LED</string>
      <string name="breathing_light_freq_summary">Пауза між миганнями</string>
@@ -444,12 +444,12 @@
      <string name="brightness_summary">Налаштувати яскравість екрану</string>
      <string name="bssid_label">BSSID:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bugreport_in_power">Power menu bug reports</string>
+     <string name="bugreport_in_power">Звіти про помилки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bugreport_in_power_summary">Include option in power menu for taking a bug report</string>
-     <string name="bugreport_tool_log_toast">Log saved to %s</string>
+     <string name="bugreport_in_power_summary">Показувати в меню опцію відправки звіту про помилку</string>
+     <string name="bugreport_tool_log_toast">Звіт збережений в %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report, takes about 1 minute</string>
+     <string name="bugreport_tool_log_toast_generate_bugreport">Створення звіту про помилку, потрібно близько 1 хвилини</string>
      <string name="build_number">Номер збірки</string>
      <string name="builtin_keyboard_settings_summary">Налаштування фізичної клавіатури</string>
      <string name="builtin_keyboard_settings_title">Фізична клавіатура</string>
@@ -622,7 +622,7 @@
      <string name="data_usage_uninstalled_apps">Дистанційні програми</string>
      <string name="data_usage_uninstalled_apps_users">Віддалені програми і користувачі</string>
      <string name="data_usage_warning_editor_title">Налаштування попередження</string>
-     <string name="date_and_time">Налаштування дати &amp; часу</string>
+     <string name="date_and_time">Налаштування дати та часу</string>
      <string name="date_and_time_settings_summary">Установка дати, часу, часового поясу і формату</string>
      <string name="date_and_time_settings_title">Дата і час</string>
      <string name="date_and_time_settings_title_setup_wizard">Встановити дату і час</string>
@@ -664,7 +664,7 @@
      <string name="device_admin_status">Адміністратор активований і дозволяє програмі %1$s виконувати наступні операції:</string>
      <string name="device_admin_title">Адміністрування Пристрою</string>
      <string name="device_admin_warning">Активація цього адміністратора дозволить програмі \"%1$s\" виконувати наступні операції:</string>
-     <string name="device_cpu">Частота процесора:</string>
+     <string name="device_cpu">Частота процесору:</string>
      <string name="device_cpu2_info">"2 ядра "</string>
      <string name="device_cpu4_info">"4 ядра "</string>
      <string name="device_edit_title">Зміна імені пристрою</string>
@@ -828,15 +828,15 @@
      <string name="font_size_medium">Середній</string>
      <string name="font_size_normal">Нормальний</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="font_size_preview_text">Miui V5 Ukrainian</string>
+     <string name="font_size_preview_text">Miui V5 Українською</string>
      <string name="font_size_small">Маленький</string>
      <string name="font_size_summary">Налаштування разміру шрифту в програмах (Телефон, Повідомлення, Контакти та інші)</string>
      <string name="force_hw_ui">Прискорити роботу GPU</string>
      <string name="force_hw_ui_summary">Використовувати апаратне прискорення 2D в програмах</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="force_msaa">Force 4x MSAA</string>
+     <string name="force_msaa">Включити 4x MSAA</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="force_msaa_summary">Enable 4x MSAA in OpenGL ES 2.0 apps</string>
+     <string name="force_msaa_summary">Включити 4x MSAA в додатках OpenGL ES 2.0</string>
      <string name="force_stop">Зупинити</string>
      <string name="force_stop_dlg_text">Примусове закриття програми може відбитися на його функціональності</string>
      <string name="force_stop_dlg_title">Зупинити примусово?</string>
@@ -844,19 +844,19 @@
      <string name="frequently_fragment_delete">Видалити</string>
      <string name="frequently_fragment_tempty">Часто використовувані елементи будуть перераховані тут</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_brightness_state_auto">auto</string>
+     <string name="gadget_brightness_state_auto">авто</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_brightness_state_full">full</string>
+     <string name="gadget_brightness_state_full">максимум</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_brightness_state_half">half</string>
+     <string name="gadget_brightness_state_half">середня</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_brightness_state_off">off</string>
-     <string name="gadget_brightness_template">Brightness %1$s</string>
+     <string name="gadget_brightness_state_off">мінімум</string>
+     <string name="gadget_brightness_template">Яскравість %1$s</string>
      <string name="gadget_picker_title">Вибір гаджета</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_state_off">off</string>
+     <string name="gadget_state_off">вимк.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_state_on">on</string>
+     <string name="gadget_state_on">вкл.</string>
      <string name="gadget_state_turning_off">вимкнення</string>
      <string name="gadget_state_turning_on">включення</string>
      <string name="gadget_sync">Синхронізація</string>
@@ -864,7 +864,7 @@
      <string name="gadget_toggle_bluetooth">Оновлення налаштувань Bluetooth</string>
      <string name="gadget_toggle_wifi">Оновлення налаштувань Wi-Fi</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_wifi">WLAN</string>
+     <string name="gadget_wifi">Wi-Fi</string>
      <string name="game_controller_settings_category">Ігровий контролер</string>
      <string name="global_change_warning">Налаштування будуть змінені для всіх користувачів пристрою.</string>
      <string name="global_font_change_title">Змініть розмір шрифта</string>
@@ -906,8 +906,8 @@
      <string name="ims_reg_required_on">"Обов'язкова реєстрація IMS включена"</string>
      <string name="incoming_call_vibrate_abbreviation">Дзвінки</string>
      <string name="incoming_call_volume_title">Мелодія</string>
-     <string name="input_method">Спосіб введення</string>
-     <string name="input_method_selector">Вибір способу введення</string>
+     <string name="input_method">Метод введення</string>
+     <string name="input_method_selector">Вибір методу введення</string>
      <string name="input_method_selector_always_hide_title">Завжди приховувати</string>
      <string name="input_method_selector_always_show_title">Завжди показувати</string>
      <string name="input_method_selector_show_automatically_title">Автоматично</string>
@@ -986,9 +986,9 @@
      <string name="location_title">Моє місце розташування</string>
      <string name="lock_after_timeout">Автоблокування</string>
      <string name="lock_after_timeout_summary">Після %1$s сплячого режиму</string>
-     <string name="lock_intro_message">"Protect your phone from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen. 
+     <string name="lock_intro_message">"Щоб ніхто, крім вас, не міг скористатися вашим телефоном, створіть графічний ключ розблокування екрана. Для цього з'єднаєте в довільному порядку не менше чотирьох точок на наступному екрані. 
 
-Ready to start? Touch Next."</string>
+Щоб почати, натисніть \ "Далі \"."</string>
      <string name="lock_screen_unlock_show">Показати інтерфейс введення пароля</string>
      <string name="lock_screen_unlock_show_summary">Не використовуйте інші локскріни після включення, досить зайти в інтерфейс для розблокування екрана</string>
      <string name="lock_settings_picker_settings">Встановити блокування екрана</string>
@@ -997,7 +997,7 @@ Ready to start? Touch Next."</string>
      <string name="lock_setup">Налаштування завершено</string>
      <string name="lock_sounds_enable_title">Звук блокування екрану</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lock_title">Securing your phone</string>
+     <string name="lock_title">Забезпечення безпеки телефону</string>
      <string name="lockpassword_cancel_label">Скасувати</string>
      <string name="lockpassword_choose_lock_generic_header">Спосіб розблокування</string>
      <string name="lockpassword_choose_your_password_header">Виберіть пароль</string>
@@ -1192,8 +1192,8 @@ Ready to start? Touch Next."</string>
      <string name="normal_date_format">За замовчуванням (%s)</string>
      <string name="not_installed">Не встановлено</string>
      <string name="notification_pulse_title">Мигання трекбола</string>
-     <string name="notification_sound_dialog_title">Вибрати мелодію повідомлень</string>
-     <string name="notification_sound_title">Мелодія повідомлення</string>
+     <string name="notification_sound_dialog_title">Вибрати мелодію сповіщень</string>
+     <string name="notification_sound_title">Мелодія сповіщення</string>
      <string name="notification_vibrate_abbreviation">Повідомлення</string>
      <string name="notification_volume_title">Повідомлення</string>
      <string name="nsd_quick_toggle_summary">Дозволяє програмам на інших пристроях виявляти програми на цьому пристрої</string>
@@ -1300,7 +1300,7 @@ Ready to start? Touch Next."</string>
      <string name="perm_hips_send_sms_port">Dest Port:</string>
      <string name="perm_hips_send_sms_recipient">Одержувач:</string>
      <string name="perm_hips_send_sms_smsc">Центр SMS:</string>
-     <string name="perm_hips_send_sms_smsc_default">СМС-центр по умолчанию</string>
+     <string name="perm_hips_send_sms_smsc_default">СМС-центр за замовченням</string>
      <string name="perm_hips_send_sms_text">відіслати SMS %1$s</string>
      <string name="perm_hips_silence_ringer">відключити звук</string>
      <string name="perm_hips_sms_access">читати вхідні СМС</string>
@@ -1309,17 +1309,17 @@ Ready to start? Touch Next."</string>
      <string name="perm_hips_wifi_network_desc">Wi-Fi сеть</string>
      <string name="perm_hips_wifi_network_hint">%1$s програми мають доступ в Інтернет через Wi-Fi мережу</string>
      <string name="perm_invalid_input">Невірне введення</string>
-     <string name="perm_loading">Загрузка...</string>
+     <string name="perm_loading">Звантаження...</string>
      <string name="perm_log">Журнал</string>
      <string name="perm_log_clear_content">Очистити журнал дозволів?</string>
-     <string name="perm_log_clear_title">Очистка журнала</string>
-     <string name="perm_monitored_app">моніторинг додатків(%1$d)</string>
+     <string name="perm_log_clear_title">Очистка журналу</string>
+     <string name="perm_monitored_app">відсслідковування додатків(%1$d)</string>
      <string name="perm_notice">Оповіщення безпеки</string>
      <string name="perm_operating">Обробка...</string>
      <string name="perm_optimize">Оптимізувати</string>
      <string name="perm_privacy_app_count">%1$d дозволи</string>
      <string name="perm_privacy_app_finish">Завершити</string>
-     <string name="perm_privacy_app_installed">Установка завершена!</string>
+     <string name="perm_privacy_app_installed">Встановлення завершено!</string>
      <string name="perm_privacy_app_launch">Відкрити</string>
      <string name="perm_privacy_app_log">Журнали</string>
      <string name="perm_privacy_app_manage">Детальніше</string>
@@ -1344,14 +1344,14 @@ Ready to start? Touch Next."</string>
      <string name="perm_su_disabled_in_stable_desc">"Дозвіл прав суперкористувача може призвести до нестабільності системи, до втрати особистих і системних даних, а також до пошкодження обладнання.
 
 Будь ласка, перейдіть на версію для розробників."</string>
-     <string name="perm_su_disabled_in_stable_download">Скачатb MIUI</string>
+     <string name="perm_su_disabled_in_stable_download">Скачати MIUI</string>
      <string name="perm_su_enable_content">"Включення дозволить додаткам запитувати доступ від суперкористувача.
 Будь ласка додатки з дозволами можуть викликати нестабільність системи, втрату персональних даних, пошкодження системи або апаратної частини, будьте обережні. Ви впевнені що хочете зробити це?"</string>
      <string name="perm_su_enable_dialog">%1$s намагається отримати права суперкористувача, що відключено за замовчуванням для забезпечення безпеки системи. Якщо Вам потрібно включити його, будь ласка перейдіть до налаштувань в диспетчері дозволів.</string>
      <string name="perm_su_enable_title">Суперкористувач</string>
      <string name="perm_su_switch">Суперкористувач</string>
-     <string name="perm_summary_disabled">Викл</string>
-     <string name="perm_summary_enabled">Включено</string>
+     <string name="perm_summary_disabled">Викл.</string>
+     <string name="perm_summary_enabled">Вкл.</string>
      <string name="perm_sysopt_boost_auto_start">Дозволити автозапуск</string>
      <string name="perm_sysopt_boost_auto_start_group">Автозапуск</string>
      <string name="perm_sysopt_boost_auto_start_summary">Дозволити цьому додатку автозапуск</string>
@@ -1400,7 +1400,7 @@ Ready to start? Touch Next."</string>
      <string name="pref_button_light_summary">Індикатори кнопок МЕНЮ, НАЗАД, ДОДОМУ</string>
      <string name="pref_operational_key">Оперативний ключ</string>
      <string name="pref_volume_wake_summary">Натискання збільшення/зменшення гучності для пробудження пристрою</string>
-     <string name="pref_volume_wake_title">Включення екрана кнопками гучності</string>
+     <string name="pref_volume_wake_title">Включення екрану кнопками гучності</string>
      <string name="preference_change_password_title">Змінити пароль</string>
      <string name="preferred_launcher_title">Вибір робочого столу</string>
      <string name="preferred_launcher_warning_message">Після зміни системного робочого столу, може збільшитися споживання енергії і зменшитися швидкість роботи телефону. Рекомендується використовувати робочий стіл за замовчуванням.</string>
@@ -1521,7 +1521,7 @@ Ready to start? Touch Next."</string>
      <string name="retry">Повторити</string>
      <string name="ring_volume_title">Гучність дзвінка</string>
      <string name="ringtone_summary" />
-     <string name="ringtone_title">Мелодія телефону</string>
+     <string name="ringtone_title">Мелодія дзвінка</string>
      <string name="roaming">Інтернет-роумінг</string>
      <string name="roaming_disable">Підключатися до служб передачі даних при роумінгу</string>
      <string name="roaming_enable">Підключатися до служб передачі даних при роумінгу</string>
@@ -1563,9 +1563,9 @@ Ready to start? Touch Next."</string>
      <string name="screen_timeout_summary">Після %1$s бездіяльності</string>
      <string name="screen_timeout_title">Сплячий режим</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_activate_on_dock_title">Also start when docked</string>
+     <string name="screensaver_activate_on_dock_title">Запустити, коли підключено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_component_title">Selected candy</string>
+     <string name="screensaver_component_title">Обрано</string>
      <string name="screensaver_settings_button">Налаштування</string>
      <string name="screensaver_settings_disabled_prompt">Щоб знати, що відбувається з телефоном, коли він підключений до док-станції або перебуває в сплячому режимі, увімкніть заставку.</string>
      <string name="screensaver_settings_dream_start">Розпочати</string>
@@ -1574,40 +1574,40 @@ Ready to start? Touch Next."</string>
      <string name="screensaver_settings_summary_either_short">Обидва</string>
      <string name="screensaver_settings_summary_off">Вимкнено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_settings_summary_on">Will start upon sleep if connected to power</string>
+     <string name="screensaver_settings_summary_on">Запуститься після підключення живлення</string>
      <string name="screensaver_settings_summary_sleep">Під час живлення</string>
      <string name="screensaver_settings_title">Заставка</string>
      <string name="screensaver_settings_when_to_dream">Коли включати?</string>
-     <string name="screensaver_test">Try it!</string>
-     <string name="screensaver_timeout_summary">After %1$s spent idle</string>
+     <string name="screensaver_test">Спробуй це!</string>
+     <string name="screensaver_timeout_summary">Після %1$s простою</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_timeout_title">When to activate</string>
+     <string name="screensaver_timeout_title">Коли активовано</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_timeout_zero_summary">Never</string>
-     <string name="sd_card_settings_label">SD-карта</string>
-     <string name="sd_card_storage">SD-карта</string>
-     <string name="sd_eject">Витягти SD-карту</string>
+     <string name="screensaver_timeout_zero_summary">Ніколи</string>
+     <string name="sd_card_settings_label">SD карта</string>
+     <string name="sd_card_storage">SD карта</string>
+     <string name="sd_eject">Витягти SD карту</string>
      <string name="sd_eject_summary">Відключення SD-карти для її безпечного вилучення з пристрою</string>
      <string name="sd_ejecting_summary">Виконується відмонтовування</string>
      <string name="sd_ejecting_title">Відмонтувати</string>
-     <string name="sd_format">Очистити SD-карту</string>
-     <string name="sd_format_summary">Видаляє всі дані з SD-карти, наприклад музику і фотографії</string>
-     <string name="sd_insert_summary">Вставте SD-карту для підключення</string>
-     <string name="sd_memory">SD-карта</string>
-     <string name="sd_mount">Підключити SD-карту</string>
+     <string name="sd_format">Очистити SD карту</string>
+     <string name="sd_format_summary">Видаляє всі дані з SD карти, наприклад музику і фотографії</string>
+     <string name="sd_insert_summary">Вставте SD карту для підключення</string>
+     <string name="sd_memory">SD карта</string>
+     <string name="sd_mount">Підключити SD карту</string>
      <string name="sd_mount_summary" />
      <string name="sdcard_changes_instructions">Зміни вступлять в силу після повторного підключення USB-кабелю</string>
-     <string name="sdcard_format">Очистити SD-карту</string>
-     <string name="sdcard_setting">SD-карта</string>
+     <string name="sdcard_format">Очистити SD карту</string>
+     <string name="sdcard_setting">SD карта</string>
      <string name="sdcard_settings_available_bytes_label">Вільно Байтів:</string>
-     <string name="sdcard_settings_bad_removal_status">SD-карта була витягнута під час використання!</string>
-     <string name="sdcard_settings_mass_storage_status">SD-карта використовується в якості накопичувача</string>
-     <string name="sdcard_settings_not_present_status">Немає SD-карти</string>
+     <string name="sdcard_settings_bad_removal_status">SD карта була витягнута під час використання!</string>
+     <string name="sdcard_settings_mass_storage_status">SD карта використовується в якості накопичувача</string>
+     <string name="sdcard_settings_not_present_status">Немає SD карти</string>
      <string name="sdcard_settings_read_only_status">SD-карта встановлена тільки для читання</string>
-     <string name="sdcard_settings_scanning_status">Пошук мультимедіа на SD-карті...</string>
+     <string name="sdcard_settings_scanning_status">Пошук мультимедіа на SD карті...</string>
      <string name="sdcard_settings_screen_mass_storage_text">"Включити запам'ятовуючий пристрій USB"</string>
      <string name="sdcard_settings_total_bytes_label">Всього байтів:</string>
-     <string name="sdcard_settings_unmounted_status">Тепер можна витягти SD-карту</string>
+     <string name="sdcard_settings_unmounted_status">Тепер можна витягти SD карту</string>
      <string name="sdcard_settings_used_bytes_label">Використано байтів:</string>
      <string name="sdcard_unmount">Витягти SD-карту</string>
      <string name="search_about">Про програму</string>
@@ -1726,18 +1726,18 @@ Ready to start? Touch Next."</string>
 Можливо, введений невірний PIN-код. "</string>
      <string name="sim_lock_off">При включенні телефону буде необхідно ввести PIN-код</string>
      <string name="sim_lock_on">Для використання телефону необхідний PIN-код</string>
-     <string name="sim_lock_settings">Налаштування блокування SIM-карти</string>
+     <string name="sim_lock_settings">Налаштування блокування SIM карти</string>
      <string name="sim_lock_settings_category">Налаштувати блокування</string>
      <string name="sim_lock_settings_title">Блокування SIM-карти</string>
      <string name="sim_management_title">Керування SIM</string>
-     <string name="sim_pin_change">Зміна PIN SIM-карти</string>
-     <string name="sim_pin_toggle">Блокування SIM-карти</string>
+     <string name="sim_pin_change">Зміна PIN SIM карти</string>
+     <string name="sim_pin_toggle">Блокування SIM карти</string>
      <string name="sim_pins_dont_match">PIN-коди не співпадають</string>
      <string name="sim_reenter_new">Введіть новий PIN повторно</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_status_title">SIM status</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="skip_button_label">Cancel</string>
+     <string name="skip_button_label">Відмінити</string>
      <string name="skip_label">Далі</string>
      <string name="skip_step">Пропустити цей крок</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1786,7 +1786,7 @@ Ready to start? Touch Next."</string>
      <string name="storage_menu_usb">"USB-підключення до комп'ютера"</string>
      <string name="storage_other_users">Інші користувачі</string>
      <string name="storage_settings">"Пам'ять"</string>
-     <string name="storage_settings_summary">"Відключення SD-карти, відомості про доступну пам'яті"</string>
+     <string name="storage_settings_summary">"Відключення SD карти, відомості про доступну пам'яті"</string>
      <string name="storage_settings_title">Налаштування сховища</string>
      <string name="storage_title_usb">"USB-підключення до комп'ютера"</string>
      <string name="storageuse_settings_summary">"Об'єм пам'яті, зайнятий програмами"</string>
@@ -1927,9 +1927,9 @@ Ready to start? Touch Next."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unlock_set_unlock_pin_title">PIN</string>
      <string name="unlock_set_unlock_summary">Увімкніть блокування екрана, щоб вибрати тип блокування</string>
-     <string name="unmount_inform_text">SD-карта буде відключена</string>
+     <string name="unmount_inform_text">SD карта буде відключена</string>
      <string name="untitled_apn">Без назви</string>
-     <string name="upload_debug_log_summary">"Відправляти журнал налагодження розробникам для допомоги в розробці більш стабільної і простої у використанні прошивки MIUI тільки при наявності Wi-Fi-з'єднань"</string>
+     <string name="upload_debug_log_summary">Відправляти журнал налагодження розробникам для допомоги в розробці більш стабільної і простої у використанні прошивки MIUI тільки при наявності Wi-Fi-з'єднань</string>
      <string name="upload_debug_log_title">Відправляти журнал</string>
      <string name="usage_log">Статистика використання програми</string>
      <string name="usage_stats_label">Статистика використання</string>
@@ -1986,7 +1986,7 @@ Ready to start? Touch Next."</string>
      <string name="user_delete_button">Видалити</string>
      <string name="user_delete_user_description">Видалити користувача</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_details_title">Edit details</string>
+     <string name="user_details_title">Редагувати деталі</string>
      <string name="user_dict_multiple_settings_title">Словники</string>
      <string name="user_dict_settings_add_dialog_less_options">Менше</string>
      <string name="user_dict_settings_add_dialog_more_options">Більше</string>
@@ -2006,26 +2006,26 @@ Ready to start? Touch Next."</string>
      <string name="user_dict_settings_titlebar">Словник користувача</string>
      <string name="user_dict_single_settings_title">Словник</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_discard_user_menu">Discard</string>
+     <string name="user_discard_user_menu">Відхилити</string>
      <string name="user_info_settings_title">Інформація про користувача</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_information_heading">User information</string>
+     <string name="user_information_heading">Інформація про користувача</string>
      <string name="user_list_title">Користувачі</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_market_apps_heading">Installed apps</string>
+     <string name="user_market_apps_heading">Встановлені додатки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_market_requires_pin">Require PIN</string>
+     <string name="user_market_requires_pin">Запитувати ПІН</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_max_content_rating">Content rating</string>
+     <string name="user_max_content_rating">Рейтинг контенту</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_name_title">Name</string>
+     <string name="user_name_title">Ім\'я</string>
      <string name="user_new_user_name">Захист від дітей</string>
      <string name="user_nickname">Прізвисько</string>
      <string name="user_owner">Власник</string>
      <string name="user_picture_title">Фотографія</string>
      <string name="user_remove_user_menu">Видалити користувача</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_restrictions_heading">Content restrictions</string>
+     <string name="user_restrictions_heading">Обмеження контенту</string>
      <string name="user_settings_title">Користувачі та обмеження</string>
      <string name="user_setup_button_setup_later">Не зараз</string>
      <string name="user_setup_button_setup_now">Налаштувати зараз</string>
@@ -2035,7 +2035,7 @@ Ready to start? Touch Next."</string>
      <string name="user_summary_inactive">Не активний</string>
      <string name="user_summary_not_set_up">Не створено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_system_apps_heading">System apps</string>
+     <string name="user_system_apps_heading">Системні додатки</string>
      <string name="user_you_section">Ви</string>
      <string name="verify_applications">Перевірка додатків</string>
      <string name="verify_applications_summary">Заборонити або попереджати перед установкою додатків, які можуть заподіяти шкоду</string>
@@ -2148,9 +2148,9 @@ Ready to start? Touch Next."</string>
      <string name="vpn_show_options">Додатково</string>
      <string name="vpn_title">Налаштування VPN</string>
      <string name="vpn_type">Тип</string>
-     <string name="vpn_username">"Ім'я користувача"</string>
+     <string name="vpn_username">Ім\'я користувача</string>
      <string name="wait_for_debugger">Очікування налагоджувача</string>
-     <string name="wait_for_debugger_summary">"Програма очікує з'єднання з налагоджувачем перед запуском"</string>
+     <string name="wait_for_debugger_summary">Програма очікує з\'єднання з налагоджувачем перед запуском</string>
      <string name="wallpaper_settings_fragment_title">Встановлення шпалер</string>
      <string name="wallpaper_settings_title">Шпалери</string>
      <string name="wfd_available_devices">Доступнв пристрої</string>
