@@ -657,7 +657,7 @@
     <string name="phoneTypeFaxWork">Роб. факс</string>
     <string name="phoneTypeFaxHome">Дом. факс</string>
     <string name="phoneTypePager">Пейджер</string>
-    <string name="phoneTypeOther">Іннший</string>
+    <string name="phoneTypeOther">Інший</string>
     <string name="phoneTypeCallback">Звор. викл.</string>
     <string name="phoneTypeCar">Авто</string>
     <string name="phoneTypeCompanyMain">Гол. тел. комп.</string>
