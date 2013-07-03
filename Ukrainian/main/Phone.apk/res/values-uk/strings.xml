@@ -5,7 +5,7 @@
      <string name="accessibility_speakerphone_enabled">"Гучний зв'язок увімкнено"</string>
      <string name="add_button_miui">Додати</string>
      <string name="add_fdn_contact">Додати номер обмеженого набору</string>
-     <string name="add_sip_account">Додати акаунт</string>
+     <string name="add_sip_account">Додати облік. запис</string>
      <string name="add_vm_number_str">Додати номер</string>
      <string name="add_zero_prefix">Додати префікс 0 при наборі мобільного номеру</string>
      <string name="adding_fdn_contact">Виконується додавання номера обмеженого набору...</string>
@@ -173,11 +173,11 @@
      <string name="cb_sms_settings">Налаштування широкомовних SMS-служб</string>
      <string name="cdma_activate_device">Активувати пристрій</string>
      <string name="cdma_conference_call_miui">"Конференц-зв'язок"</string>
-     <string name="cdma_display_precise_call_state_message_miui">If your operator does not support, the call state will be incorrect when this switch is opened. Are you sure to open it?</string>
+     <string name="cdma_display_precise_call_state_message_miui">Якщо Ваш оператор не підтримує, стан виклику буде неправильним, якщо даний вимикач відкритий. Ви впевнені, що відкрити його?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cdma_display_precise_call_state_summary_miui">CDMA call timer is restrict by network operator. If local operator supports, call state can be shown precisely.</string>
+     <string name="cdma_display_precise_call_state_summary_miui">Таймер CDMA виклику обмежений оператором мережі. Якщо місцевий оператор підтримує, стан виклику можна показати точно.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cdma_display_precise_call_state_title_miui">Display precise call state</string>
+     <string name="cdma_display_precise_call_state_title_miui">Показати точний стан виклику</string>
      <string name="cdma_lte_data_service">Налаштувати передачу даних</string>
      <string name="cdma_options">Параметри CDMA</string>
      <string name="cdma_subscription_dialogtitle">підписка</string>
@@ -259,7 +259,7 @@
      <string name="default_contacts_countrycode_hint_miui">Наприклад: 7</string>
      <string name="default_contacts_countrycode_miui">Стандартний код міста</string>
      <string name="default_contacts_countrycode_sum_miui">Задайте стандартний код країни: %s</string>
-     <string name="default_notification_description">Default sound (%1$s)</string>
+     <string name="default_notification_description">Звук за замовченням (%1$s)</string>
      <string name="default_preference_summary">&lt;Не налагоджено></string>
      <string name="delete_all_sim_contacts_miui">Видалити усі контакти з SIM-карти</string>
      <string name="delete_fdn_contact">Видалити номер обмеженого набору</string>
@@ -365,7 +365,7 @@
      <string name="enable_sim_pin">Включити запит PIN SIM-картки</string>
      <string name="enable_sim_pin_miui">Включити запит PIN SIM-картки</string>
      <string name="enable_telocation_title_miui">Показати властивості для номеру</string>
-     <string name="enforce_proximity_summary_miui">"Запобігання помилки з'єднання, коли мобільний телефон у кишені брюк"</string>
+     <string name="enforce_proximity_summary_miui">"Запобігання помилки з'єднання, коли мобільний телефон у кишені штанів"</string>
      <string name="enforce_proximity_title_miui">Датчик наближення</string>
      <string name="enter_pin_text">PIN SIM-карти:</string>
      <string name="entertainment_news_settings">Калейдоскоп</string>
@@ -547,8 +547,8 @@
      <string name="no_change">Номер не змінений</string>
      <string name="no_internet_available">Перед дзвінком через Інтернет перевірте підключення</string>
      <string name="no_internet_available_title">Підключення до Інтернету відсутнє</string>
-     <string name="no_sip_account_found">Немає акаунтів для інтернет-дзвінків. Створити акаунт?</string>
-     <string name="no_sip_account_found_title">Немає акаунтів для інтернет-дзвінків</string>
+     <string name="no_sip_account_found">Немає облік. записів для інтернет-дзвінків. Створити облік. запис?</string>
+     <string name="no_sip_account_found_title">Немає облік. записів для інтернет-дзвінків</string>
      <string name="no_vm_number">Не вказаний номер голосової пошти</string>
      <string name="no_vm_number_msg">На SIM-картці немає ні одного номеру голосової пошти</string>
      <string name="no_voip">Інтернет-виклик не підтримується</string>
@@ -659,11 +659,11 @@
      <string name="phone_in_ecm_call_notification_text">Передача даних відключена</string>
      <string name="phone_in_ecm_notification_title">Режим екстрених зворотних викликів</string>
      <string name="pick_outgoing_call_phone_type">Вихідний виклик</string>
-     <string name="pick_outgoing_sip_phone">Акаунт для інтернет-дзвінків:</string>
+     <string name="pick_outgoing_sip_phone">Облік. запис для інтернет-дзвінків:</string>
      <string name="pin2_changed">PIN2 успішно змінений</string>
      <string name="pin2_changed_miui">PIN2 успішно змінений</string>
      <string name="pin2_invalid">Номер обмеженого набору не оновлено: ви ввели невірний PIN-код</string>
-     <string name="pin2_invalid_or_name_is_too_long">"FDN не оновлено: ​​Ви ввели невірний PIN-код або надто довге ім'я"</string>
+     <string name="pin2_invalid_or_name_is_too_long">"FDN не оновлено: ??Ви ввели невірний PIN-код або надто довге ім'я"</string>
      <string name="pin2_lock_warning_miui">"
 Зверніть увагу, що PIN2 буде заблокований, якщо ще раз помилитеся! "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -707,7 +707,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preferred_network_type_pref_entries_only_3g_miui">3G</string>
      <string name="preferred_network_type_title_miui">Вибір типу мережі</string>
-     <string name="primary_account_summary_with">Основний акаунт. %s</string>
+     <string name="primary_account_summary_with">Основний облік. запис. %s</string>
      <string name="private_num">Прихований номер</string>
      <string name="progress_dialog_exiting_ecm">Вихід з режиму екстрених зворотних викликів</string>
      <string name="proxy_address_title">Адреса проксі-сервера</string>
@@ -732,22 +732,22 @@
      <string name="registration_done">Реєстрація в мережі завершена</string>
      <string name="registration_status_checking_status">Перевірка стану...</string>
      <string name="registration_status_done">Виклики приймаються</string>
-     <string name="registration_status_failed_try_later">Не вдалося зареєструвати акаунт (%s). Нова спроба буде зроблена пізніше</string>
-     <string name="registration_status_invalid_credentials">"Не вдалося зареєструвати акаунт. Невірне ім'я користувача або пароль"</string>
-     <string name="registration_status_no_data">Реєстрація акаунта перервана - відсутня підключення до Інтернету</string>
+     <string name="registration_status_failed_try_later">Не вдалося зареєструвати облік. запис (%s). Нова спроба буде зроблена пізніше</string>
+     <string name="registration_status_invalid_credentials">"Не вдалося зареєструвати облік. запис. Невірне ім'я користувача або пароль"</string>
+     <string name="registration_status_no_data">Реєстрація облік. записа перервана - відсутня підключення до Інтернету</string>
      <string name="registration_status_no_wifi_data">Реєстрація перервана - відсутнє підключення Wi-Fi</string>
      <string name="registration_status_not_receiving">Виклики не приймаються</string>
-     <string name="registration_status_not_running">Не вдалося зареєструвати акаунт</string>
+     <string name="registration_status_not_running">Не вдалося зареєструвати облік. запис</string>
      <string name="registration_status_registering">Реєстрація...</string>
-     <string name="registration_status_server_unreachable">"Не вдалося зареєструвати акаунт. Невірне ім'я сервера"</string>
+     <string name="registration_status_server_unreachable">"Не вдалося зареєструвати облік. запис. Невірне ім'я сервера"</string>
      <string name="registration_status_still_trying">Будь ласка, зачекайте...</string>
      <string name="reject_via_sms_miui">Відхилити з повідомленням</string>
      <string name="reject_via_sms_summary_miui">Виберіть повідомлення для відправки</string>
      <string name="reject_via_sms_title_miui">Відхилити з повідомленням</string>
      <string name="remember_my_choice">Використовувати для всіх інтернет-дзвінків</string>
      <string name="remove_miui">Видалити</string>
-     <string name="remove_sip_account">Видалити акаунт</string>
-     <string name="removing_account">Видалення акаунту...</string>
+     <string name="remove_sip_account">Видалити облік. запис</string>
+     <string name="removing_account">Видалення облік. запису...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_rc_unlock">Requesting RUIM corporate unlock...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -761,7 +761,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_ruim_unlock">Requesting RUIM RUIM unlock...</string>
      <string name="requesting_unlock">Запит розблокування мережі...</string>
-     <string name="reset_my_choice_hint">В налаштуваннях дзвінків можна змінити акаунт інтернет-телефонії, який використовується за промовчанням при виконанні викликів. Для цього виберіть інший рахунок у налаштуваннях інтернет-дзвінків</string>
+     <string name="reset_my_choice_hint">В налаштуваннях дзвінків можна змінити облік. запис інтернет-телефонії, який використовується за промовчанням при виконанні викликів. Для цього виберіть інший рахунок у налаштуваннях інтернет-дзвінків</string>
      <string name="respond_via_sms_canned_response_1">На зборах. Зателефонуйте пізніше?</string>
      <string name="respond_via_sms_canned_response_1_miui">За кермом. Зателефоную пізніше</string>
      <string name="respond_via_sms_canned_response_2">Я не можу відповісти. Можу спілкуватися по СМС</string>
@@ -799,7 +799,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ruim_unlock_failed">RUIM RUIM unlock request unsuccessful.</string>
      <string name="save">Зберегти</string>
-     <string name="saving_account">Збереження акаунта...</string>
+     <string name="saving_account">Збереження облік. запису...</string>
      <string name="search_networks">Пошук мереж</string>
      <string name="selectContact">вибрати контакт</string>
      <string name="select_automatically">Вибирати автоматично</string>
@@ -807,8 +807,8 @@
      <string name="send_keepalive_title">Відправляти keep-alive</string>
      <string name="separate_from_conference_miui">Індивідуальний виклик</string>
      <string name="set_preferred_network_type_when_data_enabled_miui">Бажаний режим мережі доступний при вимкненій передачі даних</string>
-     <string name="set_primary_summary">Використовувати цей акаунт за замовчуванням для вихідних дзвінків</string>
-     <string name="set_primary_title">Основний акаунт</string>
+     <string name="set_primary_summary">Використовувати цей облік. запис за замовчуванням для вихідних дзвінків</string>
+     <string name="set_primary_title">Основний облік. запис</string>
      <string name="set_smsc_address_error_miui">Не вдалося встановити номер SMS-центру</string>
      <string name="set_smsc_address_timeout_miui">Не вдалося встановити номер SMS-центру</string>
      <string name="set_smsc_address_title_miui">Номер SMS-центру</string>
@@ -829,10 +829,10 @@
      <string name="sim_ndp_unlock_text">Розблокувати</string>
      <string name="sim_pin_change_miui">Зміна PIN-коду SIM</string>
      <string name="sim_pin_toggle_miui">Блокування SIM-картки</string>
-     <string name="sip_account_list">SIP-акаунти</string>
-     <string name="sip_accounts">Акаунти інтернет-телефонії (SIP)</string>
-     <string name="sip_accounts_title">Акаунти</string>
-     <string name="sip_add_account_tip_text">Будь ласка, додайте акаунт для інтернет-телефонії</string>
+     <string name="sip_account_list">SIP-облік. записи</string>
+     <string name="sip_accounts">Облік. записи інтернет-телефонії (SIP)</string>
+     <string name="sip_accounts_title">Облік. записи</string>
+     <string name="sip_add_account_tip_text">Будь ласка, додайте облік. запис для інтернет-телефонії</string>
      <string name="sip_always_send_keepalive">Відправляти завжди</string>
      <string name="sip_call_options_entry_1">Для всіх дзвінків при можливості передачі даних</string>
      <string name="sip_call_options_entry_2">Тільки для інтернет-дзвінків</string>
@@ -840,8 +840,8 @@
      <string name="sip_call_options_title">Використовувати Інтернет</string>
      <string name="sip_call_options_wifi_only_entry_1">Для всіх дзвінків</string>
      <string name="sip_call_options_wifi_only_title">"Використовувати інтернет-з'єднання (Wi-Fi)"</string>
-     <string name="sip_edit_new_title">Установки SIP-акаунту</string>
-     <string name="sip_edit_title">Установки SIP-акаунту</string>
+     <string name="sip_edit_new_title">Установки SIP-облік. запису</string>
+     <string name="sip_edit_title">Установки SIP-облік. запису</string>
      <string name="sip_menu_add">Додати</string>
      <string name="sip_menu_discard">Скасувати</string>
      <string name="sip_menu_save">Зберегти</string>
@@ -896,7 +896,7 @@
      <string name="telocation_setting_summary_teloc_off">Приховувати місцезнаходження</string>
      <string name="telocation_setting_summary_teloc_on">Показувати місцезнаходження</string>
      <string name="telocation_show_settings_miui">Налаштування відображення</string>
-     <string name="third_party_account_summary">Цим акаунтом зараз користується додаток %s</string>
+     <string name="third_party_account_summary">Цим облік. записом зараз користується додаток %s</string>
      <string name="throttle_current_usage">Передача даних в поточному періоді</string>
      <string name="throttle_data_rate_reduced_subtext">"Перевищено ліміт в %1$s.
 Швидкість передачі даних знижена до %2$d кбіт/с. "</string>
@@ -912,7 +912,7 @@
      <!-- The count of MNPS does not match! Now: 2 must: 3
 	%s: 1 must: 1
 	%d: 1 must: 2 -->
-     <!-- Original string: %1$d٪ of cycle elapsed
+     <!-- Original string: %1$d? of cycle elapsed
 Next period starts in %2$d days (%3$s) -->
      <string name="throttle_time_frame_subtext">"%1$s перевищено максимум.
 Частота даних зменшена до %2$d кБ/с "</string>
@@ -924,9 +924,9 @@ Next period starts in %2$d days (%3$s) -->
      <string name="turn_off_auto_select_confirm_message_miui">Сигнал і мережа можуть бути недоступні, ви впевнені, що хочете відключити цю опцію?</string>
      <string name="turn_off_auto_select_title_miui">Відключити автовибір мережі</string>
      <string name="turn_off_auto_select_warning_message_miui">Після відключеняя цієї опції, буде використовуватись мережа, вибрана вручну, без реєстрації в інших мережах</string>
-     <string name="turn_off_miui">отключено</string>
-     <string name="turnover_mute_summary_miui">Переверніть для вимкнення звуку, коли телефон лежить горизонтально</string>
-     <string name="turnover_mute_title_miui">Переворот - тиша</string>
+     <string name="turn_off_miui">відключено</string>
+     <string name="turnover_mute_summary_miui">Для вимкнення звуку, переверніть його, коли він лежить горизонтально</string>
+     <string name="turnover_mute_title_miui">Переворот - вимк. звук</string>
      <string name="undefined_miui">Не визначено</string>
      <string name="unknown">Невідомий абонент</string>
      <string name="unknown_num">Невідомий номер</string>
