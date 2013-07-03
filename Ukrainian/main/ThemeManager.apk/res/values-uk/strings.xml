@@ -38,7 +38,7 @@
      <string name="fail_to_add_account">Помилка додавання акаунта</string>
      <string name="live_wallpaper">\"Живі\" шпалери</string>
      <string name="loading">Завантаження...</string>
-     <string name="loading_resource_detail_fail">Failing to load resource!</string>
+     <string name="loading_resource_detail_fail">Збій завантаження ресурсу!</string>
      <string name="loading_resource_detail_info">Завантаження...</string>
      <string name="lockscreen_wallpaper">Шпалери локскріна</string>
      <string name="lockstyle_personal_settings">Персоналізація</string>
@@ -63,7 +63,7 @@
      <string name="resource_comment_edit_text_default">Написати коммнтар</string>
      <string name="resource_comment_edit_title">Коментарі до: %1$s</string>
      <string name="resource_comment_entry_tips">Відгуків: %1$s. Натисніть, щоб подивитися.</string>
-     <string name="resource_comment_expand_full_text">Показати весь текст▼</string>
+     <string name="resource_comment_expand_full_text">Показати весь текстЎ</string>
      <string name="resource_comment_invalid">Натисніть на зірочку, щоб оцінити</string>
      <string name="resource_comment_name_default">Користувач %1$s</string>
      <string name="resource_comment_publish">Відіслати</string>
@@ -110,20 +110,20 @@
      <string name="resource_title_select_ringtone">Виберіть мелодію</string>
      <string name="resource_update">Оновити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_waiting_download">Waiting</string>
+     <string name="resource_waiting_download">Очікуання</string>
      <string name="restore_default_theme_alert">Ви можете стати жертвою підробки теми, перейдіть до магазину тим, щоб купити або повторно завантажити тему.</string>
      <string name="sdcard_status_changed_dialog_message">"Потребує виходу.
 Будь ласка, відкрийте це додаток ще раз, для оновлення ресурсів."</string>
      <string name="sdcard_status_changed_dialog_title">Статус SD-карти змінився</string>
      <string name="short_ringtone_resource">Короткі(&lt;5 сек)</string>
      <string name="theme_another_import_running">Процес імпорту вже запущений, спробуйте пізніше</string>
-     <string name="theme_batch_has_update_text">%1$d themes have new version</string>
+     <string name="theme_batch_has_update_text">%1$d тем мають оновлення</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_batch_update_all">Update all</string>
-     <string name="theme_batch_update_dlg_content">Do you want to update now?</string>
+     <string name="theme_batch_update_all">Оновити всі</string>
+     <string name="theme_batch_update_dlg_content">Оновити зараз?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_batch_update_dlg_title">Update</string>
-     <string name="theme_batch_updating_text">%1$d themes are updating</string>
+     <string name="theme_batch_update_dlg_title">Оновити</string>
+     <string name="theme_batch_updating_text">%1$d тем оновлюється</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
@@ -169,7 +169,7 @@
      <string name="theme_import_item_delete_request_title">Тема не оновлена</string>
      <string name="theme_import_item_importing">Оновлення</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_import_item_not_exist">Not Exist</string>
+     <string name="theme_import_item_not_exist">Не існує</string>
      <string name="theme_import_item_not_upgraded">Не оновлено</string>
      <string name="theme_import_item_reject_use">Тема в процесі оновлення, будь ласка зачекайте...</string>
      <string name="theme_import_item_waiting">Очікування</string>
