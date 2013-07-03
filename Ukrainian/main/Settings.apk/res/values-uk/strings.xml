@@ -1929,7 +1929,7 @@
      <string name="unlock_set_unlock_summary">Увімкніть блокування екрана, щоб вибрати тип блокування</string>
      <string name="unmount_inform_text">SD карта буде відключена</string>
      <string name="untitled_apn">Без назви</string>
-     <string name="upload_debug_log_summary">Відправляти журнал налагодження розробникам для допомоги в розробці більш стабільної і простої у використанні прошивки MIUI тільки при наявності Wi-Fi-з'єднань</string>
+     <string name="upload_debug_log_summary">Відправляти журнал налагодження розробникам для допомоги в розробці більш стабільної і простої у використанні прошивки MIUI тільки при наявності Wi-Fi-з\'єднань</string>
      <string name="upload_debug_log_title">Відправляти журнал</string>
      <string name="usage_log">Статистика використання програми</string>
      <string name="usage_stats_label">Статистика використання</string>
