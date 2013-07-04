@@ -9,6 +9,7 @@
      <string name="add_sharer">Add sharer</string>
      <string name="add_to_cloud_album">Додати в хмару (альбом)</string>
      <string name="add_to_cloud_fail_too_many_items">Помилка завершення операції. Можливо вибрано занадто багато пунктів.</string>
+     <string name="add_to_cloud_failed_message_with_count">%s item(s) can not be added to cloud albums</string>
      <string name="add_to_cloud_folder">Додати в хмару (папка)</string>
      <string name="adding_recipients">Adding recipients…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -207,6 +208,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="menu_view_contact">View contact</string>
      <string name="message_no_delete_access">Помилка доступу. Неможливо видалити файл чи папку: %s</string>
+     <string name="message_no_delete_access_with_count">Cannot delete %d file(s) or folder(s). Maybe they do not exist or access is denied.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="messagelist_sender_self">Me</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

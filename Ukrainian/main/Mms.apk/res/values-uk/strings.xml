@@ -211,10 +211,6 @@
      <string name="mx_auto_resend_sms">Відправити як SMS</string>
      <string name="mx_auto_resend_sms_summary">Відправити як SMS, коли хмарові повідомлення не доступні. Вартість залежить від оператора</string>
      <string name="mx_btn_enable">Увімкнути</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 2
-	%s: 0 must: 0
-	%d: 1 must: 2 -->
-     <!-- Original string: Since enabled, you have sent %1$d cloud text messages and %2$d cloud multimedia messages -->
      <string name="mx_count_dspt">"Хмарних повідомлень надіслано: 
 SMS (%1$d), MMS (%2$d)"</string>
      <string name="mx_current_status">Статус: у мережі</string>
@@ -287,7 +283,6 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="pref_title_mms_read_reports">Звіти про прочитання</string>
      <string name="pref_title_mms_retrieval_during_roaming">Автозавантаження в роумінгу</string>
      <string name="pref_title_new_message_popup">Спливаючі вікна</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_notification_body_enabled">Показати попередньо</string>
      <string name="pref_title_ringtone_repeat">Кількість нагадувань</string>
      <string name="pref_title_show_recent_contacts">Показати недавні контакти</string>

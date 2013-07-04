@@ -23,6 +23,7 @@
      <string name="cache_size_label">Кеш</string>
      <string name="cancel">Скасувати</string>
      <string name="cancel_app_garbage_cleanup">Не очищати</string>
+     <string name="cancel_with_count_down">Cancel (%d)</string>
      <string name="category_all">Всі</string>
      <string name="category_apk">Програми</string>
      <string name="category_document">Документи</string>
@@ -40,7 +41,13 @@
      <string name="clean_message">Видалення %1$s</string>
      <string name="clean_title">Видаляти файли з кошика, якщо вони лежать там довше 30 днів</string>
      <string name="clean_trash_box">Очистити кошик</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cleaned">Cleanup completed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cleaning">Cleaning...</string>
      <string name="cleanup_complete">Готово</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cleanup_stopped">Cleanup stopped</string>
      <string name="close">Закрити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="compress_fail">Compression failed, destination already exists</string>
@@ -48,6 +55,7 @@
      <string name="compress_title">Архівувати</string>
      <string name="confirm">OК</string>
      <string name="copy_failed">Помилка копіювання</string>
+     <string name="count_down_time">Start after %d seconds</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
      <string name="create_new_folder_desctiption">Створення папки...</string>
@@ -93,6 +101,8 @@
      <string name="favorite_photo">Фотографія</string>
      <string name="favorite_ringtone">Мелодії</string>
      <string name="favorite_screen_cap">Скріншоти MIUI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="file_cleanup">File cleanup</string>
      <string name="file_info_canread">Читання:</string>
      <string name="file_info_canwrite">Запис:</string>
      <string name="file_info_ishidden">Прихований:</string>
@@ -214,6 +224,8 @@
      <string name="rename_description">Перейменовується···</string>
      <string name="rename_failed">Перейменування《%1$s》не вдалось</string>
      <string name="restart_cleaning">Повтор</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="scanned">Scan completed</string>
      <!-- The count of MNPS does not match! Now: 0 must: 2
 	%s: 0 must: 0
 	%d: 0 must: 2 -->

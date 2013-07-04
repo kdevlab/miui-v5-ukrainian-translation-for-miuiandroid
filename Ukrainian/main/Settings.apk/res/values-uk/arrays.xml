@@ -53,6 +53,18 @@
         <item>20 сек</item>
         <item>Завжди</item>
      </string-array>
+     <string-array name="change_security_lock_picker">
+        <item>Face unlock</item>
+        <item>Pattern</item>
+        <item>Numerical password</item>
+        <item>Mixed password</item>
+     </string-array>
+     <string-array name="change_security_lock_picker_key">
+        <item>facial</item>
+        <item>pattern</item>
+        <item>numerical</item>
+        <item>mixed</item>
+     </string-array>
      <string-array name="dream_timeout_entries">
         <item>Ніколи</item>
         <item>15 секунд</item>

@@ -47,11 +47,8 @@
      <string name="overwrite_dialog_message">%s вже існує. Ви хочете перезаписати його?</string>
      <string name="preference_led_indicator">Індикатор запису</string>
      <string name="preference_led_indicator_prompt">Блимати світлодіодом при записі в заблокованому режимі</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_record_type_dialog_title">Вибір типу файлу для запису</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_record_type_title">Тип запису</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="preference_silent_mode">Запис у режимі \"Без звуку\"</string>
      <string name="record_list">Список записів</string>
      <string name="record_loading">Завантаження записів, будь ласка, зачекайте.</string>

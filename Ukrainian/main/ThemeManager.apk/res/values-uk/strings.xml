@@ -11,6 +11,10 @@
      <string name="apply_lockscreen_paper_tips">Працює не стандартний екран блокування, нові шпалери на ньому можуть не змінитися</string>
      <string name="apply_theme_no_select_message">Будь ласка, виберіть модуль програми</string>
      <string name="backup_preference_title">Зберегти налаштування</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Backup the current theme -->
      <string name="backup_theme_dialog_message">Резервне копіювання поточної теми в %1$s</string>
      <string name="backup_theme_dialog_ok">Зберегти</string>
      <string name="backup_theme_name">Моя тема</string>
@@ -109,7 +113,6 @@
      <string name="resource_title">Додаткові</string>
      <string name="resource_title_select_ringtone">Виберіть мелодію</string>
      <string name="resource_update">Оновити</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_waiting_download">Очікуання</string>
      <string name="restore_default_theme_alert">Ви можете стати жертвою підробки теми, перейдіть до магазину тим, щоб купити або повторно завантажити тему.</string>
      <string name="sdcard_status_changed_dialog_message">"Потребує виходу.
@@ -118,10 +121,8 @@
      <string name="short_ringtone_resource">Короткі(&lt;5 сек)</string>
      <string name="theme_another_import_running">Процес імпорту вже запущений, спробуйте пізніше</string>
      <string name="theme_batch_has_update_text">%1$d тем мають оновлення</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_batch_update_all">Оновити всі</string>
      <string name="theme_batch_update_dlg_content">Оновити зараз?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_batch_update_dlg_title">Оновити</string>
      <string name="theme_batch_updating_text">%1$d тем оновлюється</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
@@ -157,8 +158,11 @@
      <string name="theme_component_title_ringtone">Мелодія</string>
      <string name="theme_component_title_statusbar">Статус-бар</string>
      <string name="theme_component_title_wallpaper">Шпалери</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_current_using_has_update">Current theme has been updated, click here to apply</string>
      <string name="theme_description_title_customized">Налаштування</string>
      <string name="theme_description_title_default">За замовчуванням</string>
+     <string name="theme_immediately_apply_tip">The theme is updated, whether applied immediately?</string>
      <string name="theme_import_activity_label">Оновлення тем</string>
      <string name="theme_import_data">Імпорт інформації</string>
      <string name="theme_import_fail">Помилка імпорту %1$s</string>
@@ -168,7 +172,6 @@
      <string name="theme_import_item_delete_request_content">Тема не оновлена, ви можете використовувати її після повного оновлення або видаліть її</string>
      <string name="theme_import_item_delete_request_title">Тема не оновлена</string>
      <string name="theme_import_item_importing">Оновлення</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_import_item_not_exist">Не існує</string>
      <string name="theme_import_item_not_upgraded">Не оновлено</string>
      <string name="theme_import_item_reject_use">Тема в процесі оновлення, будь ласка зачекайте...</string>
@@ -183,6 +186,7 @@
      <string name="theme_import_stoping">Зупинка...</string>
      <string name="theme_importing">Імпортування теми…</string>
      <string name="theme_is_imported">Тема імпортована</string>
+     <string name="theme_name">%1$s</string>
      <string name="theme_sdcard_importing">Імпортування</string>
      <string name="theme_select_others">Інше</string>
      <string name="theme_upgrade_request_cancel">Ні</string>

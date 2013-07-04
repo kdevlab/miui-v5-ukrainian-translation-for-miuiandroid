@@ -4,6 +4,8 @@
      <string name="all_comments">Усі</string>
      <string name="already_bottom">Уже внизу</string>
      <string name="app_comments">Коментарі</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_comments_footer">Empty comments are not presented here.</string>
      <string name="app_comments_title">%1$s - коментарі</string>
      <string name="app_name">Супермаркет</string>
      <string name="bad_comments">Погані</string>
@@ -14,17 +16,27 @@
      <string name="category_recommend_tag">Реком.</string>
      <string name="category_tag">Категорії</string>
      <string name="clear_search_record_message">Очистити історію пошуку?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_1_star">1 Star</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_2_star">2 Stars</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_3_star">3 Stars</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_4_star">4 Stars</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_5_star">5 Stars</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_average_score">Average</string>
      <string name="comment_cannot_comment">Щоб залишити коментар, потрібно спочатку скачати цей додаток</string>
      <!-- The count of MNPS does not match! Now: 1 must: 2
 	%s: 1 must: 2
 	%d: 0 must: 0 -->
      <!-- Original string: %1$s scores %2$s comments in total -->
      <string name="comment_count">Усього %1$s коментарів</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 4
-	%s: 1 must: 4
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s comment on %2$s:%3$s:%4$s -->
-     <string name="comment_description">%1$s%2$1s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="comment_current_version">Current Version</string>
+     <string name="comment_date">%1$02d-%2$02d</string>
      <string name="comment_invalid">Доторкніться до зірочок, щоб оцінити</string>
      <string name="comment_name_default">Користувач %1$s</string>
      <string name="comment_publish">Відправити</string>
@@ -56,6 +68,8 @@
      <string name="data_save_mode_tip">Disabled pictures by your setting</string>
      <string name="delta_update">Відновлення %1$s</string>
      <string name="description_info">Опис</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="developer_button">View more</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->

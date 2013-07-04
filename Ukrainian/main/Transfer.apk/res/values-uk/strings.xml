@@ -19,22 +19,15 @@
      <string name="device_name_tip">"Ім\'я пристрою можна задати в пункті налаштувань \" Про телефон\"."</string>
      <string name="editmode_menu_delete">Видалити</string>
      <string name="editmode_menu_share">Поділитися</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_bad_file">Пошкоджений файл</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_download">Помилка завантаження</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_general">Помилка</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_network">Помилка мережі</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_not_enough_space">Не достатньо місця</string>
      <string name="error_not_selected">Файл не обраний</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_peer_disconnected">Відключений</string>
      <string name="error_select">Помилка передачі, можливо файл ще не обраний</string>
      <string name="error_transmit">Помилка обміну</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_upload">Помилка завантаження</string>
      <string name="fail">Помилка</string>
      <string name="failed">Помилка</string>
@@ -75,27 +68,21 @@
      <string name="receive_tip"> Для швидкого утворення пари й отримання черги передачі</string>
      <string name="receive_uncompleted">Отримання не завершено</string>
      <string name="received">Прийняте</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="recv_sound">Отримати музику</string>
      <string name="resend">Повторити</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="scan_2d_code">Сканувати 2D код</string>
      <string name="scan_tip">Переконайтеся, що отримувач має можливість прийняти файли</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="scan_title">Сфокусуйтеся на 2D коді</string>
      <string name="scanning">Сканування</string>
      <string name="sdcard_unavailable">Sd-Карта недоступна</string>
      <string name="send">Відправити</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send_2d_code">Відправити з 2D кодом</string>
      <string name="send_cancel_tip">Ви впевнені, що бажаєте зупинити передачу?</string>
      <string name="send_cancel_tip2">Передача скасована. Відправлене %1$d з %2$d файлів</string>
      <string name="send_files">Відправлення файлів: %1$d</string>
      <string name="send_finish">Файл відправлений</string>
      <string name="send_finish_tip">Відправлене файлів: %1$d на </string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send_nfc">Відправити з NFC</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="send_sound">Відправити зі звуком</string>
      <string name="send_tip">Пакетна передача світлин, музики, контактів і інших файлів</string>
      <string name="send_to">Відправити на:</string>
@@ -113,7 +100,6 @@
      <string name="settings_receive_confirm_title">Підтвердження отримання</string>
      <string name="share">Відправити</string>
      <string name="share_text">"Додаток Anyshare підтримує передачу файлів без інтернет з\'єднання на високій швидкості. Додаток можна скачати по посиланню: %1$s"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="shortmessage">Коротке повідомлення</string>
      <string name="summary_step_one">Можливість відправити фото, музику, контакти й інші файли</string>
      <string name="summary_step_two">Поділиться інформацією про додаток Anyshare</string>

@@ -3,9 +3,8 @@
 <resources>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="PSButton">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="PSFail">Не вдається підключитися до ПК</string>
-     <string name="PSMsg">Якщо ви не можете підключитися до Інтернету через наскрізний інтернет, будь ласка, переконайтеся, що ваші налаштування вашого брандмауера дозволяють цей тип підключення. Наскрізний інтернет підтримує тільки TCP з'єднання, якщо ваш комп'ютер підключається до Інтернету через PPP (наприклад, Dial Up, XDSL, або VPN).</string>
+     <string name="PSMsg">"Якщо ви не можете підключитися до Інтернету через наскрізний інтернет, будь ласка, переконайтеся, що ваші налаштування вашого брандмауера дозволяють цей тип підключення. Наскрізний інтернет підтримує тільки TCP з'єднання, якщо ваш комп'ютер підключається до Інтернету через PPP (наприклад, Dial Up, XDSL, або VPN)."</string>
      <string name="PSPass">наскрізний інтернет</string>
      <string name="PSTitle">Оповіщення</string>
      <string name="do_not_show_psmsg">"Не показувати наступного разу"</string>

@@ -32,6 +32,9 @@
      <string name="aggregation_suggestion_join_dialog_message">"Об'єднати поточний контакт з обраним контактом?"</string>
      <string name="all_list_empty">Немає контактів</string>
      <string name="all_resources">Все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="antispam_mark_my_contribution">My contribution to the mark</string>
+     <string name="antispam_provider_format">The mark is provided by %s</string>
      <string name="attach_photo_dialog_title">Фотографія контакту</string>
      <string name="audio_chat">Голосовий чат</string>
      <string name="auto_nickname">Авто</string>
@@ -101,7 +104,6 @@
      <!-- Original string: Confirm %s? -->
      <string name="callrecordview_menu_delete_confirm">Журнал дзвінків буде очищений</string>
      <string name="callrecordview_menu_delete_missed">Очистити пропущені виклики</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callrecordview_menu_delete_new">Очистити журнали викликів нових контактів</string>
      <string name="callrecordview_menu_delete_one">Видалити з журналу викликів</string>
      <string name="callrecordview_menu_delete_stranger">Відкрити пропущені дзвінки</string>
@@ -112,7 +114,6 @@
      <string name="callrecordview_menu_show_all">Всі</string>
      <string name="callrecordview_menu_show_called">Тільки вихідні</string>
      <string name="callrecordview_menu_show_missed">Тільки пропущені</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="callrecordview_menu_show_new">Нові контакти</string>
      <string name="callrecordview_menu_show_stranger">Тільки незнайомі</string>
      <string name="callrecordview_menu_show_title">Налаштування відображення</string>
@@ -168,6 +169,7 @@
      <string name="contact_editor_prompt_multiple_accounts">Виберіть облік. запис, в який слід додати новий контакт.</string>
      <string name="contact_editor_prompt_one_account">Контакт буде додано до облік. запису %1$s.</string>
      <string name="contact_editor_prompt_zero_accounts">Резервна копія нового контакту не буде збережена. Додати облік. запис для збереження контактів в Інтернеті?</string>
+     <string name="contact_is_readOnly">Can not edit read-only contacts</string>
      <string name="contact_list_loading">Завантаження…</string>
      <string name="contact_pick_photo">Фото</string>
      <string name="contact_read_only">Тут доступно тільки для читання</string>
@@ -409,6 +411,11 @@
      <string name="import_to_xiaomi_account_title">Ви впевнені, що хочете імпортувати контакти в облік. запис Xiaomi?</string>
      <string name="import_vcard_description">Імпортувати з SD-карти</string>
      <string name="import_weibo_dialog_title">Імпорт контактів sina weibo</string>
+     <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
+     <string name="import_weibo_error_no_network">Done updating contacts: network error</string>
+     <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under XiaoMi account</string>
+     <string name="import_weibo_error_unknown">Done updating contacts: unknown error</string>
+     <string name="import_weibo_error_user_cancel">Done updating contacts: user canceled</string>
      <string name="import_weibo_fetch_followers">Отримання користувачів weibo…</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
@@ -465,6 +472,8 @@
      <string name="menu_bar_group_delete">Видалити групу</string>
      <string name="menu_bar_group_rename">Перейменувати</string>
      <string name="menu_bar_group_ringtone">Рингтон групи</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_bar_group_ringtone_largeui">Ringtone</string>
      <string name="menu_bar_group_sms">SMS групі</string>
      <string name="menu_call">Подзвонити</string>
      <string name="menu_callNumber">Виклик: %s</string>
@@ -716,6 +725,8 @@
      <string name="private_num">Прихований номер</string>
      <string name="processing">Обробка...</string>
      <string name="profile_display_name">Налаштувати профіль</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_name">My profile</string>
      <string name="progress_notifier_message" formatted="false">Імпорт %s/%s:%s</string>
      <string name="quickcontact_missing_app">Дія не підтримується в жодній з програм</string>
      <string name="quit_dialog_confirm_title">"Ви дійсно хочете вийти з об'єднання контактів?"</string>
@@ -738,9 +749,7 @@
      <string name="recent_contacts_label">Недавні</string>
      <string name="recent_number">Недавній</string>
      <string name="recent_updates">Недавні поновлення</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="redirect_calls_to_vm_confirm_message">Якщо ви не застосували це у оператора, будь ласка, не включайте. Інакше, можливо, ви не зможете отримувати виклики від цього контакту.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="redirect_calls_to_vm_confirm_text">Увімкнути</string>
      <string name="relationLabelsGroup">Відносини</string>
      <string name="remind_btn_ignore">Пізніше</string>
@@ -786,7 +795,6 @@
      <string name="resource_title">Відомості</string>
      <string name="resource_title_select_ringtone">Виберіть мелодію</string>
      <string name="resource_update">Онов.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_waiting_download">Очікування</string>
      <string name="restore_nickname">Відновити</string>
      <string name="returnCall">Зворотній виклик</string>
@@ -819,7 +827,6 @@
      <string name="separatorJoinAggregateSuggestions">Пропоновані контакти</string>
      <string name="service_provider">Надання сервісів</string>
      <string name="set_default">Встановити за замовчуванням</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="set_photo_failed_msg">Встановлення аватару невдале</string>
      <string name="share_error">Не вдалося передати дані</string>
      <string name="share_via">Відправити за допомогою</string>

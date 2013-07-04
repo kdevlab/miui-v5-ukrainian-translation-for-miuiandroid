@@ -93,6 +93,9 @@
      <string name="toast_message_add_image_fail">Не вдалося вставити зображення!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_privacy_mode">Cannot edit note in guarded mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="toast_reach_text_limit_attachment">The content of note is too long to add new attachments.</string>
+     <string name="toast_reach_text_limit_truncate">"The content of note is automatically truncate for it's too long."</string>
      <string name="widget_havenot_content">Немає нотаток, натисніть сюди, щоб створити нотатку</string>
      <string name="widget_under_visit_mode">Неможливо переглянути нотатки, тому що увімкнений режим гостю</string>
 </resources>

@@ -174,9 +174,7 @@
      <string name="cdma_activate_device">Активувати пристрій</string>
      <string name="cdma_conference_call_miui">"Конференц-зв'язок"</string>
      <string name="cdma_display_precise_call_state_message_miui">Якщо Ваш оператор не підтримує, стан виклику буде неправильним, якщо даний вимикач відкритий. Ви впевнені, що відкрити його?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cdma_display_precise_call_state_summary_miui">Таймер CDMA виклику обмежений оператором мережі. Якщо місцевий оператор підтримує, стан виклику можна показати точно.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cdma_display_precise_call_state_title_miui">Показати точний стан виклику</string>
      <string name="cdma_lte_data_service">Налаштувати передачу даних</string>
      <string name="cdma_options">Параметри CDMA</string>
@@ -912,7 +910,7 @@
      <!-- The count of MNPS does not match! Now: 2 must: 3
 	%s: 1 must: 1
 	%d: 1 must: 2 -->
-     <!-- Original string: %1$d? of cycle elapsed
+     <!-- Original string: %1$d٪ of cycle elapsed
 Next period starts in %2$d days (%3$s) -->
      <string name="throttle_time_frame_subtext">"%1$s перевищено максимум.
 Частота даних зменшена до %2$d кБ/с "</string>

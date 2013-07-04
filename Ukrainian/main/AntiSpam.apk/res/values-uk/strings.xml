@@ -46,7 +46,6 @@
      <string name="context_call">Викликати</string>
      <string name="context_ms">Відправити SMS/MMS</string>
      <string name="context_new_contact">Новий контакт</string>
-     <string name="custom_mark_category">Користувацькі</string>
      <string name="edit_blacklist">Редагувати</string>
      <string name="edit_whitelist">Редагувати</string>
      <string name="emptylist_fwlog_call">Всі заблоковані дзвінки будуть зберігатися в цьому журналі</string>
@@ -108,8 +107,6 @@
      <string name="fw_time_settings">Час</string>
      <string name="fw_whitelist">Білий список</string>
      <string name="fw_whitelist_hint">Всі контакти в цьому списку не будуть заблоковані</string>
-     <string name="mark_number_dialog_maintitle">Визначити невідомий номер та завантажити</string>
-     <string name="mark_number_dialog_subtitle">Технічна підтримка: Sougou</string>
      <string name="member_firewall_log" formatted="false">Заблоковано: Номерів: %d, SMS: %d</string>
      <string name="menu_edit">Змінити</string>
      <string name="mms_log_tab_title">Повідомлення</string>
@@ -132,10 +129,5 @@
      <string name="save_button">Зберегти</string>
      <string name="show_firewall_notification">Показувати значок</string>
      <string name="show_notification">Показати сповіщення</string>
-     <string name="smart_antispam">Визначення невідомих номерів</string>
-     <string name="turn_on_smart_antispam_hint">Після вимкнення даної функції, номери невідмих абонентів будуть визначені, що допоможе Вам уникнути шахрайства.</string>
-     <string name="turn_on_smart_antispam_summary_off">Визначення невідомих номерів тільки за допомогою локальної бази.</string>
-     <string name="turn_on_smart_antispam_summary_on">Визначення невідомих номерів тільки по Wi-Fi и 3G.</string>
-     <string name="turn_on_smart_antispam_title">Визначення номерів</string>
      <string name="whitelist_tab_title">Білий список</string>
 </resources>

@@ -2,22 +2,34 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="access_denied">доступ заборонено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
      <string name="account">Обліковий запис</string>
      <string name="account_detail">Xiaomi облік. запис:%1$s</string>
      <string name="account_dspt">Облік. запис Xiaomi дозволяє синхронізувати і резервувати ваші SMS, контакти, фото, нотатки та інше</string>
      <string name="account_hint_text">Електронна пошта</string>
      <string name="account_name">Обліковий запис: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_phone_failed_notif_title">Failed to enable MiCloud service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_phone_send_sms_fail">Failed to send activation SMS, unable to open sync service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_phone_send_sms_failed_notif">Failed to send activation SMS</string>
+     <string name="activate_phone_server_error">Server error，unable to open sync service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate_phone_server_error_notif">Server error</string>
      <string name="activating">Активація...</string>
      <string name="add_weibo_account">Додати облік. запис</string>
      <string name="alert_title_remove_account">Видалити облік. запис</string>
      <string name="app_name">Менеджер облік. записів Xiaomi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="available_functionality">Доступні функції</string>
      <string name="bad_authentication">Неправильний пароль або ім\’я користувача</string>
      <string name="balance">Баланс: %1$s Micredit</string>
      <string name="bind_sina_weibo">"Прив\’язати Sina WeiBo"</string>
      <string name="bind_weibo_description">Знайти, телефонні контакти, мікроблоги, друзів, додаткову інформацію, таку як аватар, день народження тощо</string>
-     <string name="binded">Прив\'язано</string>
+     <string name="binded">"Прив\'язано"</string>
      <string name="btn_activate">Активувати</string>
      <string name="btn_back">Назад</string>
      <string name="btn_call">Зателефонувати</string>
@@ -42,12 +54,12 @@
      <string name="cloud_messaging">MiCloud messaging</string>
      <string name="completed">Завершене</string>
      <string name="confirm">Підтвердити</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="current_account">Поточний облік. запис</string>
      <string name="data_keep_in_phone">Залишити на моєму пристої</string>
      <string name="data_sync_notice">Використовувати обліковий запис Xiaomi для синхронізації повідомлень, контактів та інших даних</string>
      <string name="data_wipe_from_phone">Видалити з мого пристрою</string>
      <string name="disable_find_device_error">%1$s, помилка вимкнення функції пошуку пристрою</string>
+     <string name="disable_micloud"><u>Do not enable MiCloud</u></string>
      <string name="email_already_be_used">Ця адреса пошти вже використовується</string>
      <string name="enable_find_device_error">%1$s, помилка увімкнення функції пошуку пристрою</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -96,11 +108,12 @@
      <string name="find_password_on_web_msg"> Будь ласка, відвідаєте account.xiaomi.com для отримання паролю</string>
      <string name="forget_password">Забули пароль?</string>
      <string name="frozen">(Заморожений)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="get_back_pwd">Retrieve account password</string>
      <string name="giftcard_acitivity_and_denomination">%2$s-MiCredit подарунковий сертифікат для %1$s</string>
      <string name="giftcard_denom">MiCredit(s)</string>
      <string name="giftcard_denom_available">MiCredit(s) доступний</string>
      <string name="giftcard_denom_frozen">MiCredit(s) заморожено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="giftcard_empty">Немає подарункових сертифікатів</string>
      <string name="giftcard_expire">%1$s-%2$s-%3$s expired</string>
      <string name="giftcard_hint">"MiCredits in gift card spent first
@@ -121,6 +134,8 @@ and invalid if overdue"</string>
      <string name="label_order_price">"Ціна: "</string>
      <string name="login">Вхід</string>
      <string name="login_failed">Помилка входу</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="login_instead_reg">Login using this phone number</string>
      <string name="login_notice">Вхід...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="memu_refresh">Refresh</string>
@@ -131,10 +146,28 @@ and invalid if overdue"</string>
      <string name="micloud_account_label">Облік. запис: %1$s</string>
      <string name="micloud_account_name">Облік. запис Xiaomi</string>
      <string name="micloud_account_not_actived">Облік. запис не активований</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_activate_account_fail_notify_title">Failed to activate your Xiaomi account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_activate_account_success_notify_title">Successfully activated your Xiaomi account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_activate_back_btn">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_activate_retry_btn">Retry activation</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_activating_account_notify_info">You are activating your Xiaomi account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_activating_account_notify_title">Activating your Xiaomi account...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_active_alert_title">Activate your account</string>
      <string name="micloud_active_email_sent_1">Мі відправили Вам лист з посиланням активації на пошту:</string>
      <string name="micloud_active_email_sent_2" />
      <string name="micloud_active_email_visit">Відвідати %s</string>
      <string name="micloud_activing_account">Активація облік. запису</string>
+     <string name="micloud_activing_account_delayed">"It probably needs 30 seconds to complete activating
+You can do something else..."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_activing_account_failed">Failed to activate your account</string>
      <string name="micloud_click_email">Натисніть на посилання в листі активації для активації облік. запису Xiaomi</string>
      <string name="micloud_click_email_to_valid">Натисніть на посилання активації в поштовій скринці</string>
      <string name="micloud_delete_account">Видалити облік. запис</string>
@@ -162,18 +195,17 @@ and invalid if overdue"</string>
      <string name="micloud_password_confirm_hint">Підтвердіть пароль</string>
      <string name="micloud_password_error_inconsistent">Паролі не співпадають</string>
      <string name="micloud_password_req_notice">8~16 символів, містить цифри, букви алфавіту, з врахуванням регістру</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_proceed">Continue</string>
      <string name="micloud_reg_new">Створити новий</string>
      <string name="micloud_resend_active_email">Знову відправити лист активації</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_summary">Увійти в облік. запис Xiaomi для синхронізації контактів, Галереї, Альбомів та інш.</string>
      <string name="micloud_use_existing">Існуючий</string>
      <string name="micloud_via_int_sms_alert">Для перевірки Вашого номеру Буде відправлене міжнародне повідомлення. Продовжити?</string>
      <string name="micloud_via_sms_alert">Буде відправлене повідомлення для підтвердження вашого телефонного номеру. Продовжити?</string>
      <string name="micloud_welcome_skip_login">Пропустити цей крок</string>
      <string name="mili_center">Центр Micredit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="my_mili_record">Мій MiCredit</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="my_xiaomi_account">Мій поточний облік. запис Xiaomi</string>
      <string name="next">Далі</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -247,6 +279,9 @@ and invalid if overdue"</string>
      <string name="recharge_voucher_title">Карти Mi Credit</string>
      <string name="reg_by_email_failure">Помилка реєстрації: %1$s</string>
      <string name="reg_failed">Помилка реєстрації</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="reg_success">Registration succeeded</string>
+     <string name="reg_success_summary">Your mobile number %1$s is already designated to MiLock where you can use it to login and retrieve password.</string>
      <string name="reg_type_email">Реєстрація по ел. пошті</string>
      <string name="reg_type_phone">Реєстрація по телефону (рекомендується)</string>
      <string name="reging">Реєстрація. Зачекайте, будь ласка…</string>
@@ -258,11 +293,14 @@ and invalid if overdue"</string>
      <string name="send_int_sms_for_sync_notice">Для активації синхронізації повідомлень буде надіслано SMS. Продовжити?</string>
      <string name="send_sms_for_sync_notice"> Для активації потрібно відправити SMS, продовжити?</string>
      <string name="send_sms_for_sync_title">Не активовано</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="service_error">Service error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="show_password">Show password</string>
      <string name="sim_changed_notification_content">SIM не активована, будь ласка активуйте</string>
      <string name="skip_login">Пропустити</string>
      <string name="skip_setup_account_msg">Використання облік. запису Xiaomi дозволить вам синхронізувати й резервувати повідомлення, контакти, фотографії, нотатки й т.д. Продовжити й налаштувати пізніше?</string>
      <string name="skip_setup_account_title">Пропустити налаштування облік. запису</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="start_micloud">Старт</string>
      <string name="sync_dspt">Використовувати облік. запис Xiaomi для синхронізації даних</string>
      <string name="sync_off">ВИКЛ</string>
@@ -291,6 +329,5 @@ and invalid if overdue"</string>
      <string name="voucher_edit_hint">Пароль</string>
      <string name="voucher_edit_limit">символів</string>
      <string name="voucher_error_code">Введено невірний пароль Mi Credit карти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="voucher_input_password_prompt">Введіть пароль</string>
 </resources>
