@@ -133,7 +133,7 @@
      <string name="apn_server">Сервер</string>
      <string name="apn_settings">Точки доступу (APN)</string>
      <string name="apn_type">Тип APN</string>
-     <string name="apn_user">"Ім'я користувача"</string>
+     <string name="apn_user">"Ім\'я користувача"</string>
      <string name="app_disable_dlg_text">Відключення вбудованої служби може порушити роботу інших програм</string>
      <string name="app_disable_dlg_title">Відключити програму?</string>
      <string name="app_disable_notifications_dlg_text">Якщо вимкнути сповіщення для цієї програми, ви можете пропустити важливе повідомлення або оновлення</string>
@@ -151,7 +151,7 @@
      <string name="app_name_label">Програма</string>
      <string name="app_not_found_dlg_text">Програму не знайдено у списку встановлених</string>
      <string name="app_notifications_switch_label">Показувати сповіщення</string>
-     <string name="app_process_limit_title">Ліміт фонових процесів</string>
+     <string name="app_process_limit_title">Межа фонових процесів</string>
      <string name="app_special_disable_dlg_text">Якщо відключити вбудований додаток, інші програми можуть працювати неправильно. Крім того, будуть видалені всі дані.</string>
      <string name="app_special_disable_dlg_title">Відключити?</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
