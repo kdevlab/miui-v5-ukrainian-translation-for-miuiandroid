@@ -9,11 +9,11 @@
      <string name="airkan_control_device_des">Ви можете керувати відтворенням відео за допомогою кнопки в нижній частині</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="airkan_device_xiaomi_phone">Xiaomi</string>
-     <string name="airkan_video_playing">Трансляция</string>
+     <string name="airkan_video_playing">Відтворення</string>
      <string name="airkan_video_playing_in">Відтворюється…</string>
      <string name="app_name">Відео</string>
      <string name="buffering">Буферизація…</string>
-     <string name="buffering_video_netplay_label_v5">Буферизация...</string>
+     <string name="buffering_video_netplay_label_v5">Буферізація...</string>
      <string name="loading_video_netplay_label">Завантаження, будь ласка, зачекайте...</string>
      <string name="loading_video_netplay_label_v5">Завантаження, будь ласка, зачекайте...</string>
      <string name="menu_item_about_label">Про програму</string>
