@@ -136,14 +136,14 @@
      <string name="theme_rock_and_roll_title">Концерт</string>
      <string name="theme_surfing_subtitle">Фінський залив</string>
      <string name="theme_surfing_title">Катання на дошці</string>
-     <string name="theme_travel_subtitle">Санкт-Петербург</string>
+     <string name="theme_travel_subtitle">Київ</string>
      <string name="theme_travel_title">Моя подорож до Балтийского моря</string>
      <string name="transitions_alpha_countour">Контурный альфа-канал</string>
      <string name="transitions_alpha_diagonal">Діагональний альфа-канал</string>
      <string name="transitions_crossfade">Прояв</string>
      <string name="transitions_duration">%(,.1f с</string>
      <string name="transitions_fade_black">Затемнення і вихід з затемнення</string>
-     <string name="transitions_select_transition">Выбор перехода</string>
+     <string name="transitions_select_transition">Вибір переходу</string>
      <string name="transitions_sliding_bottom_out_top_in">Ковзання зверху донизу</string>
      <string name="transitions_sliding_left_out_right_in">Ковзання справа наліво</string>
      <string name="transitions_sliding_right_out_left_in">Ковзання зліва направо</string>
