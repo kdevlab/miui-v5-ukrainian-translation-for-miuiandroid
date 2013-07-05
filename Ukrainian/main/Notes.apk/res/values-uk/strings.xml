@@ -19,7 +19,7 @@
      <string name="alert_message_edit_anyway">Примітка містить непідтримувані дані. Їх редагування може призвести до втрати даних.</string>
      <string name="alert_title_delete">Видалити вибрані нотатки</string>
      <string name="alert_title_discard">Скасування</string>
-     <string name="alert_title_edit_anyway">Confirm to edit note even if maybe data lose?</string>
+     <string name="alert_title_edit_anyway">Ви впевнені, що хочете відредагувати, навіть якщо деякі дані пропадуть?</string>
      <string name="app_name">Нотатки</string>
      <string name="app_widget">Нотатки</string>
      <string name="attachment_camera">Камера</string>
