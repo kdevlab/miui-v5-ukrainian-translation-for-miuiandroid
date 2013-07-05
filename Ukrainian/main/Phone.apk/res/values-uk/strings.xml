@@ -115,7 +115,7 @@
      <string name="callFailed_powerOff">Радіо відключено</string>
      <string name="callFailed_server_error">Помилка сервера. Повторіть спробу пізніше</string>
      <string name="callFailed_server_unreachable">Сервер недоступний</string>
-     <string name="callFailed_simError">SIM-карта не встановлена або помилка SIM-картки</string>
+     <string name="callFailed_simError">SIM карта не встановлена або помилка SIM карти</string>
      <string name="callFailed_timedOut">Немає відповіді, час очікування минув</string>
      <string name="callFailed_unobtainable_number">Недійсний номер</string>
      <string name="callFailed_userBusy">Лінія зайнята</string>
