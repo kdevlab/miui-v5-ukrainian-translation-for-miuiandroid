@@ -23,7 +23,7 @@
      <string name="cache_size_label">Кеш</string>
      <string name="cancel">Скасувати</string>
      <string name="cancel_app_garbage_cleanup">Не очищати</string>
-     <string name="cancel_with_count_down">Cancel (%d)</string>
+     <string name="cancel_with_count_down">Відміна (%d)</string>
      <string name="category_all">Всі</string>
      <string name="category_apk">Програми</string>
      <string name="category_document">Документи</string>
