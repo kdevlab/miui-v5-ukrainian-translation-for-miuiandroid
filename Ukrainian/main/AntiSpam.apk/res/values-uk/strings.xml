@@ -94,7 +94,7 @@
      <string name="fw_ms" formatted="false">Перехоплено повідомлень: %s (%d)</string>
      <string name="fw_ms_filtered">Повідомлення відфільтровано</string>
      <string name="fw_ms_imported">Імпортуються SMS</string>
-     <string name="fw_ms_muted">Повідомлення беззвучно</string>
+     <string name="fw_ms_muted">Повідомлення без звуку</string>
      <string name="fw_ms_rejected">Повідомлення заблоковано</string>
      <string name="fw_no_effect">Режим захисту не включений</string>
      <string name="fw_notes_hint">"Примітка (необов\’язково)"</string>
