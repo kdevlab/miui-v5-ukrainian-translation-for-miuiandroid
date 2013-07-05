@@ -15,7 +15,7 @@
      <string name="addPeopleToGroup">Щоб добавити контакт у групу, перейдіть в режим редагування групи</string>
      <string name="add_2sec_pause">Додати 2-сек. паузу</string>
      <string name="add_account">Додати облік. запис</string>
-     <string name="add_blacklist">Додати в чорний список</string>
+     <string name="add_blacklist">В чорний список</string>
      <string name="add_connection_button">Додати соцмережу</string>
      <string name="add_contact_dlg_message_fmt">Додати в контакти %s?</string>
      <string name="add_field">Додати поле</string>
@@ -33,8 +33,8 @@
      <string name="all_list_empty">Немає контактів</string>
      <string name="all_resources">Все</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="antispam_mark_my_contribution">My contribution to the mark</string>
-     <string name="antispam_provider_format">The mark is provided by %s</string>
+     <string name="antispam_mark_my_contribution">Мій внесок в спам-фільтр</string>
+     <string name="antispam_provider_format">Підтримка спам-фільтру %s</string>
      <string name="attach_photo_dialog_title">Фотографія контакту</string>
      <string name="audio_chat">Голосовий чат</string>
      <string name="auto_nickname">Авто</string>
@@ -324,8 +324,11 @@
      <string name="eventLabelsGroup">Події</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Експорт на SIM-карту завершено</string>
-     <string name="export_sim_contact_finish_failure">Failure caused by storage full, Completed: %1$d Incompleted: %2$d</string>
-     <string name="export_sim_contact_finish_success">Copied %d contact(s)</string>
+     <string name="export_sim_contact_finish_failure">Не достатньо місця.
+     
+Скопійовано: %1$d 
+Не вдалось: %2$d</string>
+     <string name="export_sim_contact_finish_success">Скопійлвано контактів: %d</string>
      <string name="export_sim_contacts_dialog_message">На SIM-карту можні зберегти %d контактів, продовжити?</string>
      <string name="export_to_sdcard">Експорт на SD-карту</string>
      <string name="export_to_sim">Експорт на SIM-карту</string>
@@ -390,7 +393,7 @@
 	%d: 0 must: 1 -->
      <!-- Original string: %d contacts -->
      <string name="hint_search_contacts">Пошук контактів</string>
-     <string name="hint_search_emails">%d emails</string>
+     <string name="hint_search_emails">Адресів ел. пошти: %d</string>
      <string name="hint_search_phone_numbers">Телефонів: %d</string>
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
@@ -411,11 +414,11 @@
      <string name="import_to_xiaomi_account_title">Ви впевнені, що хочете імпортувати контакти в облік. запис Xiaomi?</string>
      <string name="import_vcard_description">Імпортувати з SD-карти</string>
      <string name="import_weibo_dialog_title">Імпорт контактів sina weibo</string>
-     <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
-     <string name="import_weibo_error_no_network">Done updating contacts: network error</string>
-     <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under XiaoMi account</string>
-     <string name="import_weibo_error_unknown">Done updating contacts: unknown error</string>
-     <string name="import_weibo_error_user_cancel">Done updating contacts: user canceled</string>
+     <string name="import_weibo_error_no_matched_contacts">Оновлення контактів: немає співпадаючих контактах</string>
+     <string name="import_weibo_error_no_network">Оновлення контактів: помилка мережі</string>
+     <string name="import_weibo_error_no_xiaomi_phone">Оновлення контактів: немає телефонів в обліковому записі Xiaomi</string>
+     <string name="import_weibo_error_unknown">Оновлення контактів: невідома помилка</string>
+     <string name="import_weibo_error_user_cancel">Оновлення контактів: скасовано користувачем</string>
      <string name="import_weibo_fetch_followers">Отримання користувачів weibo…</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
@@ -454,7 +457,7 @@
      <string name="loading_group_members">Завантаження контактів...</string>
      <string name="loading_groups">Завантаження груп...</string>
      <string name="loading_recent">Завантаження останніх контактів...</string>
-     <string name="loading_resource_detail_fail">Failing to load resource!</string>
+     <string name="loading_resource_detail_fail">Помилка завантаження ресурсу!</string>
      <string name="loading_resource_detail_info">Завантаження...</string>
      <string name="local_invisible_directory">Інше</string>
      <string name="local_profile_title">Мій профіль</string>
@@ -471,9 +474,9 @@
      <string name="menu_bar_group_add">Додати</string>
      <string name="menu_bar_group_delete">Видалити групу</string>
      <string name="menu_bar_group_rename">Перейменувати</string>
-     <string name="menu_bar_group_ringtone">Рингтон групи</string>
+     <string name="menu_bar_group_ringtone">Мелодія групи</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="menu_bar_group_ringtone_largeui">Ringtone</string>
+     <string name="menu_bar_group_ringtone_largeui">Мелодія</string>
      <string name="menu_bar_group_sms">SMS групі</string>
      <string name="menu_call">Подзвонити</string>
      <string name="menu_callNumber">Виклик: %s</string>
@@ -712,7 +715,7 @@
      <string name="preference_smart_group_frequency_title">За останніми викликами</string>
      <string name="preference_smart_group_location_summary">Групування контактів за кодами оператора</string>
      <string name="preference_smart_group_location_title">За місцезнаходженням</string>
-     <string name="preference_smart_group_title">Смарт-групування</string>
+     <string name="preference_smart_group_title">Розумне групування</string>
      <string name="preference_telocation_summary_countrycode_off">Не добавляти автоматично код країни</string>
      <string name="preference_telocation_summary_countrycode_on">Автоматично добавляти код країни</string>
      <string name="preference_telocation_summary_teloc_off">Приховати місцезнаходження</string>
@@ -726,7 +729,7 @@
      <string name="processing">Обробка...</string>
      <string name="profile_display_name">Налаштувати профіль</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="profile_name">My profile</string>
+     <string name="profile_name">Мій профіль</string>
      <string name="progress_notifier_message" formatted="false">Імпорт %s/%s:%s</string>
      <string name="quickcontact_missing_app">Дія не підтримується в жодній з програм</string>
      <string name="quit_dialog_confirm_title">"Ви дійсно хочете вийти з об'єднання контактів?"</string>
