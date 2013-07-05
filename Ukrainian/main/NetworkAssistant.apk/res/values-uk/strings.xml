@@ -25,7 +25,7 @@
      <string name="app_detail_internet_control_category">Управління мережею</string>
      <string name="app_detail_title">Інф. про прог.</string>
      <string name="app_detail_version">Версія: %s</string>
-     <string name="app_has_deleted">%s has been deleted.</string>
+     <string name="app_has_deleted">%s бкде видалено.</string>
      <string name="app_name">Монітор</string>
      <string name="app_traffic_detail">" трафік(%s)"</string>
      <string name="apply_rules_failed">Не вдалося включити брандмауер, спробуйте ще раз. (%s)</string>
