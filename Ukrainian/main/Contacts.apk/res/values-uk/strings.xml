@@ -692,11 +692,11 @@
      <string name="preference_contacts_display">Відображення контактів</string>
      <string name="preference_contacts_filter">Контакти для відображення</string>
      <string name="preference_contacts_more">Інші налаштування</string>
-     <string name="preference_dial_pad_touch_tone_default">За промовчанням</string>
+     <string name="preference_dial_pad_touch_tone_default">За замовчанням</string>
      <string name="preference_dial_pad_touch_tone_human">Голос людини</string>
      <string name="preference_dial_pad_touch_tone_piano">Фортепіано</string>
      <string name="preference_dial_pad_touch_tone_switch">Звук клавіш</string>
-     <string name="preference_dial_pad_touch_tone_title">Номеронабирач</string>
+     <string name="preference_dial_pad_touch_tone_title">Звук при натисканні</string>
      <string name="preference_display">Налаштування відображення</string>
      <string name="preference_displayOptions">Варіанти відображення</string>
      <string name="preference_export">Експорт</string>
@@ -751,7 +751,7 @@
      <string name="recentCalls_trashVoicemail">Видалити голосове повідомлення</string>
      <string name="recent_contacts_label">Недавні</string>
      <string name="recent_number">Недавній</string>
-     <string name="recent_updates">Недавні поновлення</string>
+     <string name="recent_updates">Недавні оновлення</string>
      <string name="redirect_calls_to_vm_confirm_message">Якщо ви не застосували це у оператора, будь ласка, не включайте. Інакше, можливо, ви не зможете отримувати виклики від цього контакту.</string>
      <string name="redirect_calls_to_vm_confirm_text">Увімкнути</string>
      <string name="relationLabelsGroup">Відносини</string>
