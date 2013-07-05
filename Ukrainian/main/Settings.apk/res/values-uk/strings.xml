@@ -468,9 +468,9 @@
      <string name="cell_broadcast_settings">Широкомовні повідомлення</string>
      <string name="cell_broadcast_settings_summary">Вибір типу повідомлень для відображення</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="change_password">Change password</string>
+     <string name="change_password">Змінити пароль</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="change_security_lock">Try other ways to unlock</string>
+     <string name="change_security_lock">Спробуйте інші варіанти, щоб розблокувати</string>
      <string name="checkbox_notification_same_as_incoming_call">Використовувати цей рівень гучності також для повідомлень</string>
      <string name="choose_timezone">Вибрати часовий пояс</string>
      <string name="clear_activities">Видалити налаштування за замовчуванням</string>
@@ -972,7 +972,7 @@
      <string name="lock_screen_unlock_show">Показати інтерфейс введення пароля</string>
      <string name="lock_screen_unlock_show_summary">Не використовуйте інші локскріни після включення, досить зайти в інтерфейс для розблокування екрана</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lock_settings_common_title">Lock settings</string>
+     <string name="lock_settings_common_title">Налаштування блокування</string>
      <string name="lock_settings_picker_settings">Встановити блокування екрана</string>
      <string name="lock_settings_picker_title">Тип блокування</string>
      <string name="lock_settings_title">Блокування екрану</string>
@@ -1092,7 +1092,7 @@
      <string name="memory">ОЗУ</string>
      <string name="memory_apps_usage">Програми</string>
      <string name="memory_available">Доступно</string>
-     <string name="memory_available_read_only">Available (read-only)</string>
+     <string name="memory_available_read_only">Доступно (тільки для читання)</string>
      <string name="memory_calculating_size">Йде підрахунок...</string>
      <string name="memory_clear_cache_message">Будуть видалені дані всіх додатків.</string>
      <string name="memory_clear_cache_title">Очистити кеш?</string>
@@ -1125,9 +1125,9 @@
      <string name="moving">Переміщення</string>
      <string name="msd_driver_download">Скачати драйвер</string>
      <string name="msd_driver_mac_download">"Використовуючи ваш Mac, скачайте драйвер і відкрийте AndroidFileTransfer.dmg для установки 
-Ссилка для скачки: http://miui.com/mac"</string>
+Посилання на завантаження: http://miui.com/mac"</string>
      <string name="msd_driver_windows_xp_download">"Використовуючи ваш комп'ютер, скачайте драйвер і виконайте Setup.exe для установки 
-Ссилка для скачки: http://miui.com/win"</string>
+Посилання на завантаження: http://miui.com/win"</string>
      <string name="msd_help_summary">"Проблеми з доступом до мобільного пристрою через комп'ютер? Будь ласка, виберіть операційну систему вашого комп'ютера:"</string>
      <string name="msd_help_title">Допомога</string>
      <string name="msd_install">Встановити драйвер</string>
@@ -1479,7 +1479,7 @@
      <string name="radio_info_smsc_refresh_label">Оновлення</string>
      <string name="radio_info_smsc_update_label">Оновити</string>
      <string name="radio_info_toggle_dns_check_label">Вибір перевірки DNS</string>
-     <string name="read_only">" (Read-only)"</string>
+     <string name="read_only">" (тільки читання)"</string>
      <string name="really_remove_account_message">"Видалення цього облік. запису призведе до втрати всіх пов'язаних з ним повідомлень, контактів та інших даних, наявних в телефоні"</string>
      <string name="really_remove_account_title">Видалити облік. запис?</string>
      <string name="recognizer_settings_summary">Налаштування для %s</string>
@@ -1585,7 +1585,7 @@
      <string name="sdcard_settings_total_bytes_label">Всього байтів:</string>
      <string name="sdcard_settings_unmounted_status">Тепер можна витягти SD карту</string>
      <string name="sdcard_settings_used_bytes_label">Використано байтів:</string>
-     <string name="sdcard_unmount">Витягти SD-карту</string>
+     <string name="sdcard_unmount">Витягти SD карту</string>
      <string name="search_about">Про програму</string>
      <string name="search_accelerometer">Акселерометр</string>
      <string name="search_access_control">Контроль доступу</string>
@@ -1711,12 +1711,12 @@
      <string name="sim_pins_dont_match">PIN-коди не співпадають</string>
      <string name="sim_reenter_new">Введіть новий PIN повторно</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sim_status_title">SIM status</string>
+     <string name="sim_status_title">Статус SIM</string>
      <string name="skip_button_label">Відмінити</string>
      <string name="skip_label">Далі</string>
      <string name="skip_step">Пропустити цей крок</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="slot_status_title">IMEI information</string>
+     <string name="slot_status_title">IMEI інформація</string>
      <string name="small_font">Маленький</string>
      <string name="sms_delivered_sound_dialog_title">Вибір звуку при доставці повідомлення адресату</string>
      <string name="sms_delivered_sound_title">Доставка повідомлення</string>
@@ -1864,7 +1864,7 @@
      <string name="tts_settings_title">Синтез мови</string>
      <string name="turn_off_radio">Вимкнути радіо</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="turn_off_security_lock">Turn off lock</string>
+     <string name="turn_off_security_lock">Відключити блокування</string>
      <string name="turn_on_radio">Увімкнути радіо</string>
      <string name="under_keyguard">На екрані блокування</string>
      <string name="uninstall_all_users_text">Видалити всіх користувачів</string>
