@@ -136,14 +136,14 @@
      <string name="do_not_save">Скасувати</string>
      <string name="download_complete">Завантаження файлу завершено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="download_failed">Download failed</string>
+     <string name="download_failed">Помилка завантаження</string>
      <string name="download_no_sdcard_dlg_msg">Для завантаження %s необхідна SD карта</string>
      <string name="download_no_sdcard_dlg_title">SD карта відсутня</string>
      <string name="download_pending">Починається завантаження…</string>
      <string name="download_sdcard_busy_dlg_msg">SD карта зайнята. Щоб дозволити завантаження, виберіть Вимкнути USB-накопичувач \" в повідомленні</string>
      <string name="download_sdcard_busy_dlg_title">SD карта недоступна</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dump_counters">Dump V8 counters</string>
+     <string name="dump_counters">Зкинути лічильники V8</string>
      <string name="dump_display_tree">Дамп Display дерева в файл</string>
      <string name="dump_dom_tree">Дамп DOM дерева в файл</string>
      <string name="dump_nav">Дамп навігації кешу</string>
@@ -400,10 +400,10 @@
      <string name="pref_use_instant_search">Google Живий пошук</string>
      <string name="pref_use_instant_search_summary">"У Живому пошуку результати з\’являються прямо при введенні тексту (можливе збільшення обсягу переданих даних)"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_video_preload_dialogtitle">Video preloading</string>
+     <string name="pref_video_preload_dialogtitle">Предзавантаження відео</string>
      <string name="pref_video_preload_summary">"Дозволити браузеру попередньо завантажувати відео файли, якщо це можливо"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_video_preload_title">Video preloading</string>
+     <string name="pref_video_preload_title">Предзавантаження відео</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_video_preload_value_never_summary">Never Allow browser to preload video when server allows</string>
      <string name="pref_volume_key_enabled">Кнопки гучності</string>
@@ -412,7 +412,7 @@
      <string name="preview">Попередній перегляд</string>
      <string name="progress_dialog_setting_wallpaper">Застосування шпалер...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="quicklinks_management">Useful Sites</string>
+     <string name="quicklinks_management">Корисні сайти</string>
      <string name="readmode_reach_last_page">Це остання сторінка</string>
      <string name="readmodelist_bookmarks_to_show">Список читання</string>
      <string name="recover">Відновити</string>
@@ -436,7 +436,7 @@
      <string name="search_button_text">Пошук</string>
      <string name="search_cancel">Відміна</string>
      <string name="search_hint">Введіть умови пошуку або URL-адресу</string>
-     <string name="search_label">Браузер</string>
+     <string name="search_label">Каталог</string>
      <string name="search_settings_description">Закладки та історія пошуку</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_sogou">Segou</string>
