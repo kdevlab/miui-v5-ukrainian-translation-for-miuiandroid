@@ -3,7 +3,7 @@
 <resources>
      <string name="activity_not_found">Не вдається відкрити вкладення</string>
      <string name="activity_not_found_uri">Не вдається знайти додаток для цього типу файлів</string>
-     <string name="add_bookmark">Вибрані</string>
+     <string name="add_bookmark">Обрані</string>
      <string name="add_contact">Контакт</string>
      <string name="add_festival">Вітання</string>
      <string name="add_music">Додати музику</string>
@@ -40,7 +40,7 @@
 	%s: 0 must: 0
 	%d: 1 must: 0 -->
      <!-- Original string: Favorites -->
-     <string name="bookmark_list_title">Уподобання (%1$d)</string>
+     <string name="bookmark_list_title">Обрані (%1$d)</string>
      <string name="cannot_add_picture_and_video">Не можна додати на слайд і картинку, і відео</string>
      <string name="cannot_add_slide_anymore">Додане максимальне число слайдів.</string>
      <string name="cannot_forward_drm_obj">"Не можна переслати Drm-об\’єкт з цього повідомлення"</string>
