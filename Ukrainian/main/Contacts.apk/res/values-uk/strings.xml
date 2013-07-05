@@ -324,10 +324,10 @@
      <string name="eventLabelsGroup">Події</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Експорт на SIM-карту завершено</string>
-     <string name="export_sim_contact_finish_failure">Не достатньо місця.
+     <string name="export_sim_contact_finish_failure">"Не достатньо місця.
      
 Скопійовано: %1$d 
-Не вдалось: %2$d</string>
+Не вдалось: %2$d"</string>
      <string name="export_sim_contact_finish_success">Скопійлвано контактів: %d</string>
      <string name="export_sim_contacts_dialog_message">На SIM-карту можні зберегти %d контактів, продовжити?</string>
      <string name="export_to_sdcard">Експорт на SD-карту</string>
