@@ -15,7 +15,7 @@
      <string name="application_size_label">Додаток</string>
      <string name="background">В фоні</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="big5_summary">The default encoding of the traditional chinese version Windows system</string>
+     <string name="big5_summary">Кодування за замовчуванням в традиційній китайській версії системи Windows</string>
      <string name="bind_account">"Прив'язка до акаунту KuaiPan"</string>
      <string name="bind_account_summary">"Якщо у вас вже є обліковий запис kuaipan, то її можна прив'язати до профілю Xiaomi, щоб синхронізувати дані"</string>
      <string name="binded_accout_description">"Ці два акаунта були об'єднані. Тепер Ви можете увійти використовуючи або акаунт Xiaomi, або акаунт Kuaipan. У них обох будуть одні і тіж файли."</string>
@@ -42,22 +42,22 @@
      <string name="clean_title">Видаляти файли з кошика, якщо вони лежать там довше 30 днів</string>
      <string name="clean_trash_box">Очистити кошик</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cleaned">Cleanup completed</string>
+     <string name="cleaned">Очищено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cleaning">Cleaning...</string>
+     <string name="cleaning">Очищення...</string>
      <string name="cleanup_complete">Готово</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="cleanup_stopped">Cleanup stopped</string>
+     <string name="cleanup_stopped">Очищення зупинено</string>
      <string name="close">Закрити</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="compress_fail">Compression failed, destination already exists</string>
+     <string name="compress_fail">Помилка архівування, файл вже існує</string>
      <string name="compress_message">Архівувати в...</string>
      <string name="compress_title">Архівувати</string>
      <string name="confirm">OК</string>
      <string name="copy_failed">Помилка копіювання</string>
-     <string name="count_down_time">Start after %d seconds</string>
+     <string name="count_down_time">Початок через %d секунд</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="create_kuaipan_shortcut_pref">Create a shortcut to the desktop</string>
+     <string name="create_kuaipan_shortcut_pref">Створити ярлик на робочому столі</string>
      <string name="create_new_folder_desctiption">Створення папки...</string>
      <string name="create_new_folder_failed">Не вдалось створити папку %1$s</string>
      <string name="create_share_link_description">Створення посилання···</string>
@@ -91,18 +91,18 @@
      <string name="empty_dir_title">Пусті папки</string>
      <string name="enable_sd_card">"На даний моменту SD-карта підключена до комп'ютера і використовується. Щоб бачити її вміст, відключіть режим накопичувача"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_filename_too_long">Filename too long</string>
+     <string name="error_filename_too_long">Назва файлу занадто довга</string>
      <string name="error_info_cant_send_folder">Папка не може бути передана</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_open_file_failed_no_app_found">No activity found to open the file</string>
+     <string name="error_open_file_failed_no_app_found">Не знайдено додатків для відкриття цього файлу</string>
      <string name="fail_to_create_folder">Не вдалося створити папку, папка з такою назвою вже існує</string>
-     <string name="fail_to_create_folder_unknown">Cannot create: unknown error.</string>
+     <string name="fail_to_create_folder_unknown">Не вдалося створити: Невідома помилка.</string>
      <string name="fail_to_rename">"Не вдалося перейменувати файл або папку, ім'я вже існує"</string>
      <string name="favorite_photo">Фотографія</string>
      <string name="favorite_ringtone">Мелодії</string>
      <string name="favorite_screen_cap">Скріншоти MIUI</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="file_cleanup">File cleanup</string>
+     <string name="file_cleanup">Очистка файлів</string>
      <string name="file_info_canread">Читання:</string>
      <string name="file_info_canwrite">Запис:</string>
      <string name="file_info_ishidden">Прихований:</string>
@@ -113,7 +113,7 @@
      <string name="file_too_large">Цей файл занадто великий для завантаження на сервер</string>
      <string name="finished">Завершено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="folder_exist">The folder already exists</string>
+     <string name="folder_exist">Папка вже існує</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Натисніть сюди&lt;/a>для очищення кошика</string>
      <string name="ftp_account_req_notice">"Імґ'я і пароль, 4~16 знаків, включаючи цифри, букви, чутливі до регістру"</string>
      <string name="ftp_anonymous_login">Анонімний FTP</string>
@@ -165,11 +165,11 @@
      <string name="no_app_garbage_indication">Немає сміття від додатків</string>
      <string name="no_empty_dir_indication">Немає порожніх папок</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_enough_space">No enough space</string>
+     <string name="no_enough_space">Не достатньо місця</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_enough_storage_indication">No enough storage, paste failed. Delete unnecessary files and try again, or use File Cleanup to release space.</string>
+     <string name="no_enough_storage_indication">Бракує місця для вставки файлу. Очистіть додаткове місце за допомогою очищення або просто видаліть великі файли.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="no_enough_storage_title">No enough storage</string>
+     <string name="no_enough_storage_title">Не достатньо місця</string>
      <string name="no_file">Немає файлів</string>
      <string name="no_more_space">Бракує місця на диску</string>
      <string name="no_tasks">Завдань немає</string>
@@ -225,7 +225,7 @@
      <string name="rename_failed">Перейменування《%1$s》не вдалось</string>
      <string name="restart_cleaning">Повтор</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="scanned">Scan completed</string>
+     <string name="scanned">Відскановано</string>
      <!-- The count of MNPS does not match! Now: 0 must: 2
 	%s: 0 must: 0
 	%d: 0 must: 2 -->
