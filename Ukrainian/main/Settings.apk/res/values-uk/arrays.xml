@@ -18,7 +18,7 @@
      </string-array>
      <string-array name="app_install_location_entries">
         <item>"Внутрішня пам\'ять"</item>
-        <item>Знімна SD-карта</item>
+        <item>SD-карта</item>
         <item>Автоматично</item>
      </string-array>
      <string-array name="app_process_limit_entries">
@@ -54,16 +54,16 @@
         <item>Завжди</item>
      </string-array>
      <string-array name="change_security_lock_picker">
-        <item>Face unlock</item>
-        <item>Pattern</item>
-        <item>Numerical password</item>
-        <item>Mixed password</item>
+        <item>Розпізнання обличчя</item>
+        <item>Графічний ключ</item>
+        <item>Цифровий пароль</item>
+        <item>Змішаний пароль</item>
      </string-array>
      <string-array name="change_security_lock_picker_key">
-        <item>facial</item>
-        <item>pattern</item>
-        <item>numerical</item>
-        <item>mixed</item>
+        <item>обличчя</item>
+        <item>графічний</item>
+        <item>цифровий</item>
+        <item>змішаний</item>
      </string-array>
      <string-array name="dream_timeout_entries">
         <item>Ніколи</item>
@@ -184,7 +184,7 @@
         <item>Linux</item>
      </string-array>
      <string-array name="msd_pc_system_install_finish_summary">
-        <item>"Якщо ви встановили цей драйвер\nМобильное обладнання зберігання MI-2 повинне бути на вашому комп'ютері"</item>
+        <item>"Якщо ви встановили цей драйвер\nМобільне обладнання зберігання MI-2 повинне бути на вашому комп'ютері"</item>
         <item>" Для Windows Vista або новіше,\nмузичний плеєр MI-2 повинен з'явиться на вашому комп'ютері"</item>
         <item>Якщо ви встановили драйвер\nКомп’ютер буде автоматично відкривати й читати дані телефону</item>
         <item></item>
