@@ -49,7 +49,7 @@
     <string name="settings_revert_defaults_title">Скидання до заводських налаштувань</string>
     <string name="audio_type_stereo">Стерео</string>
     <string name="audio_type_mono">Моно</string>
-    <string name="default_band">Росія</string>
+    <string name="default_band">Україна</string>
     <string name="default_audio">Стерео</string>
     <string name="factory_reset_dialog_title">Підтвердіть скидання</string>
     <string name="factory_reset_dialog_message">Це приведе до видалення всіх налаштувань, включаючи предвстановлені</string>
