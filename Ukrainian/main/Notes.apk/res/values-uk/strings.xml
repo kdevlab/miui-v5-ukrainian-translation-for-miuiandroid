@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="add_account_desc">Нотатки можна синхронізувати з вашим Xiaomi акаунтом. Увійти в акаунт і почати синхронізацію?</string>
+     <string name="add_account_desc">Нотатки можна синхронізувати з вашим Xiaomi облік. записом. Увійти в облік. запис і почати синхронізацію?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="alert_action_edit_anyway">Continue editing</string>
+     <string name="alert_action_edit_anyway">Продовжити</string>
      <string name="alert_edit_action_delete">Видалити</string>
      <string name="alert_edit_action_update">Оновити</string>
      <string name="alert_message_delete_folders">Ви впевнені, що хочете видалити вибрані (%1$s) папки?</string>
@@ -16,7 +16,7 @@
      <string name="alert_message_delete_notes">Вибрані нотатки будуть видалені</string>
      <string name="alert_message_discard_changes">Скасувати всі дії?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="alert_message_edit_anyway">The note contains unsupported contents, edit it may result in data loss.</string>
+     <string name="alert_message_edit_anyway">Примітка містить непідтримувані дані. Їх редагування може призвести до втрати даних.</string>
      <string name="alert_title_delete">Видалити вибрані нотатки</string>
      <string name="alert_title_discard">Скасування</string>
      <string name="alert_title_edit_anyway">Confirm to edit note even if maybe data lose?</string>
@@ -37,10 +37,10 @@
      <string name="error_sdcard_export">Експорт не вдалий, провірте Sd-Карту</string>
      <string name="error_sdcard_unmounted"> Sd-Карта зайнята й зараз недоступна</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_unsupport_content">This note contains unsupported content, please click me to upgrade system</string>
+     <string name="error_unsupport_content">Ця замітка містить непідтримувані дані, натисніть для оновлення системи</string>
      <string name="error_widget_exist_for_send_to_desktop">Ця нотатка вже є на рробочому столі</string>
      <string name="failed_sdcard_export">Експорт невдалий</string>
-     <string name="folder_exist">Така папка %1$s уже існує</string>
+     <string name="folder_exist">Така папка %1$s вже існує</string>
      <string name="format_exported_file_location">Нотатка збережена у файл /%1$s/ у папці %2$s на Sd-Карті</string>
      <string name="format_move_notes_to_folder">Нотатки %1$d переміщені в %2$s</string>
      <string name="hint_foler_name">"Введіть ім'я"</string>
@@ -70,11 +70,11 @@
      <string name="notealert_ok">Готово</string>
      <string name="notelist_menu_new">Створити нотатку</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notify_alarm_action_mute">Mute</string>
+     <string name="notify_alarm_action_mute">Без звуку</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notify_alarm_action_view">View</string>
+     <string name="notify_alarm_action_view">Перешляд</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="notify_alarm_title">Note reminder</string>
+     <string name="notify_alarm_title">Нагадування</string>
      <string name="pref_desc_mode_grid">Сітка</string>
      <string name="pref_desc_mode_list">Список</string>
      <string name="pref_title_data_export">Експорт заміток</string>
@@ -92,10 +92,10 @@
      <string name="time_picker_dialog_title">Встановіть час нагадування</string>
      <string name="toast_message_add_image_fail">Не вдалося вставити зображення!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="toast_privacy_mode">Cannot edit note in guarded mode</string>
+     <string name="toast_privacy_mode">Неможливо відредагувати замітку в гостьовому режимі</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="toast_reach_text_limit_attachment">The content of note is too long to add new attachments.</string>
-     <string name="toast_reach_text_limit_truncate">"The content of note is automatically truncate for it's too long."</string>
+     <string name="toast_reach_text_limit_attachment">Зміст замітки завеликий для додавання нових вкладень.</string>
+     <string name="toast_reach_text_limit_truncate">"Зміст замітки автоматично скоротиться по довжині."</string>
      <string name="widget_havenot_content">Немає нотаток, натисніть сюди, щоб створити нотатку</string>
      <string name="widget_under_visit_mode">Неможливо переглянути нотатки, тому що увімкнений режим гостю</string>
 </resources>
