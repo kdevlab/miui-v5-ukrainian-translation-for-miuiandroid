@@ -102,17 +102,23 @@
      <string name="keep_quit_position_summary">Повернення треку на останню позиції після повторного запуску програми</string>
      <string name="listen_to_music_online_settings">Прослуховувати онлайн</string>
      <string name="listen_to_online_summary">Слухайте музику за допомогою мобільної мережі або Wi-Fi</string>
-     <string name="load_album_artist_failed">Не вдалося завантажити альбом і список виконавців. Будь ласка, спробуйте ще раз.</string>
+     <string name="load_album_artist_failed">Не вдалося завантажити альбом і список виконавців.
+Спробуйте ще раз</string>
      <string name="load_album_artist_in_process">Завантаження альбому та списку виконавців ...</string>
-     <string name="load_album_failed">Не вдалося завантажити список альбомів, спробуйте ще раз</string>
+     <string name="load_album_failed">Не вдалося завантажити список альбомів.
+Спробуйте ще раз</string>
      <string name="load_album_in_process">Завантаження списку альбомів</string>
-     <string name="load_artist_failed">Не вдалося завантажити список виконавців, спробуйте ще раз</string>
+     <string name="load_artist_failed">Не вдалося завантажити список виконавців.
+Спробуйте ще раз</string>
      <string name="load_artist_in_process">Завантаження списку виконавців</string>
-     <string name="load_audio_failed">Не вдалося завантажити список пісень, спробуйте ще раз</string>
+     <string name="load_audio_failed">Не вдалося завантажити список пісень.
+Спробуйте ще раз</string>
      <string name="load_audio_in_process">Завантаження списку пісень</string>
-     <string name="load_bill_failed">Не удалось завантажити список Billboard, спробуйте ще раз</string>
+     <string name="load_bill_failed">Не вдалося завантажити список Billboard.
+Спробуйте ще раз</string>
      <string name="load_bill_in_process">Завантаження списку Billboard</string>
-     <string name="load_channel_failed">Не вдалося завантажити список каналів, спробуйте ще раз</string>
+     <string name="load_channel_failed">Не вдалося завантажити список каналів.
+Спробуйте ще раз</string>
      <string name="load_channel_in_process">Завантаження списку каналів</string>
      <string name="loading">Завантаження</string>
      <string name="lrc_progress_modify">Налаштування швидкості прокрутки тексту</string>
