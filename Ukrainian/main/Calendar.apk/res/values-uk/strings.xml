@@ -17,12 +17,12 @@
      <string name="accessibility_remove_reminder">Видалити нагадування</string>
      <string name="accessibility_repeats">Повтор</string>
      <string name="accessibility_sync_cal">Синхронізувати календар</string>
-     <string name="accounts">Акаунти</string>
-     <string name="acct_not_synced">Цей акаунт не синхронізується, тому ваші календарі не оновлюються</string>
+     <string name="accounts">Облік. записи</string>
+     <string name="acct_not_synced">Цей облік. запис не синхронізується, тому ваші календарі не оновлюються</string>
      <string name="acessibility_cal_notification">Сповіщення календаря</string>
      <string name="acessibility_selected_marker_description">Обрана подія</string>
      <string name="acessibility_snooze_notification">Відкласти захід</string>
-     <string name="add_account">Додати акаунт</string>
+     <string name="add_account">Додати облік. запис</string>
      <string name="agenda_today">СЬОГОДНІ, %1$s</string>
      <string name="agenda_tomorrow">ЗАВТРА, %1$s</string>
      <string name="agenda_view">Порядок денний</string>
@@ -41,7 +41,7 @@
      <string name="copy_db">Надіслати базу даних</string>
      <string name="copy_email">Скопіювати E-Mail адресу</string>
      <string name="copy_number">Скопіювати номер телефону</string>
-     <string name="create_an_account_desc">"Підключіть Календар до акаунту Google, щоб:
+     <string name="create_an_account_desc">"Підключіть Календар до облік. запису Google, щоб:
 
 • Завжди мати під рукою оновлені дані - на будь-якому пристрої.
 • Синхронізувати всі заходи - ви ніколи не втратите їх"</string>
@@ -92,7 +92,7 @@
      <string name="jump_date_full">Перейти до дати</string>
      <string name="loading">Завантаження...</string>
      <string name="local_calendar_display_name">Локальний календар</string>
-     <string name="local_owner_account_name">Локальний акаунт</string>
+     <string name="local_owner_account_name">Локальний облік. запис</string>
      <string name="menu_about_preferences">Про календар</string>
      <string name="menu_general_preferences">Загальні налаштування</string>
      <string name="menu_preferences">Налаштування</string>
@@ -108,7 +108,7 @@
      <string name="more_string">ще %1$s...</string>
      <string name="new_event_dialog_label">Новий захід</string>
      <string name="new_event_dialog_option">Новий захід</string>
-     <string name="no_calendars_found">"​​Додати захід можна тільки у видимий календар, пов\’язаний з обліковим записом Google. Натисніть Додати акаунт \" або, якщо акаунт вже доданий, дочекайтеся закінчення синхронізації і повторіть спробу. Або натисніть \"Скасувати\" і зробіть видимим хоча б один календар"</string>
+     <string name="no_calendars_found">"​​Додати захід можна тільки у видимий календар, пов\’язаний з обліковим записом Google. Натисніть Додати облік. запис \" або, якщо облік. запис вже доданий, дочекайтеся закінчення синхронізації і повторіть спробу. Або натисніть \"Скасувати\" і зробіть видимим хоча б один календар"</string>
      <string name="no_syncable_calendars">Немає календарів</string>
      <string name="no_title_label">(Немає заголовка)</string>
      <string name="not_synced">Не синхронізований</string>
@@ -119,7 +119,7 @@
      <string name="preferences_alerts_title">Сповіщення</string>
      <string name="preferences_alerts_vibrateWhen_title">Вібросигнал</string>
      <string name="preferences_build_version">Версія збірки</string>
-     <string name="preferences_category_account_title">Акаунт</string>
+     <string name="preferences_category_account_title">Облік. запис</string>
      <string name="preferences_category_general_title">Загальні</string>
      <string name="preferences_clear_search_history_summary">Видалити інформацію про всі виконані пошукові запити</string>
      <string name="preferences_clear_search_history_title">Очистити історію пошуку</string>
