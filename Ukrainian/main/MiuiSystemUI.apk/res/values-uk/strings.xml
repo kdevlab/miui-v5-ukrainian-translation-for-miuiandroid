@@ -173,15 +173,15 @@
      <string name="settings_expandable_under_fullscreen">У повноекранному режимі</string>
      <string name="settings_expandable_under_fullscreen_summary">Зсунути вниз від верхньої частини екрану</string>
      <string name="settings_expandable_under_keyguard">На екрані блокування</string>
-     <string name="settings_expandable_under_keyguard_summary">Працює тільки при відсутності пароля для розблокування</string>
-     <string name="settings_expanded_view">Налаштування висунення</string>
-     <string name="settings_notification_icon">Повідомлення в рядку стану</string>
-     <string name="settings_screenshot_notification_disabled">Відключити повідомлення про успішний скріншот</string>
+     <string name="settings_expandable_under_keyguard_summary">Працює тільки при відсутності паролю для розблокування</string>
+     <string name="settings_expanded_view">НАЛАШТУВАННЯ ВИСУНЕННЯ</string>
+     <string name="settings_notification_icon">ПОВІДОМЛЕННЯ ПАНЕЛІ ОПОВІЩЕННЯ</string>
+     <string name="settings_screenshot_notification_disabled">Відкл. спов. про скріншот</string>
      <string name="settings_show_flow_info">Інформація про мережу</string>
      <string name="settings_show_network_speed">Швидкість мережі</string>
-     <string name="settings_toggle">Перемикачі</string>
+     <string name="settings_toggle">ПЕРЕМИКАЧІ</string>
      <string name="settings_toggle_collapse_after_clicked">Згорнути після натискання</string>
-     <string name="settings_toggle_layout_style">Стиль статусбару</string>
+     <string name="settings_toggle_layout_style">Стиль панелі оповіщення</string>
      <string name="settings_toggle_layout_style_applying">Застосування стилю перемикачів...</string>
      <string name="settings_toggle_layout_style_compact">Компакт</string>
      <string name="settings_toggle_layout_style_single_page">Повний</string>
@@ -216,13 +216,13 @@ d MMMM yyyy"</string>
      <string name="status_bar_recording_pause">Пауза. Натисніть для переходу в Диктофон</string>
      <string name="status_bar_settings_airplane">Режим "У літаку"</string>
      <string name="status_bar_settings_auto_brightness_label">Автоматично</string>
-     <string name="status_bar_settings_auto_rotation">Автоповорот екрана</string>
+     <string name="status_bar_settings_auto_rotation">Автоповорот екрану</string>
      <string name="status_bar_settings_notifications">Повідомлення</string>
      <string name="status_bar_settings_settings_button">Налаштування</string>
      <string name="status_bar_settings_signal_meter_disconnected">Немає підключення до Інтернету</string>
      <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi підключено</string>
      <string name="status_bar_settings_wifi_button">Wi-Fi</string>
-     <string name="status_bar_style_settings">Налаштування статусбару</string>
+     <string name="status_bar_style_settings">Налаштування панелі оповіщення</string>
      <string name="status_bar_toggle_ac">Доступ</string>
      <string name="status_bar_toggle_auto_brightness">Автопідсв.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -289,7 +289,7 @@ d MMMM yyyy"</string>
      <string name="usb_storage_stop_notification_title">Вимкнути режим накопичувача</string>
      <string name="usb_storage_stop_title">Режим накопичувача використовується</string>
      <string name="usb_storage_title">USB-кабель підключений</string>
-     <string name="user_guide_for_notification">При отриманні нового повідомлення, можна перетягнути панель повідомлень вниз для отримання додаткових відомостей</string>
+     <string name="user_guide_for_notification">При отриманні нового повідомлення, можна потягнути панель оповіщень вниз для отримання додаткових відомостей</string>
      <string name="user_guide_for_toggle">Список перемикачів може прокручуватися по горизонталі</string>
      <string name="user_guide_for_toggle_list">Натисніть, щоб налаштувати список перемикачів</string>
 </resources>
