@@ -2,7 +2,7 @@
 <resources>
   <!--Translated by KDev Group (main repository)-->
   <!--Fixed, merged and deleted duplicates by KDG Translation Suite-->
-  <string name="account">Акаунт</string>
+  <string name="account">Облік. запис</string>
   <string name="account_error">Не вдалося отримати дані аккаунта</string>
   <string name="album_title_hint">Введіть назву альбому</string>
   <string name="application_name">Мої завантаження</string>
