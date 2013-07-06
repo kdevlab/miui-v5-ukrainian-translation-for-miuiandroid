@@ -857,7 +857,7 @@
      <string name="smart_group_frequency_4">Не було контакту більше 6 місяців</string>
      <string name="smart_group_frequency_label">По останніх викликах</string>
      <string name="smart_group_label">Смарт-групування</string>
-     <string name="smart_group_loading">Завантаження групп...</string>
+     <string name="smart_group_loading">Завантаження груп...</string>
      <string name="smart_group_location_label">По місцезнаходженню</string>
      <string name="smart_group_location_unavailable">Немає інформації про адресу</string>
      <string name="sms">Текстове повідомлення</string>
