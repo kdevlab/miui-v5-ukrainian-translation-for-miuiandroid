@@ -32,7 +32,7 @@
      <string name="account_settings_edit_quick_responses_summary">Змінити текст, який часто використовується у ваших листах</string>
      <string name="account_settings_exit_server_settings">Скасувати незбережені зміни?</string>
      <string name="account_settings_incoming_label">Налаштування вхідних повідомлень</string>
-     <string name="account_settings_incoming_summary">"Ім'я користувача, пароль та ін. настройки сервера вхідної пошти"</string>
+     <string name="account_settings_incoming_summary">"Ім'я користувача, пароль та ін. налаштування серверу вхідної пошти"</string>
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
