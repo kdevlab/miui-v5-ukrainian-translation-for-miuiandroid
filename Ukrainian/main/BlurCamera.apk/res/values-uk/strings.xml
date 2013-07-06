@@ -84,7 +84,7 @@
     <string name="setting_volumekeycapture">Використовуйте кнопки гучності для фотозйомки</string>
     <string name="setting_volumekeyfunctionexp">Використовуйте кнопки гучності для масштабування</string>
     <string name="setting_online_album">Швидке завантаження альбому</string>
-    <string name="setting_online_album_summary">Акаунт завантаження зображень за замовчуванням</string>
+    <string name="setting_online_album_summary">Облік. запис завантаження зображень за замовчуванням</string>
     <string name="setting_reviewtime">Час перегляду</string>
     <string name="additionaltags">Додаткові мітки</string>
     <string name="setting_enableloc">Включити місце розташування в настроюваннях</string>
