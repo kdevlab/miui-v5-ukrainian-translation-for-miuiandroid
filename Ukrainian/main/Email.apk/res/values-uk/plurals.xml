@@ -46,8 +46,8 @@
         <item quantity="one">Перемістити повідомлення</item>
      </plurals>
      <plurals name="notification_new_multi_account_fmt">
-        <item quantity="other">в %d акаунтах</item>
-        <item quantity="few">в %d акаунтах</item>
+        <item quantity="other">в %d облік. записах</item>
+        <item quantity="few">в %d облік. записах</item>
      </plurals>
      <plurals name="notification_new_one_account_fmt">
         <item quantity="other">Непрочитаних: %1$1$d (%2$2$s)</item>
@@ -55,11 +55,11 @@
         <item quantity="few">Непрочитаних: %1$1$d (%2$2$s)</item>
      </plurals>
      <plurals name="number_of_accounts">
-        <item quantity="other">Кількість акаунтів: %1$d</item>
-        <item quantity="one">Кількість акаунтів: %1$d</item>
+        <item quantity="other">Кількість облік. записів: %1$d</item>
+        <item quantity="one">Кількість облік. записів: %1$d</item>
      </plurals>
      <plurals name="picker_combined_view_account_count">
-        <item quantity="other">Акаунтів: %d</item>
-        <item quantity="one">Акаунтів: %d</item>
+        <item quantity="other">Облік. записів: %d</item>
+        <item quantity="one">Облік. записів: %d</item>
      </plurals>
 </resources>
