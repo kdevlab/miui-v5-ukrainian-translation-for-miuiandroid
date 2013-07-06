@@ -70,7 +70,7 @@
      <string name="accessibility_sync_disabled">Синхронізація відключена</string>
      <string name="accessibility_sync_enabled">Синхронізація включена</string>
      <string name="accessibility_sync_error">Помилка синхронізації</string>
-     <string name="accessibility_system_title">Система</string>
+     <string name="accessibility_system_title">СИСТЕМА</string>
      <string name="accessibility_toggle_large_text_preference_title">Великий текст</string>
      <string name="accessibility_toggle_large_text_title">Великий текст</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Зберігати масштаб при переході між додатками</string>
@@ -509,9 +509,9 @@
      <string name="credentials_reset_summary">Видалити всі сертифікати</string>
      <string name="credentials_reset_warning">Невірний пароль. У вас залишилася одна спроба, після якої сховище реєстраційних даних буде очищено</string>
      <string name="credentials_reset_warning_plural">Невірний пароль. Залишилося кілька спроб (%1$d). Потім сховище реєстраційних даних буде очищено</string>
-     <string name="credentials_title">Сховище реєстраційних даних</string>
+     <string name="credentials_title">СХОВИЩЕ РЕЄСТРАЦІЙНИХ ДАНИХ</string>
      <string name="credentials_unlock" />
-     <string name="credentials_unlock_hint">Введіть пароль для сховища облікових даних</string>
+     <string name="credentials_unlock_hint">Введіть пароль для сховища реєстраційних даних</string>
      <string name="credentials_wrong_password">Неправильний пароль</string>
      <string name="crypt_keeper_button_text">Зашифрувати телефон</string>
      <string name="crypt_keeper_confirm_title">Підтвердити шифрування</string>
@@ -531,9 +531,9 @@
      <string name="crypt_keeper_failed_title">Збій шифрування</string>
      <string name="crypt_keeper_final_desc">Виконати шифрування даних телефону? Ця операція незворотна, і в разі її переривання дані будуть втрачені. Шифрування займе не менше однієї години. Під час шифрування пристрій буде перезавантажений кілька разів</string>
      <string name="crypt_keeper_low_charge_text">Зарядіть батарею і повторіть спробу</string>
-     <string name="crypt_keeper_settings_title">Шифрування</string>
+     <string name="crypt_keeper_settings_title">ШИФРУВАННЯ</string>
      <string name="crypt_keeper_setup_description">Дочекайтеся завершення шифрування телефону. Виконано: ^1%</string>
-     <string name="crypt_keeper_setup_title">Шифрування</string>
+     <string name="crypt_keeper_setup_title">ШИФРУВАННЯ</string>
      <string name="crypt_keeper_switch_input_method">Перемикання методу введення</string>
      <string name="crypt_keeper_unplugged_text">Підключіть зарядний пристрій і повторіть спробу</string>
      <string name="cryptkeeper_emergency_call">Виклик служби екстреної допомоги</string>
@@ -614,7 +614,7 @@
      <string name="data_usage_warning_editor_title">Налаштування попередження</string>
      <string name="date_and_time">Налаштування дати та часу</string>
      <string name="date_and_time_settings_summary">Установка дати, часу, часового поясу і формату</string>
-     <string name="date_and_time_settings_title">Дата і час</string>
+     <string name="date_and_time_settings_title">ДАТА І ЧАС</string>
      <string name="date_and_time_settings_title_setup_wizard">Встановити дату і час</string>
      <string name="date_picker_title">Дата</string>
      <string name="date_time_24hour">24-годинний формат</string>
@@ -652,7 +652,7 @@
      <string name="device_admin_add_title">Адміністратор пристрою</string>
      <string name="device_admin_settings_title">Налаштування адміністраторів пристрою</string>
      <string name="device_admin_status">Адміністратор активований і дозволяє програмі %1$s виконувати наступні операції:</string>
-     <string name="device_admin_title">Адміністрування Пристрою</string>
+     <string name="device_admin_title">АДМІНІСТРУВАННЯ ПРИСТРОЮ</string>
      <string name="device_admin_warning">Активація цього адміністратора дозволить програмі \"%1$s\" виконувати наступні операції:</string>
      <string name="device_cpu">Частота процесору:</string>
      <string name="device_cpu2_info">"2 ядра "</string>
@@ -683,11 +683,11 @@
      <string name="disable_text">Вимкнути</string>
      <string name="disabled">Відключено</string>
      <string name="display_font_size_label">Розмір шрифту:</string>
-     <string name="display_label">Екран</string>
+     <string name="display_label">ЕКРАН</string>
      <string name="display_order_text">Сортування:</string>
      <string name="display_preview_label">Попередній перегляд:</string>
-     <string name="display_settings">Екран</string>
-     <string name="display_settings_title">Екран</string>
+     <string name="display_settings">ЕКРАН</string>
+     <string name="display_settings_title">ЕКРАН</string>
      <string name="dlg_cancel">Скасувати</string>
      <string name="dlg_confirm_unmount_text">Якщо відключити SD-карту, деякі програми перестануть працювати і можуть залишатися недоступними до її підключення</string>
      <string name="dlg_confirm_unmount_title">Відключити SD-карту?</string>
@@ -700,7 +700,7 @@
      <string name="dock_audio_summary_unknown">Налаштування підключеної док-станції</string>
      <string name="dock_not_found_text">Щоб налаштувати док-станцію, встановіть в неї телефон</string>
      <string name="dock_not_found_title">Док-станція не знайдена</string>
-     <string name="dock_settings">Док-станція</string>
+     <string name="dock_settings">ДОК-СТАНЦІЯ</string>
      <string name="dock_settings_summary">Налаштування звуку для підключеної док-станції</string>
      <string name="dock_settings_title">Налаштування док-станції</string>
      <string name="dock_sounds_enable_summary_off">Не відтворювати звук при встановленні або вилученні телефону</string>
@@ -961,7 +961,7 @@
      <string name="location_neighborhood_level_wifi">Розташування визначається за допомогою Wi-Fi</string>
      <string name="location_network_based">По координатах мережі</string>
      <string name="location_settings_title">Моє місце розташування</string>
-     <string name="location_sources_heading">Визначення місцезнаходження</string>
+     <string name="location_sources_heading">ВИЗНАЧЕННЯ МІСЦЕЗНАХОДЖЕННЯ</string>
      <string name="location_street_level">Дозволити програмам використовувати GPS для точного визначення вашого місця розташування</string>
      <string name="location_title">Моє місце розташування</string>
      <string name="lock_after_timeout">Автоблокування</string>
@@ -975,7 +975,7 @@
      <string name="lock_settings_common_title">Налаштування блокування</string>
      <string name="lock_settings_picker_settings">Встановити блокування екрана</string>
      <string name="lock_settings_picker_title">Тип блокування</string>
-     <string name="lock_settings_title">Блокування екрану</string>
+     <string name="lock_settings_title">БЛОКУАННЯ ЕКРАНУ</string>
      <string name="lock_setup">Налаштування завершено</string>
      <string name="lock_sounds_enable_title">Звук блокування екрану</string>
      <string name="lock_title">Забезпечення безпеки телефону</string>
@@ -1391,7 +1391,7 @@
      <string name="preferred_media_app_summary">Виберіть свій плеєр</string>
      <string name="privacy_mode_enable_sum">Сховати журнал викликів, повідомлення та іншу інформацію при використанні захищеного режиму</string>
      <string name="privacy_mode_enable_title">Включити режим конфіденційності</string>
-     <string name="privacy_protect_title">Управління доступом</string>
+     <string name="privacy_protect_title">КЕРУВАННЯ ДОСТУПОМ</string>
      <string name="privacy_relative">Безпека</string>
      <string name="privacy_settings">Відновлення і скидання</string>
      <string name="privacy_settings_title">Відновлення і скидання</string>
@@ -1618,7 +1618,7 @@
      <string name="search_vpn">VPN</string>
      <string name="search_wallpaper">Шпалери</string>
      <string name="search_wifi">Wi-Fi</string>
-     <string name="security_passwords_title">Паролі</string>
+     <string name="security_passwords_title">ПАРОЛІ</string>
      <string name="security_privacy_settings_title">Безпека та конфіденційність</string>
      <string name="security_relative">Питання безпеки</string>
      <string name="security_settings_billing_desc">Ця програма може списувати гроші з вашого рахунку:</string>
@@ -1704,7 +1704,7 @@
      <string name="sim_lock_on">Для використання телефону необхідний PIN-код</string>
      <string name="sim_lock_settings">Налаштування блокування SIM карти</string>
      <string name="sim_lock_settings_category">Налаштувати блокування</string>
-     <string name="sim_lock_settings_title">Блокування SIM-карти</string>
+     <string name="sim_lock_settings_title">БЛОКУВАННЯ SIM-КАРТИ</string>
      <string name="sim_management_title">Керування SIM</string>
      <string name="sim_pin_change">Зміна PIN SIM карти</string>
      <string name="sim_pin_toggle">Блокування SIM карти</string>
@@ -1726,11 +1726,11 @@
      <string name="sms_received_sound_title">Отримання повідомлень</string>
      <string name="sort_order_alpha">Упорядкувати по іменах</string>
      <string name="sort_order_size">Упорядкувати за розміром</string>
-     <string name="sound_category_call_ringtone_vibrate_title">Дзвінок та вібрація</string>
+     <string name="sound_category_call_ringtone_vibrate_title">ДЗВІНОК ТА ВІБРАЦІЯ</string>
      <string name="sound_category_calls_and_notification_title">Рінгтон і повідомлення</string>
      <string name="sound_category_notification_title">Сповіщення</string>
      <string name="sound_category_sound_title">Загальні</string>
-     <string name="sound_category_system_title">Система</string>
+     <string name="sound_category_system_title">СИСТЕМА</string>
      <string name="sound_effects_enable_title">Звук натискання на екран</string>
      <string name="sound_settings">Звук</string>
      <string name="spellchecker_language">Мова</string>
@@ -1789,7 +1789,7 @@
 Технологія Google синхронізації даних дозволяє отримувати дані про контакти, зустрічі та багато іншого з будь-якого пристрою. "</string>
      <string name="sync_settings">Облік. записи і синхронізація</string>
      <string name="sync_wifi_label">Налаштув. синхр. Wi-Fi</string>
-     <string name="system">Система</string>
+     <string name="system">СИСТЕМА</string>
      <string name="system_package">Системні оновлення не можна встановити на зовнішній носій</string>
      <string name="system_update_settings_list_item_title">Оновлення системи</string>
      <string name="terms_title">Умови використання</string>
@@ -1807,7 +1807,7 @@
      <string name="tethering_help_button_text">Довідка</string>
      <string name="time_picker_title">Час</string>
      <string name="time_zone_auto_stub">Вибрати тимчасову зону</string>
-     <string name="timezone_settings">Часовий пояс</string>
+     <string name="timezone_settings">ЧАСОВИЙ ПОЯС</string>
      <string name="title_dolby_control">Параметри Dolby</string>
      <string name="title_font_size">Розмір шрифту</string>
      <string name="total_size">з %s</string>
@@ -1881,13 +1881,13 @@
      <string name="unlock_set_enter_system">Відключити локскрін</string>
      <string name="unlock_set_enter_system_summary">Системний локскрін не буде використовуватися після включення цієї функції</string>
      <string name="unlock_set_unlock_biometric_weak_summary">Низький рівень захисту (експериментальна функція)</string>
-     <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
+     <string name="unlock_set_unlock_biometric_weak_title">Розпізнавання обличчя</string>
      <string name="unlock_set_unlock_disabled_summary">Заборонено адміністратором, політикою шифрування або сховищем облікових даних</string>
      <string name="unlock_set_unlock_launch_picker_change_summary">Зміна або відключення графічного ключа, PIN-коду та пароля</string>
      <string name="unlock_set_unlock_launch_picker_change_title">Зміна блок. екрана</string>
      <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати метод блокування екрана</string>
-     <string name="unlock_set_unlock_launch_picker_title">Блокування екрану</string>
-     <string name="unlock_set_unlock_mode_biometric_weak">Фейсконтроль</string>
+     <string name="unlock_set_unlock_launch_picker_title">БЛОКУВАННЯ ЕКРАНУ</string>
+     <string name="unlock_set_unlock_mode_biometric_weak">Розпізнавання обличчя</string>
      <string name="unlock_set_unlock_mode_none">Перетягнути значок блокування</string>
      <string name="unlock_set_unlock_mode_off">Ні</string>
      <string name="unlock_set_unlock_mode_password">Захист паролем</string>
@@ -2010,7 +2010,7 @@
      <string name="verify_apps_over_usb_summary">Перевірка додатків, встановлених через АБР/ADT на підозрілу поведінку</string>
      <string name="verify_apps_over_usb_title">Перевірка додатків через USB</string>
      <string name="version_text">Версія %1$s</string>
-     <string name="vibrate_category_title">Вібрація</string>
+     <string name="vibrate_category_title">ВІБРАЦІЯ</string>
      <string name="vibrate_in_normal_title">Вібрація в звичайному режимі</string>
      <string name="vibrate_in_silent_title">Вібродзвінок без звуку</string>
      <string name="vibrate_input_devices">Використовувати вібро</string>
@@ -2066,7 +2066,7 @@
      <string name="volume_alarm_description">Будильник</string>
      <string name="volume_alarm_mute">Вимкнути будильники</string>
      <string name="volume_bluetooth_description">Гучність Bluetooth</string>
-     <string name="volume_category_title">Гучність</string>
+     <string name="volume_category_title">ГУЧНІСТЬ</string>
      <string name="volume_media_description">Музика, відео, ігри та інші медіафайли</string>
      <string name="volume_media_mute">Вимкнути музику і медіа</string>
      <string name="volume_notification_description">Сповіщення</string>
