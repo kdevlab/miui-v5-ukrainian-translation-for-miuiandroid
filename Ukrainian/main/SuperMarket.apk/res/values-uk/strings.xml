@@ -41,14 +41,14 @@
      <string name="comment_name_default">Користувач %1$s</string>
      <string name="comment_publish">Відправити</string>
      <string name="comment_sending">Відправлення...</string>
-     <string name="comment_upload_account_need_activitied">Ваш акаунт не активований, включити його зараз?</string>
-     <string name="comment_upload_account_not_activitied">Ваш акаунт не активований, будь ласка, активуйте й спробуйте ще раз</string>
+     <string name="comment_upload_account_need_activitied">Ваш облік. запис не активований, включити його зараз?</string>
+     <string name="comment_upload_account_not_activitied">Ваш облік. запис не активований, будь ласка, активуйте й спробуйте ще раз</string>
      <string name="comment_upload_data_invalid"> Вибачте, коментування є недійсним</string>
      <string name="comment_upload_failed">Помилка відправлення</string>
      <string name="comment_upload_hint">"Ваш коментар з'явиться після перевірки"</string>
      <string name="comment_upload_login_cancel">Скасування</string>
-     <string name="comment_upload_need_login">Ви бажаєте ввійти в акаунт, щоб залишити коментар?</string>
-     <string name="comment_upload_not_logined"> Будь ласка, спочатку ввійдіть в акаунт</string>
+     <string name="comment_upload_need_login">Ви бажаєте ввійти в облік. запис, щоб залишити коментар?</string>
+     <string name="comment_upload_not_logined"> Будь ласка, спочатку ввійдіть в облік. запис</string>
      <string name="comment_upload_success">Коментар відправлений!</string>
      <string name="comment_version_name">(версія %1$s)</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
@@ -148,14 +148,14 @@
      <string name="loading_search_result">Завантаження результатів пошуку...</string>
      <string name="loading_update_list">Завантаження списку відновлень...</string>
      <string name="login_active">Активувати</string>
-     <string name="login_active_title">Ваш акаунт не активований. бажаєте активувати його зараз?</string>
-     <string name="login_download_title">Вхід в аккаунт Xiaomi</string>
-     <string name="login_first_install_title">Вхід в аккаунт Xiaomi</string>
+     <string name="login_active_title">Ваш облік. запис не активований. бажаєте активувати його зараз?</string>
+     <string name="login_download_title">Вхід в облік. запис Xiaomi</string>
+     <string name="login_first_install_title">Вхід в облік. запис Xiaomi</string>
      <string name="login_ok">Увійти</string>
      <string name="login_skip">Далі</string>
      <string name="management_tag">Файли</string>
      <string name="megabytes_unit">%1$sмб</string>
-     <string name="menu_account">Акаунт</string>
+     <string name="menu_account">Облік. запис</string>
      <string name="menu_clear_search_history">Очистити історію пошуку</string>
      <string name="menu_detail">Докладніше</string>
      <string name="menu_download_manager">Менеджер завантажень</string>
