@@ -2372,43 +2372,4 @@
      <string name="zone_auto_summaryOn">Використовувати часовий пояс мережі</string>
      <string name="zone_list_menu_sort_alphabetically">Упорядкувати за алфавітом</string>
      <string name="zone_list_menu_sort_by_timezone">Упорядкувати по часовому поясу</string>
-     <string name="advanced_settings">Додаткові налаштування</string>
-     <string name="performance_settings_title">Налаштування продуктивності</string>
-     <string name="processor_title">Процесор</string>
-     <string name="processor_summary">Зміна тактової частоти CPU</string>
-     <string name="io_scheds_title">I/O планувальник</string>
-     <string name="io_scheds_summary">Зміна I/O планувальника</string>
-     <string name="memory_management_title">Керування пам\'яттю</string>
-     <string name="memory_management_summary">Налаштуйте використання пам\'яті для зміни продуктивності системи</string>
-     <string name="pref_use_16bpp_alpha_title">16bit прозорість</string>
-     <string name="pref_use_16bpp_alpha_summary">Краща графічна продуктивність, але більш низька якість. Може викликати візуальні артефакти (потрібне перезавантаження)</string>
-     <string name="pref_use_dithering_title">Поверхневе поліпшення</string> 
-     <string name="dithering_no_dither">Вимкнути згладжування</string>
-     <string name="dithering_color_banding">Виправити кольорові смуги (за замов.)</string>
-     <string name="dithering_blur_effect">Виправити кольорові смуги і ефект розмиття</string>
-     <string name="performance_settings_warning_title">Продовжуйте з обережністю</string>
-     <string name="performance_settings_warning">"Ці параметри для експериментів і будь-які зміни в них можуть викликати аварії, втрати даних, апаратні збої або нестабільність пристрою.
-
-Ми просимо Вас не відсилати повідомлення про помилку, якщо Вами були внесені зміни в ці параметри."</string>
-     <string name="max_cpu_freq_file">/sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq</string>
-     <string name="min_cpu_freq_file">/sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq</string>
-     <string name="cpu_governors_summary">%S</string>
-     <string name="cpu_min_freq_summary">%s</string>
-     <string name="cpu_max_freq_summary">%s</string>
-     <string name="cpu_cur_freq_title">Поточна частота процесора</string>
-     <string name="cpu_governors_title">CPU governor</string>
-     <string name="cpu_min_freq_title">Мінімальна частота процесора</string>
-     <string name="cpu_max_freq_title">Максимальна частота процесора</string>
-     <string name="cpu_set_on_boot">Встановити на завантаження</string>
-     <string name="cpu_set_on_boot_summary">Відновлення налаштувань процесора при завантаженні</string>
-     <string name="io_sched_summary">%S</string>
-     <string name="io_sched_title">I/O планувальник</string>
-     <string name="io_sched_set_on_boot">Встановити на завантаження</string>
-     <string name="io_sched_set_on_boot_summary">Відновлення I/O планувальника при завантаженні</string>
-     <string name="pref_zram_title">zRam</string>
-     <string name="pref_zram_summary">Стиснення пам'яті для збільшення віртуальної ємності (потрібне перезавантаження)</string>
-     <string name="pref_purgeable_assets_title">Allow purging of assets</string>
-     <string name="pref_purgeable_assets_summary">Purging of bitmap memory assets allows the freeing of more RAM when needed (requires reboot)</string>
-     <string name="pref_ksm_title">Kernel samepage злиття</string>
-     <string name="pref_ksm_summary">KSM знижує фізичні вимоги до пам'яті і підвищує продуктивність</string>
 </resources>
