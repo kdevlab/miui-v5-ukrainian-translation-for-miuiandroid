@@ -301,7 +301,7 @@
      <string name="set_label_all_albums">Всі альбоми</string>
      <string name="set_label_local_albums">Офлайн-альбоми</string>
      <string name="set_label_mtp_devices">MTP-пристрої</string>
-     <string name="set_lock_and_wallpaper">Установка обоев...</string>
+     <string name="set_lock_and_wallpaper">Встановлення шпалер...</string>
      <string name="set_lock_or_wallpaper">Встановити як фоновий малюнок</string>
      <string name="set_lockscreen">На екран блокування</string>
      <string name="set_recent_album">Створити новий альбом</string>
