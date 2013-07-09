@@ -266,7 +266,7 @@
     <string name="low_memory">Пам\’ять телефону заповнено. Видаліть якісь файли, щоб звільнити місце.</string>
     <string name="me">Я</string>
     <string name="power_dialog">Параметри телефону</string>
-    <string name="silent_mode">Режим без звуку</string>
+    <string name="silent_mode">Режим \"Без звуку\"</string>
     <string name="turn_on_radio">Увімкнути радіо</string>
     <string name="turn_off_radio">Вимкнути радіо</string>
     <string name="screen_lock">Заблок. екран</string>
@@ -284,12 +284,12 @@
     <string name="global_actions">Параметри телефону</string>
     <string name="global_action_lock">Заблок. екран</string>
     <string name="global_action_power_off">Вимкнути</string>
-    <string name="global_action_toggle_silent_mode">Режим без звуку</string>
+    <string name="global_action_toggle_silent_mode">Режим \"Без звуку\"</string>
     <string name="global_action_silent_mode_on_status">Звук ВИМК.</string>
     <string name="global_action_silent_mode_off_status">Звук УВІМК.</string>
-    <string name="global_actions_toggle_airplane_mode">Режим у літаку</string>
-    <string name="global_actions_airplane_mode_on_status">Режим у літаку ВВІМК.</string>
-    <string name="global_actions_airplane_mode_off_status">Режим у літаку ВИМК.</string>
+    <string name="global_actions_toggle_airplane_mode">Режим \"У літаку\"</string>
+    <string name="global_actions_airplane_mode_on_status">Режим \"У літаку\" ВВІМК.</string>
+    <string name="global_actions_airplane_mode_off_status">Режим \"У літаку\" ВИМК.</string>
     <string name="safeMode">Безпечний режим</string>
     <string name="android_system_label">Система Android</string>
     <string name="permgrouplab_costMoney">Служби, які потребують оплати</string>
