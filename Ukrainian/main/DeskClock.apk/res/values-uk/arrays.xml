@@ -13,10 +13,10 @@
      </string-array>
      <string-array name="alarm_repeat_type">
         <item>Once</item>
-        <item>Daily</item>
-        <item>Work days</item>
-        <item>Mon to Fri</item>
-        <item>Custom</item>
+        <item>Щоденно</item>
+        <item>Робочі дні</item>
+        <item>З пон. до п\'ятн.</item>
+        <item>Встановити самому</item>
      </string-array>
      <string-array name="alarm_set">
         <item>Будильник задзвонить менш ніж за хвилину</item>
