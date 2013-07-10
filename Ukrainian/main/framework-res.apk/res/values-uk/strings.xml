@@ -1184,7 +1184,7 @@
     <string name="action_bar_home_description">Перейти на головну</string>
     <string name="action_bar_up_description">Перейти вгору</string>
     <string name="action_menu_overflow_description">Інші варіанти</string>
-    <string name="storage_internal">Внутрішня пам\’ять</string>
+    <string name="storage_internal">Внутрішнє сховище</string>
     <string name="storage_sd_card">Карта SD</string>
     <string name="storage_usb">Носій USB</string>
     <string name="extract_edit_menu_button">Редагувати</string>
