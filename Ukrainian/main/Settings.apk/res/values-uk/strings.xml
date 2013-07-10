@@ -858,10 +858,10 @@
      <string name="header_add_an_account">Додайте облік. запис</string>
      <string name="header_application_sync_settings">Налаштування синхронізації</string>
      <string name="header_category_accounts">ОБЛІКОВІ ЗАПИСИ</string>
-     <string name="header_category_device">ПАРАМЕТРИ ПРИСТРОЇВ</string>77
-     <string name="header_category_personal">ОСОБИСТІ ДАНІ</string>77
-     <string name="header_category_system">СИСТЕМНІ НАЛАШТУВАННЯ</string>77
-     <string name="header_category_wireless_networks">БЕЗДРОТОВІ МЕРЕЖІ</string>77
+     <string name="header_category_device">ПАРАМЕТРИ ПРИСТРОЇВ</string>
+     <string name="header_category_personal">ОСОБИСТІ ДАНІ</string>
+     <string name="header_category_system">СИСТЕМНІ НАЛАШТУВАННЯ</string>
+     <string name="header_category_wireless_networks">БЕЗДРОТОВІ МЕРЕЖІ</string>
      <string name="header_data_and_synchronization">Синхронізація даних</string>
      <string name="heavy_weight_stop_description">Якщо закрити цю програму, можна втратити незбережені дані</string>
      <string name="help_label">Допомога</string>
@@ -911,7 +911,7 @@
      <string name="internal_format">Форматування внутрішнього сховища</string>
      <string name="internal_format_summary">Після форматування внутрішнього сховища, будуть видалені всі файли, такі як музика, фотографії, ігри і т.д.</string>
      <string name="internal_media_format_button_text">Очистити</string>
-     <string name="internal_media_format_desc">"Очистити внутрішню пам'ять? Ви втратите всі дані, такі як музика, фотографії, ігри і т.д."</string>
+     <string name="internal_media_format_desc">"Очистити внутрішню пам\'ять? Ви втратите всі дані, такі як музика, фотографії, ігри і т.д."</string>
      <string name="internal_media_format_final_desc">"Очищення внутрішньої пам'яті, будуть видалені всі збережені файли! Ви не можете скасувати цю дію! Після завершення процесу, телефон буде перезавантажений!"</string>
      <string name="internal_media_format_title">Очищення внутрішнього сховища</string>
      <string name="internal_memory">"ВНУТРІШНЄ СХОВИЩЕ"</string>
