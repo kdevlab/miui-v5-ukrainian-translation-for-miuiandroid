@@ -274,8 +274,8 @@
      <string name="find_device_check_sim">Перевірка SIM…</string>
      <string name="find_device_sim_change_instructions">"Ваш пристрій заблоковано. Вставте SIM-карту або введіть ваш пароль для облік. запису Xiaomi"</string>
      <string name="find_device_sim_change_instructions_no_network">"Ваш пристрій заблоковано, вставте оригінальну SIM-карту"</string>
-     <string name="find_device_turn_off_flight_mode">Увімкнути режим \"В літаку\"</string>
-     <string name="find_device_turn_off_flight_mode_instructions">"Ваш пристрій заблоковано, вимкніть режим \"В літаку\""</string>
+     <string name="find_device_turn_off_flight_mode">Увімкнути режим \"У літаку\"</string>
+     <string name="find_device_turn_off_flight_mode_instructions">"Ваш пристрій заблоковано, вимкніть режим \"У літаку\""</string>
      <string name="firewall_setting">Чорний список</string>
      <string name="first_back_long_press_message">"Ви хочете, щоб функція довгого натискання клавіші повернення, закривало додаток і його сервіси? 
 
@@ -322,7 +322,7 @@
      <string name="lockscreen_pattern_instructions">Намалюйте шаблон, щоб розблокувати</string>
      <string name="lockscreen_pattern_wrong">Спробувати знову</string>
      <string name="lockscreen_too_many_failed_attempts_countdown">Спробуйте знову через %d сек.</string>
-     <string name="lockscreen_transport_next_description">Кнопка наступний трек</string>
+     <string name="lockscreen_transport_next_description">Кнопка Наступний трек</string>
      <string name="lockscreen_transport_play_description">кнопка Грати</string>
      <string name="lockscreen_transport_prev_description">Кнопка Попередній трек</string>
      <string name="lockscreen_unlock_sim_via_puk">Використайте PUK, щоб розблокувати SIM-карту</string>
@@ -407,7 +407,7 @@
      <string name="return_to_me_message">Будь ласка, поверніть, якщо я загубив</string>
      <string name="reverse_all">Очистити виділене</string>
      <string name="safetylegal_activity_unreachable">Ваш телефон не підключений до мережі. Для перегляду цієї інформації в реальному часі, перейдіть до %s з будь-якого комп\’ютера.</string>
-     <string name="screen_button_notification_text">Натисніть \'Home\'+\'Power\' для увімкнення"</string>
+     <string name="screen_button_notification_text">Натисніть \'Додому\'+\'Живлення\' для увімкнення"</string>
      <string name="screen_button_notification_title">Кнопки на дисплеї вимкнені</string>
      <string name="screen_on_proximity_sensor_hint">Примусовий вихід: натисніть кнопки \'НАЗАД\'+\'Гучність+\'. Режим запобігання помилок може бути вимкнений в \'Налаштування - Екран\'</string>
      <string name="screen_on_proximity_sensor_summary">Не закривайте верхню частину екрану"</string>
@@ -429,7 +429,7 @@
      <string name="sim_account_name">SIM</string>
      <string name="sim_changed_reactivate_int_notice">Поточна SIM деактивована. Для активації сервісу, потребує відправки міжнародного SMS. Активувати зараз?</string>
      <string name="sim_changed_reactivate_notice">Поточна SIM-карта не активована. Необхідна відправка SMS для активації послуги Xiaomi синхронізації. Активувати зараз?</string>
-     <string name="sim_in_airplane_mode">Будь ласка, відключіть режим В літаку.</string>
+     <string name="sim_in_airplane_mode">Будь ласка, відключіть режим \"У літаку\".</string>
      <string name="sim_locked">SIM карта заблокована</string>
      <string name="sim_not_ready">Sim карта зайнята. Спробуйте ще раз пізніше.</string>
      <string name="sim_unavailable">SIM карта недоступна</string>
