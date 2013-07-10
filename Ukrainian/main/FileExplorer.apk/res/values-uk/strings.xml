@@ -3,7 +3,7 @@
 <resources>
      <string name="account_bind_prompt">"Перенесення даних користувача 
 Перенесення даних може зайняти деякий час, 
-Ваш акаунт тимчасово буде недоступний, будь ласка зачекайте ..."</string>
+Ваш облік. запис тимчасово буде недоступний, будь ласка зачекайте ..."</string>
      <string name="add_task">Додати завдання</string>
      <string name="adding_upload_tasks">Додавання завдання завантаження.</string>
      <string name="app_cache_cleanup_indication">%s кеша</string>
@@ -16,9 +16,9 @@
      <string name="background">В фоні</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="big5_summary">Кодування за замовчуванням в традиційній китайській версії системи Windows</string>
-     <string name="bind_account">"Прив'язка до акаунту KuaiPan"</string>
+     <string name="bind_account">"Прив'язка до облік. запису KuaiPan"</string>
      <string name="bind_account_summary">"Якщо у вас вже є обліковий запис kuaipan, то її можна прив'язати до профілю Xiaomi, щоб синхронізувати дані"</string>
-     <string name="binded_accout_description">"Ці два акаунта були об'єднані. Тепер Ви можете увійти використовуючи або акаунт Xiaomi, або акаунт Kuaipan. У них обох будуть одні і тіж файли."</string>
+     <string name="binded_accout_description">"Ці два облік. записа були об'єднані. Тепер Ви можете увійти використовуючи або облік. запис Xiaomi, або облік. запис Kuaipan. У них обох будуть одні і тіж файли."</string>
      <string name="binded_accout_title">"В даний час Ви вже пов'язані з обліковим записом KuaiPan"</string>
      <string name="cache_size_label">Кеш</string>
      <string name="cancel">Скасувати</string>
@@ -152,7 +152,7 @@
      <string name="menu_item_sort_name">За назвою</string>
      <string name="menu_item_sort_size">За розміром</string>
      <string name="menu_item_sort_type">За типом</string>
-     <string name="migrate_announcement_msg">"Якщо у вас є акаунт KuaiPan, ви можете прив'язати його в налаштуваннях і отримати доступ до даних."</string>
+     <string name="migrate_announcement_msg">"Якщо у вас є облік. запис KuaiPan, ви можете прив'язати його в налаштуваннях і отримати доступ до даних."</string>
      <string name="migrate_announcement_title">MiDrive був перенесений в KuaiPan</string>
      <string name="move_failed">Помилка переміщення</string>
      <string name="multi_select_title">Обрано: %1$s</string>
@@ -256,7 +256,7 @@
      <string name="stay_awake_summary">Не переводити екран в режим сну при використанні FTP</string>
      <string name="stay_awake_title">Без сну</string>
      <string name="stop_server">Зупинити службу</string>
-     <string name="storage_internal">"Внутрішня пам'ять"</string>
+     <string name="storage_internal">"Внутрішнє сховище"</string>
      <string name="storage_sd_card">SD-карта</string>
      <string name="storage_usb">Пристрій USB</string>
      <string name="storage_warning">Зовнішній носій не доступний</string>
@@ -319,6 +319,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wangpan_root_path">My Drive</string>
      <string name="wifi_state">Статус Wi-Fi</string>
-     <string name="xiaomi_account">Xiaomi акаунт</string>
+     <string name="xiaomi_account">Xiaomi облік. запис</string>
      <string name="yes">Так</string>
 </resources>
