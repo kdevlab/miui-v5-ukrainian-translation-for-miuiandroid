@@ -93,7 +93,6 @@
      <string name="additional_system_update" />
      <string name="additional_system_update_menu" />
      <string name="additional_system_update_settings_list_item_title">Додаткові оновлення системи</string>
-     <string name="advanced_settings">Розширені налаштування</string>
      <string name="advanced_settings_summary">Включити додаткові налаштування</string>
      <string name="airplane_mode">Режим польоту</string>
      <string name="alarm_volume_title">Будильник</string>
@@ -2406,9 +2405,9 @@
      <string name="io_sched_set_on_boot">Встановити на завантаження</string>
      <string name="io_sched_set_on_boot_summary">Відновлення I/O планувальника при завантаженні</string>
      <string name="pref_zram_title">zRam</string>
-     <string name="pref_zram_summary">Стиснення пам'яті для збільшення віртуальної ємності (потрібне перезавантаження)</string>
+     <string name="pref_zram_summary">Стиснення пам\'яті для збільшення віртуальної ємності (потрібне перезавантаження)</string>
      <string name="pref_purgeable_assets_title">Allow purging of assets</string>
      <string name="pref_purgeable_assets_summary">Purging of bitmap memory assets allows the freeing of more RAM when needed (requires reboot)</string>
      <string name="pref_ksm_title">Kernel samepage злиття</string>
-     <string name="pref_ksm_summary">KSM знижує фізичні вимоги до пам'яті і підвищує продуктивність</string>
+     <string name="pref_ksm_summary">KSM знижує фізичні вимоги до пам\'яті і підвищує продуктивність</string>
 </resources>
