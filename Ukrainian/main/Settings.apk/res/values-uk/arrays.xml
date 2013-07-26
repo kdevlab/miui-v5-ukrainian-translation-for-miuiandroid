@@ -237,10 +237,10 @@
         <item>Закрити поточний додаток</item>
      </string-array>
      <string-array name="screen_key_long_press_timeout">
-        <item>0.5сек.</item>
-        <item>1 сік</item>
-        <item>1.5сек.</item>
-        <item>2 сік</item>
+        <item>0.5 сек</item>
+        <item>1 сек</item>
+        <item>1.5 сек</item>
+        <item>2 сек</item>
      </string-array>
      <string-array name="screen_saturation_title">
         <item>Яскравий режим</item>
