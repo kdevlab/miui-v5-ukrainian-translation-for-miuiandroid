@@ -29,7 +29,7 @@
      <string name="analog_gadget">Годинник</string>
      <string name="app_label">Годинник</string>
      <string name="auto_silence_never">Виключене</string>
-     <string name="auto_silence_summary">Автоматичне вимикання будильника через %d мін</string>
+     <string name="auto_silence_summary">Автоматичне вимикання будильника через %d чв.</string>
      <string name="auto_silence_title">Авто-відключення</string>
      <string name="cancel">Стоп</string>
      <string name="clock_instructions">Виберіть годинник</string>
