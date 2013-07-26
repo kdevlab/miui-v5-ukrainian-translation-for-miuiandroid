@@ -44,7 +44,7 @@
      <string name="loading">Завантаження...</string>
      <string name="loading_resource_detail_fail">Збій завантаження ресурсу!</string>
      <string name="loading_resource_detail_info">Завантаження...</string>
-     <string name="lockscreen_wallpaper">Шпалери локскріна</string>
+     <string name="lockscreen_wallpaper">Шпалери екр. блокуваня</string>
      <string name="lockstyle_personal_settings">Персоналізація</string>
      <string name="long_ringtone_resource">Довгі(>5 сек)</string>
      <string name="menu_refresh">Оновити</string>
@@ -149,7 +149,7 @@
      <string name="theme_component_title_icon">Іконки</string>
      <string name="theme_component_title_launcher">Робочий стіл</string>
      <string name="theme_component_title_lockstyle">Екран блокування</string>
-     <string name="theme_component_title_lockwallpaper">Шпалери локскріна</string>
+     <string name="theme_component_title_lockwallpaper">Шпалери екр. блокуваня</string>
      <string name="theme_component_title_miwallpaper">Mi шпалери</string>
      <string name="theme_component_title_mms">Стиль листування</string>
      <string name="theme_component_title_notification">Сповіщення</string>
