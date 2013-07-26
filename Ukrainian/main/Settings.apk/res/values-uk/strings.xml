@@ -2180,7 +2180,7 @@
      <string name="wifi_eap_method">Метод EAP</string>
      <string name="wifi_eap_user_cert">Сертифікат користувача</string>
      <string name="wifi_empty_list_wifi_off">"Увімкніть Wi-Fi, 
-  щоб переглянути доступні мережі"</string>
+щоб переглянути доступні мережі"</string>
      <string name="wifi_empty_list_wifi_on">Пошук Wi-Fi-мереж…</string>
      <string name="wifi_enable">Включити Wi-Fi</string>
      <string name="wifi_enable_watchdog_service_summary">"Не використовувати мережі Wi-Fi з поганим інтернет-з'єднанням"</string>
