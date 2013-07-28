@@ -15,7 +15,7 @@
      <string name="addPeopleToGroup">Щоб добавити контакт у групу, перейдіть в режим редагування групи</string>
      <string name="add_2sec_pause">Додати 2-сек. паузу</string>
      <string name="add_account">Додати облік. запис</string>
-     <string name="add_blacklist">В чорний список</string>
+     <string name="add_blacklist">Чорний список</string>
      <string name="add_connection_button">Додати соцмережу</string>
      <string name="add_contact_dlg_message_fmt">Додати в контакти %s?</string>
      <string name="add_field">Додати поле</string>

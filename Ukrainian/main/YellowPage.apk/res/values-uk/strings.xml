@@ -4,10 +4,10 @@
      <string name="agree">Приймаю</string>
      <string name="app_label">Жовті сторінки</string>
      <string name="callrecordview_item_newcontact">Новий контакт</string>
-     <string name="callrecordview_item_op_time_minutes_seconds">%1$d хв. %2$d сік</string>
+     <string name="callrecordview_item_op_time_minutes_seconds">%1$d хв. %2$d сек.</string>
      <string name="callrecordview_item_op_time_missed">Не підключене</string>
-     <string name="callrecordview_item_op_time_only_minutes">%d мін</string>
-     <string name="callrecordview_item_op_time_only_seconds">%d сік</string>
+     <string name="callrecordview_item_op_time_only_minutes">%d хв.</string>
+     <string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
      <string name="callrecordview_item_op_time_rejected">Відхилений</string>
      <string name="callrecordview_item_op_time_short_incoming">"Вхідний: "</string>
      <string name="callrecordview_item_op_time_short_outgoing">"Вихідний: "</string>
