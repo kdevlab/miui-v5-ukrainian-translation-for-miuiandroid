@@ -19,7 +19,7 @@
     <string-array name="organizationTypes">
         <item>Робочий</item>
         <item>Інший</item>
-        <item>Своя мітка.</item>
+        <item>Своя мітка</item>
     </string-array>
     <string-array name="phoneTypes">
         <item>Домашній</item>
