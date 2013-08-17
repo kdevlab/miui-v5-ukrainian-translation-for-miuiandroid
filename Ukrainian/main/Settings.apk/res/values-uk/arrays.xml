@@ -17,7 +17,7 @@
         <item>PAP або CHAP</item>
      </string-array>
      <string-array name="app_install_location_entries">
-        <item>"Внутрішнє сховище"</item>
+        <item>Внутрішнє сховище</item>
         <item>SD-карта</item>
         <item>Автоматично</item>
      </string-array>
@@ -115,25 +115,23 @@
      </string-array>
      <!-- The size of the array does not match! Now: 9 must: 8 -->
      <string-array name="led_color_entries">
-        <item>Зелений</item>
-        <item>Червоний</item>
         <item>Синій</item>
+        <item>Червоний</item>
         <item>Жовтий</item>
+        <item>Зелений</item>
         <item>Блакитний</item>
+        <item>Білий</item>
         <item>Фіолетовий</item>
-        <item>Рожевий</item>
-        <item>Помаранчевий</item>
      </string-array>
      <!-- The size of the array does not match! Now: 9 must: 8 -->
      <string-array name="led_color_values">
-        <item>зелений</item>
-        <item>червоний</item>
-        <item>синій</item>
-        <item>жовтий</item>
-        <item>блакитний</item>
-        <item>фіолетовий</item>
-        <item>рожевий</item>
-        <item>помаранчевий</item>
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>white</item>
+        <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="led_freq_entries">
         <item>2 секунди</item>
@@ -166,16 +164,16 @@
         <item>Червоний</item>
         <item>Зелений</item>
         <item>Рожевий</item>
+        <item>Ліловий</item>
         <item>Фіолетовий</item>
-        <item>Пурпурний</item>
      </string-array>
      <string-array name="mi1_led_color_values">
-        <item>синій</item>
-        <item>червоний</item>
-        <item>зелений</item>
-        <item>рожевий</item>
-        <item>фіолетовий</item>
-        <item>пурпурний</item>
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
+        <item>\#FFFF0033</item>
+        <item>\#FF5500FF</item>
+        <item>\#FFAA00AA</item>
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP або старіша версія</item>
@@ -202,9 +200,9 @@
         <item></item>
      </string-array>
      <string-array name="msd_pc_system_install_step_2_summary">
-        <item>"2. Мобільний пристрій зберігання MI-2 з'явиться на вашому комп'ютері\nТеперь ви можете передавати файли"</item>
+        <item>"2. Мобільний пристрій зберігання MI-2 з'явиться на вашому комп'ютері\nТепер ви можете передавати файли"</item>
         <item></item>
-        <item>"Комп'ютер буде автоматично відкривати й читати дані телефону\nТеперь ви можете передавати файли"</item>
+        <item>"Комп'ютер буде автоматично відкривати й читати дані телефону\nТепер ви можете передавати файли"</item>
         <item></item>
      </string-array>
      <string-array name="overlay_display_devices_entries">
@@ -309,7 +307,7 @@
      <string-array name="usb_connection_mode_entries">
         <item>Запит при підключенні</item>
         <item>Тільки зарядка</item>
-        <item>Підключити Sd-Карту</item>
+        <item>Підключити Sd-карту</item>
      </string-array>
      <string-array name="user_content_ratings_entries">
         <item>Вищий розум</item>
@@ -370,9 +368,9 @@
         <item>Поза діапазоном</item>
      </string-array>
      <string-array name="wifi_p2p_wps_setup">
-        <item>Push-Кнопка</item>
-        <item>Pin-Код з виявленого обладнання</item>
-        <item>Pin-Код цього обладнання</item>
+        <item>Push-кнопка</item>
+        <item>Pin-код з виявленого обладнання</item>
+        <item>Pin-код цього обладнання</item>
      </string-array>
      <string-array name="wifi_phase2_entries">
         <item>Немає</item>
@@ -412,13 +410,13 @@
         <item>Пошук...</item>
         <item>Підключення...</item>
         <item>Аутентифікація...</item>
-        <item>Одержання Ip-Адреси...</item>
+        <item>Одержання IP-адреси...</item>
         <item>Підключено</item>
-        <item>Припинене</item>
+        <item>Припинено</item>
         <item>Відключення...</item>
         <item>Немає підключення</item>
         <item>Збій</item>
-        <item>Заблоковане</item>
+        <item>Заблоковано</item>
         <item>Запобігання слабкого сигналу</item>
      </string-array>
      <string-array name="wifi_status_with_ssid">
@@ -426,13 +424,13 @@
         <item>Пошук...</item>
         <item>"З'єднання з мережею %1$s…"</item>
         <item>Аутентифікація в мережі %1$s...</item>
-        <item>Одержання Ip-Адреси від %1$s…</item>
+        <item>Одержання IP-адреси від %1$s…</item>
         <item>Підключене до %1$s</item>
-        <item>Припинене</item>
+        <item>Припинено</item>
         <item>Відключення від %1$s…</item>
         <item>Немає підключення</item>
         <item>Збій</item>
-        <item>Заблоковане</item>
+        <item>Заблоковано</item>
         <item>Запобігання слабкого сигналу</item>
      </string-array>
      <string-array name="window_animation_scale_entries">
