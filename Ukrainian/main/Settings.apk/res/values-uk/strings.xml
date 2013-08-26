@@ -391,7 +391,7 @@
      <string name="bluetooth_pin_values_hint">Зазвичай 0000 або 1234</string>
      <string name="bluetooth_preference_device_settings">Налаштування пристроїв</string>
      <string name="bluetooth_preference_found_devices">Список</string>
-     <string name="bluetooth_preference_paired_devices">Спарені пристрої</string>
+     <string name="bluetooth_preference_paired_devices">СПАРЕНІ ПРИСТРОЇ</string>
      <string name="bluetooth_preference_scan_title">Пошук пристроїв</string>
      <string name="bluetooth_profile_a2dp">Профіль A2DP</string>
      <string name="bluetooth_profile_details">Налаштування профіля</string>
