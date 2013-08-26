@@ -1171,7 +1171,7 @@
      <string name="no_services">Неактивий</string>
      <string name="normal_date_format">За замовчуванням (%s)</string>
      <string name="not_installed">Не встановлено</string>
-     <string name="notification_pulse_title">Мигання трекбола</string>
+     <string name="notification_pulse_title">Мигання трекболу</string>
      <string name="notification_sound_dialog_title">Вибрати мелодію сповіщень</string>
      <string name="notification_sound_title">Мелодія сповіщення</string>
      <string name="notification_vibrate_abbreviation">Повідомлення</string>
@@ -1369,7 +1369,7 @@
      <string name="power_idle">Режим очікування</string>
      <string name="power_mode">Режим живлення</string>
      <string name="power_phone">Голосові виклики</string>
-     <string name="power_screen">Екран</string>
+     <string name="power_screen">ЕКРАН</string>
      <string name="power_usage_history">Використання батареї</string>
      <string name="power_usage_level_and_status">%1$s -%2$s</string>
      <string name="power_usage_not_available">Рівень заряду невідомий</string>
