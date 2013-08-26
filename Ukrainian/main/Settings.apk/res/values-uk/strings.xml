@@ -3,7 +3,7 @@
 <resources>
      <string name="about_settings">Відомості про телефон</string>
      <string name="about_settings_summary">Перегляд юридичної інформації, стану планшетного ПК і версії ПЗ</string>
-     <string name="ac_enable_title">Обмеження доступу</string>
+     <string name="ac_enable_title">ОБМЕЖЕННЯ ДОСТУПУ</string>
      <string name="ac_privacy_mode_sum">Введіть пароль доступу для відключення захищеного режиму</string>
      <string name="ac_privacy_mode_title">Режим гостя</string>
      <string name="ac_set_apps_title">Захист програм</string>
@@ -1389,7 +1389,7 @@
      <string name="preferred_launcher_warning_use_system">Відмінана</string>
      <string name="preferred_media_app_summary">Виберіть свій плеєр</string>
      <string name="privacy_mode_enable_sum">Сховати журнал викликів, повідомлення та іншу інформацію при використанні захищеного режиму</string>
-     <string name="privacy_mode_enable_title">Включити режим конфіденційності</string>
+     <string name="privacy_mode_enable_title">ВКЛ. РЕЖИМ КОНФІДЕЦІЙНОСТІ</string>
      <string name="privacy_protect_title">КЕРУВАННЯ ДОСТУПОМ</string>
      <string name="privacy_relative">Безпека</string>
      <string name="privacy_settings">Відновлення і скидання</string>
@@ -1883,9 +1883,9 @@
      <string name="unlock_set_unlock_biometric_weak_title">Розпізнавання обличчя</string>
      <string name="unlock_set_unlock_disabled_summary">Заборонено адміністратором, політикою шифрування або сховищем облікових даних</string>
      <string name="unlock_set_unlock_launch_picker_change_summary">Зміна або відключення графічного ключа, PIN-коду та пароля</string>
-     <string name="unlock_set_unlock_launch_picker_change_title">Зміна блок. екрана</string>
-     <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати метод блокування екрана</string>
-     <string name="unlock_set_unlock_launch_picker_title">БЛОКУВАННЯ ЕКРАНУ</string>
+     <string name="unlock_set_unlock_launch_picker_change_title">Зміна блок. екрану</string>
+     <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати метод блокування екрану</string>
+     <string name="unlock_set_unlock_launch_picker_title">Блокування екрану</string>
      <string name="unlock_set_unlock_mode_biometric_weak">Розпізнавання обличчя</string>
      <string name="unlock_set_unlock_mode_none">Перетягнути значок блокування</string>
      <string name="unlock_set_unlock_mode_off">Ні</string>
