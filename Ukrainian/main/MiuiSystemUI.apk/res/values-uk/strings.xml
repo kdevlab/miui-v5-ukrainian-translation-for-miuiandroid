@@ -174,14 +174,14 @@
      <string name="settings_expandable_under_fullscreen_summary">Зсунути вниз від верхньої частини екрану</string>
      <string name="settings_expandable_under_keyguard">На екрані блокування</string>
      <string name="settings_expandable_under_keyguard_summary">Працює тільки при відсутності паролю для розблокування</string>
-     <string name="settings_expanded_view">НАЛАШТУВАННЯ ВИСУНЕННЯ</string>
+     <string name="settings_expanded_view">НАЛАШТУВАННЯ ВИСУНЕННЯ ШТОРИ</string>
      <string name="settings_notification_icon">ПОВІДОМЛЕННЯ ПАНЕЛІ ОПОВІЩЕННЯ</string>
      <string name="settings_screenshot_notification_disabled">Відкл. спов. про скріншот</string>
      <string name="settings_show_flow_info">Інформація про мережу</string>
      <string name="settings_show_network_speed">Швидкість мережі</string>
      <string name="settings_toggle">ПЕРЕМИКАЧІ</string>
      <string name="settings_toggle_collapse_after_clicked">Згорнути після натискання</string>
-     <string name="settings_toggle_layout_style">Стиль панелі оповіщення</string>
+     <string name="settings_toggle_layout_style">СТИЛЬ ПАНЕЛІ ОПОВІЩЕННЯ</string>
      <string name="settings_toggle_layout_style_applying">Застосування стилю перемикачів...</string>
      <string name="settings_toggle_layout_style_compact">Компакт</string>
      <string name="settings_toggle_layout_style_single_page">Повний</string>
