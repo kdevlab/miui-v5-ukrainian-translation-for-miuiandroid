@@ -6,6 +6,7 @@
 Ваш облік. запис тимчасово буде недоступний, будь ласка зачекайте ..."</string>
      <string name="add_task">Додати завдання</string>
      <string name="adding_upload_tasks">Додавання завдання завантаження.</string>
+     <string name="already_signin_description">Войти можно только один раз в день, приходите завтра :)</string>
      <string name="app_cache_cleanup_indication">%s кеша</string>
      <string name="app_cache_title">Кеш додатків</string>
      <string name="app_garbage_cleanup_indication">%s сміття</string>
@@ -14,7 +15,6 @@
      <string name="app_name">Файли</string>
      <string name="application_size_label">Додаток</string>
      <string name="background">В фоні</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="big5_summary">Кодування за замовчуванням в традиційній китайській версії системи Windows</string>
      <string name="bind_account">"Прив'язка до облік. запису KuaiPan"</string>
      <string name="bind_account_summary">"Якщо у вас вже є обліковий запис kuaipan, то її можна прив'язати до профілю Xiaomi, щоб синхронізувати дані"</string>
@@ -41,24 +41,23 @@
      <string name="clean_message">Видалення %1$s</string>
      <string name="clean_title">Видаляти файли з кошика, якщо вони лежать там довше 30 днів</string>
      <string name="clean_trash_box">Очистити кошик</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cleaned">Очищено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cleaning">Очищення...</string>
      <string name="cleanup_complete">Готово</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cleanup_stopped">Очищення зупинено</string>
      <string name="close">Закрити</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="compress_fail">Помилка архівування, файл вже існує</string>
      <string name="compress_message">Архівувати в...</string>
      <string name="compress_title">Архівувати</string>
      <string name="confirm">OК</string>
      <string name="copy_failed">Помилка копіювання</string>
      <string name="count_down_time">Початок через %d секунд</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="create_kuaipan_shortcut_pref">Створити ярлик на робочому столі</string>
      <string name="create_new_folder_desctiption">Створення папки...</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Не удалось создать папку -->
      <string name="create_new_folder_failed">Не вдалось створити папку %1$s</string>
      <string name="create_share_link_description">Створення посилання···</string>
      <string name="cution">Поради</string>
@@ -90,10 +89,8 @@
      <string name="empty_dir_cleanup_indication">%s пустих папок</string>
      <string name="empty_dir_title">Пусті папки</string>
      <string name="enable_sd_card">"На даний моменту SD-карта підключена до комп'ютера і використовується. Щоб бачити її вміст, відключіть режим накопичувача"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_filename_too_long">Назва файлу занадто довга</string>
      <string name="error_info_cant_send_folder">Папка не може бути передана</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_open_file_failed_no_app_found">Не знайдено додатків для відкриття цього файлу</string>
      <string name="fail_to_create_folder">Не вдалося створити папку, папка з такою назвою вже існує</string>
      <string name="fail_to_create_folder_unknown">Не вдалося створити: Невідома помилка.</string>
@@ -101,7 +98,6 @@
      <string name="favorite_photo">Фотографія</string>
      <string name="favorite_ringtone">Мелодії</string>
      <string name="favorite_screen_cap">Скріншоти MIUI</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="file_cleanup">Очистка файлів</string>
      <string name="file_info_canread">Читання:</string>
      <string name="file_info_canwrite">Запис:</string>
@@ -112,7 +108,6 @@
      <string name="file_loading">Завантаження...</string>
      <string name="file_too_large">Цей файл занадто великий для завантаження на сервер</string>
      <string name="finished">Завершено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="folder_exist">Папка вже існує</string>
      <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\">Натисніть сюди&lt;/a>для очищення кошика</string>
      <string name="ftp_account_req_notice">"Імґ'я і пароль, 4~16 знаків, включаючи цифри, букви, чутливі до регістру"</string>
@@ -164,11 +159,8 @@
      <string name="no_app_cache_indication">Немає кешу додатків</string>
      <string name="no_app_garbage_indication">Немає сміття від додатків</string>
      <string name="no_empty_dir_indication">Немає порожніх папок</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_enough_space">Не достатньо місця</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_enough_storage_indication">Бракує місця для вставки файлу. Очистіть додаткове місце за допомогою очищення або просто видаліть великі файли.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_enough_storage_title">Не достатньо місця</string>
      <string name="no_file">Немає файлів</string>
      <string name="no_more_space">Бракує місця на диску</string>
@@ -220,22 +212,23 @@
      <string name="operation_unfavorite">Видалити з обраного</string>
      <string name="pan_settting">Налаштування MiDrive</string>
      <string name="paused">Пауза</string>
+     <string name="pull_to_signin">Потяните вниз, чтобы войти в систему и получить свободное пространство</string>
      <string name="query_bind_state">Запит стану, будь ласка, почекайте ...</string>
+     <string name="release_to_signin">Отпустите для входа</string>
      <string name="rename_description">Перейменовується···</string>
      <string name="rename_failed">Перейменування《%1$s》не вдалось</string>
      <string name="restart_cleaning">Повтор</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="scanned">Відскановано</string>
      <!-- The count of MNPS does not match! Now: 0 must: 2
 	%s: 0 must: 0
 	%d: 0 must: 2 -->
-     <!-- Original string: Scan %d app ... (total %d apps) -->
+     <!-- Original string: Сканирование %d из %d... -->
      <string name="scanning">Сканування...</string>
      <string name="scanning_on_going">Сканування...</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Available: %1$s -->
+     <!-- Original string: Свободно: %1$s -->
      <string name="sd_card_available">"Вільно: "</string>
      <string name="sd_card_size">SD-карта: %1$s</string>
      <string name="sd_full">SD-карта повна</string>
@@ -248,6 +241,10 @@
      <string name="server_control_settings">Установки</string>
      <string name="share_link_failed">Помилка створення зовнішнього посилання на папку</string>
      <string name="show_message">Файл не може бути відкритий без завантаження, завантажити?</string>
+     <string name="sign_description">Подключение...</string>
+     <string name="signin_error">Нет сети или сеть нестабильна. Повторите попытку позже :)</string>
+     <string name="signin_success">"Вы успешно вошли!
+Получено %1$s."</string>
      <string name="space_info">"Об'єм в мережі: %1$s доступно，всього: %2$s"</string>
      <string name="space_usage">Зайнято</string>
      <string name="start_cleanup">Очистка</string>
@@ -279,15 +276,16 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 0
 	%d: 0 must: 1 -->
-     <!-- Original string: %1$d file(s) left to download -->
+     <!-- Original string: Скачивание файлов (Осталось: %1$d)... -->
      <string name="ui_bar_txt_download_progress">Завантаження...</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 0
 	%d: 0 must: 1 -->
-     <!-- Original string: %1$d file(s) left to upload -->
+     <!-- Original string: Загрузка файлов (Осталось: %1$d)... -->
      <string name="ui_bar_txt_upload_progress">Відправка...</string>
      <string name="ui_filechange_btn_download">Завантаження файла</string>
      <string name="ui_filechange_btn_upload">Завантажити файли</string>
+     <string name="ui_main_menu_option_sign_in">Войти</string>
      <string name="ui_main_menu_option_task_manage">Управління обміном файлами</string>
      <string name="ui_main_progress_txt_open_file">Завантаження...</string>
      <string name="ui_main_toast_favorite_removed">Уподобання видалено</string>

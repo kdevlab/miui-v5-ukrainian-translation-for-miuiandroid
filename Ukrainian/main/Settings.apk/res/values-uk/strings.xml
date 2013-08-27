@@ -93,6 +93,7 @@
      <string name="additional_system_update" />
      <string name="additional_system_update_menu" />
      <string name="additional_system_update_settings_list_item_title">Додаткові оновлення системи</string>
+     <string name="advanced_settings">Додаткові налаштування</string>
      <string name="advanced_settings_summary">Включити додаткові налаштування</string>
      <string name="airplane_mode">Режим польоту</string>
      <string name="alarm_volume_title">Будильник</string>
@@ -112,6 +113,7 @@
      <string name="android_beam_on_summary">Можна обмінюватися контентом по NFC</string>
      <string name="android_beam_witch_label">Включити Android Beam</string>
      <string name="animator_duration_scale_title">Шкала тривалості анімації</string>
+     <string name="antispam_quiet_mode_title">Не беспокоить</string>
      <string name="apn_auth_type">Тип аутентифікації</string>
      <string name="apn_auth_type_none">Ні</string>
      <string name="apn_auth_type_pap_chap">PAP або CHAP</string>
@@ -156,7 +158,7 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Disable%s to startup in background -->
+     <!-- Original string: Отключить запуск %s в фоновом режиме -->
      <string name="application_forbid_auto_startup">Відключити автозапуск в фоні?</string>
      <string name="application_info_label">Про програму</string>
      <string name="application_item_already_permission">Дозволено</string>
@@ -344,13 +346,26 @@
      <string name="bluetooth_dock_settings_headset">"Для гучного зв'язку"</string>
      <string name="bluetooth_dock_settings_remember">"Запам'ятати налаштування"</string>
      <string name="bluetooth_dock_settings_title">Використовуваті док-станцію для звуку</string>
+     <string name="bluetooth_dun_acceptance_dialog_text">%1$s хочет использовать DUN. Разрешить доступ %2$s?</string>
+     <string name="bluetooth_dun_connection_permission_request">Dun: запрос на подключение</string>
+     <string name="bluetooth_dun_profile_summary_connected">Подключено к DUN сервер</string>
+     <string name="bluetooth_dun_profile_summary_not_connected">Не подключено к DUN сервер</string>
+     <string name="bluetooth_dun_profile_summary_use_for">Используется для доступа к сети Dial-up</string>
+     <string name="bluetooth_dun_remember_choice">Больше не спрашивать</string>
+     <string name="bluetooth_dun_request">DUN запрос</string>
      <string name="bluetooth_empty_list_bluetooth_off">Щоб виявити пристрої, включіть Bluetooth</string>
      <string name="bluetooth_enable">Включити Bluetooth</string>
      <string name="bluetooth_enable_alphanumeric_pin">PIN-код містить букви або символи</string>
      <string name="bluetooth_enter_passkey_msg">Для підключення до пристрою &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введіть пароль:</string>
      <string name="bluetooth_enter_passkey_other_device">Може знадобитися ввести ключ доступу на іншому пристрої</string>
      <string name="bluetooth_enter_pin_msg">Для підключення до пристрою &lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br> введіть PIN-код:</string>
+     <string name="bluetooth_enter_pin_msg_hs">"
+Введите PIN для соединения с \"%1$s\". [Включен режим повышенной безопасности: Требуется ключ из 16 символов]"</string>
      <string name="bluetooth_enter_pin_other_device">Може знадобитися ввести PIN-код на іншому пристрої</string>
+     <string name="bluetooth_ftp_acceptance_dialog_text">%1$s хочет получить доступ к вашим папкам и файлам. Разрешить доступ %2$s?</string>
+     <string name="bluetooth_ftp_connection_permission_request">Ftp: запрос на подключение</string>
+     <string name="bluetooth_ftp_remember_choice">Больше не спрашивать</string>
+     <string name="bluetooth_ftp_request">Ftp запрос</string>
      <string name="bluetooth_headset_profile_summary_connected">Підключено до аудіопристрою телефону</string>
      <string name="bluetooth_headset_profile_summary_use_for">Використовувати для аудіо телефону</string>
      <string name="bluetooth_hid_profile_summary_connected">Підключено до пристрою введення</string>
@@ -360,6 +375,10 @@
      <string name="bluetooth_is_discoverable_always">Відображати для найближчих пристроїв Bluetooth</string>
      <string name="bluetooth_lock_voice_dialing">Заблокувати голосовий набір</string>
      <string name="bluetooth_lock_voice_dialing_summary">Запобігти використання телефону Bluetooth, коли екран заблокований</string>
+     <string name="bluetooth_map_connection_permission_request">Map: запрос на подключение</string>
+     <string name="bluetooth_mas_acceptance_dialog_text">%1$s хочет получить доступ к вашим сообщениям. Разрешить доступ %2$s?</string>
+     <string name="bluetooth_mas_remember_choice">Больше не спрашивать</string>
+     <string name="bluetooth_mas_request">Запрос доступа к сообщениям</string>
      <string name="bluetooth_menu_advanced">Розширені</string>
      <string name="bluetooth_name_not_set">"Без налаштування імені, використовувати ім'я облікового запису"</string>
      <string name="bluetooth_no_devices_found">Пристрої Bluetooth не знайдено</string>
@@ -386,6 +405,7 @@
      <string name="bluetooth_pan_user_profile_summary_connected">Використовується інтернет-підключення іншого пристрою</string>
      <string name="bluetooth_pb_acceptance_dialog_text">Пристрій %1$s намагається отримати доступ до ваших контактів і журналу викликів. Надати доступ для %2$s?</string>
      <string name="bluetooth_pb_remember_choice">Більше не питати</string>
+     <string name="bluetooth_pbap_connection_permission_request">Pbap: запрос на подключение</string>
      <string name="bluetooth_permission_request">Запит дозволу на включення Bluetooth</string>
      <string name="bluetooth_phonebook_request">Запит телефонної книги</string>
      <string name="bluetooth_pin_values_hint">Зазвичай 0000 або 1234</string>
@@ -395,14 +415,23 @@
      <string name="bluetooth_preference_scan_title">Пошук пристроїв</string>
      <string name="bluetooth_profile_a2dp">Профіль A2DP</string>
      <string name="bluetooth_profile_details">Налаштування профіля</string>
+     <string name="bluetooth_profile_dun">Dial-up доступ к сети</string>
      <string name="bluetooth_profile_headset">Профіль HSP/HFP</string>
      <string name="bluetooth_profile_hid">Профіль HID</string>
      <string name="bluetooth_profile_opp">Профіль OPP</string>
      <string name="bluetooth_profile_pan">Інтернет-доступ</string>
      <string name="bluetooth_profile_pan_nap">Профіль PAN</string>
+     <string name="bluetooth_profile_sap">Доступ к SIM</string>
      <string name="bluetooth_quick_toggle_summary">Включити Bluetooth</string>
      <string name="bluetooth_rename_button">Перейменувати</string>
      <string name="bluetooth_rename_device">Перейменувати телефон</string>
+     <string name="bluetooth_sap_acceptance_dialog_text">%1$s хочет получить доступ к Вашей SIM карте. Разрешить доступ %2$s?</string>
+     <string name="bluetooth_sap_connection_permission_request">Sap: запрос на подключение</string>
+     <string name="bluetooth_sap_profile_summary_connected">Подключено к серверу доступа к SIM</string>
+     <string name="bluetooth_sap_profile_summary_not_connected">Не подключено к серверу доступа к SIM</string>
+     <string name="bluetooth_sap_profile_summary_use_for">Используется для доступа к SIM</string>
+     <string name="bluetooth_sap_remember_choice">Больше не спрашивать</string>
+     <string name="bluetooth_sap_request">SAP запрос</string>
      <string name="bluetooth_scan_for_devices">Пошук пристроїв</string>
      <string name="bluetooth_search_for_devices">Пошук пристроїв</string>
      <string name="bluetooth_searching_for_devices">Пошук...</string>
@@ -466,9 +495,7 @@
      <string name="cdma_security_settings_summary">Налаштування функції \"Моє місце розташування\", розблокування екрану і блокування сховища реєстраційних даних</string>
      <string name="cell_broadcast_settings">Широкомовні повідомлення</string>
      <string name="cell_broadcast_settings_summary">Вибір типу повідомлень для відображення</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="change_password">Змінити пароль</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="change_security_lock">Спробуйте інші варіанти, щоб розблокувати</string>
      <string name="checkbox_notification_same_as_incoming_call">Використовувати цей рівень гучності також для повідомлень</string>
      <string name="choose_timezone">Вибрати часовий пояс</string>
@@ -540,6 +567,8 @@
      <string name="current_backup_pw_prompt">Введіть поточний пароль</string>
      <string name="current_input_method">За замовчуванням</string>
      <string name="data_size_label">Дані</string>
+     <string name="data_summary">Выбрать оператора для передачи данных</string>
+     <string name="data_title">Данные вызова</string>
      <string name="data_usage_app_restrict_background">Обмежити фон. режим</string>
      <string name="data_usage_app_restrict_background_summary">Відключити фоновий режим для мобільних мереж. Використовувати Wi-Fi</string>
      <string name="data_usage_app_restrict_background_summary_disabled">Спочатку встановіть ліміт для мобільного трафіку</string>
@@ -648,6 +677,8 @@
      <string name="development_enable">Режим разробника</string>
      <string name="development_settings_summary">Налаштування параметрів для розробників</string>
      <string name="development_settings_title">Для розробників</string>
+     <string name="device_additional_status">Доп. инф. о статусе</string>
+     <string name="device_additional_status_summary">Номер телефона, уровень сигнала, IMEI и т.д.</string>
      <string name="device_admin_add_title">Адміністратор пристрою</string>
      <string name="device_admin_settings_title">Налаштування адміністраторів пристрою</string>
      <string name="device_admin_status">Адміністратор активований і дозволяє програмі %1$s виконувати наступні операції:</string>
@@ -674,8 +705,9 @@
      <string name="dialog_title_font_size">Розмір шрифту</string>
      <string name="dirac_control">Технологія \"MI Sound\"</string>
      <string name="dirac_mode_earbuds">Гарнітура</string>
-     <string name="dirac_mode_earphones">Навушники</string>
+     <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
      <string name="dirac_mode_off">Відключено</string>
+     <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
      <string name="disable_overlays">Відключити HW оверлеї</string>
      <string name="disable_overlays_summary">Завжди використовувати GPU для відтворення екрану</string>
      <string name="disable_power_key_long_press_under_keyguard">Вимкнути на екрані блокування</string>
@@ -706,43 +738,20 @@
      <string name="dock_sounds_enable_summary_on">Відтворювати звук при встановленні або вилученні телефону</string>
      <string name="dock_sounds_enable_title">Звук при встановленні в док-станцію</string>
      <string name="does_not_exist">Програма не встановлена</string>
-     <string name="dolby_bassboost_high">Високе</string>
-     <string name="dolby_bassboost_low">Низьке</string>
-     <string name="dolby_bassboost_normal">Нормальне</string>
-     <string name="dolby_bassboost_title">"Підсилення басу: "</string>
+     <string name="dolby_dialogue_enhancer">Усилитель диалога</string>
      <string name="dolby_effects">Ефекти Dolby</string>
-     <string name="dolby_eq_auto">Користувацький</string>
-     <string name="dolby_eq_blues">Блюз</string>
-     <string name="dolby_eq_classical">Класика</string>
-     <string name="dolby_eq_country">Кантрі</string>
-     <string name="dolby_eq_dance">Танцювальна музика</string>
-     <string name="dolby_eq_delete">Видалити</string>
-     <string name="dolby_eq_delete_success">Профіль EQ налаштувань успішно видалено</string>
-     <string name="dolby_eq_electronic">Електронна музика</string>
      <string name="dolby_eq_enter_alert_msg">Ви хочете відкрити режим Dolby-еквалайзера?</string>
      <string name="dolby_eq_enter_alert_title">Режим Dolby-еквалайзера</string>
-     <string name="dolby_eq_flat">Кімната</string>
-     <string name="dolby_eq_hiphop">Хіп-Хоп</string>
-     <string name="dolby_eq_jazz">Джаз</string>
-     <string name="dolby_eq_metal">Метал</string>
-     <string name="dolby_eq_pop">Поп</string>
-     <string name="dolby_eq_rock">Рок</string>
-     <string name="dolby_equalizer">Еквалайзер</string>
+     <string name="dolby_ieq_flat">Выкл</string>
+     <string name="dolby_ieq_focused">Фокусированный</string>
+     <string name="dolby_ieq_open">Открытый</string>
+     <string name="dolby_ieq_rich">Глубокий</string>
      <string name="dolby_mode_movie">Режим відео</string>
      <string name="dolby_mode_music">Режим аудіо</string>
      <string name="dolby_mode_off">Вимк</string>
-     <string name="dolby_movie_advance">Розширені налаштування відео</string>
-     <string name="dolby_music_advance">Розширені налаштування аудіо</string>
-     <string name="dolby_preset_create">Створити</string>
-     <string name="dolby_preset_format">Користувацький %d</string>
-     <string name="dolby_preset_hint">"Будь ласка, введіть ім'я налаштувань"</string>
-     <string name="dolby_preset_rename">Перейменувати</string>
      <string name="dolby_preset_select">Будь ласка, виберіть налаштування</string>
-     <string name="dolby_roomsize_high">Велика кімната</string>
-     <string name="dolby_roomsize_low">Маленька кімната</string>
-     <string name="dolby_roomsize_normal">Звичайна кімната</string>
-     <string name="dolby_roomsize_summary">Цей режим доступний тільки при використанні навушників</string>
-     <string name="dolby_roomsize_title">"Режим об'ємного звучання:"</string>
+     <string name="dolby_surround_virtualizer">Объемная визуализация</string>
+     <string name="dolby_volume_leveler">Громкость звука</string>
      <string name="drive_mode">За кермом</string>
      <string name="drive_mode_auto_reply">Автовідповідь</string>
      <string name="drive_mode_auto_sms_reply_content">Вибачте, я зараз за кермом. Я передзвоню вам пізніше.</string>
@@ -780,6 +789,27 @@
      <string name="enforce_read_external_summary">Програми повинні посилати запит на доступ до USB сховища</string>
      <string name="enforce_read_external_title">Захист USB сховища</string>
      <string name="enter_password">Введіть пароль для розшифровки даних сховища</string>
+     <string name="eq_auto">Пользовательский</string>
+     <string name="eq_blues">Блюз</string>
+     <string name="eq_classical">Классика</string>
+     <string name="eq_country">Кантри</string>
+     <string name="eq_dance">Танцевальная</string>
+     <string name="eq_delete">Удалить</string>
+     <string name="eq_delete_success">Удаление завершено</string>
+     <string name="eq_electronic">Электроника</string>
+     <string name="eq_flat">По умолчанию</string>
+     <string name="eq_hiphop">Хип-хоп</string>
+     <string name="eq_jazz">Джаз</string>
+     <string name="eq_metal">Металл</string>
+     <string name="eq_pop">Поп</string>
+     <string name="eq_preset_create">Создать</string>
+     <string name="eq_preset_format">Индивидуальный %d</string>
+     <string name="eq_preset_hint">Пожалуйста, введите имя предустановки</string>
+     <string name="eq_preset_rename">Переименовать</string>
+     <string name="eq_preset_select">Пожалуйста, выберите пресет</string>
+     <string name="eq_rb">R &amp; B</string>
+     <string name="eq_rock">Рок</string>
+     <string name="equalizer">Эквалайзер</string>
      <string name="erase_application">Видалення програм</string>
      <string name="erase_application_description">Видалення встановлених програм</string>
      <string name="erase_external_storage">Очистити SD-карту</string>
@@ -862,6 +892,21 @@
      <string name="header_category_system">СИСТЕМНІ НАЛАШТУВАННЯ</string>
      <string name="header_category_wireless_networks">БЕЗДРОТОВІ МЕРЕЖІ</string>
      <string name="header_data_and_synchronization">Синхронізація даних</string>
+     <string name="headset_calibrate">Калибровка кнопок</string>
+     <string name="headset_calibrate_apply">Применить</string>
+     <string name="headset_calibrate_confirm">Функции кнопок изменены. Сохранить их？</string>
+     <string name="headset_calibrate_hint">Пожалуйста, нажмите верхнюю кнопку</string>
+     <string name="headset_calibrate_next_track">Следующий трек</string>
+     <string name="headset_calibrate_prev_track">Предыдущий трек</string>
+     <string name="headset_calibrate_success">Настройки применены</string>
+     <string name="headset_calibrate_volume_down">Тише</string>
+     <string name="headset_calibrate_volume_up">Громче</string>
+     <string name="headset_calibrate_wrong_key">Ошибка кнопок. Пожалуйста, введите еще ​​раз</string>
+     <string name="headset_function">Функции кнопок</string>
+     <string name="headset_mode_music">Воспроизведение музыки - предыдущий/следующий</string>
+     <string name="headset_mode_volume">Регулировка громкости - вверх/вниз</string>
+     <string name="headset_no_contected">Нет гарнитуры</string>
+     <string name="headset_settings">Наушники</string>
      <string name="heavy_weight_stop_description">Якщо закрити цю програму, можна втратити незбережені дані</string>
      <string name="help_label">Допомога</string>
      <string name="help_url_accounts" />
@@ -970,7 +1015,6 @@
 Щоб почати, натисніть \ "Далі \"."</string>
      <string name="lock_screen_unlock_show">Показати інтерфейс введення пароля</string>
      <string name="lock_screen_unlock_show_summary">Не використовуйте інші локскріни після включення, досить зайти в інтерфейс для розблокування екрана</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_settings_common_title">Налаштування блокування</string>
      <string name="lock_settings_picker_settings">Встановити блокування екрана</string>
      <string name="lock_settings_picker_title">Тип блокування</string>
@@ -1102,6 +1146,7 @@
      <string name="memory_media_usage">Мультимедіа</string>
      <string name="memory_music_usage">Аудіо (музика, рінгтони, підкасти і т. п.)</string>
      <string name="memory_size">Усього місця</string>
+     <string name="memory_title">Доступно %1$s\u0009\u0009Всего %2$s</string>
      <string name="menu_cancel">Скасувати</string>
      <string name="menu_delete">Видалити APN</string>
      <string name="menu_key">Кнопка \"МЕНЮ\"</string>
@@ -1148,6 +1193,8 @@
      <string name="msd_install_succeed">Драйвер встановлено</string>
      <string name="msd_install_windows_xp_step_2_1">1. Якщо відкрився майстер встановлення, будь ласка, виконуйте інструкції, щоб завершити встановлення драйвера</string>
      <string name="mtp_ptp_mode_summary">MTP або PTP функції є активні</string>
+     <string name="multi_sim_settings_summary">Выбрать операторов для голосовых вызовов, передачи данных и SMS</string>
+     <string name="multi_sim_settings_title">Настройка сим-карт</string>
      <string name="multi_touch_points_category_title">Точки мультитач</string>
      <string name="multi_touch_points_preference">Перезавантажити для застосування</string>
      <string name="musicfx_title">Звукові ефекти</string>
@@ -1169,6 +1216,7 @@
      <string name="no_nearby_wifi">Немає доступних мереж Wi-Fi, ви повинні пересканувати мережі або додати мережу вручну</string>
      <string name="no_running_services">Нічого не запущено</string>
      <string name="no_services">Неактивий</string>
+     <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">За замовчуванням (%s)</string>
      <string name="not_installed">Не встановлено</string>
      <string name="notification_pulse_title">Мигання трекболу</string>
@@ -1350,6 +1398,7 @@
      <string name="permission_manage_title">Дозволи %s</string>
      <string name="permissions_label">Дозволи</string>
      <string name="personal_data_section_title">ПОВЕРНЕННЯ ДО ЗАВОД. НАЛАШТУВАНЬ</string>
+     <string name="phone_call_noise_suppression">Подавление шума</string>
      <string name="phone_info_label">Інформація про телефон</string>
      <string name="phone_language">Мова</string>
      <string name="phone_language_summary" />
@@ -1626,9 +1675,12 @@
      <string name="security_settings_premium_sms_desc">Відіслати SMS</string>
      <string name="security_settings_summary">Настройка функції \"Моє місце розташування\", розблокування екрану і блокування сховища реєстраційних даних</string>
      <string name="security_settings_title">Безпека</string>
+     <string name="sel_sub_summary">Выбрать услуги связи для Оператор-1 и Оператор-2</string>
+     <string name="sel_sub_title">Настройка операторов</string>
      <string name="select_all">Вибрати все</string>
      <string name="select_application">Вибір програми</string>
      <string name="select_device_admin_msg">Адміністратори пристрою</string>
+     <string name="select_subscription">Выбрать услугу связи</string>
      <string name="selinux_status">Статус SELinux</string>
      <string name="selinux_status_disabled">Відключено</string>
      <string name="selinux_status_enforcing">Блокування</string>
@@ -1643,6 +1695,12 @@
      <string name="service_started_by_app">Запущено програмою</string>
      <string name="service_stop">Зупинити</string>
      <string name="service_stop_description">Ця служба була запущена відповідною програмою, в якій може відбутися збій, якщо її зупинити</string>
+     <string name="set_data_subscription_progress">Установка оператора передачи данных...</string>
+     <string name="set_dds_error">Ошибка при установке оператора передачи данных.</string>
+     <string name="set_dds_failed">Ошибка при установке оператора передачи данных. Сбросить все подключения и попробовать снова?</string>
+     <string name="set_dds_success">Оператор передачи данных успешно установлен</string>
+     <string name="set_sms_error">Ошибка при установке оператора отправки sms. Функция недоступна.</string>
+     <string name="set_voice_error">Ошибка при установке оператора голосовых вызовов. Функция недоступна.</string>
      <string name="settings_backup">Створити резервну копію налаштувань</string>
      <string name="settings_backup_summary">Резервна копія налаштувань</string>
      <string name="settings_button">Налаштування</string>
@@ -1683,6 +1741,7 @@
      <string name="show_touches_summary">Показувати графічний ключ</string>
      <string name="show_user_info_on_lockscreen_label">Показувати введений нижче текст на екрані блокування</string>
      <string name="silent_mode_title">Режим без звуку</string>
+     <string name="sim_absent">Нет SIM/RUIM</string>
      <string name="sim_bad_pin">Невірний PIN-код</string>
      <string name="sim_change_failed">"Не вдається змінити PIN.
 Можливо, код введений невірно. "</string>
@@ -1705,16 +1764,18 @@
      <string name="sim_lock_settings_category">Налаштувати блокування</string>
      <string name="sim_lock_settings_title">БЛОКУВАННЯ SIM-КАРТИ</string>
      <string name="sim_management_title">Керування SIM</string>
+     <string name="sim_pin_attempts">"
+Попыток осталось:"</string>
      <string name="sim_pin_change">Зміна PIN SIM карти</string>
+     <string name="sim_pin_disabled">PIN1 выключен!</string>
+     <string name="sim_pin_enabled">PIN1 включен!</string>
      <string name="sim_pin_toggle">Блокування SIM карти</string>
      <string name="sim_pins_dont_match">PIN-коди не співпадають</string>
      <string name="sim_reenter_new">Введіть новий PIN повторно</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sim_status_title">Статус SIM</string>
      <string name="skip_button_label">Відмінити</string>
      <string name="skip_label">Далі</string>
      <string name="skip_step">Пропустити цей крок</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="slot_status_title">IMEI інформація</string>
      <string name="small_font">Маленький</string>
      <string name="sms_delivered_sound_dialog_title">Вибір звуку при доставці повідомлення адресату</string>
@@ -1723,6 +1784,9 @@
      <string name="sms_over_ims_on">Включити SMS через IMS</string>
      <string name="sms_received_sound_dialog_title">Вибір звуку при отриманні повідомлення</string>
      <string name="sms_received_sound_title">Отримання повідомлень</string>
+     <string name="sms_summary">Выбрать оператора для отправки SMS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_title">SMS</string>
      <string name="sort_order_alpha">Упорядкувати по іменах</string>
      <string name="sort_order_size">Упорядкувати за розміром</string>
      <string name="sound_category_call_ringtone_vibrate_title">ДЗВІНОК ТА ВІБРАЦІЯ</string>
@@ -1741,6 +1805,8 @@
      <string name="status_bar_settings">Панель сповіщень</string>
      <string name="status_bt_address">Адреса Bluetooth</string>
      <string name="status_data_state">Передача даних в моб. мережі</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="status_esn_number">ESN</string>
      <string name="status_network_type">Тип мобільної мережі</string>
      <string name="status_number">Мій номер телефону</string>
      <string name="status_operator">Мережа</string>
@@ -1788,6 +1854,7 @@
 Технологія Google синхронізації даних дозволяє отримувати дані про контакти, зустрічі та багато іншого з будь-якого пристрою. "</string>
      <string name="sync_settings">Облік. записи і синхронізація</string>
      <string name="sync_wifi_label">Налаштув. синхр. Wi-Fi</string>
+     <string name="sync_wifi_only">Только Wi-Fi</string>
      <string name="system">СИСТЕМА</string>
      <string name="system_package">Системні оновлення не можна встановити на зовнішній носій</string>
      <string name="system_update_settings_list_item_title">Оновлення системи</string>
@@ -1862,7 +1929,6 @@
      <string name="tts_settings_changed_demo">Ваші налаштування змінені. Ось приклад того, як це звучить</string>
      <string name="tts_settings_title">Синтез мови</string>
      <string name="turn_off_radio">Вимкнути радіо</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="turn_off_security_lock">Відключити блокування</string>
      <string name="turn_on_radio">Увімкнути радіо</string>
      <string name="under_keyguard">НА ЕКРАНІ БЛОКУВАННЯ</string>
@@ -1992,6 +2058,10 @@
      <string name="user_nickname">Прізвисько</string>
      <string name="user_owner">Власник</string>
      <string name="user_picture_title">Фотографія</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Удалить пользователя %1$s с этого устройства -->
      <string name="user_remove_user_menu">Видалити користувача</string>
      <string name="user_restrictions_heading">Обмеження контенту</string>
      <string name="user_settings_title">Користувачі та обмеження</string>
@@ -2016,10 +2086,6 @@
      <string name="vibrate_input_devices_summary">Переспрямувати вібро на підключений ігровий контролер</string>
      <string name="vibrate_when_ringing_title">Вібро і дзвінок</string>
      <string name="virus_scan_app_continue">Продовжити</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 0 must: 0
-	%d: 1 must: 0 -->
-     <!-- Original string: % d software with risks, It is recommended to uninstall -->
      <string name="virus_scan_app_find_risk">%d додатків з ризиком, рекомендується негайно видалити!</string>
      <string name="virus_scan_app_finish">Закрити</string>
      <string name="virus_scan_app_force_stop">Сканування зупинене</string>
@@ -2032,10 +2098,6 @@
      <string name="virus_scan_app_scan_finish">Сканування завершено!</string>
      <string name="virus_scan_app_scanning">Сканування...</string>
      <string name="virus_scan_app_stop_scan">Зупинити сканування</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 0 must: 0
-	%d: 1 must: 0 -->
-     <!-- Original string: Batch uninstall (% d) -->
      <string name="virus_scan_app_uninstall">Пакетне видалення (%d)</string>
      <string name="virus_scan_app_waiting">Зачекайте</string>
      <string name="virus_scanner_auto_update">Автооновлення</string>
@@ -2045,7 +2107,7 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Update on %s -->
+     <!-- Original string: Обновление на %s -->
      <string name="virus_scanner_manual_update">Оновити вручну</string>
      <string name="virus_scanner_provider">Технічна підтримка: %s</string>
      <string name="virus_scanner_scan">Сканувати</string>
@@ -2062,6 +2124,8 @@
      <string name="voice_input_output_settings">Голосове введення і виведення</string>
      <string name="voice_input_output_settings_title">Налаштування голосового введення і виведення</string>
      <string name="voice_search_settings_title">Голосовий пошук</string>
+     <string name="voice_summary">Выбрать оператора для голосовых вызовов</string>
+     <string name="voice_title">Голос/USSD/MMI</string>
      <string name="volume_alarm_description">Будильник</string>
      <string name="volume_alarm_mute">Вимкнути будильники</string>
      <string name="volume_bluetooth_description">Гучність Bluetooth</string>
@@ -2139,6 +2203,7 @@
      <string name="wifi_advanced_titlebar">Додаткові функції</string>
      <string name="wifi_and_mobile_skipped_message">УВАГА: Телефон не може перевірити, що програмне забезпечення в актуальному стані.</string>
      <string name="wifi_api_test">Wi-Fi API</string>
+     <string name="wifi_auto_connect">Автоматическое соединение</string>
      <string name="wifi_cancel">Скасувати</string>
      <string name="wifi_certificate">Сертифікат</string>
      <string name="wifi_config_info">Налаштування Wi-Fi</string>
@@ -2226,6 +2291,9 @@
      <string name="wifi_p2p_disconnect_title">"Роз'єднати?"</string>
      <string name="wifi_p2p_failed_connect_message">"Немає з'єднання."</string>
      <string name="wifi_p2p_failed_rename_message">Помилка перейменування.</string>
+     <string name="wifi_p2p_menu_advanced">Дополнительно</string>
+     <string name="wifi_p2p_menu_create_group">Создать группу</string>
+     <string name="wifi_p2p_menu_remove_group">Удалить группу</string>
      <string name="wifi_p2p_menu_rename">Перейменувати пристрій</string>
      <string name="wifi_p2p_menu_search">Пошук</string>
      <string name="wifi_p2p_menu_searching">Пошук...</string>
@@ -2288,6 +2356,36 @@
      <string name="wifi_setup_title_editing_network">Підключення до мережі Wi-Fi %s</string>
      <string name="wifi_setup_wizard_title">Вибір Wi-Fi</string>
      <string name="wifi_setup_wps">Автоналаштування (WPS)</string>
+     <string name="wifi_share">Поделиться Wi-Fi</string>
+     <string name="wifi_share_action_turn_off">Прекратить делиться Wi-Fi</string>
+     <string name="wifi_share_action_turn_on">Поделиться Wi-Fi</string>
+     <string name="wifi_share_action_turn_on_summary">Пожалуйста, войтите в аккаунт Xiaomi</string>
+     <string name="wifi_share_add">Мои сети Wi-Fi</string>
+     <string name="wifi_share_add_summary">"При совместном использовании общественных Wi-Fi сетей,
+Вы можете использовать другие сети пользователей"</string>
+     <string name="wifi_share_connect">Подключить</string>
+     <string name="wifi_share_connected_summary">"Вы подключены к общественной Wi-Fi сети, которая доступна другим пользователем"</string>
+     <string name="wifi_share_connected_title">Общая сеть Wi-Fi подключенная через MIUI</string>
+     <string name="wifi_share_count">Вы поделились %d сетями</string>
+     <string name="wifi_share_current_network">Текущая сеть</string>
+     <string name="wifi_share_know">ОК</string>
+     <string name="wifi_share_list_empty">Нет публичного Wi-Fi</string>
+     <string name="wifi_share_login">Поделиться паролем к этой Wi-Fi</string>
+     <string name="wifi_share_login_summary">Если это публичная сеть, Вы можете поделиться ею с другими пользователями MIUI</string>
+     <string name="wifi_share_notification_summary">MIUI подключила Вас к защищенной паролем сети</string>
+     <string name="wifi_share_other_network">Другие сети</string>
+     <string name="wifi_share_qrcode_finish">Готово</string>
+     <string name="wifi_share_qrcode_summary">Используйте камеру MIUI для сканирования QR-кода</string>
+     <string name="wifi_share_qrcode_title">Поделиться Wi-Fi</string>
+     <string name="wifi_share_show_network">Показать сети</string>
+     <string name="wifi_share_summary1">"Пользователи MIUI могут делиться защищенными сетями Wi-Fi "</string>
+     <string name="wifi_share_summary2">Если другой пользователь MIUI делится сетями, Вы можете напрямую подключиться к этой сети без использования пароля</string>
+     <string name="wifi_share_summary3">Верните, поделившись своим общественным Wi-Fi сетей с каждым</string>
+     <string name="wifi_share_turn_off">выключено</string>
+     <string name="wifi_share_turn_on">включено</string>
+     <string name="wifi_share_upload">Поделиться</string>
+     <string name="wifi_share_upload_finish">Загрузка завершена</string>
+     <string name="wifi_share_uploading">Делимся Wi-Fi...</string>
      <string name="wifi_show_advanced">Додаткова</string>
      <string name="wifi_show_password">Показувати пароль</string>
      <string name="wifi_signal">Рівень сигналу</string>
@@ -2371,43 +2469,4 @@
      <string name="zone_auto_summaryOn">Використовувати часовий пояс мережі</string>
      <string name="zone_list_menu_sort_alphabetically">Упорядкувати за алфавітом</string>
      <string name="zone_list_menu_sort_by_timezone">Упорядкувати по часовому поясу</string>
-     <string name="advanced_settings">Додаткові налаштування</string>
-	 <string name="performance_settings_title">Налаштування продуктивності</string>
-	 <string name="processor_title">Процесор</string>
-	 <string name="processor_summary">Зміна тактової частоти CPU</string>
-	 <string name="io_scheds_title">I/O планувальник</string>
-     <string name="io_scheds_summary">Зміна I/O планувальника</string>
-     <string name="memory_management_title">Керування пам\'яттю</string>
-     <string name="memory_management_summary">Налаштуйте використання пам\'яті для зміни продуктивності системи</string>
-     <string name="pref_use_16bpp_alpha_title">16bit прозорість</string>
-     <string name="pref_use_16bpp_alpha_summary">Краща графічна продуктивність, але більш низька якість. Може викликати візуальні артефакти (потрібне перезавантаження)</string>
-     <string name="pref_use_dithering_title">Поверхневе поліпшення</string>
-	 <string name="dithering_no_dither">Вимкнути згладжування</string>
-     <string name="dithering_color_banding">Виправити кольорові смуги (за замов.)</string>
-     <string name="dithering_blur_effect">Виправити кольорові смуги і ефект розмиття</string>
-     <string name="performance_settings_warning_title">Продовжуйте з обережністю</string>
-     <string name="performance_settings_warning">"Ці параметри для експериментів і будь-які зміни в них можуть викликати аварії, втрати даних, апаратні збої або нестабільність пристрою.
-
-Ми просимо Вас не відсилати повідомлення про помилку, якщо Вами були внесені зміни в ці параметри."</string>
-     <string name="max_cpu_freq_file">/sys/devices/system/cpu/cpu0/cpufreq/scaling_max_freq</string>
-     <string name="min_cpu_freq_file">/sys/devices/system/cpu/cpu0/cpufreq/scaling_min_freq</string>
-     <string name="cpu_governors_summary">%S</string>
-     <string name="cpu_min_freq_summary">%s</string>
-     <string name="cpu_max_freq_summary">%s</string>
-     <string name="cpu_cur_freq_title">Поточна частота процесора</string>
-     <string name="cpu_governors_title">CPU governor</string>
-     <string name="cpu_min_freq_title">Мінімальна частота процесора</string>
-     <string name="cpu_max_freq_title">Максимальна частота процесора</string>
-     <string name="cpu_set_on_boot">Встановити на завантаження</string>
-     <string name="cpu_set_on_boot_summary">Відновлення налаштувань процесора при завантаженні</string>
-     <string name="io_sched_summary">%S</string>
-     <string name="io_sched_title">I/O планувальник</string>
-     <string name="io_sched_set_on_boot">Встановити на завантаження</string>
-     <string name="io_sched_set_on_boot_summary">Відновлення I/O планувальника при завантаженні</string>
-     <string name="pref_zram_title">zRam</string>
-     <string name="pref_zram_summary">Стиснення пам\'яті для збільшення віртуальної ємності (потрібне перезавантаження)</string>
-     <string name="pref_purgeable_assets_title">Allow purging of assets</string>
-     <string name="pref_purgeable_assets_summary">Purging of bitmap memory assets allows the freeing of more RAM when needed (requires reboot)</string>
-     <string name="pref_ksm_title">Kernel samepage злиття</string>
-     <string name="pref_ksm_summary">KSM знижує фізичні вимоги до пам\'яті і підвищує продуктивність</string>
 </resources>

@@ -14,6 +14,12 @@
      <string name="debug_tool_email_subject">БД Календарю додається</string>
      <string name="debug_tool_message">Ви збираєтесь 1) створити копію бази даних календаря на SD карті/USB накопичувачі, які доступні для читання всим програмам, і 2) відправити її по електронній пошті. Не забудьте видалити базу даних після того, як вона буде скопійована з пристрою чи отримана по електронній пошті.</string>
      <string name="debug_tool_start_button">Почати</string>
+     <string name="holiday_data_no_network">Нет сети, попробуйте снова</string>
+     <string name="holiday_data_update_failed">Ошибка обновления, попробуйте снова.</string>
+     <string name="holiday_data_update_succeed">Обновление завершено</string>
+     <string name="holiday_data_updating">Обновление...</string>
+     <string name="holiday_update_summary">Нажмите для проверки обновлений</string>
+     <string name="holiday_update_title">Обновление данных о рабочих днях</string>
      <string name="provider_label">Календар</string>
      <string name="upgrade_msg">Оновлення бази данних календаря...</string>
 </resources>

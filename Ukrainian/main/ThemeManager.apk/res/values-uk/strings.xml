@@ -14,7 +14,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Backup the current theme -->
+     <!-- Original string: "Резервное копирование текущей темы" -->
      <string name="backup_theme_dialog_message">Резервне копіювання поточної теми в %1$s</string>
      <string name="backup_theme_dialog_ok">Зберегти</string>
      <string name="backup_theme_name">Моя тема</string>
@@ -28,6 +28,7 @@
      <string name="component_lockstyle_personal_title">Налаштування</string>
      <string name="component_select_title">%1$s пунктів</string>
      <string name="component_settings_title">Поточна тема</string>
+     <string name="deleting">Удаление...</string>
      <string name="description_author">Автор:</string>
      <string name="description_designer">Дизайнер:</string>
      <string name="description_download">Скачано:</string>
@@ -49,11 +50,8 @@
      <string name="long_ringtone_resource">Довгі(>5 сек)</string>
      <string name="menu_refresh">Оновити</string>
      <string name="mi_wallpaper">MI шпалери</string>
-     <string name="mi_wallpaper_loading">Завантаження MI шпалер...</string>
-     <string name="mi_wallpaper_title">Шпалери Mi</string>
      <string name="online_no_network">Не вдається підключитися до мережі</string>
      <string name="online_search_hint">Введіть ключові слова</string>
-     <string name="processing">Обробка...</string>
      <string name="resource_alarm_default">Будильник</string>
      <string name="resource_app_name">Браузер ресурсів</string>
      <string name="resource_apply">Застосувати</string>
@@ -84,6 +82,8 @@
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Ви впевнені, що хочете видалити вибрані ресурси (%1$d)?</string>
      <string name="resource_delete_confirm">Ви дійсно хочете видалити ці ресурси?</string>
+     <string name="resource_delta_update_failed">Ошибка обновления, необходимо скачать полностью</string>
+     <string name="resource_delta_update_successful">Обновление завершено, сохраняю в %1$s.</string>
      <string name="resource_detail">Деталі</string>
      <string name="resource_download">Завантажити</string>
      <string name="resource_downloaded_title">Завантажені</string>
@@ -93,6 +93,7 @@
      <string name="resource_get_auth_exceed_max_limit_title">Перевищено межу авторизаций</string>
      <string name="resource_get_auth_missing">Тема не завантажена з офіційного маркету. Будь ласка, скачайте аналогічну тему з офіційного маркету.</string>
      <string name="resource_get_auth_retrieving">Отримання авторизації...</string>
+     <string name="resource_import_successful">Загрузка завершена.</string>
      <string name="resource_importing">Імпортування</string>
      <string name="resource_list_title">Останні теми</string>
      <string name="resource_local">Локально %1$s</string>
@@ -125,15 +126,7 @@
      <string name="theme_batch_update_dlg_content">Оновити зараз?</string>
      <string name="theme_batch_update_dlg_title">Оновити</string>
      <string name="theme_batch_updating_text">%1$d тем оновлюється</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Failed to apply %1$s theme. -->
      <string name="theme_changed_failed_message">Встанолення не вдалося!</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Successfully applied %1$s. -->
      <string name="theme_changed_message">Тема успішно встановлена!</string>
      <string name="theme_changing_dialog_title">Встановлення нової теми, зачекайте…</string>
      <string name="theme_component_title_alarm">Будильник</string>

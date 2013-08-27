@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="ContactScreen">Добавить/изменить контакт на SIM</string>
+     <string name="ExportContactScreen">Экспорт контактов из телефона на SIM</string>
      <string name="accessibility_call_muted">Звук вимкнено</string>
      <string name="accessibility_speakerphone_enabled">"Гучний зв'язок увімкнено"</string>
+     <string name="addSimEntries">Добавить контакт на SIM</string>
      <string name="add_button_miui">Додати</string>
      <string name="add_fdn_contact">Додати номер обмеженого набору</string>
      <string name="add_sip_account">Додати облік. запис</string>
@@ -24,6 +27,8 @@
      <string name="alert_dialog_no">Ні</string>
      <string name="alert_dialog_ok">ОК</string>
      <string name="alert_dialog_yes">Так</string>
+     <string name="allContactdeleteFailed">Не удалось удалить все контакты с SIM-карты!</string>
+     <string name="allContactdeleteSuccess">Успешно удалены все контакты с SIM-карты</string>
      <string name="always_enable_mms_miui">Завжди отримувати MMS</string>
      <string name="always_enable_mms_summary_miui">Отримувати MMS при вимкненій передачі даних</string>
      <string name="answer_and_hangup_miui">Закінчення виклику і відповідь</string>
@@ -102,6 +107,9 @@
      <string name="bf_news_settings">Фінансові та ділові новини</string>
      <string name="callFailed_cb_enabled">Якщо включена функція заборони, неможливо здійснювати вихідні виклики</string>
      <string name="callFailed_congestion">Мережа зайнята</string>
+     <string name="callFailed_dialToDial">Звонок заменен на другой номер</string>
+     <string name="callFailed_dialToSs">Звонок модифицирован в SS запрос</string>
+     <string name="callFailed_dialToUssd">Звонок модифицирован в USSD запрос</string>
      <string name="callFailed_dsac_restricted">Всі дзвінки заборонені налаштуваннями доступу</string>
      <string name="callFailed_dsac_restricted_emergency">Екстрені виклики заборонені налаштуваннями доступу</string>
      <string name="callFailed_dsac_restricted_normal">Звичайні виклики заборонені налаштуваннями доступу</string>
@@ -119,20 +127,30 @@
      <string name="callFailed_timedOut">Немає відповіді, час очікування минув</string>
      <string name="callFailed_unobtainable_number">Недійсний номер</string>
      <string name="callFailed_userBusy">Лінія зайнята</string>
+     <string name="callUnanswered_forwarded">Звонок не принят и переадресован</string>
      <string name="call_assistant_miui">Спрощення виклику</string>
      <string name="call_forwarding_number_hint_miui">Будь ласка, введіть номер для пересилання</string>
      <string name="call_forwarding_settings">Налаштування переадресації виклику</string>
      <string name="call_forwarding_settings_miui">Налаштування переадресації виклику</string>
+     <string name="call_ind_services">Независимые от звонков услуги</string>
      <string name="call_lost">Виклик був втрачений</string>
+     <string name="call_number">Кому:</string>
+     <string name="call_record_button_label">Запись %s</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Запись остановлена. ​​Нет свободного места. -->
      <string name="call_record_notification_message_low_space_miui">Запис зупинена через брак місця, натисніть для перегляду %s</string>
      <string name="call_record_notification_message_miui">Натисніть, щоб подивитися файл %s</string>
      <string name="call_record_notification_message_sd_unmounted_miui">Запис зупинена, оскільки SD-карта не змонтована</string>
+     <string name="call_record_notification_message_start_failed">Устройство записи занято другим приложением.</string>
      <string name="call_record_notification_title_error_miui">Запис розмов не вдалася</string>
      <string name="call_record_notification_title_miui">Запис...</string>
      <string name="call_record_path_name_of_sdcard_miui">SD-карта</string>
      <string name="call_record_sd_error_miui">Помилка доступу до SD-карті!</string>
      <string name="call_record_sd_space_low_miui">Мало місця на SD-карті</string>
      <string name="call_record_setting_miui">Налаштування запису розмови</string>
+     <string name="call_record_unknown_error">Ошибка записи.</string>
      <string name="call_recording_notification_summary_miui">Увімкнути повідомлення про початок і кінець запису дзвінка</string>
      <string name="call_recording_notification_title_miui">Повідомлення записи розмов</string>
      <string name="call_recording_prompt_miui">Йде запис...</string>
@@ -150,25 +168,50 @@
      <string name="caller_id_title_miui">АОН</string>
      <string name="caller_manage_header">Конференц-виклик: %s</string>
      <string name="caller_manage_manage_done_text_miui">Повернутися до виклику</string>
+     <string name="callind">Настройки функций звонков</string>
+     <string name="callind_multi_sim">Выберите подписку</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Calling via %s -->
+     <!-- Original string: Вызов через %s -->
      <string name="calling_via_template">"Дзвінок через ^1
 ^2"</string>
      <string name="calling_via_template_miui">"Дзвінок через ^1
 ^2"</string>
      <string name="cancel">Скасувати</string>
+     <string name="cancel_call">Отменить</string>
+     <string name="card_01">Карточка 1</string>
+     <string name="card_02">Карточка 2</string>
+     <string name="card_title_MOcall_forwarding">Переадресации исходящих</string>
+     <string name="card_title_MTcall_forwarding">Входящий вызов переадресуется</string>
+     <string name="card_title_call_deflected">Вызовы запрещены</string>
      <string name="card_title_call_ended">Виклик завершено</string>
+     <string name="card_title_callconnectedect">Подключен к ECT</string>
+     <string name="card_title_callconnectingect">Подключение к ECT</string>
+     <string name="card_title_calliswaiting">Вызов на ожидании</string>
+     <string name="card_title_callonhold">На удержании</string>
+     <string name="card_title_callonhold_released">Вызов завершен</string>
+     <string name="card_title_callretrieved">Вызов восстановлен</string>
+     <string name="card_title_clir_suppression_rejected">CLIR запрет отклонен</string>
+     <string name="card_title_conditionalCF">Условная переадресация включена</string>
      <string name="card_title_conf_call">Конференц-дзвінок</string>
+     <string name="card_title_cugcall">CUG вызов</string>
+     <string name="card_title_deflectedcall">Отклоненный вызовов</string>
      <string name="card_title_dialing">Набір номеру...</string>
+     <string name="card_title_forwardcheckreceived">Получена проверка переадресации</string>
+     <string name="card_title_forwarded_MTcall">Переадресация входящих вызовов</string>
      <string name="card_title_forwarded_incoming_call_miui">Виклик переадресовано</string>
      <string name="card_title_hanging_up">Завершення розмови</string>
      <string name="card_title_in_call">Вступник виклик</string>
+     <string name="card_title_in_progress">Текущий вызов</string>
+     <string name="card_title_incoming_barred">Запрет входящих вызовов</string>
      <string name="card_title_incoming_call">Вхідний дзвінок</string>
+     <string name="card_title_multipartycall">Многосторонний вызов</string>
      <string name="card_title_my_phone_number">Мій номер: %s</string>
      <string name="card_title_on_hold">Чекає відповіді</string>
+     <string name="card_title_outgoing_barred">Запрет исходящих вызовов</string>
      <string name="card_title_redialing">Повтор</string>
+     <string name="card_title_unconditionalCF">Безусловная переадресация включена</string>
      <string name="carrier_related_setting_catory_miui">Операторські налаштування</string>
      <string name="cb_sms_settings">Налаштування широкомовних SMS-служб</string>
      <string name="cdma_activate_device">Активувати пристрій</string>
@@ -220,12 +263,13 @@
      <string name="command_error_unsupported_mode_miui">Переважний тип мережі не підтримується</string>
      <string name="command_error_unsupported_request_miui">Ця операція не підтримується</string>
      <string name="confCall">Конференц-дзвінок</string>
+     <string name="config_sub_title">Настройка подписок</string>
      <string name="confirmPin2Label">Підтвердіть новий PIN2</string>
      <string name="confirmPinLabel">Підтвердіть новий PIN</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 0 must: 0
 	%d: 1 must: 0 -->
-     <!-- Original string: You will delete this custom attribution messages. -->
+     <!-- Original string: Вы удалите эту приставку сообщения -->
      <string name="confirm_delete_message_title_miui">Ви видаліть %d вибраних приставок повідомлень</string>
      <string name="confirm_delete_sim_entry_miui">Ви впевнені, що хочете видалити %d вибраних контактів з SIM-карти?</string>
      <string name="confirm_no_countrycode_for_custom_location_miui">Будь ласка, введіть номер без коду країни</string>
@@ -237,8 +281,17 @@
      <string name="connect_disconnect_vibrate_title_miui">Вібрація</string>
      <string name="connect_disconnect_vibrate_weak_miui">Слабо вібрувати</string>
      <string name="connect_later">Не вдається підключитися до цієї мережі. Повторіть спробу пізніше</string>
+     <string name="contactAddFailed">Не удалось добавить контакт на SIM!!!</string>
+     <string name="contactAddSuccess">Контакт успешно добавлен на SIM</string>
      <string name="contactPhoto">фотографія контакту</string>
+     <string name="contactUpdateFailed">Не удалось обновить контакт на SIM!!!</string>
+     <string name="contactUpdateSuccess">Контакты на SIM успешно обновлен</string>
+     <string name="contactdeleteFailed">Не удалось удалить контакт с SIM!!!</string>
+     <string name="contactdeleteSuccess">Контакт с SIM успешно удален</string>
      <string name="contacts_icon_label_miui">Контакти</string>
+     <string name="corporate_unlock_failed">Разблокировка корпоративной сети не удалась</string>
+     <string name="corporate_unlock_success">Корпоративная сеть успешно разблокирована</string>
+     <string name="count_down">Секунд:</string>
      <string name="count_of_persons_in_conference_miui">Всього %d людей</string>
      <string name="countrycode_alert_message_warning_miui">Код міста, який ви ввели можливо не вірний, ви хочете продовжити?</string>
      <string name="countrycode_alert_message_wrong_miui">Код міста, який ви ввели не вірний. Спробуйте знову</string>
@@ -248,17 +301,22 @@
      <string name="current_areacode_miui">Код регіону</string>
      <string name="current_areacode_sum_miui">Поточний код регіону, або роумінг коду регіону, якщо ви в роумінгу. Наприклад: 010</string>
      <string name="current_areacode_sum_set_miui">Код вашої країни: %s</string>
+     <string name="cursorError">Курсор не имеет соответствующих данных!</string>
      <string name="custom_location_location_hint_miui">"Ім'я"</string>
      <string name="custom_location_location_no_item_miui">"Натисніть 'Додати' знизу для додавання приставок"</string>
      <string name="custom_location_number_hint_miui">Код міста, такі як 010, номер групи, такі як 68 # # # # #</string>
      <string name="cw_title_miui">Очікування виклику</string>
      <string name="data_enable_summary">"Дозволити передачу даних по мережі мобільного зв'язку"</string>
      <string name="data_enabled">Передача даних</string>
+     <string name="deact_all_sub_not_supported">Деактивация обоих подписок не поддерживается.</string>
      <string name="default_contacts_countrycode_hint_miui">Наприклад: 7</string>
      <string name="default_contacts_countrycode_miui">Стандартний код міста</string>
      <string name="default_contacts_countrycode_sum_miui">Задайте стандартний код країни: %s</string>
      <string name="default_notification_description">Звук за замовченням (%1$s)</string>
      <string name="default_preference_summary">&lt;Не налагоджено></string>
+     <string name="delete">Удалить</string>
+     <string name="deleteAllSimEntries">Удалить все контакты с SIM</string>
+     <string name="deleteSimContacts">Удаление SIM контактов</string>
      <string name="delete_all_sim_contacts_miui">Видалити усі контакти з SIM-карти</string>
      <string name="delete_fdn_contact">Видалити номер обмеженого набору</string>
      <string name="delete_selected_sim_entry_miui">Видалити вибрані контакти</string>
@@ -293,6 +351,7 @@
      <string name="description_target_decline_miui">Відхилити</string>
      <string name="description_target_send_sms">Відправити SMS</string>
      <string name="description_target_send_sms_miui">Відправити SMS</string>
+     <string name="dial">Набор номера</string>
      <string name="dial_emergency_empty_error">Виклик не здійснено, наберіть номер екстреного виклику!</string>
      <string name="dial_emergency_error">Виклик не здійснюється, так як %s не є номером екстреного виклику!</string>
      <string name="dial_related_setting_catory_miui">Настройки набора</string>
@@ -319,6 +378,7 @@
      <string name="dtmf_tones_summary_miui">Налаштувати тривалість тонів DTMF</string>
      <string name="dtmf_tones_title">Тональні сигнали DTMF</string>
      <string name="dtmf_tones_title_miui">Тональні сигнали DTMF</string>
+     <string name="editContact">Изменить</string>
      <string name="edit_custom_location_title_miui">Налаштування регіональних приставок</string>
      <string name="edit_fdn_contact">Змінити номер обмеженого набору</string>
      <string name="emergencyDialerIconLabel">Номери екстрених викликів</string>
@@ -332,6 +392,8 @@
      <string name="empty_alert">Поле \"%s\" не може бути порожнім</string>
      <string name="empty_networks_list">Мережі не знайдено</string>
      <string name="enable">Включити</string>
+     <string name="enable_antispam_strange_summary">Отключить первый звонок с неизвестного номера</string>
+     <string name="enable_antispam_strange_title">Анти-незнакомый звонок</string>
      <string name="enable_disable_administrative">Адміністративні функції</string>
      <string name="enable_disable_advertisements">Реклама</string>
      <string name="enable_disable_atr">Інформація про пробки</string>
@@ -365,12 +427,17 @@
      <string name="enable_telocation_title_miui">Показати властивості для номеру</string>
      <string name="enforce_proximity_summary_miui">"Запобігання помилки з'єднання, коли мобільний телефон у кишені штанів"</string>
      <string name="enforce_proximity_title_miui">Датчик наближення</string>
+     <string name="enterName">Введите имя:</string>
+     <string name="enterNumber">Введите номер телефона:</string>
      <string name="enter_pin_text">PIN SIM-карти:</string>
      <string name="entertainment_news_settings">Калейдоскоп</string>
      <string name="eo_disable">Вакансії відключені</string>
      <string name="eo_enable">Вакансії включені</string>
      <string name="error_updating_title">Помилка налаштування викликів</string>
      <string name="exception_error">Помилка мережі або SIM-картки</string>
+     <string name="exportAllcontatsFailed">Не удалось экспортировать все контакты с SIM-карты!</string>
+     <string name="exportAllcontatsSuccess">Все контакты с SIM-карты успешно экспортированы</string>
+     <string name="exportContacts">Экспорт контактов на SIM-карту…</string>
      <string name="fake_phone_activity_infoText_text">Вхідний телефонний номер</string>
      <string name="fake_phone_activity_phoneNumber_text">+38 (050) 123-4567</string>
      <string name="fake_phone_activity_placeCall_text">Підроблений вхідний дзвінок</string>
@@ -388,9 +455,11 @@
      <string name="fdn_enable_puk2_requested_miui">Невірний пароль. Змініть код PIN2 і спробуйте</string>
      <string name="fdn_enabled">фіксований набір включені</string>
      <string name="fdn_enabled_miui">фіксований набір увімкнений</string>
+     <string name="fdn_failed">FDN операция не удалась.</string>
      <string name="fdn_invalid_number">Номер обмеженого набору не оновлено: він не повинен містити більше 20 цифр</string>
      <string name="fdn_miui">Фіксований набір</string>
      <string name="fdn_summary_miui">Все відключається, коли FDN включений</string>
+     <string name="fdn_unavailable">FDN услуга не доступна</string>
      <string name="fw_change_failed">"Не вдалося змінити номер переадресації дзвінків.
 Якщо проблема не буде вирішена, зв'яжіться зі своїм оператором. "</string>
      <string name="fw_get_in_vm_failed">"Не вдалося зберегти поточні налаштування переадресації.
@@ -465,7 +534,10 @@
      <string name="labelGSMMore">Установки дзвінків GSM</string>
      <string name="labelNwService">Налаштування мережевої служби</string>
      <string name="label_available">Доступні мережі</string>
+     <string name="label_cdp">Разблокировка корпоративной сети с помощью PIN-кода</string>
      <string name="label_ndp">PIN для розблокування мережі SIM-картки</string>
+     <string name="label_nsdp">Разблокировка подсети с помощью PIN-кода</string>
+     <string name="label_puk">Введите PUK</string>
      <string name="label_puk2_code">Введіть код PUK2</string>
      <string name="label_puk2_code_miui">Введіть PUK2-код</string>
      <string name="label_puk_code_miui">Введіть PUK-код</string>
@@ -481,6 +553,9 @@
      <string name="label_rn2dp">RUIM network2 unlock PIN</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="label_rspdp">RUIM service provider unlock PIN</string>
+     <string name="label_sdp">Разблокировка SIM с помощью PIN-кода</string>
+     <string name="label_spdp">Разблокировка поставщика услуг с помощью PIN-кода</string>
+     <string name="label_subscription">Подписка для</string>
      <string name="lafs_disable">Розклад рейсів місцевого аеропорту відключено</string>
      <string name="lafs_enable">Розклад рейсів місцевого аеропорту включено</string>
      <string name="list_language_dtitle">Мови</string>
@@ -525,6 +600,7 @@
      <string name="missed_call_notify_twice_miui">Два рази</string>
      <string name="mmiCancelled">Код MMI скасовано</string>
      <string name="mmiStarted">Код MMI запущений</string>
+     <string name="mobile_network_setting">Настройки мобильной сети</string>
      <string name="mobile_networks">Налаштування мережі</string>
      <string name="mobile_networks_miui">Налаштування мережі</string>
      <string name="multi_category_disable">Добірка з кількох категорій відключена</string>
@@ -532,13 +608,16 @@
      <string name="name">"Ім'я"</string>
      <string name="national_disable">Національні новини відключені</string>
      <string name="national_enable">Національні новини включені</string>
+     <string name="network_manage_settings">Настройки сети</string>
      <string name="network_message">Повідомлення мережі</string>
      <string name="network_query_error">Помилка пошуку мереж</string>
+     <string name="network_settings_sel_sub">Выберите подписку</string>
      <string name="network_work_query_failed_message_miui">"Помилка запиту, натисніть 'Відміна', для вибору бажаної мережі автоматично або натисніть «ОК» для повтору"</string>
      <string name="networks">"Оператори зв'язку"</string>
      <string name="networks_title_miui">Мережеві оператори</string>
      <string name="newPin2Label">Новий PIN2</string>
      <string name="newPinLabel">Новий PIN</string>
+     <string name="new_cards_available">Новая карта доступна. Настройте подписки.</string>
      <string name="new_pin2_hint_miui">Новий PIN2</string>
      <string name="new_pin_hint_miui">Новий PIN-код</string>
      <string name="next_miui">Далі</string>
@@ -573,7 +652,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Calling -->
+     <!-- Original string: Вызываю -->
      <string name="notification_ongoing_calling_format_miui">Викликаю (%s)</string>
      <string name="notification_voicemail_no_vm_number">Номер голосової пошти невідомий</string>
      <string name="notification_voicemail_text_format">Набір %s</string>
@@ -585,6 +664,10 @@
      <string name="number_type_miui">Тип номеру</string>
      <string name="number_type_mob_miui">Мобільний телефон</string>
      <string name="number_type_tel_miui">Стаціонарний</string>
+     <string name="nw_subset_unlock_failed">Разблокировка подсети не удалась</string>
+     <string name="nw_subset_unlock_success">Подсеть успешно разблокирована</string>
+     <string name="nw_unlock_failed">Разблокировка сети не удалась</string>
+     <string name="nw_unlock_success">Сеть успешно разблокирована</string>
      <string name="ok">ОК</string>
      <string name="oldPin2Label">Колишній PIN2</string>
      <string name="oldPinLabel">Колишній PIN</string>
@@ -656,8 +739,12 @@
      <string name="phone_entered_ecm_text">Телефон переведений в режим екстрених зворотних викликів</string>
      <string name="phone_in_ecm_call_notification_text">Передача даних відключена</string>
      <string name="phone_in_ecm_notification_title">Режим екстрених зворотних викликів</string>
+     <string name="phone_info_divider">" ｜ "</string>
+     <string name="phone_numbers">Введите телефонные номера</string>
      <string name="pick_outgoing_call_phone_type">Вихідний виклик</string>
      <string name="pick_outgoing_sip_phone">Облік. запис для інтернет-дзвінків:</string>
+     <string name="pin2_attempts">"
+Попыток осталось:"</string>
      <string name="pin2_changed">PIN2 успішно змінений</string>
      <string name="pin2_changed_miui">PIN2 успішно змінений</string>
      <string name="pin2_invalid">Номер обмеженого набору не оновлено: ви ввели невірний PIN-код</string>
@@ -667,6 +754,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2</string>
      <string name="pin2_or_fdn_invalid">"FDN wasn't updated. The PIN2 was incorrect, or the phone number was rejected."</string>
+     <string name="pin2_unblocked">PIN2 разблокирован!</string>
      <string name="pin_attempts_miui">Залишилось %d спроб</string>
      <string name="pin_changed">PIN SIM-карти успішно змінений</string>
      <string name="pin_changed_miui">PIN SIM-карти успішно змінений</string>
@@ -678,20 +766,28 @@
      <string name="pin_progress_set_fdn_lock_miui">Налаштування FDN стану блокування...</string>
      <string name="pin_progress_set_icc_lock_miui">Налаштування МТП стану блокування...</string>
      <string name="pin_progress_unlock_icc_miui">Розблокування SIM-карти...</string>
+     <string name="place_a_call1">Подписка 1</string>
+     <string name="place_a_call2">Подписка 2</string>
      <string name="port_title">Номер порту</string>
      <string name="pref_custom_location_summary_miui">Налаштування регіональних приставок і кількість приставок</string>
      <string name="pref_custom_location_title_miui">Налаштування приставок</string>
      <string name="prefer_2g">Тільки мережі 2G</string>
      <string name="prefer_2g_summary">Використовувати мережі 2G для економії заряду батареї</string>
      <string name="preference_category_ringtone">Рингтон</string>
+     <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Предпочтительный тип сети: Глобальная</string>
      <string name="preferred_network_mode_cdma_evdo_summary">Бажана мережа: CDMA / EvDo</string>
      <string name="preferred_network_mode_cdma_only_summary">Бажана мережа: тільки CDMA</string>
      <string name="preferred_network_mode_cdma_summary">Бажана мережа: CDMA</string>
      <string name="preferred_network_mode_dialogtitle">Режим кращої мережі</string>
      <string name="preferred_network_mode_evdo_only_summary">Бажана мережа: тільки EvDo</string>
+     <string name="preferred_network_mode_global_summary">Предпочтительный тип сети: Глобальная</string>
      <string name="preferred_network_mode_gsm_only_summary">Бажана мережа: тільки GSM</string>
      <string name="preferred_network_mode_gsm_wcdma_summary">Бажана мережа: GSM або WCDMA</string>
+     <string name="preferred_network_mode_lte_cdma_evdo_summary">Предпочтительный тип сети: CDMA LTE/EVDO</string>
      <string name="preferred_network_mode_lte_cdma_summary">Бажана мережа: LTE або CDMA</string>
+     <string name="preferred_network_mode_lte_gsm_wcdma_summary">Предпочтительный тип сети: GSM/WCDMA/LTE</string>
+     <string name="preferred_network_mode_lte_summary">Предпочтительный тип сети: LTE</string>
+     <string name="preferred_network_mode_lte_wcdma_summary">Предпочтительный тип сети: LTE/WCDMA</string>
      <string name="preferred_network_mode_summary">Змінити режим роботи мережі</string>
      <string name="preferred_network_mode_title">Режим мережі</string>
      <string name="preferred_network_mode_wcdma_only_summary">Бажана мережа: тільки WCDMA</string>
@@ -707,17 +803,24 @@
      <string name="preferred_network_type_title_miui">Вибір типу мережі</string>
      <string name="primary_account_summary_with">Основний облік. запис. %s</string>
      <string name="private_num">Прихований номер</string>
+     <string name="proceed">Продолжить</string>
      <string name="progress_dialog_exiting_ecm">Вихід з режиму екстрених зворотних викликів</string>
+     <string name="prompt">Запрос</string>
+     <string name="prompt_user">Запрос пользователя</string>
      <string name="proxy_address_title">Адреса проксі-сервера</string>
      <string name="pstn_phone">Виклик по мережі</string>
+     <string name="puk2_blocked">PUK2 заблокирован.</string>
      <string name="puk2_requested">Невірний пароль, SIM-карта заблокована! Введіть код PUK2</string>
      <string name="puk_lock_warning_miui">"
 Зверніть увагу, що SIM-карта повністю заблокується, якщо ви введете код невірно ще раз! "</string>
      <string name="puk_requested">Невірний пароль, SIM-карта заблокована! Введіть код PUK2</string>
+     <string name="puk_unlock_failed">PUK разблокировка неудалась.</string>
+     <string name="puk_unlock_success">PUK-код разблокировка удалась.</string>
      <string name="puk_unlocked">SIM-карта розблокована. Здійснюється розблокування телефону...</string>
      <string name="radio_off_error">Щоб побачити ці налаштування, потрібно включити радіо</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
+     <string name="rc_unlock_success">Корпоративная сеть успешно разблокирована</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="readingSimContacts">SIM card information is being read. This operation may take a minute, please be patient.</string>
      <string name="reading_settings">Читання налаштувань...</string>
@@ -746,6 +849,10 @@
      <string name="remove_miui">Видалити</string>
      <string name="remove_sip_account">Видалити облік. запис</string>
      <string name="removing_account">Видалення облік. запису...</string>
+     <string name="requesting_corporate_unlock">Запрос разблокировки корпоративной сети…</string>
+     <string name="requesting_nw_subset_unlock">Запрос разблокировки подсети…</string>
+     <string name="requesting_nw_unlock">Запрос разблокировки сети…</string>
+     <string name="requesting_puk_unlock">Запрос разблокировки PUK…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_rc_unlock">Requesting RUIM corporate unlock...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -758,6 +865,8 @@
      <string name="requesting_rsp_unlock">Requesting RUIM service provider unlock...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="requesting_ruim_unlock">Requesting RUIM RUIM unlock...</string>
+     <string name="requesting_sim_unlock">Запрос разблокировки SIM…</string>
+     <string name="requesting_sp_unlock">Запрос разблокировки поставщика услуг…</string>
      <string name="requesting_unlock">Запит розблокування мережі...</string>
      <string name="reset_my_choice_hint">В налаштуваннях дзвінків можна змінити облік. запис інтернет-телефонії, який використовується за промовчанням при виконанні викликів. Для цього виберіть інший рахунок у налаштуваннях інтернет-дзвінків</string>
      <string name="respond_via_sms_canned_response_1">На зборах. Зателефонуйте пізніше?</string>
@@ -782,11 +891,14 @@
      <string name="reverting_settings">Повернення до попередніх налаштувань...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rhrpd_unlock_failed">RUIM Hrpd unlock request unsuccessful.</string>
+     <string name="rhrpd_unlock_success">Hrpd успешно разблокирована</string>
      <string name="ringtone_title">Мелодия телефона</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rnw1_unlock_failed">RUIM Network1 unlock request unsuccessful.</string>
+     <string name="rnw1_unlock_success">Сеть 1 успешно разблокирована</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rnw2_unlock_failed">RUIM Network2 unlock request unsuccessful.</string>
+     <string name="rnw2_unlock_success">Сеть 2 успешно разблокирована</string>
      <string name="roaming">Інтернет-роумінг</string>
      <string name="roaming_disable">Підключатися до служб передачі даних в роумінгу</string>
      <string name="roaming_enable">Підключатися до служб передачі даних в роумінгу</string>
@@ -794,13 +906,16 @@
      <string name="roaming_warning">Дозволити інтернет-роумінг? Можливі високі витрати за використання роумінгу</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="rsp_unlock_failed">RUIM Service Provider unlock request unsuccessful.</string>
+     <string name="rsp_unlock_success">Поставщик услуг успешно разблокирован</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ruim_unlock_failed">RUIM RUIM unlock request unsuccessful.</string>
+     <string name="ruim_unlock_success">RUIM успешно разблокирована</string>
      <string name="save">Зберегти</string>
      <string name="saving_account">Збереження облік. запису...</string>
      <string name="search_networks">Пошук мереж</string>
      <string name="selectContact">вибрати контакт</string>
      <string name="select_automatically">Вибирати автоматично</string>
+     <string name="sendSms">Отправить SMS</string>
      <string name="send_button">Подзвонити</string>
      <string name="send_keepalive_title">Відправляти keep-alive</string>
      <string name="separate_from_conference_miui">Індивідуальний виклик</string>
@@ -810,6 +925,20 @@
      <string name="set_smsc_address_error_miui">Не вдалося встановити номер SMS-центру</string>
      <string name="set_smsc_address_timeout_miui">Не вдалося встановити номер SMS-центру</string>
      <string name="set_smsc_address_title_miui">Номер SMS-центру</string>
+     <string name="set_sub_1">Подписка 1:</string>
+     <string name="set_sub_2">Подписка 2:</string>
+     <string name="set_sub_activate_failed">Активировать не удалось</string>
+     <string name="set_sub_activate_not_supported">Активация не поддерживается</string>
+     <string name="set_sub_activate_success">Успешная активация</string>
+     <string name="set_sub_deactivate_failed">Деактивировать не удалось</string>
+     <string name="set_sub_deactivate_not_supported">Деактивация не поддерживается</string>
+     <string name="set_sub_deactivate_success">Успешная деактивация</string>
+     <string name="set_sub_failed">Подписка не установлена</string>
+     <string name="set_sub_no_change">Никаких изменений в подписке</string>
+     <string name="set_sub_success">Подписка установлена</string>
+     <string name="set_subscription">Выберите подписки</string>
+     <string name="set_subscription_error_atleast_one">Выберите по крайней мере одну подписку</string>
+     <string name="set_uicc_subscription_progress">Установка подписки...</string>
      <string name="settings_label">Налаштування мережі</string>
      <string name="simContacts_airplaneMode">Щоб імпортувати контакти з SIM-карти, відключіть режим польоту</string>
      <string name="simContacts_empty">На SIM-карті немає контактів</string>
@@ -827,6 +956,8 @@
      <string name="sim_ndp_unlock_text">Розблокувати</string>
      <string name="sim_pin_change_miui">Зміна PIN-коду SIM</string>
      <string name="sim_pin_toggle_miui">Блокування SIM-картки</string>
+     <string name="sim_unlock_failed">Разблокировка SIM не удалась</string>
+     <string name="sim_unlock_success">SIM успешно разблокирована</string>
      <string name="sip_account_list">SIP-облік. записи</string>
      <string name="sip_accounts">Облік. записи інтернет-телефонії (SIP)</string>
      <string name="sip_accounts_title">Облік. записи</string>
@@ -853,9 +984,18 @@
      <string name="sliding_up_hint_miui">Посуньте вгору, щоб відхилити</string>
      <string name="sms_content">Вміст повідомлення</string>
      <string name="sms_sender">Від</string>
+     <string name="sp_unlock_failed">Разблокировка поставщика услуг не удалась</string>
+     <string name="sp_unlock_success">Поставщик услуг успешно разблокирован</string>
      <string name="sports_news_settings">Новини спорту</string>
+     <string name="stk_cc_ss_to_dial_error">SS запрос преобразован в звонок</string>
+     <string name="stk_cc_ss_to_ss_error">SS запрос преобразован в новый SS запрос</string>
+     <string name="stk_cc_ss_to_ussd_error">SS запрос преобразован в USSD запрос</string>
      <string name="stock_quotes_disable">Котирування цінних паперів відключене</string>
      <string name="stock_quotes_enable">Котирування цінних паперів включене</string>
+     <string name="sub_one">Управление подпиской 1</string>
+     <string name="sub_two">Управление подпиской 2</string>
+     <string name="subone">Подписка 1</string>
+     <string name="subtwo">Подписка 2</string>
      <string name="sum_carrier_select">"Виберіть оператора зв'язку"</string>
      <string name="sum_cdma_call_settings">Додаткові налаштування (тільки CDMA-дзвінків)</string>
      <string name="sum_cfb_disabled">Відключено</string>
@@ -882,6 +1022,9 @@
      <string name="sum_select_automatically_option_miui">Автовибір бажаної мережі, %s</string>
      <string name="sum_show_caller_id">Кількість відображуваних у вихідних дзвінках</string>
      <string name="sum_voicemail_choose_provider">Виберіть службу голосової пошти</string>
+     <string name="sum_xdivert_disabled">X-Переадресация выключена</string>
+     <string name="sum_xdivert_enabled">X-Переадресация включена</string>
+     <string name="summary_manage_subscriptions">Управление сетевыми настройками каждой подписки</string>
      <string name="t9_indexing_method_pinyin">Алфавітний</string>
      <string name="t9_indexing_method_title_miui">Налаштування пошуку T9</string>
      <string name="t9_indexing_method_zhuyin">Китайський</string>
@@ -910,10 +1053,11 @@
      <!-- The count of MNPS does not match! Now: 2 must: 3
 	%s: 1 must: 1
 	%d: 1 must: 2 -->
-     <!-- Original string: %1$d٪ of cycle elapsed
-Next period starts in %2$d days (%3$s) -->
+     <!-- Original string: "%1$d٪ периода прошло.
+Следующий период начинается через %2$d дней (%3$s)" -->
      <string name="throttle_time_frame_subtext">"%1$s перевищено максимум.
 Частота даних зменшена до %2$d кБ/с "</string>
+     <string name="title_data_settings">Настройки данных</string>
      <string name="transport_title">Протокол</string>
      <string name="tty_mode_option_summary">Встановити режим телетайпу</string>
      <string name="tty_mode_option_summary_miui">Встановити режим телетайпу</string>
@@ -967,4 +1111,16 @@ Next period starts in %2$d days (%3$s) -->
      <string name="wait_prompt_str">"Відправити наступні тони?
 "</string>
      <string name="wild_prompt_str">Замінити універсальний символ на</string>
+     <string name="xdivert_active">Активировна</string>
+     <string name="xdivert_button">Настройки X-Переадресации</string>
+     <string name="xdivert_enternumber_error">Введите номер телефона для подписки</string>
+     <string name="xdivert_imsi_not_read">Sim инициализация. Пожалуйста попробуйте еще раз через некоторое время.</string>
+     <string name="xdivert_not_active">Не активирована</string>
+     <string name="xdivert_not_supported">X-переадресация не поддерживается CDMA</string>
+     <string name="xdivert_partial_set">XDivert была установлена только для первой подписки</string>
+     <string name="xdivert_setting">Настройки X-Переадресации</string>
+     <string name="xdivert_status">Статус X-Переадресации</string>
+     <string name="xdivert_sub_absent">Обе подписки должны быть активированы для X-Переадресации</string>
+     <string name="xdivert_summary">CFNRc Настройки</string>
+     <string name="xdivert_title">X-Переадресация</string>
 </resources>

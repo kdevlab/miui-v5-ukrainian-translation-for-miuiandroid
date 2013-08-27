@@ -11,6 +11,7 @@
      <string name="bad_comments">Погані</string>
      <string name="button_refresh">Оновити</string>
      <string name="button_search">Пошук</string>
+     <string name="button_search_in_market">Поиск в маркете</string>
      <string name="bytes_unit">%1$sбайт</string>
      <string name="cancel">Скасування</string>
      <string name="category_recommend_tag">Реком.</string>
@@ -29,11 +30,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_average_score">Average</string>
      <string name="comment_cannot_comment">Щоб залишити коментар, потрібно спочатку скачати цей додаток</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 2
-	%s: 1 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s scores %2$s comments in total -->
-     <string name="comment_count">Усього %1$s коментарів</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comment_current_version">Current Version</string>
      <string name="comment_date">%1$02d-%2$02d</string>
@@ -54,14 +50,14 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Download incomplete. Please check network connection. -->
+     <!-- Original string: Проверьте подключение к сети -->
      <string name="connect_fail">"Помилка установки %1$s: помилка з'єднання, перевірте підключення до мережі"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="connect_no_enough_space">No enough space to install app. Please cleanup your phone to try again.</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Download incomplete. No installation package for your phone. -->
+     <!-- Original string: Загрузка не завершена. Нет пакета установки для вашего телефона. -->
      <string name="connect_no_fit_fail">Помилка установки %1$s: настановний пакет не підходить для вашого телефону</string>
      <string name="connecting">Підключення...</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -73,14 +69,12 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Download incomplete. Download error. -->
+     <!-- Original string: Загрузка не завершена. Ошибка загрузки. -->
      <string name="download_fail">%1$s установка не виконана: помилка завантаження</string>
-     <string name="download_manager_tag">Менеджер завантажень</string>
-     <string name="download_manager_tag_with_nonzero_downloads">Завантажень(%1$s/%2$s)</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Download incomplete. Failed to create download task. -->
+     <!-- Original string: Загрузка не завершена. Ошибка создания задачи для загрузки. -->
      <string name="download_start_fail">Помилка встановлення %1$s: не вдається виконати завантаження</string>
      <string name="edit_comment">Коментар</string>
      <string name="edit_comment_title">Відправити відгук %1$s</string>
@@ -93,37 +87,33 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="first_recommend_enter">Start market</string>
      <string name="good_comments">Гарні</string>
-     <string name="header_processing">Іде завантаження...</string>
-     <string name="header_waiting">Очікування завантаження...</string>
      <string name="hot_rank_tag">Топ рейтингу</string>
      <string name="install">Скачати</string>
      <string name="install_all_description">Встановити %1$s в %2$s？</string>
+     <string name="install_all_title">Установить все</string>
      <string name="install_btn_cancel">Скасування</string>
      <string name="install_btn_continue">Далі</string>
-     <string name="install_btn_download_manager">Менеджер завантажень</string>
      <string name="install_btn_ok">ОК</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Installation error. Please try again. -->
+     <!-- Original string: Ошибка установки. Попробуйте снова. -->
      <string name="install_fail">%1$s - помилка встановлення</string>
-     <string name="install_google_base_button">Встановити всі</string>
      <string name="install_google_base_message">“%1$s” вимагає Google Service Framework для роботи</string>
      <string name="install_google_base_title">Встановлення Google Service Framework</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Installation package check failed. Please re-download. -->
+     <!-- Original string: Ошибка установки. Загрузите пакет снова. -->
      <string name="install_hash_fail">%1$s - помилка встановлення</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Signature inconsistent. Please uninstall and try again. -->
+     <!-- Original string: Ошибка подписи. Удалите приложение и попробуйте снова. -->
      <string name="install_inconsistent_fail">%1$s - помилка встановлення</string>
      <string name="install_missing_shared_library">У системі відсутні необхідні компоненти</string>
      <string name="install_no_network_description">Немає мережевого підключення, підключіться й спробуйте ще раз</string>
      <string name="install_on_data_description">您在使用数据网络，下载可能产生流量费用，是否立即安装%1$s等%2$s款应用？</string>
-     <string name="install_only_on_wifi_description">您在下载管理中开启了『仅在WLAN下下载』设置，暂时无法在线安装应用，请连接WLAN网络后重试</string>
      <string name="install_parse_fail">Встановлення не вдалося. Будь ласка завантажте повторно.</string>
      <string name="install_patch_fail">Відновлення не вдалося. Завантажте повторно пакет</string>
      <string name="install_sdcard_not_available">Встановлення не завершено. Sd-Карта недоступна</string>
@@ -173,21 +163,25 @@
      <string name="no_comment">Немає коментарів</string>
      <string name="no_data">Немає даних, перевірте мережу</string>
      <string name="no_description">Немає додатків</string>
-     <string name="no_download_task">Немає завантажень</string>
      <string name="no_fitness">Упс! Немає відповідних програм, спробуйте пошукати :)</string>
      <string name="no_local_apps">Немає встановлених додатків</string>
      <string name="no_network">Немає доступу в Інтернет. Будь ласка, перевірте налаштування й спробуйте обновити :)</string>
      <string name="no_search">Додатків не знайдене</string>
      <string name="no_update">Оновлень немає</string>
+     <string name="notif_auto_update_failed">Ошибка обновления некоторых приложений.</string>
+     <string name="notif_auto_update_successfull">%1$s авто-обновление не завершено</string>
+     <string name="notif_auto_update_via_wifi">Авто-обновление: %1$s</string>
      <string name="notif_delta_update_successful">Успішно оновлено. Для Вас збережено %1$s, натисніть кнопку, щоб запустити зараз.</string>
+     <string name="notif_description_from_market">Из маркета Xiaomi</string>
      <string name="notif_install_failed">Збій установки %1$s</string>
      <string name="notif_install_successful">%1$s успішно встановлене</string>
      <string name="notif_install_successful_default">%1$s установлене</string>
      <string name="notif_installing">Встановлення “%1$s”…</string>
+     <string name="notif_summary_auto_update_failed">Нажмите сюда для продолжения.</string>
+     <string name="notif_summary_auto_update_successful">Авто-обновление %1$s приложений не завершено.</string>
      <string name="notif_title_update">Доступне відновлення для %1$s!</string>
      <string name="paused">Пауза</string>
      <string name="pending">Почекайте...</string>
-     <string name="permission_button">Необхідні дозволи (%1$s)</string>
      <string name="permission_extra">Інші дозволи</string>
      <string name="permission_risky_money">Відправлення SMS</string>
      <string name="permission_risky_privacy">Конфіденційність</string>
@@ -204,7 +198,10 @@
      <string name="pref_list_per_day">Щодня</string>
      <string name="pref_list_per_week">Щотижня</string>
      <string name="pref_list_remind_me_after_download">Нагадати після завантаження</string>
+     <string name="pref_summary_auto_update_via_wifi">Авто-обновление через Wi-Fi при заблок. экране.</string>
      <string name="pref_title_auto_update_setting">Параметри автооновлення</string>
+     <string name="pref_title_auto_update_via_wifi">Авто-обновление через Wi-Fi</string>
+     <string name="pref_title_auto_update_via_wifi_checkbox">Авто-обновление</string>
      <string name="pref_title_clear_search_record">Очистити історію пошуку</string>
      <string name="pref_title_data_save_mode">Регулювання трафіка</string>
      <string name="pref_title_silent_install">Тихе встановлення</string>
@@ -219,7 +216,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Installation incomplete. Please manually uninstall and try again. -->
+     <!-- Original string: Устаовка не завершена. Пожалуйста, удалите приложение и попробуйте снова. -->
      <string name="remove_package_timeout_fail">Помилка встановлення %1$s: видалення старої версії не вдалося, видаліть вручну</string>
      <string name="result_notice">Результати призупинені сервісом додатків Baidu</string>
      <string name="result_of_clear_history">Історія пошуку успішно очищена</string>
@@ -231,17 +228,18 @@
      <string name="share_text">在小米应用商店发现一个有趣的APP：%1$s，分享一下！传送门：%2$s</string>
      <string name="show_all_local_app">Показати всі</string>
      <string name="show_all_local_app_with_count">Всі додатки (%1$d)</string>
-     <string name="status_downloading">Завантаження：%1$s%%</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: System app signature inconsistent. Unable to upgrade. -->
+     <!-- Original string: Несовместимая подпись системного приложения. Невозможно обновить. -->
      <string name="system_app_sign_not_match_fail">Помилка встановлення %1$s: несумісний підпис додатка</string>
      <string name="update">Відновлення</string>
      <string name="update_all">Обновити всі</string>
      <string name="update_date">%3$s, %2$s, %1$s</string>
      <string name="update_date_label">Завантажено：</string>
      <string name="update_info">Зміни</string>
+     <string name="upgrade_all_description">Обновить %1$s и %2$s приложений сейчас?</string>
+     <string name="upgrade_all_title">Обновить все</string>
      <string name="verifying">Перевірка на віруси...</string>
      <string name="version_label">Версія：</string>
      <string name="version_name">Версія: %1$s</string>

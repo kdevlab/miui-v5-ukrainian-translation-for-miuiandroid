@@ -102,8 +102,13 @@
      <string name="ext_media_safe_unmount_notification_title">Можете витягти</string>
      <string name="ext_media_unmountable_notification_message">Пошкоджене USB-сховище. Будь ласка відформатуйте його.</string>
      <string name="ext_media_unmountable_notification_title">Пошкоджене USB-сховище</string>
+     <string name="filter_item_description">Вы можете выбрать тип уведомления в \"Параметры-Настройки панели уведомлений-пользовательские уведомления\"</string>
+     <string name="filter_item_preview_image">предпоказ</string>
      <string name="gps_notification_found_text">Розташування встановлено за допомогою GPS</string>
      <string name="gps_notification_searching_text">Пошук GPS</string>
+     <string name="headset_custom">Настр.</string>
+     <string name="headset_info">Настройка кнопок</string>
+     <string name="headset_settings">Подключена гарнитура</string>
      <string name="invalid_charger">"Зарядка через USB-порт не підтримується.
 Використовуйте зарядний пристрій з комплекту поставки "</string>
      <string name="key_position_custom">Розміщення</string>
@@ -120,20 +125,6 @@
      <string name="move_data_to_sdcard_message">"Скріншоти і фотографії будуть перенесені на SD-карту, щоб звільнити більше внутрішньої пам'яті"</string>
      <string name="move_data_to_sdcard_title">Передача даних на SD-карту</string>
      <string name="no_notification_tips">Немає сповіщень</string>
-     <string name="notification_icon_filter">Налаштування повідомлень</string>
-     <string name="notification_icon_filter_hide">Не показувати повідомлення в рядку стану</string>
-     <string name="notification_icon_filter_list_empty_summary">Список порожній</string>
-     <string name="notification_icon_filter_menu_item_hide">Не показувати повідомлення для цього додатка</string>
-     <string name="notification_icon_filter_menu_item_show">Показати повідомлення для даного застосування</string>
-     <string name="notification_icon_filter_mode">Режим контролю</string>
-     <string name="notification_icon_filter_mode_black_list">Чорний список</string>
-     <string name="notification_icon_filter_mode_white_list">Білий список</string>
-     <string name="notification_icon_filter_other_list">Список додатків</string>
-     <string name="notification_icon_filter_settings">Повідомлення</string>
-     <string name="notification_icon_filter_settings_loading">Завантаження...</string>
-     <string name="notification_icon_filter_show">Повідомлення в рядку стану</string>
-     <string name="notification_icon_filter_summary">Відключення цієї опції дозволить всім додаткам показувати повідомлення</string>
-     <string name="notification_icon_filter_title">Приховати</string>
      <string name="notification_otg_gamestick_in">Ігровий контролер підключений</string>
      <string name="notification_otg_gamestick_out">Ігровий контролер відключений</string>
      <string name="notification_otg_keyboard_in">Клавіатура підключена</string>
@@ -170,16 +161,19 @@
      <string name="screenshot_saving_text">Збереження...</string>
      <string name="screenshot_saving_ticker">Збереження...</string>
      <string name="screenshot_saving_title">Збереження...</string>
+     <string name="settings_all_app_display_loading">Идет загрузка, пожалуйста, подождите</string>
+     <string name="settings_custom_notification">Пользовательские уведомления</string>
      <string name="settings_expandable_under_fullscreen">У повноекранному режимі</string>
      <string name="settings_expandable_under_fullscreen_summary">Зсунути вниз від верхньої частини екрану</string>
      <string name="settings_expandable_under_keyguard">На екрані блокування</string>
      <string name="settings_expandable_under_keyguard_summary">Працює тільки при відсутності паролю для розблокування</string>
      <string name="settings_expanded_view">НАЛАШТУВАННЯ ВИСУНЕННЯ ШТОРИ</string>
-     <string name="settings_notification_icon">ПОВІДОМЛЕННЯ ПАНЕЛІ ОПОВІЩЕННЯ</string>
-     <string name="settings_screenshot_notification_disabled">Відкл. спов. про скріншот</string>
+     <string name="settings_notification_bar">Панель уведомлений</string>
      <string name="settings_show_flow_info">Інформація про мережу</string>
      <string name="settings_show_network_speed">Швидкість мережі</string>
-     <string name="settings_toggle">ПЕРЕМИКАЧІ</string>
+     <string name="settings_show_notificationBar_notification">Показать уведомления панели уведомлений</string>
+     <string name="settings_show_statusBar_notification">Показать уведомления строки состояния</string>
+     <string name="settings_status_bar">Панель уведомлений</string>
      <string name="settings_toggle_collapse_after_clicked">Згорнути після натискання</string>
      <string name="settings_toggle_layout_style">СТИЛЬ ПАНЕЛІ ОПОВІЩЕННЯ</string>
      <string name="settings_toggle_layout_style_applying">Застосування стилю перемикачів...</string>
@@ -196,12 +190,12 @@ d MMMM yyyy"</string>
      <!-- The count of MNPS does not match! Now: 2 must: 3
 	%s: 2 must: 3
 	%d: 0 must: 0 -->
-     <!-- Original string: "Today:%1$s    Remain:%2$s    Package:%3$s" -->
+     <!-- Original string: Сегодня: %1$s | Осталось: %2$s | Всего: %3$s -->
      <string name="status_bar_network_flow">Сьогодні: %1$s | Залишилось: %2$s</string>
      <!-- The count of MNPS does not match! Now: 2 must: 3
 	%s: 2 must: 3
 	%d: 0 must: 0 -->
-     <!-- Original string: "Today:%1$s    Exceeded:%2$s    Package:%3$s" -->
+     <!-- Original string: Сегодня: %1$s | Превышение: %2$s | Пакет: %3$s -->
      <string name="status_bar_network_flow_exceed">Сьогодні: %1$s | Залишилось: %2$s</string>
      <string name="status_bar_network_flow_today">Сьогодні: %1$s</string>
      <string name="status_bar_no_recent_apps">Відкриті програми відсутні</string>
@@ -240,6 +234,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_toggle_power_mid">Баланс</string>
      <string name="status_bar_toggle_power_mode">Режим живлення</string>
      <string name="status_bar_toggle_privacy_mode">Гість</string>
+     <string name="status_bar_toggle_quiet_mode">Не беспокоить</string>
      <string name="status_bar_toggle_reboot">Перезавантаження</string>
      <string name="status_bar_toggle_ring">Дзвінок</string>
      <string name="status_bar_toggle_ringtone">Мелодія</string>
@@ -254,10 +249,13 @@ d MMMM yyyy"</string>
      <string name="status_bar_toggle_torch">Ліхтарик</string>
      <string name="status_bar_toggle_vibrate">Вібрація</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
+     <string name="status_bar_toggle_wifi_ap">"Wi-Fi
+модем"</string>
      <string name="status_bar_use_physical_keyboard">Використовувати фізичну клавіатуру</string>
      <string name="tab_notifications_lable">Повідомлення</string>
      <string name="tab_toggles_lable">Перемикачі</string>
      <string name="title_usb_accessory">USB-пристрій</string>
+     <string name="toast_rotation_locked">Экран заблокирован в ландшафтном режиме</string>
      <string name="torch_activity_hint">Ліхтарик можна швидко включити, утримуючи [icon], на екрані блокування</string>
      <string name="torch_activity_name">Ліхтарик</string>
      <string name="usb_accessory_confirm_prompt">Запускати %1$s при підключенні цього USB-аксесуара?</string>

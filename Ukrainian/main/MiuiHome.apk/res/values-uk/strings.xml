@@ -80,10 +80,12 @@
      <string name="loading_desktop">Оновлення робочого столу...</string>
      <string name="menu_add">Додати</string>
      <string name="menu_back_desktop">Додому</string>
+     <string name="menu_customize">Настройки</string>
      <string name="menu_edit">Режим редагування</string>
      <string name="menu_exit_scene">Вихід із вільного роб. столу</string>
      <string name="menu_item_add_item">Додати на основний екран</string>
      <string name="menu_launcher_setting">Налаштування робочого столу</string>
+     <string name="menu_picktheme">Выбор темы</string>
      <string name="menu_reset_scene">Скинути на стандарт</string>
      <string name="menu_search">Пошук</string>
      <string name="menu_settings">Налаштування системи</string>
@@ -124,6 +126,7 @@
      <string name="screen_button_disabled_message">Кнопки внизу екрану відключені. Ви можете включити їх знову, натиснувши клавіші \"Додому\" та \"Живлення\".</string>
      <string name="screen_button_enabled_message">Кнопки на нижній частині екрана включені</string>
      <string name="screen_rotation_freeze_message">Поворот екрану заблокований в ландшафтному режимі</string>
+     <string name="scroll_tip_format_when_announce_accessibility">На странице: %1$d приложений: %2$d</string>
      <string name="select_frame">Рамка</string>
      <string name="select_photo">Фото</string>
      <string name="sort_by_abc">По імені</string>
@@ -148,6 +151,7 @@
      <string name="status_bar_toggle_power_mid">Звичайний</string>
      <string name="status_bar_toggle_power_mode">Режим живлення</string>
      <string name="status_bar_toggle_privacy_mode">Гість</string>
+     <string name="status_bar_toggle_quiet_mode">Не беспокоить</string>
      <string name="status_bar_toggle_reboot">Перезавантаження</string>
      <string name="status_bar_toggle_ring">Дзвінок</string>
      <string name="status_bar_toggle_ringtone">Мелодія</string>
@@ -162,6 +166,7 @@
      <string name="status_bar_toggle_torch">Ліхтарик</string>
      <string name="status_bar_toggle_vibrate">Вібрація</string>
      <string name="status_bar_toggle_wifi">Wi-Fi</string>
+     <string name="status_bar_toggle_wifi_ap">Wi-Fi модем</string>
      <string name="title_select_live_folder">Виберіть папку</string>
      <string name="title_select_shortcut">Виберіть ярлик</string>
      <string name="toggle_select_title">Вибрати перемикачі</string>

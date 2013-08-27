@@ -20,6 +20,15 @@
         <item>ROMZ.bz</item>
         <item>http://www.romz.bz/</item>
      </string-array>
+     <string-array name="menu_theme_setting">
+        <item>Белая</item>
+        <item>Желтая</item>
+        <item>Серая</item>
+        <item>Коричневая</item>
+        <item>Зеленая</item>
+        <item>Синяя</item>
+        <item>Темная</item>
+     </string-array>
      <string-array name="pref_content_plugins_choices">
         <item>Так</item>
         <item>За потребою</item>

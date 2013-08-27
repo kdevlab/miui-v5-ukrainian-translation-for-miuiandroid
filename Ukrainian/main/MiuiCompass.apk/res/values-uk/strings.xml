@@ -20,22 +20,22 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: EL -->
+     <!-- Original string: В.Д. -->
      <string name="location_east">%s Сх</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: NL -->
+     <!-- Original string: С.Ш. -->
      <string name="location_north">%s Пн</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: SL -->
+     <!-- Original string: Ю.Ш. -->
      <string name="location_south">%s Пд</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: WL -->
+     <!-- Original string: З.Д. -->
      <string name="location_west">%s Зх</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="longitude">LON</string>

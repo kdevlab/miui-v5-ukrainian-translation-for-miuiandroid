@@ -28,6 +28,13 @@
      <string name="check_update_when_wifi_available">Оновлення тільки через Wi-Fi</string>
      <string name="checking_for_updates">Перевірка оновлень</string>
      <string name="choose_recommend">Будь ласка, виберіть рекомендуете чи ні</string>
+     <string name="comment_invalid">Пожалуйста, нажмите на звездочки, чтобы выбрать оценку</string>
+     <string name="comment_publish">Отправить</string>
+     <string name="comment_sending">Отправка комментария...</string>
+     <string name="comment_upload_failed">Ошибка отправки комментария</string>
+     <string name="comment_upload_hint">Спасибо за ваш комментарий.</string>
+     <string name="comment_upload_not_logined">Пожалуйста, зайдите в аккаунт</string>
+     <string name="comment_upload_success">Комментарий отправлен!</string>
      <string name="confirm_download_cancelation_dialog_message">Ви впевнені, що хочете скасувати завантаження оновлення?</string>
      <string name="copy_install_log">Скопійовано в буфер обміну</string>
      <string name="current_version_text">Встановлена версія:</string>
@@ -41,6 +48,9 @@
      <string name="download_ota_rom">Оновлення (%s)</string>
      <string name="download_whole_rom">Повний пакет (%s)</string>
      <string name="downloading_description">Скачування...</string>
+     <string name="edit_comment">Комментарий</string>
+     <string name="edit_comment_title">Редактирование комментария</string>
+     <string name="edit_text_default">Написать комментарий</string>
      <string name="emegency_build">Збірка:</string>
      <string name="exception_while_downloading">Сталася помилка при завантаженні оновлення</string>
      <string name="expect">4.Виправдалися очікування</string>
@@ -53,7 +63,6 @@
      <string name="install_file_explorer">Встановити програму Файли</string>
      <string name="install_qq">Встановити QQ</string>
      <string name="install_rom_from_sd">Прошивка</string>
-     <string name="install_sina">Встановити Sina</string>
      <string name="install_whole_rom">Ми рекомендуємо вам завантажити повний пакет для оновлення системи</string>
      <string name="internal_build">внутрішня збірка</string>
      <string name="loading">Завантаження MIUI</string>
@@ -76,7 +85,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: New version found -->
+     <!-- Original string: Есть новая версия! -->
      <string name="new_update_content_title">Оновлення: %s</string>
      <string name="new_update_download_complete_body">Готова до встановлення: %s</string>
      <string name="new_update_downloading_body">Завантаження нової версії:%s</string>
@@ -118,6 +127,11 @@
 Більше %2$s користувачів підписалися в MIUI %3$s"</string>
      <string name="sign_in_info_total_more">"Ваше оновлення має рейтинг %1$s
 Більше %2$s користувачів підписаних на MIUI %3$s"</string>
+     <string name="sina_share_fail">Ошибка отправки!</string>
+     <string name="sina_share_pendding">Отправка...</string>
+     <string name="sina_share_success">Отправка завершена!</string>
+     <string name="sina_token_expired_warning">Срок аккаунта Weibo истек, переподключитесь</string>
+     <string name="sina_token_invalid_warning">Ошибка в аккаунте Weibo, переподключитесь</string>
      <string name="stable_build">стабільна збірка</string>
      <string name="start_update">Почати оновлення</string>
      <string name="submit">Підтвердити</string>
@@ -133,6 +147,7 @@
      <string name="system_backup_helper">Поновлення не буде очищати ваші дані, але рекомендується зробити резервну копію до поновлення</string>
      <string name="system_backup_ok_text">Р.К.</string>
      <string name="top_secret_build">Секретна збірка</string>
+     <string name="unstable_build">Нестабильный</string>
      <string name="update_comment_hint">(опціонально)</string>
      <string name="update_comment_title">У мене є що сказати</string>
      <string name="update_feedback">Відгуки про прошивку</string>
@@ -147,7 +162,7 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: System has been updated to %s -->
+     <!-- Original string: Обновлено до %s -->
      <string name="update_success_body">Вітаємо, система успішно оновлена</string>
      <string name="update_success_title">Оновлення</string>
      <string name="upgrade_close">Закрити</string>

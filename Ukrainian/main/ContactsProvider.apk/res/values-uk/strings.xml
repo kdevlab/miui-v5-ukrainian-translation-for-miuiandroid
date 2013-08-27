@@ -4,19 +4,6 @@
      <string name="app_label">Сховище контактів</string>
      <string name="call_log_provider_label">Журнал викликів</string>
      <string name="create_contact">Створити новий контакт</string>
-     <string name="debug_dump_database_message">Ви збираєтеся: створити копію бази даних, яка містить всі дані про контакти на зовнішньому накопичувачі, і відправити її. Не забудьте видалити копію, як тільки Ви успішно скопіювали її з пристрою або електронного листа.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="debug_dump_delete_button">Видалити зараз</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="debug_dump_email_body">Вкладення - це моя база контактів з усією інформацією про контакти. Поводитися обережно.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="debug_dump_email_sender_picker">Вибрати додаток для відправки файлу</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="debug_dump_email_subject">База контактів прикріплена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="debug_dump_start_button">Почати</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="debug_dump_title">Копіювати базу контактів</string>
      <string name="default_directory">Контакти</string>
      <string name="edit_contact">Додати до контакту</string>
      <string name="local_invisible_directory">Інше</string>

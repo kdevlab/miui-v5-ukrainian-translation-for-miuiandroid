@@ -13,8 +13,4 @@
         <item>Великий</item>
         <item>Величезний</item>
      </string-array>
-     <integer-array name="subject_lengths">
-        <item>50</item>
-        <item>25</item>
-     </integer-array>
 </resources>

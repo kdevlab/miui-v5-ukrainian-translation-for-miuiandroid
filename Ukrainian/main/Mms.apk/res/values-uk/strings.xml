@@ -3,6 +3,7 @@
 <resources>
      <string name="activity_not_found">Не вдається відкрити вкладення</string>
      <string name="activity_not_found_uri">Не вдається знайти додаток для цього типу файлів</string>
+     <string name="add_attachment">добавить вложение</string>
      <string name="add_bookmark">Обрані</string>
      <string name="add_contact">Контакт</string>
      <string name="add_festival">Вітання</string>
@@ -29,6 +30,7 @@
      <string name="attach_subject">Тема</string>
      <string name="attach_take_photo">Зняти фото</string>
      <string name="attach_video">Відео</string>
+     <string name="back_to_message_list">вернутся к списку сообщений</string>
      <string name="batch_delete_confirm_dialog_message">Видалити %1$s повідомлення(нь)?</string>
      <string name="batch_deleting_message_progress_message">Видалити вибрані повідомлення</string>
      <string name="batch_deleting_progress_message">Видалення...</string>
@@ -36,10 +38,6 @@
      <string name="bookmark">Шаблони</string>
      <string name="bookmark_confirm_delete_message">Видалити з шаблонів</string>
      <string name="bookmark_empty">Немає повідомлень</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 0 must: 0
-	%d: 1 must: 0 -->
-     <!-- Original string: Favorites -->
      <string name="bookmark_list_title">Обрані</string>
      <string name="cannot_add_picture_and_video">Не можна додати на слайд і картинку, і відео</string>
      <string name="cannot_add_slide_anymore">Додане максимальне число слайдів.</string>
@@ -65,7 +63,12 @@
      <string name="confirm_dialog_title">Видалення</string>
      <string name="confirm_export_dialog_description">Після видалення приватного контакту Ваша переписка відновиться у звичайний режим. Продовжити?</string>
      <string name="confirm_export_dialog_title">Видалення приватного контакту</string>
+     <string name="confirm_no_block_positive">Не блокировать и восстановить</string>
+     <string name="confirm_no_block_title">Не блокировать этот номер и восстановить все сообщения?</string>
      <string name="confirm_rate_limit">Відправляється велика кількість MMS. Продовжити?</string>
+     <string name="confirm_restore_all_title">Восстановить все сообщения от этого номера？</string>
+     <string name="confirm_restore_positive">Восстановить</string>
+     <string name="confirm_restore_title">Восстановить все выбранные сообщения?</string>
      <string name="context_menu_add_contact">Додати в контакти</string>
      <string name="context_menu_browse_web">Перейти</string>
      <string name="context_menu_call">Виклик</string>
@@ -81,12 +84,13 @@
      <string name="converting_to_picture_message">Перетворення в повідомлення MMS...</string>
      <string name="converting_to_text_message">Перетворення в повідомлення SMS...</string>
      <string name="copy_message_text">Скопіювати текст</string>
+     <string name="copy_message_text_success">Текст скопирован</string>
      <string name="copy_to_sdcard">Зберегти додаток</string>
      <string name="copy_to_sdcard_fail">Файл не збережений</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Attachment saved as %s -->
+     <!-- Original string: Файл сохранен как %s -->
      <string name="copy_to_sdcard_success">Файл збережений</string>
      <string name="database_corruption">База даних пошкоджена, перестворення бази даних</string>
      <string name="delete">Видалити</string>
@@ -232,6 +236,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="new_phrase_hint">Введіть фразу</string>
      <string name="nickname_placeholder">"Ім\’я"</string>
      <string name="no">Скасувати</string>
+     <string name="no_block_button_msg">Не блокировать сообщения от этого номера</string>
      <string name="no_conversations">Поки нічого немає</string>
      <string name="no_subject">( Без тими)</string>
      <string name="no_subject_view">( Без тими)</string>
@@ -242,6 +247,7 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="notification_multiple">непрочитаних повідомлень: %s</string>
      <string name="notification_multiple_title">Нові повідомлення</string>
      <string name="number_add_hint">Введіть номер, щоб додати до приватних контактів</string>
+     <string name="overwrite_edited_content">Перезапишет весь отредактированный контент, продолжить?</string>
      <string name="phrase_confirm_delete_message">Видалити фрази</string>
      <string name="phrase_empty">Немає фрази</string>
      <string name="phrase_from">З %1s</string>
@@ -320,6 +326,8 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="replace_image">Замінити картинку</string>
      <string name="resent_message">Повторити</string>
      <string name="resize_image_error_information">Зображення занадто велике для відправки навіть після зміни розміру.</string>
+     <string name="restore_all_button_msg">Восстановить всё</string>
+     <string name="restore_blocked_message">Восстановить сообщение</string>
      <string name="save">Зберегти</string>
      <string name="save_ringtone">Зберегти як мелодію дзвінка</string>
      <string name="save_to_sim">Зберегти на SIM-карту</string>
@@ -339,10 +347,12 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="select_link_title">Вибір дії</string>
      <string name="select_local_audio">Вибір аудіо...</string>
      <string name="select_local_video">Вибір відео...</string>
+     <string name="select_recipient">выбор получателя</string>
      <string name="select_top_text">Текст вгорі</string>
      <string name="send">Надіслати</string>
      <string name="send_signature_confirm_dialog_message">Ви не ввели текст змісту, ви хочете відправити його?</string>
      <string name="send_signature_confirm_dialog_title">Надіслати підтвердження</string>
+     <string name="send_sms">отправить сообщение</string>
      <string name="send_to"> Для:</string>
      <string name="send_to_count">Успішно надіслано для %1$s</string>
      <string name="send_to_index_contact">Відправлено %1$s з%2$s...</string>

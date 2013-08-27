@@ -36,7 +36,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: The username or password for %s is incorrect. Update them now? -->
+     <!-- Original string: Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас? -->
      <string name="account_settings_login_dialog_content_fmt">"Невірне ім'я користувача або пароль облік. запису% s. Оновити їх зараз?"</string>
      <string name="account_settings_login_dialog_title">Не вдалося увійти в облік. запис</string>
      <string name="account_settings_mail_check_frequency_label">Частота перевірки папки \"Вхідні\"</string>
@@ -63,16 +63,8 @@
      <string name="account_settings_vibrate_when_never">Ніколи</string>
      <string name="account_settings_vibrate_when_silent">Тільки в режимі Без звуку</string>
      <string name="account_settings_vibrate_when_summary">Вібросигнал при отриманні повідомлення</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_setup_account_type_exchange_action">Exchange</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_setup_account_type_exchange_action_alternate">Microsoft Exchange ActiveSync</string>
      <string name="account_setup_account_type_headline">Тип облік. запису</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_setup_account_type_imap_action">IMAP</string>
      <string name="account_setup_account_type_instructions">Виберіть тип облік. запису</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_setup_account_type_pop_action">POP3</string>
      <string name="account_setup_account_type_title">Налаштування облік. запису</string>
      <string name="account_setup_basic_description_label">"Назва облік. запису (опціонально)"</string>
      <string name="account_setup_basic_label">Будь ласка, заповніть інформацію для %s поштової скриньки :</string>
@@ -241,13 +233,6 @@
      <string name="copy_email">Скопіювати адресу ел. пошти</string>
      <string name="copy_number">Скопіювати номер телефону</string>
      <string name="create_action">Створити</string>
-     <string name="debug_clear_webview_cache">Очистити кеш WebView</string>
-     <string name="debug_disable_graphics_acceleration_label">Вимкнути апаратне прискорення графіки</string>
-     <string name="debug_enable_debug_logging_label">Включити журнал додаткового налагодження?</string>
-     <string name="debug_enable_exchange_file_logging_label">Включити обмін sd-карти журналу?</string>
-     <string name="debug_enable_exchange_logging_label">Включити протоколювання аналізатора exchange?</string>
-     <string name="debug_enable_strict_mode_label">Суворий режим (з реєстрацією)</string>
-     <string name="debug_force_one_minute_refresh_label">Оновлення в 1-хвилину посилено для POP/IMAP</string>
      <string name="debug_title">Виконати налагодження</string>
      <string name="debug_version_fmt">Версія: %s</string>
      <string name="default_signature">З повагою, </string>
@@ -303,7 +288,6 @@
      <string name="header_label_general_preferences">Загальні</string>
      <string name="login_failed_ticker">Помилка авторизації %s</string>
      <string name="login_failed_title">Не вдалося увійти в облік. запис</string>
-     <string name="long_string">доооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооооовге</string>
      <string name="mailbox_list_account_selector_account_header">Облік. записи</string>
      <string name="mailbox_list_account_selector_combined_view">Комбінований режим перегляду</string>
      <string name="mailbox_list_account_selector_mailbox_header_fmt">Останні папки (%s)</string>
@@ -526,7 +510,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Results -->
+     <!-- Original string: Результаты поиска -->
      <string name="search_header_text_fmt">Результати пошуку для \"%1$s\"</string>
      <string name="search_hint">Шукати в електронній пошті</string>
      <string name="search_mailbox_hint">Шукати у папці \"%1$s\"</string>
@@ -576,12 +560,12 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: " for "<b>%s</b> -->
+     <!-- Original string: " для "<b>%s</b> -->
      <string name="uploading_for">" для користувача "</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Uploading to <b>%s</b> -->
+     <!-- Original string: Загрузка в <b>%s</b> -->
      <string name="uploading_to">Завантаження в</string>
      <string name="waitinf_for_sync_message_1">Очікування синхронізації</string>
      <string name="waitinf_for_sync_message_2">Ваши повідомлення незабаром завантажаться</string>
