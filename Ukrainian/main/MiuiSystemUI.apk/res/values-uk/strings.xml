@@ -13,7 +13,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="accessibility_data_connection_3.5g">3,5G</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_data_connection_edge">Edge</string>
+     <string name="accessibility_data_connection_edge">EDGE</string>
      <string name="accessibility_data_one_bar">Сигнал передачі даних: три поділки</string>
      <string name="accessibility_data_signal_full">Надійний сигнал передачі даних</string>
      <string name="accessibility_data_three_bars">Сигнал передачі даних: три поділки</string>
@@ -102,13 +102,13 @@
      <string name="ext_media_safe_unmount_notification_title">Можете витягти</string>
      <string name="ext_media_unmountable_notification_message">Пошкоджене USB-сховище. Будь ласка відформатуйте його.</string>
      <string name="ext_media_unmountable_notification_title">Пошкоджене USB-сховище</string>
-     <string name="filter_item_description">Вы можете выбрать тип уведомления в \"Параметры-Настройки панели уведомлений-пользовательские уведомления\"</string>
+     <string name="filter_item_description">Ви можете вибрати тип повідомлення в \"Параметри-Налаштування панелі оповіщень-користувацькі оповіщення\"</string>
      <string name="filter_item_preview_image">предпоказ</string>
      <string name="gps_notification_found_text">Розташування встановлено за допомогою GPS</string>
      <string name="gps_notification_searching_text">Пошук GPS</string>
-     <string name="headset_custom">Настр.</string>
-     <string name="headset_info">Настройка кнопок</string>
-     <string name="headset_settings">Подключена гарнитура</string>
+     <string name="headset_custom">Налашт.</string>
+     <string name="headset_info">Налаштування кнопок</string>
+     <string name="headset_settings">Підключена гарнітура</string>
      <string name="invalid_charger">"Зарядка через USB-порт не підтримується.
 Використовуйте зарядний пристрій з комплекту поставки "</string>
      <string name="key_position_custom">Розміщення</string>
@@ -124,7 +124,7 @@
      <string name="mount_storage">Підключити як диск</string>
      <string name="move_data_to_sdcard_message">"Скріншоти і фотографії будуть перенесені на SD-карту, щоб звільнити більше внутрішньої пам'яті"</string>
      <string name="move_data_to_sdcard_title">Передача даних на SD-карту</string>
-     <string name="no_notification_tips">Немає сповіщень</string>
+     <string name="no_notification_tips">Немає оповіщень</string>
      <string name="notification_otg_gamestick_in">Ігровий контролер підключений</string>
      <string name="notification_otg_gamestick_out">Ігровий контролер відключений</string>
      <string name="notification_otg_keyboard_in">Клавіатура підключена</string>
@@ -142,7 +142,7 @@
      <string name="notification_otg_unknow_in">Пристрій OTG підключено</string>
      <string name="notification_otg_unknow_out">Пристрій OTG відключено</string>
      <string name="notifications_off_text">Натисніть сюди для увімкнення повідомлень</string>
-     <string name="notifications_off_title">Повідомлення відключені</string>
+     <string name="notifications_off_title">Оповіщення відключені</string>
      <string name="recent_apps_key">Останні программи</string>
      <string name="recent_apps_key_show">Останні програми</string>
      <string name="return_to_incall_screen">Натисніть, щоб повернутися до виклику</string>
@@ -161,19 +161,19 @@
      <string name="screenshot_saving_text">Збереження...</string>
      <string name="screenshot_saving_ticker">Збереження...</string>
      <string name="screenshot_saving_title">Збереження...</string>
-     <string name="settings_all_app_display_loading">Идет загрузка, пожалуйста, подождите</string>
-     <string name="settings_custom_notification">Пользовательские уведомления</string>
+     <string name="settings_all_app_display_loading">Йде завантаження, будь ласка, зачекайте</string>
+     <string name="settings_custom_notification">Користувацькі оповіщення</string>
      <string name="settings_expandable_under_fullscreen">У повноекранному режимі</string>
      <string name="settings_expandable_under_fullscreen_summary">Зсунути вниз від верхньої частини екрану</string>
      <string name="settings_expandable_under_keyguard">На екрані блокування</string>
      <string name="settings_expandable_under_keyguard_summary">Працює тільки при відсутності паролю для розблокування</string>
      <string name="settings_expanded_view">НАЛАШТУВАННЯ ВИСУНЕННЯ ШТОРИ</string>
-     <string name="settings_notification_bar">Панель уведомлений</string>
+     <string name="settings_notification_bar">Панель оповіщень</string>
      <string name="settings_show_flow_info">Інформація про мережу</string>
      <string name="settings_show_network_speed">Швидкість мережі</string>
-     <string name="settings_show_notificationBar_notification">Показать уведомления панели уведомлений</string>
-     <string name="settings_show_statusBar_notification">Показать уведомления строки состояния</string>
-     <string name="settings_status_bar">Панель уведомлений</string>
+     <string name="settings_show_notificationBar_notification">Показати повідомлення панелі оповіщень</string>
+     <string name="settings_show_statusBar_notification">Показати повідомлення рядка стану</string>
+     <string name="settings_status_bar">Панель оповіщення</string>
      <string name="settings_toggle_collapse_after_clicked">Згорнути після натискання</string>
      <string name="settings_toggle_layout_style">СТИЛЬ ПАНЕЛІ ОПОВІЩЕННЯ</string>
      <string name="settings_toggle_layout_style_applying">Застосування стилю перемикачів...</string>
@@ -234,7 +234,7 @@ d MMMM yyyy"</string>
      <string name="status_bar_toggle_power_mid">Баланс</string>
      <string name="status_bar_toggle_power_mode">Режим живлення</string>
      <string name="status_bar_toggle_privacy_mode">Гість</string>
-     <string name="status_bar_toggle_quiet_mode">Не беспокоить</string>
+     <string name="status_bar_toggle_quiet_mode">Не турбувати</string>
      <string name="status_bar_toggle_reboot">Перезавантаження</string>
      <string name="status_bar_toggle_ring">Дзвінок</string>
      <string name="status_bar_toggle_ringtone">Мелодія</string>
@@ -255,7 +255,7 @@ d MMMM yyyy"</string>
      <string name="tab_notifications_lable">Повідомлення</string>
      <string name="tab_toggles_lable">Перемикачі</string>
      <string name="title_usb_accessory">USB-пристрій</string>
-     <string name="toast_rotation_locked">Экран заблокирован в ландшафтном режиме</string>
+     <string name="toast_rotation_locked">Екран заблокований в ландшафтному режимі</string>
      <string name="torch_activity_hint">Ліхтарик можна швидко включити, утримуючи [icon], на екрані блокування</string>
      <string name="torch_activity_name">Ліхтарик</string>
      <string name="usb_accessory_confirm_prompt">Запускати %1$s при підключенні цього USB-аксесуара?</string>
