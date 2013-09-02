@@ -212,9 +212,9 @@
      <string name="operation_unfavorite">Видалити з обраного</string>
      <string name="pan_settting">Налаштування MiDrive</string>
      <string name="paused">Пауза</string>
-     <string name="pull_to_signin">Потяните вниз, чтобы войти в систему и получить свободное пространство</string>
+     <string name="pull_to_signin">Потягніть вниз, щоб увійти в систему і отримати вільний простір</string>
      <string name="query_bind_state">Запит стану, будь ласка, почекайте ...</string>
-     <string name="release_to_signin">Отпустите для входа</string>
+     <string name="release_to_signin">Відпустіть для входу</string>
      <string name="rename_description">Перейменовується···</string>
      <string name="rename_failed">Перейменування《%1$s》не вдалось</string>
      <string name="restart_cleaning">Повтор</string>
@@ -241,10 +241,10 @@
      <string name="server_control_settings">Установки</string>
      <string name="share_link_failed">Помилка створення зовнішнього посилання на папку</string>
      <string name="show_message">Файл не може бути відкритий без завантаження, завантажити?</string>
-     <string name="sign_description">Подключение...</string>
-     <string name="signin_error">Нет сети или сеть нестабильна. Повторите попытку позже :)</string>
-     <string name="signin_success">"Вы успешно вошли!
-Получено %1$s."</string>
+     <string name="sign_description">Підключення...</string>
+     <string name="signin_error">Немає мережі або мережа нестабільна. Повторіть спробу пізніше :)</string>
+     <string name="signin_success">"Ви успішно увійшли!
+Отримано %1$s."</string>
      <string name="space_info">"Об'єм в мережі: %1$s доступно，всього: %2$s"</string>
      <string name="space_usage">Зайнято</string>
      <string name="start_cleanup">Очистка</string>
@@ -285,14 +285,14 @@
      <string name="ui_bar_txt_upload_progress">Відправка...</string>
      <string name="ui_filechange_btn_download">Завантаження файла</string>
      <string name="ui_filechange_btn_upload">Завантажити файли</string>
-     <string name="ui_main_menu_option_sign_in">Войти</string>
+     <string name="ui_main_menu_option_sign_in">Увійти</string>
      <string name="ui_main_menu_option_task_manage">Управління обміном файлами</string>
      <string name="ui_main_progress_txt_open_file">Завантаження...</string>
      <string name="ui_main_toast_favorite_removed">Уподобання видалено</string>
      <string name="ui_main_toast_operation_failed">Помилка видаления %1$s</string>
      <string name="uninstall_app_data">Видалити додаток і всі дані</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="unmount_inform_text">USB storage will be unmounted.</string>
+     <string name="unmount_inform_text">USB Storage буде демонтовано</string>
      <string name="upload_failed">Помилка завантаження</string>
      <string name="upload_file_toolarge_message">%1$d файлів розміром більше 300 Мб не можуть бути відправлені. Будь ласка, перевірте в Управлінні передачами</string>
      <string name="uploading">Завантаження</string>
