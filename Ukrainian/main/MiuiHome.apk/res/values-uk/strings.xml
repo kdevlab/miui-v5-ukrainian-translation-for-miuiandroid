@@ -80,12 +80,12 @@
      <string name="loading_desktop">Оновлення робочого столу...</string>
      <string name="menu_add">Додати</string>
      <string name="menu_back_desktop">Додому</string>
-     <string name="menu_customize">Настройки</string>
+     <string name="menu_customize">Налаштування</string>
      <string name="menu_edit">Режим редагування</string>
      <string name="menu_exit_scene">Вихід із вільного роб. столу</string>
      <string name="menu_item_add_item">Додати на основний екран</string>
      <string name="menu_launcher_setting">Налаштування робочого столу</string>
-     <string name="menu_picktheme">Выбор темы</string>
+     <string name="menu_picktheme">Вибір теми</string>
      <string name="menu_reset_scene">Скинути на стандарт</string>
      <string name="menu_search">Пошук</string>
      <string name="menu_settings">Налаштування системи</string>
@@ -112,9 +112,9 @@
      <string name="pref_enable_drawing_cache_title">Кеш графіки</string>
      <string name="pref_icon_shadow_summary">Увімкнення та вимкнення тіней від значків</string>
      <string name="pref_icon_shadow_title">Тінь від значків</string>
-     <string name="pref_keep_in_memory_summary">"Тримати лоунчер в пам'яті. Програма не буде закриватись"</string>
+     <string name="pref_keep_in_memory_summary">"Тримати лаунчер в пам'яті. Програма не буде закриватись"</string>
      <string name="pref_keep_in_memory_title">"Тримати в пам'яті"</string>
-     <string name="pref_keep_layout_summary">Перемикання сітки робочого столу може порушити положення ікон. Увімкніть для збереження положення іконок.</string>
+     <string name="pref_keep_layout_summary">Перемикання сітки робочого столу може порушити положення іконок. Увімкніть для збереження положення іконок.</string>
      <string name="pref_keep_layout_title">Зберігати розміщення</string>
      <string name="pref_render_in_truecolor_summary">Увімкніть, щоб покращити якість кольорів</string>
      <string name="pref_render_in_truecolor_title">Якісні кольори</string>
@@ -126,7 +126,7 @@
      <string name="screen_button_disabled_message">Кнопки внизу екрану відключені. Ви можете включити їх знову, натиснувши клавіші \"Додому\" та \"Живлення\".</string>
      <string name="screen_button_enabled_message">Кнопки на нижній частині екрана включені</string>
      <string name="screen_rotation_freeze_message">Поворот екрану заблокований в ландшафтному режимі</string>
-     <string name="scroll_tip_format_when_announce_accessibility">На странице: %1$d приложений: %2$d</string>
+     <string name="scroll_tip_format_when_announce_accessibility">На сторінці: %1$d додатків: %2$d</string>
      <string name="select_frame">Рамка</string>
      <string name="select_photo">Фото</string>
      <string name="sort_by_abc">По імені</string>
