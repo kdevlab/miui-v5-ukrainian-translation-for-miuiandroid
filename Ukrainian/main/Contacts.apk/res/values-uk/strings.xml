@@ -151,7 +151,7 @@
      <!-- Original string: Удалить из журнала вызовов? -->
      <string name="confirm_delete_contact_all_call_logs">Видалити всі виклики контакту \"%s\"?</string>
      <string name="confirm_delete_selected_all_call_logs">Видалити всі виклики?</string>
-     <string name="confirm_delete_sim_entry_miui">Удалить выбранные контакты с SIM-карты? (%d шт.)</string>
+     <string name="confirm_delete_sim_entry_miui">Видалити обрані контакти з SIM-картb? (%d шт.)</string>
      <string name="confirm_export_message">Список контактів буде експортований у файл \"%s\"</string>
      <string name="confirm_export_title">Експорт контактів</string>
      <string name="connections">"Зв'язки"</string>
@@ -172,7 +172,7 @@
      <string name="contact_editor_prompt_multiple_accounts">Виберіть облік. запис, в який слід додати новий контакт.</string>
      <string name="contact_editor_prompt_one_account">Контакт буде додано до облік. запису %1$s.</string>
      <string name="contact_editor_prompt_zero_accounts">Резервна копія нового контакту не буде збережена. Додати облік. запис для збереження контактів в Інтернеті?</string>
-     <string name="contact_is_readOnly">Can not edit read-only contacts</string>
+     <string name="contact_is_readOnly">Не можливо редагувати. Контакти тільки для читання</string>
      <string name="contact_list_loading">Завантаження…</string>
      <string name="contact_pick_photo">Фото</string>
      <string name="contact_read_only">Тут доступно тільки для читання</string>
@@ -203,17 +203,17 @@
      <string name="deleteConfirmation_title">Видалення контакту</string>
      <string name="delete_call_log_title">Вибрати журнали для видалення?</string>
      <string name="delete_contact_calllog_title">Журнал викликів буде очищений</string>
-     <string name="delete_dial_input">удалить</string>
+     <string name="delete_dial_input">видалити</string>
      <string name="delete_duplicate">Злиття</string>
      <string name="delete_duplicate_message">Злиття...</string>
      <string name="delete_group_dialog_message">Дійсно видалити групу \"%1$s\"? (Контакти не будуть видалені)</string>
      <string name="delete_group_dialog_title">Видалення групи</string>
-     <string name="delete_selected_sim_entry_miui">Удалить выбранные контакты</string>
-     <string name="delete_sim_entries_finish">Контакты с SIM удалены</string>
-     <string name="delete_sim_entry_miui">Удалить</string>
+     <string name="delete_selected_sim_entry_miui">Видалити обрані контакти</string>
+     <string name="delete_sim_entries_finish">Контакти з SIM видалені</string>
+     <string name="delete_sim_entry_miui">Видалити</string>
      <string name="delete_unknown_contact_calllog_title">Запис журналу викликів невідомого контакту буде видалена</string>
-     <string name="deleting">Удаление...</string>
-     <string name="deleting_sim_entry_miui">Удаление контактов с SIM-карты</string>
+     <string name="deleting">Видалення...</string>
+     <string name="deleting_sim_entry_miui">Видалення контактів з SIM-карти</string>
      <string name="description_add_contact">Додати контакт</string>
      <string name="description_author">Автор:</string>
      <string name="description_call">Подзвонити: %1$s</string>
@@ -281,7 +281,7 @@
      <string name="device_version_header_bluetooth">Включіть bluetooth</string>
      <string name="device_version_header_no_bluetooth">Імпорт контактів з SIM-карти</string>
      <string name="device_version_title">Виберіть версію мобільного телефону</string>
-     <string name="dial">вызов</string>
+     <string name="dial">виклик</string>
      <string name="dialerDialpadHintText">Наберіть номер, щоб додати виклик</string>
      <string name="dialerIconLabel">Журнал</string>
      <string name="dialerKeyboardHintText">Для набору використовуйте клавіатуру</string>
@@ -315,8 +315,8 @@
      <string name="display_sim_contacts">Показати контакти SIM</string>
      <string name="display_ungrouped">Всі інші контакти</string>
      <string name="display_warn_remove_ungrouped">Разом з групою \"%s\" перестануть синхронізуватися контакти, не додані до групи</string>
-     <string name="dlg_add_blacklist">Вы действительно хотите добавить этот номер в черный список?</string>
-     <string name="dlg_remove_blacklist">Вы действительно хотите удалить этот номер из черного списка?</string>
+     <string name="dlg_add_blacklist">Ви дійсно хочете додати цей номер в чорний список ?</string>
+     <string name="dlg_remove_blacklist">Ви дійсно хочете видалити цей номер з чорного списку?</string>
      <string name="download_failed">Помилка завантаження</string>
      <string name="download_preview_failed">Не вдалося завантажити зображення</string>
      <string name="duplicate_group_name">Группа уже существует</string>
@@ -370,7 +370,7 @@
      <string name="fail_reason_unknown">Невідома помилка</string>
      <string name="fail_reason_vcard_parse_error">Не можливо відкрити vCard по невідомим причинам</string>
      <string name="favoritesFrequentCalled">Часто викликаються</string>
-     <string name="favoritesFrequentContacted">Часто набираються</string>
+     <string name="favoritesFrequentContacted">Часто контактують</string>
      <string name="favorites_list_empty">Немє обраних</string>
      <string name="foundTooManyContacts">Знайдено більше %d</string>
      <string name="frequency_none">Ніколи</string>
@@ -411,7 +411,7 @@
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
-     <string name="import_all_sim_entries_miui">Импорт всех контактов</string>
+     <string name="import_all_sim_entries_miui">Імпорт всих контактів</string>
      <string name="import_all_vcard_string">Імпорт всіх файлів VCard</string>
      <string name="import_contact_card_button">Імпорт</string>
      <string name="import_failure_no_vcard_file">На SD-карті немає файлів VCard</string>
@@ -755,7 +755,7 @@
      <string name="readOnlyContactDeleteConfirmation">Цей контакт містить інформацію з різних облік. записів. Інформація з облік. записів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
      <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" містить інформацію з різних облік. записів. Інформація з облік. записів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
      <string name="readOnlyContactWarning">Неможливо видалити контакти з облік. запису, доступного тільки для читання, проте їх можна приховати в списках контактів</string>
-     <string name="readingSimContacts">Чтение контактов на SIM-карте…</string>
+     <string name="readingSimContacts">Читання контактів на SIM-карті…</string>
      <string name="reading_vcard_canceled_title">Читання даних vCard відмінено</string>
      <string name="reading_vcard_failed_title">Помилка читання vCard-файлу</string>
      <string name="rebuild_t9_index_dialog_message">Перелаштування даних індексу...</string>
@@ -778,7 +778,7 @@
      <string name="remind_btn_ignore">Пізніше</string>
      <string name="remind_btn_sync_now">Зараз</string>
      <string name="removePhoto">Видалити фото</string>
-     <string name="remove_blacklist">Удалить из черного списка</string>
+     <string name="remove_blacklist">Видалити з чорного списку</string>
      <string name="remove_duplicate">"MIUI допоможе Вам знайти та об'єднати дубльовані контакти. Вони не будуть об'єднані автоматично. Будь ласка, об'єнайте їх вручну.
 
 Натисніть на об'єднання та трошки зачекайте, поки автоматичне об'єднання не завершиться."</string>
@@ -863,14 +863,14 @@
      <string name="shortcutDialContact">Швидкий дзвінок</string>
      <string name="shortcutMessageContact">Швидке SMS</string>
      <string name="showAllContactsJoinItem">Показати всі контакти</string>
-     <string name="simContacts_airplaneMode">Отключите режим полета для импорта контактов с SIM-карты</string>
-     <string name="simContacts_empty">Нет контактов на SIM-карте</string>
+     <string name="simContacts_airplaneMode">Вимкніть режим польоту для імпорту контактів з SIM -карти</string>
+     <string name="simContacts_empty">Немає контактів SIM-карті</string>
      <string name="simContacts_emptyLoading">Завантаження з SIM-карти...</string>
      <string name="simContacts_title">Контакти на SIM-картці</string>
      <string name="sim_card_no_free_space_message">"Пам'ять SIM-карти заповнена. Будь ласка, очистіть SIM-карту і спробуйте ще раз."</string>
      <string name="sim_card_no_free_space_title">SIM-карта заповнена!</string>
-     <string name="sim_contact_dropdown_menu_deselect_all_miui">Снять все</string>
-     <string name="sim_contact_dropdown_menu_select_all_miui">Выбрать все</string>
+     <string name="sim_contact_dropdown_menu_deselect_all_miui">Зняти все</string>
+     <string name="sim_contact_dropdown_menu_select_all_miui">Обрати все</string>
      <string name="sim_contact_search_error">Помилка при пошуку контактів на SIM-карті</string>
      <string name="sim_contacts">Контакти на SIM-карті</string>
      <string name="sim_export_loading">SIM-карта зчитується. Операція може зайняти декілька хвилин, будь ласка, зачекайте...</string>
@@ -931,8 +931,8 @@
      <string name="title_other_devices">Інші доступні пристрої</string>
      <string name="title_paired_devices">Сполучення пристроїв</string>
      <string name="toast_call_detail_error">Не вдається отримати відомості про виклик</string>
-     <string name="toast_copy_done">Копирование завершено</string>
-     <string name="toast_copying">Копирование…</string>
+     <string name="toast_copy_done">Копіювання завершено</string>
+     <string name="toast_copying">Копіювання…</string>
      <string name="toast_displaying_all_contacts">Відображення всих контактів</string>
      <string name="toast_finish_delete_call_log">Журнали будуть видалені</string>
      <string name="toast_for_failed_saving_nickname">Не вдалося зберегти зміни</string>
