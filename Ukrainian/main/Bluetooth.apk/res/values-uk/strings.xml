@@ -7,7 +7,7 @@
      <string name="airplane_error_title">Режим польоту</string>
      <string name="app_name">Надсилання по Bluetooth</string>
      <string name="auth_notif_message">Введіть ключ сеансу для %1$s</string>
-     <string name="auth_notif_ticker">Запитий на аутентифікацію Obex</string>
+     <string name="auth_notif_ticker">Запит на аутентифікацію Obex</string>
      <string name="auth_notif_title">Ключ сеансу</string>
      <string name="bpp_authentication_timeout_message">Час для введення ключа сесії з %1$s вичерпано</string>
      <string name="bpp_cancel">Відмінити</string>
