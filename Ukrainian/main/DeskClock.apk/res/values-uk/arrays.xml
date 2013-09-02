@@ -12,7 +12,7 @@
         <item>Будильник задзвонить через %1$s, %2$s та %3$s</item>
      </string-array>
      <string-array name="alarm_repeat_type">
-        <item>Once</item>
+        <item>Один раз</item>
         <item>Щоденно</item>
         <item>Робочі дні</item>
         <item>"З пон. до п\'ятн."</item>
