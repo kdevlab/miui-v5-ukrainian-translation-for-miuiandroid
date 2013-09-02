@@ -14,8 +14,8 @@
         <item quantity="one">1 пісня додана в плейлист</item>
      </plurals>
      <plurals name="NTrackstoDownload">
-        <item quantity="other">%d songs will be downloaded.</item>
-        <item quantity="one">1 song will be downloaded.</item>
+        <item quantity="other">Пісень було завантажено: %d</item>
+        <item quantity="one">1 пісня була завантажена</item>
      </plurals>
      <plurals name="Nalbums">
         <item quantity="other">альбоми</item>
@@ -34,12 +34,12 @@
         <item quantity="one">"папка"</item>
      </plurals>
      <plurals name="Nhot_tracks_total">
-        <item quantity="other">%d hot songs</item>
-        <item quantity="one">%d hot song</item>
+        <item quantity="other">ТОП пісень: %d</item>
+        <item quantity="one">ТОП пісня: %d</item>
      </plurals>
      <plurals name="Nitems_batch_selection">
-        <item quantity="other">Selected %d items</item>
-        <item quantity="one">Selected %d item</item>
+        <item quantity="other">Обрано %d шт</item>
+        <item quantity="one">Обрано %d шт</item>
      </plurals>
      <plurals name="Nonlinecategory">
         <item quantity="other">"категорій"</item>
@@ -50,8 +50,8 @@
         <item quantity="one">плейлист</item>
      </plurals>
      <plurals name="Nsearch_results">
-        <item quantity="other">Результатов: %d</item>
-        <item quantity="one">Результатов: %d</item>
+        <item quantity="other">Результатів: %d</item>
+        <item quantity="one">Результатів: %d</item>
      </plurals>
      <plurals name="Ntrack_in_sdcard_format">
         <item quantity="other">Пісень на SD-карті: %d</item>
@@ -66,20 +66,20 @@
         <item quantity="one">1 пісня</item>
      </plurals>
      <plurals name="Ntracks_remove_from_favorite_playlist">
-        <item quantity="other">%d songs removed from playlist.</item>
-        <item quantity="one">1 song removed from playlist.</item>
+        <item quantity="other">Пісень видалено з плейлиста: %d</item>
+        <item quantity="one">Пісень видалено з плейлиста: 1</item>
      </plurals>
      <plurals name="Ntracks_search_result_format">
-        <item quantity="other">%d 首相关歌曲</item>
-        <item quantity="one">%d 首相关歌曲</item>
+        <item quantity="other">Знайдено пісень: %d</item>
+        <item quantity="one">Знайдено пісень: %d</item>
      </plurals>
      <plurals name="Ntracks_string">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">Пісень: %d</item>
+        <item quantity="one">Пісень: %d</item>
      </plurals>
      <plurals name="Ntracks_total">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">Пісень: %d</item>
+        <item quantity="one">Пісень: %d</item>
      </plurals>
      <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d пісень</item>
