@@ -2,8 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="group_add_success_toast">
-        <item quantity="other">Successfully add %1$d people</item>
-        <item quantity="one">Successfully add %1$d person</item>
+        <item quantity="other">Успішно додано %1$d людей</item>
+        <item quantity="one">Успішно додано %1$d людину</item>
      </plurals>
      <plurals name="group_list_num_contacts_in_group">
         <item quantity="other">Номерів: %1$d</item>
@@ -34,9 +34,9 @@
         <item quantity="one">Голосова пошта</item>
      </plurals>
      <plurals name="numSelectedSimContacts">
-        <item quantity="other">Выбрано контактов: %1$d</item>
-        <item quantity="zero">Выбрано контактов: %1$d</item>
-        <item quantity="one">Выбрано контактов: %1$d</item>
+        <item quantity="other">Обрано контактів: %1$d</item>
+        <item quantity="zero">Обрано контактів: %1$d</item>
+        <item quantity="one">Обрано контактів: %1$d</item>
      </plurals>
      <plurals name="num_contacts_in_group">
         <item quantity="other">В групі %2$s %1$d чол.</item>
@@ -57,7 +57,7 @@
         <item quantity="one">Знайдено: 1</item>
      </plurals>
      <plurals name="smart_group_member_count">
-        <item quantity="other">%d people</item>
-        <item quantity="one">1 person</item>
+        <item quantity="other">%d людей</item>
+        <item quantity="one">1 людина</item>
      </plurals>
 </resources>
