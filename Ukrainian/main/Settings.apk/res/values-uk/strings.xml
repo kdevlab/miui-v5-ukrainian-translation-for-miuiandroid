@@ -113,7 +113,7 @@
      <string name="android_beam_on_summary">Можна обмінюватися контентом по NFC</string>
      <string name="android_beam_witch_label">Включити Android Beam</string>
      <string name="animator_duration_scale_title">Шкала тривалості анімації</string>
-     <string name="antispam_quiet_mode_title">Не беспокоить</string>
+     <string name="antispam_quiet_mode_title">Не турбувати</string>
      <string name="apn_auth_type">Тип аутентифікації</string>
      <string name="apn_auth_type_none">Ні</string>
      <string name="apn_auth_type_pap_chap">PAP або CHAP</string>
