@@ -750,7 +750,7 @@
      <string name="dolby_mode_music">Режим аудіо</string>
      <string name="dolby_mode_off">Вимк</string>
      <string name="dolby_preset_select">Будь ласка, виберіть налаштування</string>
-     <string name="dolby_surround_virtualizer">""Об'ємна візуалізація"</string>
+     <string name="dolby_surround_virtualizer">"Об'ємна візуалізація"</string>
      <string name="dolby_volume_leveler">Гучність дзвінка</string>
      <string name="drive_mode">За кермом</string>
      <string name="drive_mode_auto_reply">Автовідповідь</string>
@@ -1675,7 +1675,7 @@
      <string name="security_settings_premium_sms_desc">Відіслати SMS</string>
      <string name="security_settings_summary">Налаштування функції \"Моє місце розташування\", розблокування екрану і блокування сховища реєстраційних даних</string>
      <string name="security_settings_title">Безпека</string>
-     <string name="sel_sub_summary">Вибрати послуги зв'язку для Оператор-1 і Оператор-2</string>
+     <string name="sel_sub_summary">"Вибрати послуги зв'язку для Оператор-1 і Оператор-2"</string>
      <string name="sel_sub_title">Налаштування операторів</string>
      <string name="select_all">Вибрати все</string>
      <string name="select_application">Вибір програми</string>
