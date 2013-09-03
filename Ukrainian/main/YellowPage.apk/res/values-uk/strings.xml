@@ -2,11 +2,11 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="agree">Приймаю</string>
-     <string name="all_numbers">Все номера</string>
+     <string name="all_numbers">Всі номери</string>
      <string name="app_label">Жовті сторінки</string>
      <string name="callrecordview_item_newcontact">Новий контакт</string>
      <string name="callrecordview_item_op_time_minutes_seconds">%1$d хв. %2$d сек.</string>
-     <string name="callrecordview_item_op_time_missed">Не підключене</string>
+     <string name="callrecordview_item_op_time_missed">Не підключено</string>
      <string name="callrecordview_item_op_time_only_minutes">%d хв.</string>
      <string name="callrecordview_item_op_time_only_seconds">%d сек.</string>
      <string name="callrecordview_item_op_time_rejected">Відхилений</string>
@@ -15,8 +15,8 @@
      <string name="check_network">Подивитися налаштування мережі</string>
      <string name="confirm_delete_all_call_log_title">Підтвердіть видалення всих журналів викликів</string>
      <string name="confirm_delete_call_log_title">Видалити обрані журнали викликів?</string>
-     <string name="contact_detail_calllog_call_note_tips">Заметка о вызове</string>
-     <string name="contact_detail_calllog_call_record_tips">Запись вызова</string>
+     <string name="contact_detail_calllog_call_note_tips">Замітка про виелик</string>
+     <string name="contact_detail_calllog_call_record_tips">Запис розмови</string>
      <string name="custom_mark_category">Користувацький</string>
      <string name="data_error"> На жаль поточна послуга не доступна, повторіть спробу пізніше</string>
      <string name="delete">Видалити</string>
@@ -34,10 +34,10 @@
      <string name="provider_tag">Джерело даних</string>
      <string name="selected_category_format">%1$s (%2$d людей відмітили, натисніть для згоди)</string>
      <string name="service_unavailiable">Поточна мережа має погане підключення, повторіть спробу пізніше</string>
-     <string name="smart_antispam">Ідентифікація невідомого номера</string>
-     <string name="title_about_yellow_page"> Про програму</string>
+     <string name="smart_antispam">Ідентифікація невідомого номеру</string>
+     <string name="title_about_yellow_page">Про програму</string>
      <string name="toast_finish_delete_call_log">Журнал викликів був видалений</string>
-     <string name="toast_text_copied">Текст скопійований</string>
+     <string name="toast_text_copied">Текст скопійовано</string>
      <string name="try_again">Спробуйте ще раз</string>
      <string name="turn_on_smart_antispam_hint">Після включення, номери будуть визначені. Якщо не визначаються, Ви можете позначити їх, щоб допомогти визначити шахраїв</string>
      <string name="turn_on_smart_antispam_summary_off">Запит тільки локальних запрограмованих номерів</string>
