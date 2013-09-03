@@ -28,7 +28,7 @@
      <string name="component_lockstyle_personal_title">Налаштування</string>
      <string name="component_select_title">%1$s пунктів</string>
      <string name="component_settings_title">Поточна тема</string>
-     <string name="deleting">Удаление...</string>
+     <string name="deleting">Видалення...</string>
      <string name="description_author">Автор:</string>
      <string name="description_designer">Дизайнер:</string>
      <string name="description_download">Скачано:</string>
@@ -57,12 +57,12 @@
      <string name="resource_apply">Застосувати</string>
      <string name="resource_buy">Купити</string>
      <string name="resource_can_not_selected">%1$s не може бути обраний!</string>
-     <string name="resource_comment_account_need_activitied">Ваш акаунт не активований, хочете активувати зараз?</string>
+     <string name="resource_comment_account_need_activitied">Ваш обліковий запис не активований, хочете активувати зараз?</string>
      <string name="resource_comment_count">Рейтинг: %1$s і Коментарі: %2$s (Версія: %3$s)</string>
      <string name="resource_comment_description">%1$s коментарі %2$s:%3$s:%4$s</string>
      <string name="resource_comment_edit_comment">Добавити коментар</string>
      <string name="resource_comment_edit_comment_waiting">Перевірка Ваших відповідей до цієї теми...</string>
-     <string name="resource_comment_edit_text_default">Написати коммнтар</string>
+     <string name="resource_comment_edit_text_default">Написати коментар</string>
      <string name="resource_comment_edit_title">Коментарі до: %1$s</string>
      <string name="resource_comment_entry_tips">Відгуків: %1$s. Натисніть, щоб подивитися.</string>
      <string name="resource_comment_expand_full_text">Показати весь текстЎ</string>
@@ -75,15 +75,15 @@
      <string name="resource_comment_upload_data_invalid">Помилка відправки коментаря</string>
      <string name="resource_comment_upload_failed">Помилка збереження коментаря</string>
      <string name="resource_comment_upload_not_bought">Перш ніж залишити коментар, Ви повинні застосувати тему</string>
-     <string name="resource_comment_upload_not_logined">Будь ласка, увійдіть в акаунт</string>
+     <string name="resource_comment_upload_not_logined">Будь ласка, увійдіть в обліковий запис</string>
      <string name="resource_comment_upload_success">Коментар відправлений!</string>
      <string name="resource_comment_version_name">(Версія: %1$s)</string>
      <string name="resource_default">Стандартна мелодія</string>
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Ви впевнені, що хочете видалити вибрані ресурси (%1$d)?</string>
      <string name="resource_delete_confirm">Ви дійсно хочете видалити ці ресурси?</string>
-     <string name="resource_delta_update_failed">Ошибка обновления, необходимо скачать полностью</string>
-     <string name="resource_delta_update_successful">Обновление завершено, сохраняю в %1$s.</string>
+     <string name="resource_delta_update_failed">Помилка оновлення, необхідно завантажити повністю</string>
+     <string name="resource_delta_update_successful">Оновлення завершено, зберігаю в %1$s.</string>
      <string name="resource_detail">Деталі</string>
      <string name="resource_download">Завантажити</string>
      <string name="resource_downloaded_title">Завантажені</string>
@@ -152,10 +152,10 @@
      <string name="theme_component_title_statusbar">Статус-бар</string>
      <string name="theme_component_title_wallpaper">Шпалери</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="theme_current_using_has_update">Current theme has been updated, click here to apply</string>
+     <string name="theme_current_using_has_update">Поточна тема була оновлена, натисніть тут, щоб застосувати</string>
      <string name="theme_description_title_customized">Налаштування</string>
      <string name="theme_description_title_default">За замовчуванням</string>
-     <string name="theme_immediately_apply_tip">The theme is updated, whether applied immediately?</string>
+     <string name="theme_immediately_apply_tip">Тема оновлюється, застосувати після оновлення?</string>
      <string name="theme_import_activity_label">Оновлення тем</string>
      <string name="theme_import_data">Імпорт інформації</string>
      <string name="theme_import_fail">Помилка імпорту %1$s</string>
