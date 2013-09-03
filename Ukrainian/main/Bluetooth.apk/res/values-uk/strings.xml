@@ -52,7 +52,7 @@
      <string name="enabling_progress_title">Зачекайте...</string>
      <string name="ftp_acceptance_dialog_header">Доступ до папок телефону</string>
      <string name="ftp_acceptance_dialog_title">%1$s хоче отримати доступ до папок телефону. Надати доступ до %2$s?</string>
-     <string name="ftp_acceptance_timeout_message">Час для прийняття з'єднання з %1$s минув</string>
+     <string name="ftp_acceptance_timeout_message">"Час для прийняття з'єднання з %1$s минув"</string>
      <string name="ftp_authentication_timeout_message">Час для введення ключа сесії %1$s минув</string>
      <string name="ftp_notif_message">Дозволити доступ до кореневої папки %1$s</string>
      <string name="ftp_notif_ticker">Obex запит на аутентифікацію</string>
@@ -77,7 +77,7 @@
      <string name="localphonename">Моя назва</string>
      <string name="map_acceptance_dialog_header">Доступ до папок телефону</string>
      <string name="map_acceptance_dialog_title">%1$s хоче отримати доступ до папок телефону</string>
-     <string name="map_acceptance_timeout_message">Час минув для прийняття з'єднання з %1$s</string>
+     <string name="map_acceptance_timeout_message">"Час минув для прийняття з'єднання з %1$s"</string>
      <string name="map_alert_conn_failed_message">Bluetooth Map-підключення не вдалось</string>
      <string name="map_authentication_timeout_message">Минув час очікування введення ключа сеансу з %1$s</string>
      <string name="map_notif_message">Дозволити доступ до кореневої папки %1$s</string>
@@ -115,7 +115,7 @@
      <string name="status_bpp_aborted_by_printer">Друк не вдався, відхилено друкуючим пристроєм</string>
      <string name="status_bpp_canceled_by_user">Друк скасовано користувачем</string>
      <string name="status_bpp_cancelled_by_printer"> Друк не вдався, відхилено друкуючим пристроєм</string>
-     <string name="status_bpp_disconnected">Друк не вдався, Bluetooth з'єднання загублене</string>
+     <string name="status_bpp_disconnected">"Друк не вдався, Bluetooth з'єднання загублене"</string>
      <string name="status_bpp_door_open"> Друк не вдався через door-opened</string>
      <string name="status_bpp_marker_failure"> Друк не вдався, marker failure</string>
      <string name="status_bpp_marker_supply_empty"> Друк не вдався, marker supply empty</string>

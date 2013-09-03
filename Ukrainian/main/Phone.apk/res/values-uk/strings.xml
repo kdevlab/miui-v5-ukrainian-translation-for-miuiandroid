@@ -752,7 +752,7 @@
      <string name="pin2_lock_warning_miui">"
 Зверніть увагу, що PIN2 буде заблокований, якщо ще раз помилитеся! "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pin2_locked_message_miui">Неправильний PIN 2, пов'язані з PIN2 функції заблоковані. Скиньте PIN2 за допомогою PUK2</string>
+     <string name="pin2_locked_message_miui">"Неправильний PIN 2, пов'язані з PIN2 функції заблоковані. Скиньте PIN2 за допомогою PUK2"</string>
      <string name="pin2_or_fdn_invalid">FDN послуга не оновлена. PIN2 неправильний, або номер телефону був відхилений</string>
      <string name="pin2_unblocked">PIN2 разблокирован!</string>
      <string name="pin_attempts_miui">Залишилось %d спроб</string>

@@ -74,7 +74,7 @@
      <string name="qm_vip_call_button_title">Дозволити дзвінки від Vip-Персон</string>
      <string name="qm_vip_call_setting_title">Налаштування Vip-номерів</string>
      <string name="qm_vip_call_summary_contact">Усі контакти</string>
-     <string name="qm_vip_call_summary_custom"Крім %d Vip-номерів</string>
+     <string name="qm_vip_call_summary_custom">Крім %d Vip-номерів</string>
      <string name="qm_vip_call_summary_none">Не був налаштований</string>
      <string name="qm_vip_list_contact">Усі контакти</string>
      <string name="qm_vip_list_custom">Мої Vip-персони</string>
