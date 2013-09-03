@@ -17,7 +17,7 @@
         <item>PAP або CHAP</item>
      </string-array>
      <string-array name="app_install_location_entries">
-        <item>Внутрішнє сховище</item>
+        <item>"Внутрішня пам'ять"</item>
         <item>SD-карта</item>
         <item>Автоматично</item>
      </string-array>
