@@ -2,8 +2,8 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="access_denied">доступ заборонено</string>
-     <string name="access_token_expired_warning">Обліковий запис Weibo минув. Перепідключіть</string>
-     <string name="access_token_invalid_warning">Обліковий запис Weibo недійсний. Перепідключіть</string>
+     <string name="access_token_expired_warning">Обліковий запис Weibo недійсний. Перепідключіть</string>
+     <string name="access_token_invalid_warning">Обліковий запис Weibo невірний. Перепідключіть</string>
      <string name="account">Обліковий запис</string>
      <string name="account_detail">Xiaomi облік. запис:%1$s</string>
      <string name="account_dspt">Облік. запис Xiaomi дозволяє синхронізувати і резервувати ваші SMS, контакти, фото, нотатки та інше</string>
@@ -22,33 +22,33 @@
      <string name="bad_authentication">Неправильний пароль або ім\’я користувача</string>
      <string name="balance">Баланс: %1$s Micredit</string>
      <string name="bankcall_bank_account">Банковская карта:</string>
-     <string name="bankcall_call_hint">"Вам позвонят из Union pay (020-96585). 
-Следуйте инструкциям, чтобы завершить."</string>
-     <string name="bankcall_card">Банковская карта</string>
-     <string name="bankcall_card_hint">Номер банковской карты</string>
+     <string name="bankcall_call_hint">"Вам зателефонують з Union pay (020-96585). 
+Дотримуйтесь інструкцій, щоб завершити."</string>
+     <string name="bankcall_card">Банківська карта</string>
+     <string name="bankcall_card_hint">Номер банківської карти</string>
      <string name="bankcall_card_type">%1$s-%2$s</string>
-     <string name="bankcall_card_type_tailnum">%1$s-%2$s (Номер карты %3$s)</string>
-     <string name="bankcall_city">Город</string>
-     <string name="bankcall_credit_card">Кредитная карта</string>
-     <string name="bankcall_debit_card">Дебитовая карты</string>
-     <string name="bankcall_denom">Платеж:</string>
+     <string name="bankcall_card_type_tailnum">%1$s-%2$s (Номер карти %3$s)</string>
+     <string name="bankcall_city">Місто</string>
+     <string name="bankcall_credit_card">Кредитна карта</string>
+     <string name="bankcall_debit_card">Дебітна карта</string>
+     <string name="bankcall_denom">Платіж:</string>
      <string name="bankcall_denom_number">%1$sRMB</string>
-     <string name="bankcall_error_card">Введите правильный номер банковской карты</string>
-     <string name="bankcall_error_card_info">Пожалуйста, введите правильные данные банковского счета</string>
-     <string name="bankcall_hint">"Этот сервис авторизован Unionpay и 
-имеет шифрование для обеспечения вашей финансовой безопасности"</string>
-     <string name="bankcall_id_card">ID карты</string>
-     <string name="bankcall_id_card_hint">ID на банковской карте</string>
-     <string name="bankcall_merchant">Получатель:</string>
-     <string name="bankcall_name">Имя</string>
-     <string name="bankcall_name_hint">Имя на банковской карте</string>
+     <string name="bankcall_error_card">Введіть правильний номер банківської карти</string>
+     <string name="bankcall_error_card_info">Будь ласка, введіть правильні дані банківського рахунку</string>
+     <string name="bankcall_hint">"Цей сервіс авторизований Unionpay та 
+має шифрування для забезпечення вашої фінансової безпеки"</string>
+     <string name="bankcall_id_card">ID карти</string>
+     <string name="bankcall_id_card_hint">ID на банківскій карті</string>
+     <string name="bankcall_merchant">Отримувач:</string>
+     <string name="bankcall_name">"Ім'я"</string>
+     <string name="bankcall_name_hint">"Ім'я на банківській карті"</string>
      <string name="bankcall_phone">Телефон</string>
-     <string name="bankcall_phone_credit_hint">Телефон на банковской карте</string>
-     <string name="bankcall_phone_debit_hint">Обеспечение стабильной сети</string>
-     <string name="bankcall_province">Провинция</string>
-     <string name="bankcall_saved_card_info">%1$s - заканчивается %2$s</string>
-     <string name="bankcall_saved_phone">Номер телефона: %1$s</string>
-     <string name="bankcall_xiaomi_company">Корпорация Xiaomi</string>
+     <string name="bankcall_phone_credit_hint">Телефон на банківській карті</string>
+     <string name="bankcall_phone_debit_hint">Забезпечення стабільної мережі</string>
+     <string name="bankcall_province">Провінція</string>
+     <string name="bankcall_saved_card_info">%1$s - закінчується %2$s</string>
+     <string name="bankcall_saved_phone">Номер телефону: %1$s</string>
+     <string name="bankcall_xiaomi_company">Корпорація Xiaomi</string>
      <string name="bind_sina_weibo">"Прив\’язати Sina WeiBo"</string>
      <string name="bind_weibo_description">Знайти, телефонні контакти, мікроблоги, друзів, додаткову інформацію, таку як аватар, день народження тощо</string>
      <string name="binded">"Прив\'язано"</string>
@@ -57,24 +57,24 @@
      <string name="btn_call">Зателефонувати</string>
      <string name="btn_count_down_auto">Запити через %1$s сек</string>
      <string name="btn_count_down_wait">Зачекайте %1$s сек</string>
-     <string name="btn_delete_record">Удалить эту запись</string>
+     <string name="btn_delete_record">Видалити цей запис</string>
      <string name="btn_mili_center_recharge">Поповнити Micredit</string>
-     <string name="btn_net_connection_retry">Повторить</string>
-     <string name="btn_next">Далее</string>
-     <string name="btn_other_bankcard">Другая банковская карта</string>
+     <string name="btn_net_connection_retry">Повторити</string>
+     <string name="btn_next">Далі</string>
+     <string name="btn_other_bankcard">Друга банківська карта</string>
      <string name="btn_pay_large">Заплатити зараз</string>
      <string name="btn_prev">Назад</string>
      <string name="btn_query">Дізнатись зараз</string>
-     <string name="btn_recharge_confirm">Подтвердите покупку</string>
+     <string name="btn_recharge_confirm">Підтвердіть покупку</string>
      <string name="btn_recharge_large">Поповнити</string>
      <string name="btn_recharge_other">Інші методи поповнення</string>
      <string name="btn_recharge_success">Поповнення завершено</string>
      <string name="btn_recharge_success_quick">Поповнення завершено</string>
      <string name="btn_voucher">Карта Micredit (%1$s)</string>
-     <string name="btn_wait_call">Ожидание</string>
-     <string name="btn_wait_call_count">Ожидание (%1$s)</string>
-     <string name="btn_wait_confirm">Ожидание</string>
-     <string name="btn_wait_confirm_count">Ожидание（%1$s）</string>
+     <string name="btn_wait_call">Очікування</string>
+     <string name="btn_wait_call_count">Очікування (%1$s)</string>
+     <string name="btn_wait_confirm">Очікування</string>
+     <string name="btn_wait_confirm_count">Очікування（%1$s）</string>
      <string name="button_cancel">Скасувати</string>
      <string name="button_pay">Оплатити</string>
      <string name="button_recharge">Поповнити</string>
@@ -83,8 +83,8 @@
      <string name="check_phone_io_error">Помилка мережі</string>
      <string name="checking_account">Перевірка облік. запису...</string>
      <string name="cloud_messaging">MiCloud повідомлення</string>
-     <string name="cmcc_data_sync_notice">Используйте свой аккаунт Xiaomi, чтобы синхронизировать сообщения, контакты и другие данные. Между тем, насладитесь облачных сервисов.</string>
-     <string name="cmcc_micloud_dspt">Облачные сервисы включают мобильную синхронизацию, обнаружение устройств и другие функции. Вы также можете управлять своими данными онлайн в любое время!</string>
+     <string name="cmcc_data_sync_notice">Використовуйте свій аккаунт Xiaomi, щоб синхронізувати повідомлення, контакти та інші дані. Тим часом, насолодитеся хмарних сервісів.</string>
+     <string name="cmcc_micloud_dspt">Хмарні сервіси включають мобільну синхронізацію, виявлення пристроїв та інші функції. Ви також можете керувати своїми даними онлайн в будь-який час!</string>
      <string name="completed">Завершено</string>
      <string name="confirm">Підтвердити</string>
      <string name="current_account">Поточний облік. запис</string>
@@ -100,7 +100,7 @@
      <string name="error_account_changed_title">Облік. запис змінено</string>
      <string name="error_auth_summary">Помилка аутентифікації облік. запису. Будь ласка, спробуйте ще раз</string>
      <string name="error_auth_title">Помилка облік. запису</string>
-     <string name="error_bankcard_verify_summary">Ошибка проверки карты</string>
+     <string name="error_bankcard_verify_summary">Помилка перевірки картки</string>
      <string name="error_common_summary">Системна помилка. Будь ласка, спробуйте пізніше</string>
      <string name="error_common_title">Системна помилка</string>
      <string name="error_dup_phone">Телефон вже був зареєстрований</string>
@@ -112,7 +112,7 @@
      <string name="error_has_bought_title">Повторіть покупку</string>
      <string name="error_illegal_order_summary">Виникла помилка покупки. Будь ласка, спробуйте знову</string>
      <string name="error_illegal_order_title">Помилка покупки!</string>
-     <string name="error_invalid_dev_id">Неверный ID устройства</string>
+     <string name="error_invalid_dev_id">Невірний ID пристрою</string>
      <string name="error_mili_title">Недостатньо Micredit</string>
      <string name="error_network">Помилка мережі</string>
      <string name="error_network_summary">Помилка мережі. Будь ласка, перевірте роботу мережі й спробуйте ще раз</string>
@@ -121,19 +121,19 @@
      <string name="error_server">Помилка сервера</string>
      <string name="error_server_summary">Помилка сервера. Будь ласка, спробуйте пізніше</string>
      <string name="error_server_title">Помилка сервера</string>
-     <string name="error_sim_not_ready"> Sim-Карта не готова</string>
-     <string name="error_too_frequent_visits_summary">"Вы запрашиваете слишком часто. 
-Пожалуйста, попробуйте еще раз через пять минут"</string>
-     <string name="error_too_frequent_visits_title">Слишком часто!</string>
+     <string name="error_sim_not_ready"> Sim-карта не готова</string>
+     <string name="error_too_frequent_visits_summary">"Ви запитуєте занадто часто. 
+Будь ласка, спробуйте ще раз через п'ять хвилин"</string>
+     <string name="error_too_frequent_visits_title">Занадто часто!</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
      <!-- Original string: Неизвестная ошибка -->
      <string name="error_unknown">Помилка: %1$s</string>
-     <string name="error_user_id_mismatch_summary"> Будь ласка, перевірте налаштування облік. запису й спробуйте ще раз</string>
+     <string name="error_user_id_mismatch_summary">Будь ласка, перевірте налаштування облік. запису й спробуйте ще раз</string>
      <string name="error_user_id_mismatch_title">Помилка аутентифікації!</string>
      <string name="error_verify_summary">Додаток не має дозволу на запит цього сервісу</string>
-     <string name="error_verify_title">Нет доступа</string>
+     <string name="error_verify_title">Немає доступу</string>
      <string name="failed_to_send_activate_email">Неможливо відправити активацію по пошті</string>
      <string name="find_device">Пошук пристрою</string>
      <string name="find_device_check_phone_error_title">Помилка увімкнення функції виявлення пристроїв</string>
@@ -146,7 +146,7 @@
      <string name="find_device_notice_p1">Якщо ви загубили телефон, зайдіть на</string>
      <string name="find_device_notice_p3"> для пошуку, блокування чи видалення даних з телефону</string>
      <string name="find_device_success_title">Виявлення пристрою увімкнено</string>
-     <string name="find_password_on_web_msg"> Будь ласка, відвідаєте account.xiaomi.com для отримання паролю</string>
+     <string name="find_password_on_web_msg">Будь ласка, відвідаєте account.xiaomi.com для отримання паролю</string>
      <string name="forget_password">Забули пароль?</string>
      <string name="frozen">(Заморожений)</string>
      <string name="get_back_pwd">Отримати пароль облікового запису</string>
@@ -349,8 +349,8 @@
      <string name="micloud_active_email_sent_2" />
      <string name="micloud_active_email_visit">Відвідати %s</string>
      <string name="micloud_activing_account">Активація облік. запису</string>
-     <string name="micloud_activing_account_delayed">"It probably needs 30 seconds to complete activating
-You can do something else..."</string>
+     <string name="micloud_activing_account_delayed">"До завершення активації залишилося близько 30 секунд.
+Ви можете зробити щось ще..."</string>
      <string name="micloud_activing_account_failed">Помилка активації</string>
      <string name="micloud_click_email">Натисніть на посилання в листі активації для активації облік. запису Xiaomi</string>
      <string name="micloud_click_email_to_valid">Натисніть на посилання активації в поштовій скринці</string>
@@ -384,28 +384,28 @@ You can do something else..."</string>
      <string name="mili_center">Центр Micredit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_denomination_type">MiCredit</string>
-     <string name="msg_error">Ошибка пополнения через SMS</string>
+     <string name="msg_error">Помилка поповненя через SMS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_1_1">1.</string>
-     <string name="msg_picker_hint_1_2">Пополнение через SMS стоит дороже 2 RMB = 1 MiCredit</string>
+     <string name="msg_picker_hint_1_2">Поповнення через SMS коштує дорожче 2 RMB = 1 MiCredit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
-     <string name="msg_picker_hint_2_2">С каждой оплатой по SMS, операторы снимают 0.1 RMB</string>
+     <string name="msg_picker_hint_2_2">З кожної оплати по SMS, оператори знімають 0.1 RMB</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
-     <string name="msg_picker_hint_3_2">Максимальное пополнение - 300 rmb за месяц</string>
-     <string name="msg_send_no_net_error">Не удалось отправить сообщение: Не удается подключиться к вашей сети провайдера.</string>
-     <string name="msg_send_no_sim_error">Не удалось отправить сообщение: попробуйте снова вставить карту оператора связи.</string>
-     <string name="msg_send_send_fail_error">Не удалось отправить сообщение</string>
-     <string name="msg_telecom_order_denom">%1s юаней（не включает в себя мобильную сеть）</string>
-     <string name="msg_telecom_order_denom_label">Сумма:</string>
+     <string name="msg_picker_hint_3_2">Максимальне поповнення - 300 rmb за місяць</string>
+     <string name="msg_send_no_net_error">Не вдалося відправити повідомлення: Не вдається підключитися до вашої мережі провайдера.</string>
+     <string name="msg_send_no_sim_error">Не вдалося відправити повідомлення: спробуйте знову вставити карту оператора зв'язку.</string>
+     <string name="msg_send_send_fail_error">Не вдалося відправити повідомлення</string>
+     <string name="msg_telecom_order_denom">%1s юанів (не включає в себе мобільну мережу）</string>
+     <string name="msg_telecom_order_denom_label">Сума:</string>
      <string name="msg_telecom_order_goods">%1sMiCredit</string>
-     <string name="msg_telecom_order_goods_label">Описание товара:</string>
-     <string name="msg_telecom_picker_hint_1_1">После касания Подтвердите покупку, ваш телефон будет</string>
-     <string name="msg_telecom_picker_hint_1_2">автоматически получить у поставщика услуг.</string>
-     <string name="msg_telecom_picker_hint_2_1">Ваша телефонная компания была уведомлена!</string>
-     <string name="msg_telecom_picker_hint_2_2">Вы получите текстовое подтверждение вскоре.</string>
-     <string name="msg_telecom_sending">Обращение к сети провайдера…</string>
+     <string name="msg_telecom_order_goods_label">Опис товара:</string>
+     <string name="msg_telecom_picker_hint_1_1">Підтвердіть покупку</string>
+     <string name="msg_telecom_picker_hint_1_2">Автоматично отримати у постачальника послуг</string>
+     <string name="msg_telecom_picker_hint_2_1">Ваша телефонна компанія була повідомлена!</string>
+     <string name="msg_telecom_picker_hint_2_2">Ви отримаєте текстове підтвердження незабаром</string>
+     <string name="msg_telecom_sending">Звернення до мережі провайдера…</string>
      <string name="my_mili_record">Мій MiCredit</string>
      <string name="my_xiaomi_account">Мій поточний облік. запис Xiaomi</string>
      <string name="next">Далі</string>
@@ -444,7 +444,7 @@ You can do something else..."</string>
      <string name="progress_error_pay_title">Помилка оплати</string>
      <string name="progress_error_recharge_title">Помилка поповнення</string>
      <string name="progress_loading">Обробка. Будь ласка, зачекайте...</string>
-     <string name="progress_msg_creating">Создание пополнения через SMS...</string>
+     <string name="progress_msg_creating">Створення поповнення через SMS...</string>
      <string name="progress_paytool_creating">Створення покупки %1$s...</string>
      <string name="progress_paytool_installing">Встановлення мобільного плагіну безпеки %1$s...</string>
      <string name="progress_prepaid_creating">Обробка запиту на поповнення...</string>
@@ -453,28 +453,28 @@ You can do something else..."</string>
      <string name="progress_submit_pay_summary">Оплата: %1$s Юань</string>
      <string name="progress_submit_recharge_summary">Поповнення: %1$s Юань</string>
      <string name="progress_submit_title">Запит на поповнення підтверджено</string>
-     <string name="progress_success_pay_summary">Ваш заказ был успешно оплачен!</string>
+     <string name="progress_success_pay_summary">Ваше замовлення було успішно оплачена!</string>
      <string name="progress_success_pay_title">Оплата %1$s Mi Credit завершена</string>
      <string name="progress_success_recharge_summary">Баланс: %1$s Mi Credits</string>
      <string name="progress_success_recharge_title">Поповнення на %1$s Mi Credit завершено</string>
      <string name="progress_voucher_creating">Поповнення карти Mi Credit…</string>
-     <string name="progress_warning_check">"Пока не проверено.
-Мы проверим в течение двух рабочих дней"</string>
+     <string name="progress_warning_check">"Пока не перевірено.
+Ми перевіримо протягом двох робочих днів"</string>
      <string name="progress_warning_contact_server">"Платіж ще не підтверджено. 
 1. Будь ласка, зв\’яжіться зі службою підтримки в Шеньчжоу: %1$s 
 2. Повідомте свій серійний номер: %2$s"</string>
      <string name="progress_warning_waiting">Ще не підтверджений. Будь ласка, спробуйте ще раз пізніше.</string>
      <string name="quick_login_title">Потрібно увійти в облік. запис, будь ласка введіть ваш пароль</string>
-     <string name="recharge_bankcall_title">Банковская карта</string>
+     <string name="recharge_bankcall_title">Банківська карта</string>
      <string name="recharge_denomination">%1$s Юань</string>
-     <string name="recharge_grid_edit_hint">Размер (RMB)</string>
+     <string name="recharge_grid_edit_hint">Розмір (RMB)</string>
      <string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>
-     <string name="recharge_grid_error_denomination">Введите правильный размер пополнения (между %1$d~%2$dRMB)</string>
-     <string name="recharge_grid_picker_hint">Выбор размера пополнения MiCredit</string>
-     <string name="recharge_group_favorite">Используемые методы пополнения</string>
-     <string name="recharge_group_others">Другие методы пополнения</string>
+     <string name="recharge_grid_error_denomination">Введіть правильний розмір поповнення (між %1$d~%2$dRMB)</string>
+     <string name="recharge_grid_picker_hint">Вибір розміру поповнення MiCredit</string>
+     <string name="recharge_group_favorite">Використовувані методи поповнення</string>
+     <string name="recharge_group_others">Інші методи поповнення</string>
      <string name="recharge_hint">1 Micredit рівний 1,5 Гривні</string>
-     <string name="recharge_message_title">Пополнение через SMS</string>
+     <string name="recharge_message_title">Поповнення через SMS</string>
      <string name="recharge_notification">Поповнення на %1$s кредитів Mi</string>
      <string name="recharge_other">Виберіть інший спосіб оплати</string>
      <string name="recharge_pcpay_title">"Поповненя через комп\'ютер"</string>
@@ -526,7 +526,7 @@ You can do something else..."</string>
      <string name="user_agreement_p3"> та </string>
      <string name="user_agreement_p4">Політикою безпеки</string>
      <string name="user_agreement_p5">"Реєструючись, ви погоджуєтесь з"</string>
-     <string name="value">Значение</string>
+     <string name="value">Значення</string>
      <string name="voucher_edit_hint">Пароль</string>
      <string name="voucher_edit_limit">символів</string>
      <string name="voucher_error_code">Введено невірний пароль Mi Credit карти</string>
