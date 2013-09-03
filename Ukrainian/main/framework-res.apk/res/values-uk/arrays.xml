@@ -64,13 +64,13 @@
         <item>Пошук...</item>
         <item>Підключення...</item>
         <item>Аутентифікація...</item>
-        <item>Одержання Ip-Адреси...</item>
+        <item>Отримання IP-адреси...</item>
         <item>Підключено</item>
-        <item>Припинене</item>
+        <item>Припинено</item>
         <item>Відключення...</item>
         <item>Немає підключення</item>
         <item>Збій</item>
-        <item>Заблоковане</item>
+        <item>Заблоковано</item>
         <item>Запобігання слабкого сигналу</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
@@ -78,13 +78,13 @@
         <item>Пошук...</item>
         <item>"З'єднання з мережею %1$s…"</item>
         <item>Аутентифікація в мережі %1$s...</item>
-        <item>Одержання Ip-Адреси від %1$s…</item>
-        <item>Підключене до %1$s</item>
-        <item>Припинене</item>
+        <item>Отримання IP-адреси від %1$s…</item>
+        <item>Підключено до %1$s</item>
+        <item>Припинено</item>
         <item>Відключення від %1$s…</item>
         <item>Немає підключення</item>
         <item>Збій</item>
-        <item>Заблоковане</item>
+        <item>Заблоковано</item>
         <item>Запобігання слабкого сигналу</item>
     </string-array>
     <string-array name="wifi_ap_security">
@@ -99,9 +99,9 @@
         <item>PWD</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
-        <item>Push-Кнопка</item>
-        <item>Pin-Код з виявленого обладнання</item>
-        <item>Pin-Код цього обладнання</item>
+        <item>Push-кнопка</item>
+        <item>PIN-код з виявленого обладнання</item>
+        <item>PIN-од цього обладнання</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Підключено</item>
@@ -178,7 +178,7 @@
         <item>Не зазначено</item>
     </string-array>
     <string-array name="app_install_location_entries">
-        <item>Внутрішнє сховище</item>
+        <item>"Внутрішня пам'ять"</item>
         <item>SD-карта</item>
         <item>Автоматично</item>
     </string-array>
@@ -241,7 +241,7 @@
         <item>Ipsec VPN з погодженими ключами та гібридною аутетифікацією</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Відключене</item>
+        <item>Відключено</item>
         <item>Ініціалізація...</item>
         <item>Підключення...</item>
         <item>Підключено</item>
@@ -268,7 +268,7 @@
     <string-array name="usb_connection_mode_entries">
         <item>Запит при підключенні</item>
         <item>Тільки зарядка</item>
-        <item>Підключити Sd-Карту</item>
+        <item>Підключити SD-карту</item>
     </string-array>
     <string-array name="led_freq_entries">
         <item>2 секунди</item>
@@ -380,10 +380,10 @@
     </string-array>
     <string-array name="msd_pc_system_install_step_2_summary">
         <item>"2. Мобільний пристрій зберігання MI-2 з'явиться на вашому комп'ютері
-Теперь ви можете передавати файли"</item>
+Тепер ви можете передавати файли"</item>
         <item></item>
         <item>"Комп'ютер буде автоматично відкривати й читати дані телефону
-Теперь ви можете передавати файли"</item>
+Тепер ви можете передавати файли"</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
