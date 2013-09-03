@@ -395,7 +395,7 @@
      <string name="msg_picker_hint_3_1">3.</string>
      <string name="msg_picker_hint_3_2">Максимальне поповнення - 300 rmb за місяць</string>
      <string name="msg_send_no_net_error">Не вдалося відправити повідомлення: Не вдається підключитися до вашої мережі провайдера.</string>
-     <string name="msg_send_no_sim_error">Не вдалося відправити повідомлення: спробуйте знову вставити карту оператора зв'язку.</string>
+     <string name="msg_send_no_sim_error">"Не вдалося відправити повідомлення: спробуйте знову вставити карту оператора зв'язку."</string>
      <string name="msg_send_send_fail_error">Не вдалося відправити повідомлення</string>
      <string name="msg_telecom_order_denom">%1s юанів (не включає в себе мобільну мережу）</string>
      <string name="msg_telecom_order_denom_label">Сума:</string>
