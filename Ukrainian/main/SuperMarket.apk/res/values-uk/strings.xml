@@ -1,39 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with Cloudbuildr -->
 <resources>
      <string name="all_comments">Усі</string>
-     <string name="already_bottom">Уже внизу</string>
+     <string name="already_bottom">Кінець</string>
      <string name="app_comments">Коментарі</string>
+     <string name="app_comments_footer">Порожні коментарі тут не показані</string>
+     <string name="app_comments_title">Коменатрі до: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_comments_footer">Empty comments are not presented here.</string>
-     <string name="app_comments_title">%1$s - коментарі</string>
-     <string name="app_name">Супермаркет</string>
+     <string name="app_name">Mistore</string>
      <string name="bad_comments">Погані</string>
      <string name="button_refresh">Оновити</string>
      <string name="button_search">Пошук</string>
-     <string name="button_search_in_market">Поиск в маркете</string>
-     <string name="bytes_unit">%1$sбайт</string>
+     <string name="button_search_in_market">Пошук у маркеті</string>
+     <string name="bytes_unit">%1$s байт</string>
      <string name="cancel">Скасування</string>
      <string name="category_recommend_tag">Реком.</string>
      <string name="category_tag">Категорії</string>
      <string name="clear_search_record_message">Очистити історію пошуку?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_1_star">1 Star</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_2_star">2 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_3_star">3 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_4_star">4 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_5_star">5 Stars</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_average_score">Average</string>
-     <string name="comment_cannot_comment">Щоб залишити коментар, потрібно спочатку скачати цей додаток</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="comment_current_version">Current Version</string>
+     <string name="comment_1_star">1 зірка</string>
+     <string name="comment_2_star">2 зірки</string>
+     <string name="comment_3_star">3 зірки</string>
+     <string name="comment_4_star">4 зірки</string>
+     <string name="comment_5_star">5 зірок</string>
+     <string name="comment_average_score">Усього</string>
+     <string name="comment_cannot_comment">Щоб залишити коментар, потрібно спочатку скачати це додаток</string>
+     <string name="comment_current_version">Поточна версія</string>
      <string name="comment_date">%1$02d-%2$02d</string>
-     <string name="comment_invalid">Доторкніться до зірочок, щоб оцінити</string>
+     <string name="comment_invalid">Натисніть на зірочки, щоб оцінити</string>
      <string name="comment_name_default">Користувач %1$s</string>
      <string name="comment_publish">Відправити</string>
      <string name="comment_sending">Відправлення...</string>
@@ -47,88 +40,64 @@
      <string name="comment_upload_not_logined"> Будь ласка, спочатку ввійдіть в облік. запис</string>
      <string name="comment_upload_success">Коментар відправлений!</string>
      <string name="comment_version_name">(версія %1$s)</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Проверьте подключение к сети -->
-     <string name="connect_fail">"Помилка установки %1$s: помилка з'єднання, перевірте підключення до мережі"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="connect_no_enough_space">No enough space to install app. Please cleanup your phone to try again.</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Загрузка не завершена. Нет пакета установки для вашего телефона. -->
-     <string name="connect_no_fit_fail">Помилка установки %1$s: настановний пакет не підходить для вашого телефону</string>
+     <string name="connect_fail">Перевірте підключення до мережі</string>
+     <string name="connect_no_enough_space">Не вистачає місця для встановлення додатка. Будь ласка, звільните місце й спробуйте знову.</string>
+     <string name="connect_no_fit_fail">Завантаження не завершено. Немає пакета установки для вашого телефону</string>
      <string name="connecting">Підключення...</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="data_save_mode_tip">Disabled pictures by your setting</string>
+     <string name="data_save_mode_tip">Світлини відключені</string>
+     <string name="delete_confirm">Ви впевнені, що видалити видалити обрані додатки: %1$s?</string>
+     <string name="delete_confirm_system_app">Ви впевені, що бажаєте видалити %1$s додатків? % 2$s у системному розділі</string>
+     <string name="delete_selected_apps">Видалити</string>
+     <string name="deleting">Видалення</string>
      <string name="delta_update">Відновлення %1$s</string>
      <string name="description_info">Опис</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="developer_button">View more</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Загрузка не завершена. Ошибка загрузки. -->
-     <string name="download_fail">%1$s установка не виконана: помилка завантаження</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Загрузка не завершена. Ошибка создания задачи для загрузки. -->
-     <string name="download_start_fail">Помилка встановлення %1$s: не вдається виконати завантаження</string>
+     <string name="developer_button">Показати ще</string>
+     <string name="download_fail">Завантаження не завершено. Помилка завантаження</string>
+     <string name="download_start_fail">Завантаження не завершено. Помилка створення завдання для завантаження</string>
      <string name="edit_comment">Коментар</string>
      <string name="edit_comment_title">Відправити відгук %1$s</string>
      <string name="edit_text_default"> Будь ласка, напишіть коментар</string>
-     <string name="enable_updata_local_app">Відновлень додатків: %1$s</string>
-     <string name="expand_full_text">Розгорнути весь текст▼</string>
-     <string name="expand_full_text_comment">Розгорнути весь текст▼</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="first_recommend_download">Install all</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="first_recommend_enter">Start market</string>
+     <string name="enable_updata_local_app">Відновлень: %1$s</string>
+     <string name="expand_full_text">Розгорнути весь текстЎ</string>
+     <string name="expand_full_text_comment">Розгорнути весь текстЎ</string>
+     <string name="first_recommend_download">Установити все</string>
+     <string name="first_recommend_enter">Пропустити</string>
      <string name="good_comments">Гарні</string>
      <string name="hot_rank_tag">Топ рейтингу</string>
+     <string name="hot_subject">Колекції</string>
      <string name="install">Скачати</string>
-     <string name="install_all_description">Встановити %1$s в %2$s？</string>
-     <string name="install_all_title">Установить все</string>
+     <string name="install_all_description">Встановити додатки %1$s і %2$s зараз?</string>
+     <string name="install_all_title">Встановити все</string>
      <string name="install_btn_cancel">Скасування</string>
      <string name="install_btn_continue">Далі</string>
      <string name="install_btn_ok">ОК</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Ошибка установки. Попробуйте снова. -->
-     <string name="install_fail">%1$s - помилка встановлення</string>
-     <string name="install_google_base_message">“%1$s” вимагає Google Service Framework для роботи</string>
-     <string name="install_google_base_title">Встановлення Google Service Framework</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Ошибка установки. Загрузите пакет снова. -->
-     <string name="install_hash_fail">%1$s - помилка встановлення</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Ошибка подписи. Удалите приложение и попробуйте снова. -->
-     <string name="install_inconsistent_fail">%1$s - помилка встановлення</string>
+     <string name="install_earlier">Раніше</string>
+     <string name="install_fail">Помилка встановлення. Спробуйте знову.</string>
+     <string name="install_google_base_message">“%1$s” для запуску вимагає сервіси Google</string>
+     <string name="install_google_base_title">Встановити сервіси Google</string>
+     <string name="install_hash_fail">Помилка встановлення. Завантажите пакет знову.</string>
+     <string name="install_inconsistent_fail">Помилка підпису. Видаліть додаток і спробуйте знову.</string>
      <string name="install_missing_shared_library">У системі відсутні необхідні компоненти</string>
      <string name="install_no_network_description">Немає мережевого підключення, підключіться й спробуйте ще раз</string>
-     <string name="install_on_data_description">您在使用数据网络，下载可能产生流量费用，是否立即安装%1$s等%2$s款应用？</string>
-     <string name="install_parse_fail">Встановлення не вдалося. Будь ласка завантажте повторно.</string>
+     <string name="install_on_data_description">Завантаження по 2G/3G може надмірно споживати трафік, продовжити завантаження додатків %1$s і %2$s?</string>
+     <string name="install_parse_fail">Встановлення не вдалася. Будь ласка завантажте повторно.</string>
      <string name="install_patch_fail">Відновлення не вдалося. Завантажте повторно пакет</string>
-     <string name="install_sdcard_not_available">Встановлення не завершено. Sd-Карта недоступна</string>
+     <string name="install_sdcard_not_available">Установка не завершена. Sd-Карта недоступна</string>
      <string name="install_sign_not_same_btn_remove">Видалити й обновити</string>
-     <string name="install_sign_not_same_message">%1$s update does not match local application signature. You must uninstall the local version to install this update. Continue?</string>
+     <string name="install_sign_not_same_message">%1$s підписи додатків не збігаються. Перед встановленням оновлення потрібно видалити стару версію додатка. Продовжити?</string>
      <string name="install_sign_not_same_title">Невідповідність підпису</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="install_start_cleanup">Start Cleanup</string>
+     <string name="install_start_cleanup">Почати очищення</string>
      <string name="install_storage_not_enough">"Встановлення не завершено. Недостатньо пам'яті"</string>
-     <string name="install_title">Встановлення програми</string>
-     <string name="install_verification_fail">Встановлення не завершено. Не вдався процес перевірки</string>
+     <string name="install_this_month">У цьому місяці</string>
+     <string name="install_this_week">На цьому тижні</string>
+     <string name="install_time">Час встановлення: %1$s</string>
+     <string name="install_title">Встановлення додатка</string>
+     <string name="install_today">Сьогодні</string>
+     <string name="install_verification_fail">Встановлення не завершено. Не вдався процесі перевірки</string>
      <string name="installed">встан.</string>
-     <string name="installing">встановлення...</string>
-     <string name="kilobytes_unit">%1$skb</string>
-     <string name="launch">Запустити додаток</string>
+     <string name="installing">Встановлення</string>
+     <string name="kilobytes_unit">%1$s кб</string>
+     <string name="launch">Відкрити</string>
      <string name="launch_failed_text">Помилка запуску %1$s</string>
      <string name="loading_app_detail">Завантаження відомостей про додаток...</string>
      <string name="loading_app_list">Завантаження списку додатків...</string>
@@ -138,22 +107,26 @@
      <string name="loading_search_result">Завантаження результатів пошуку...</string>
      <string name="loading_update_list">Завантаження списку відновлень...</string>
      <string name="login_active">Активувати</string>
-     <string name="login_active_title">Ваш облік. запис не активований. бажаєте активувати його зараз?</string>
+     <string name="login_active_title">Ваш облік. запис не активований. Прагнете активувати його зараз?</string>
      <string name="login_download_title">Вхід в облік. запис Xiaomi</string>
      <string name="login_first_install_title">Вхід в облік. запис Xiaomi</string>
      <string name="login_ok">Увійти</string>
      <string name="login_skip">Далі</string>
      <string name="management_tag">Файли</string>
      <string name="megabytes_unit">%1$sмб</string>
-     <string name="menu_account">Облік. запис</string>
+     <string name="menu_account">облік. запис</string>
      <string name="menu_clear_search_history">Очистити історію пошуку</string>
      <string name="menu_detail">Докладніше</string>
      <string name="menu_download_manager">Менеджер завантажень</string>
      <string name="menu_ignore">Пізніше</string>
-     <string name="menu_install_all">Встановлені</string>
+     <string name="menu_install_all">Встановити все</string>
      <string name="menu_login">Вхід</string>
      <string name="menu_preferences">Налаштування</string>
      <string name="menu_refresh">Оновити</string>
+     <string name="menu_sort">Сортувати</string>
+     <string name="menu_sort_by_name">"Ім’я"</string>
+     <string name="menu_sort_by_size">Розмір</string>
+     <string name="menu_sort_by_time">Дата</string>
      <string name="menu_update">Оновити</string>
      <string name="more_app">Ще</string>
      <string name="more_subject">Колекції</string>
@@ -165,82 +138,81 @@
      <string name="no_description">Немає додатків</string>
      <string name="no_fitness">Упс! Немає відповідних програм, спробуйте пошукати :)</string>
      <string name="no_local_apps">Немає встановлених додатків</string>
-     <string name="no_network">Немає доступу в Інтернет. Будь ласка, перевірте налаштування й спробуйте обновити :)</string>
-     <string name="no_search">Додатків не знайдене</string>
+     <string name="no_network">Немає доступу в Інтернет. Будь ласка, перевірте настроювання й спробуйте обновити :)</string>
+     <string name="no_search">Додатків не знайдено</string>
      <string name="no_update">Оновлень немає</string>
-     <string name="notif_auto_update_failed">Ошибка обновления некоторых приложений.</string>
-     <string name="notif_auto_update_successfull">%1$s авто-обновление не завершено</string>
-     <string name="notif_auto_update_via_wifi">Авто-обновление: %1$s</string>
-     <string name="notif_delta_update_successful">Успішно оновлено. Для Вас збережено %1$s, натисніть кнопку, щоб запустити зараз.</string>
-     <string name="notif_description_from_market">Из маркета Xiaomi</string>
+     <string name="notif_auto_update_failed">Помилка оновлення деяких додатків</string>
+     <string name="notif_auto_update_successfull">%1$s авто-оновлення не завершено</string>
+     <string name="notif_auto_update_via_wifi">Авто-оновлення: %1$s</string>
+     <string name="notif_delta_update_successful">Успішно оновлене. Для Вас збережено %1$s, натисніть кнопку, щоб запустити зараз.</string>
+     <string name="notif_description_from_market"> З маркету Xiaomi</string>
      <string name="notif_install_failed">Збій установки %1$s</string>
-     <string name="notif_install_successful">%1$s успішно встановлене</string>
-     <string name="notif_install_successful_default">%1$s установлене</string>
-     <string name="notif_installing">Встановлення “%1$s”…</string>
-     <string name="notif_summary_auto_update_failed">Нажмите сюда для продолжения.</string>
-     <string name="notif_summary_auto_update_successful">Авто-обновление %1$s приложений не завершено.</string>
-     <string name="notif_title_update">Доступне відновлення для %1$s!</string>
+     <string name="notif_install_successful">%1$s успішно встановлено</string>
+     <string name="notif_install_successful_default">%1$s установлено</string>
+     <string name="notif_installing">Установка “%1$s”...</string>
+     <string name="notif_summary_auto_update_failed">Натисніть сюди для продовження</string>
+     <string name="notif_summary_auto_update_successful">Авто-оновлення %1$s додатків не завершено</string>
+     <string name="notif_title_update">Доступне оновлення для %1$s!</string>
+     <string name="package_size">Розмір: %1$sмб</string>
+     <string name="package_size_calculating">Розмір: обчислення…</string>
      <string name="paused">Пауза</string>
-     <string name="pending">Почекайте...</string>
+     <string name="pending">Очікування...</string>
      <string name="permission_extra">Інші дозволи</string>
      <string name="permission_risky_money">Відправлення SMS</string>
      <string name="permission_risky_privacy">Конфіденційність</string>
      <string name="permission_risky_security">Безпека</string>
      <string name="permissions_expand_title">Інші дозволи</string>
-     <string name="permissions_title">Дозвіл для %1$s</string>
+     <string name="permissions_title">Дозволу для %1$s</string>
      <string name="pref_list_auto_update">Автооновлення</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_list_data_save_mode_always">Never</string>
-     <string name="pref_list_data_save_mode_network">Only over Wi-Fi</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_list_data_save_mode_never">Always</string>
-     <string name="pref_list_disable">Завжди показувати</string>
+     <string name="pref_list_data_save_mode_always">Ніколи</string>
+     <string name="pref_list_data_save_mode_network">Тільки через Wi-Fi</string>
+     <string name="pref_list_data_save_mode_never">Завжди</string>
+     <string name="pref_list_disable">Відключено</string>
      <string name="pref_list_per_day">Щодня</string>
      <string name="pref_list_per_week">Щотижня</string>
      <string name="pref_list_remind_me_after_download">Нагадати після завантаження</string>
-     <string name="pref_summary_auto_update_via_wifi">Авто-обновление через Wi-Fi при заблок. экране.</string>
+     <string name="pref_list_use_dev_staging_server">Використовуйте Dev-Проміжний сервер</string>
+     <string name="pref_list_use_online_server">Використовувати сервер продукту</string>
+     <string name="pref_list_use_staging_server">Використання проміжного сервера</string>
+     <string name="pref_summary_auto_update_via_wifi">Авто-оновлення через Wi-Fi при заблок. екрані</string>
      <string name="pref_title_auto_update_setting">Параметри автооновлення</string>
-     <string name="pref_title_auto_update_via_wifi">Авто-обновление через Wi-Fi</string>
-     <string name="pref_title_auto_update_via_wifi_checkbox">Авто-обновление</string>
+     <string name="pref_title_auto_update_via_wifi">Авто-оновлення через Wi-Fi</string>
+     <string name="pref_title_auto_update_via_wifi_checkbox">Авто-оновлення</string>
      <string name="pref_title_clear_search_record">Очистити історію пошуку</string>
-     <string name="pref_title_data_save_mode">Регулювання трафіка</string>
-     <string name="pref_title_silent_install">Тихе встановлення</string>
-     <string name="pref_title_update_notify_mode">Сповіщення оновлень</string>
+     <string name="pref_title_data_save_mode">Економія трафіку</string>
+     <string name="pref_title_hotsubjects_notification">Повідомите мене про останню тему</string>
+     <string name="pref_title_silent_install">Тихе установка</string>
+     <string name="pref_title_update_notify_mode">Повідомлення оновлень</string>
      <string name="pref_title_update_onlyby_wifi">Автооновлення тільки по Wi-Fi</string>
-     <string name="pref_title_use_staging"> Для використання проміжного серверу</string>
+     <string name="pref_title_use_staging"> Для використання проміжного сервера</string>
      <string name="publish_info">%1$s %2$s %3$s</string>
      <string name="quicksearchbox_description">Пошук маркета для додатків</string>
-     <string name="rank_tag">Топ</string>
-     <string name="rating_button">%1$s рейтинг</string>
+     <string name="rank_tag">ТОП</string>
+     <string name="rating_button">Голосів: %1$s</string>
      <string name="recommendation_tag">Усі</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Устаовка не завершена. Пожалуйста, удалите приложение и попробуйте снова. -->
-     <string name="remove_package_timeout_fail">Помилка встановлення %1$s: видалення старої версії не вдалося, видаліть вручну</string>
-     <string name="result_notice">Результати призупинені сервісом додатків Baidu</string>
+     <string name="remove_package_timeout_fail">Устаовка не завершена. Будь ласка, вилучіть додаток і спробуйте знову.</string>
+     <string name="result_notice">Результати надані сервісом додатків Baidu</string>
      <string name="result_of_clear_history">Історія пошуку успішно очищена</string>
-     <string name="search_local_app_text_hint">Пошук додатків в %1$d інстальованих</string>
+     <string name="search_local_app_text_hint">Пошук у додатках: %1$d</string>
      <string name="search_not_found">\"%1$s\" не знайдене</string>
-     <string name="search_other_market">Пошук іншого маркета</string>
+     <string name="search_other_market">Пошук в іншому маркеті</string>
      <string name="share_button">Поділитися</string>
-     <string name="share_subject">Відправити：%1$s</string>
-     <string name="share_text">在小米应用商店发现一个有趣的APP：%1$s，分享一下！传送门：%2$s</string>
+     <string name="share_subject">Відправити:  %1$s</string>
+     <string name="share_text">Ось додаток, який я думаю, тобі може сподобатися: %1$s,вот посилання :%2$s</string>
      <string name="show_all_local_app">Показати всі</string>
-     <string name="show_all_local_app_with_count">Всі додатки (%1$d)</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Несовместимая подпись системного приложения. Невозможно обновить. -->
-     <string name="system_app_sign_not_match_fail">Помилка встановлення %1$s: несумісний підпис додатка</string>
-     <string name="update">Відновлення</string>
-     <string name="update_all">Обновити всі</string>
+     <string name="show_all_local_app_with_count">Усі додатки (%1$d)</string>
+     <string name="size_interval">%1$d~%2$dm</string>
+     <string name="size_more_than_one_hundred">Більш 100МБ</string>
+     <string name="system_app_sign_not_match_fail">Несумісний підпис системного додатка. Неможливо обновитися</string>
+     <string name="update">Оновити</string>
+     <string name="update_all">Оновити всі</string>
      <string name="update_date">%3$s, %2$s, %1$s</string>
-     <string name="update_date_label">Завантажено：</string>
+     <string name="update_date_label">Завантажено:</string>
      <string name="update_info">Зміни</string>
-     <string name="upgrade_all_description">Обновить %1$s и %2$s приложений сейчас?</string>
-     <string name="upgrade_all_title">Обновить все</string>
+     <string name="upgrade_all_description">Оновити %1$s і %2$s додатків зараз?</string>
+     <string name="upgrade_all_title">Онновити все</string>
      <string name="verifying">Перевірка на віруси...</string>
-     <string name="version_label">Версія：</string>
+     <string name="version_label">Версія:</string>
      <string name="version_name">Версія: %1$s</string>
 </resources>
+
