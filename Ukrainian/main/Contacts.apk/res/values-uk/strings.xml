@@ -106,7 +106,7 @@
      <string name="callrecordview_menu_paste">Вставити</string>
      <string name="callrecordview_menu_settings">Налаштування</string>
      <string name="callrecordview_menu_show">Фільтр</string>
-     <string name="callrecordview_menu_show_accepted">Тільки входять</string>
+     <string name="callrecordview_menu_show_accepted">Тільки вхідні</string>
      <string name="callrecordview_menu_show_all">Всі</string>
      <string name="callrecordview_menu_show_called">Тільки вихідні</string>
      <string name="callrecordview_menu_show_missed">Тільки пропущені</string>
