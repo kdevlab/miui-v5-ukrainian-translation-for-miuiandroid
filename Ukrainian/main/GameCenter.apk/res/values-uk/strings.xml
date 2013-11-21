@@ -26,8 +26,8 @@
   <string name="comment_count">Коментарів: %1$s</string>
   <string name="comment_description">%1$s%2$1s</string>
   <string name="comment_publish">Надіслати</string>
-  <string name="connect_fail">%1$s - установка не вдалася: помилка з'єднання, будь ласка, перевірте мережеве з'єднання</string>
-  <string name="connect_network_fail">Помилка з'єднання</string>
+  <string name="connect_fail">"%1$s - установка не вдалася: помилка з'єднання, будь ласка, перевірте мережеве з'єднання"</string>
+  <string name="connect_network_fail">"Помилка з'єднання"</string>
   <string name="connect_network_hint">Game Center потрібен доступ до мережі. Увімкніть мобільну мережу або Wi-Fi для завантаження даних</string>
   <string name="connect_network_settings">Налаштування</string>
   <string name="connect_no_fit_fail">%1$s - установка не вдалася: немає відповідних пакетів установки для вашого телефону</string>
