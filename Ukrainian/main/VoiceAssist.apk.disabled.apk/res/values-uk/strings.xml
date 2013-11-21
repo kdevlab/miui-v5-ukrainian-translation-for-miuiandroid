@@ -129,7 +129,7 @@
   <string name="music_search_cancelled">音乐搜索已取消</string>
   <string name="music_search_failed">没有搜索到结果</string>
   <string name="net_comment">网友点评</string>
-  <string name="net_not_connected">Неможливо використовувати голосовий помічник: немає інтернет з'єднання</string>
+  <string name="net_not_connected">"Неможливо використовувати голосовий помічник: немає інтернет з'єднання"</string>
   <string name="net_recommend">网友推荐: %1$s</string>
   <string name="new_alarm">新提醒</string>
   <string name="next_date">周%1$s</string>
@@ -220,4 +220,3 @@
   <string name="year">年</string>
   <string name="you_can_say_so">Ви можете сказати, що це:</string>
 </resources>
-
