@@ -13,10 +13,10 @@
   <string name="headsetmic_enable_summary">Коли ви підкл. гарнітуру, буде використовуватися мікрофон гарнітури</string>
   <string name="headsetmic_enable_title">Використовувати мікрофон гарнітури</string>
   <string name="huawei_settings">Налаштування пристрою</string>
-  <string name="lite_summary">Оптимізація сервісів для збільшення доступної пам'яті</string>
+  <string name="lite_summary">"Оптимізація сервісів для збільшення доступної пам'яті"</string>
   <string name="lite_title">Оптимізація системи</string>
-  <string name="lowmem">Керування пам'яттю</string>
-  <string name="lowmem_summary">Вибір режиму керування пам'яттю</string>
+  <string name="lowmem">"Керування пам'яттю"</string>
+  <string name="lowmem_summary">"Вибір режиму керування пам'яттю"</string>
   <string name="miui">Сервіси MIUI</string>
   <string name="miui_summary">Урізані версії сервісів MIUI</string>
   <string name="network">Мережа/Безпека</string>
@@ -28,7 +28,7 @@
   <string name="preferences_application_title">Інформация про автора</string>
   <string name="project_menu_title">Проектне меню</string>
   <string name="swap">Файл підкачки (SWAP)</string>
-  <string name="swap_summary">Використання файлу підкачки для поліпшення продуктивності пам'яті</string>
+  <string name="swap_summary">"Використання файлу підкачки для поліпшення продуктивності пам'яті"</string>
   <string name="vsync">Відклик інтерфейсу</string>
   <string name="vsync_summary">Прискорення відклику інтерфейсу, для кращого реагування</string>
 </resources>
