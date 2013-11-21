@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="access_sd_fail">Карта пам'яті недоступна</string>
+  <string name="access_sd_fail">"Карта пам'яті недоступна"</string>
   <string name="accessibility_back_to_first_level">Закрити</string>
   <string name="accessibility_camera_picker">Перемикання на передню або задню камеру</string>
   <string name="accessibility_decrement">Зменшити %1$s</string>
@@ -39,9 +39,9 @@
   <string name="gallery_camera_videos_bucket_name">Відео</string>
   <string name="image_file_name_format">"'IMG'_ddmmyyyy_Hhmmss"</string>
   <string name="no_picture_to_share">Немає фото для відправлення</string>
-  <string name="no_storage">Вставте карту пам'яті для використання Камери</string>
+  <string name="no_storage">"Вставте карту пам'яті для використання Камери"</string>
   <string name="no_video_to_share">Немає відео для відправлення</string>
-  <string name="not_enough_space">Нестача пам'яті</string>
+  <string name="not_enough_space">"Нестача пам'яті"</string>
   <string name="not_selectable_in_effect">Недоступно при використанні ефекту</string>
   <string name="not_selectable_in_scene_mode">Недоступно в режимі зйомки</string>
   <string name="pano_capture_indication">Створення панорами...</string>
@@ -113,7 +113,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_3000">3s</string>
   <string name="pref_video_time_lapse_frame_interval_entry_5000">5s</string>
   <string name="pref_video_time_lapse_frame_interval_title">Уповільнення</string>
-  <string name="preparing_sd">Підготовка карти пам'яті...</string>
+  <string name="preparing_sd">"Підготовка карти пам'яті..."</string>
   <string name="review_cancel">Скасувати</string>
   <string name="review_ok">Готове</string>
   <string name="review_play">Відтворити</string>
