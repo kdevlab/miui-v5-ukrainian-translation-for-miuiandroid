@@ -59,7 +59,7 @@
   <string name="remove_dialog_canceled">Скасовано</string>
   <string name="remove_dialog_removed">Вилучено</string>
   <string name="rename">Перейменувати</string>
-  <string name="rename_dialog_message">Введіть нове ім'я файлу</string>
+  <string name="rename_dialog_message">"Введіть нове ім'я файлу"</string>
   <string name="sendImage">Надіслати картинку по</string>
   <string name="sendVideo">Відправити відео по</string>
   <string name="setImage">Встановити зображення як</string>
