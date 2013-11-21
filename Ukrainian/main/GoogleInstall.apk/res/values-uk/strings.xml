@@ -18,7 +18,7 @@
      <string name="app_comments">Коментарі</string>
      <string name="app_comments_title">Коментарі до: %1$s</string>
      <string name="app_name">Gapps</string>
-     <string name="bad_authentication">Невірний пароль або ім'я користувача</string>
+     <string name="bad_authentication">"Невірний пароль або ім'я користувача"</string>
      <string name="basic_info">Основна інформація</string>
      <string name="button_refresh">Оновити</string>
      <string name="button_search">Пошук</string>
@@ -103,7 +103,7 @@
      <string name="install_sign_not_same_btn_remove">Видалити й обновити</string>
      <string name="install_sign_not_same_message">%1$s підписи додатків не збігаються. Перед встановленням оновлення потрібно видалити стару версію додатка. Продовжити?</string>
      <string name="install_sign_not_same_title">Невідповідність підпису</string>
-     <string name="install_storage_not_enough">Встановлення не завершено. Недостатньо пам'яті</string>
+     <string name="install_storage_not_enough">"Встановлення не завершено. Недостатньо пам'яті"</string>
      <string name="install_title">Встановлення додатка</string>
      <string name="install_verification_fail">Встановлення не завершено. Не вдався процес перевірки</string>
      <string name="installed">встан.</string>
@@ -115,7 +115,7 @@
      <string name="login_active">Активувати</string>
      <string name="login_active_title">Ваш аккаунт не активований. Бажаєте активувати його зараз?</string>
      <string name="login_download_title">Вхід в аккаунт Xiaomi</string>
-     <string name="login_failed">Невірне ім'я користувача або пароль</string>
+     <string name="login_failed">"Невірне ім'я користувача або пароль"</string>
      <string name="login_first_install_title">Вхід в аккаунт Xiaomi</string>
      <string name="login_notice">Авторизація, будь ласка, зачекайте...</string>
      <string name="login_ok">Увійти</string>
