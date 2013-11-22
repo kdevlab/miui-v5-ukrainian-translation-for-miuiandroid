@@ -53,7 +53,7 @@
   <string name="install_fail">%1$s - збій установки</string>
   <string name="install_hash_fail">%1$s - установка не вдалася: пакет не пройшов перевірку</string>
   <string name="install_inconsistent_fail">%1$s - установка не вдалася: невідповідність підписів</string>
-  <string name="install_no_network_description">Помилка мережевого з'єднання, повторіть спробу</string>
+  <string name="install_no_network_description">"Помилка мережевого з'єднання, повторіть спробу"</string>
   <string name="install_on_data_description">Ви впевнені, що хочете встановити %1$s %2$s Лінії програми?</string>
   <string name="install_only_on_wifi_description">Ви можете завантажити цю програму тільки через Wi-Fi</string>
   <string name="install_title">Установка</string>
