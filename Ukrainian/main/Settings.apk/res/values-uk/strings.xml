@@ -892,7 +892,7 @@
      <string name="header_category_system">СИСТЕМНІ НАЛАШТУВАННЯ</string>
      <string name="header_category_wireless_networks">БЕЗДРОТОВІ МЕРЕЖІ</string>
      <string name="header_data_and_synchronization">Синхронізація даних</string>
-     <string name="headset_calibrate">Калибрування кнопок</string>
+     <string name="headset_calibrate">Калібрування кнопок</string>
      <string name="headset_calibrate_apply">Застосувати</string>
      <string name="headset_calibrate_confirm">Функції кнопок змінені. зберегти їх？</string>
      <string name="headset_calibrate_hint">Будь ласка, натисніть верхню кнопку</string>
@@ -2468,5 +2468,5 @@
      <string name="zone_auto_summaryOff">Використовувати часовий пояс мережі</string>
      <string name="zone_auto_summaryOn">Використовувати часовий пояс мережі</string>
      <string name="zone_list_menu_sort_alphabetically">Упорядкувати за алфавітом</string>
-     <string name="zone_list_menu_sort_by_timezone">Упорядкувати по часовому поясу</string>
+     <string name="zone_list_menu_sort_by_timezone">Упорядкувати за часовим поясом/string>
 </resources>
