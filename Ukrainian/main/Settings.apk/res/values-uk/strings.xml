@@ -2468,5 +2468,5 @@
      <string name="zone_auto_summaryOff">Використовувати часовий пояс мережі</string>
      <string name="zone_auto_summaryOn">Використовувати часовий пояс мережі</string>
      <string name="zone_list_menu_sort_alphabetically">Упорядкувати за алфавітом</string>
-     <string name="zone_list_menu_sort_by_timezone">Упорядкувати за часовим поясом/string>
+     <string name="zone_list_menu_sort_by_timezone">Упорядкувати за часовим поясом</string>
 </resources>
