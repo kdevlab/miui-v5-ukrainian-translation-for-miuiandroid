@@ -12,7 +12,7 @@
      <string name="credential_password">Введіть пароль для вилучення сертифікатів</string>
      <string name="extracting_pkcs12">Витяг...</string>
      <string name="generic_no_cert_file_found">Файл сертифікату не знайдений.</string>
-     <string name="generic_sdcard_not_present">Карта пам'яті відсутня.</string>
+     <string name="generic_sdcard_not_present">Карта пам\'яті відсутня.</string>
      <string name="invalid_cert">Сертифікат недійсний</string>
      <string name="n_cacrts">Сертифікатів центру сертифікації: %d</string>
      <string name="name_char_error">"Назва повинна складатися з букв і цифр"</string>
