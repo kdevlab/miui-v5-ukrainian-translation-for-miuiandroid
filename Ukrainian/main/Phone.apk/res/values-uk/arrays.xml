@@ -23,13 +23,8 @@
         <item>Китайський</item>
         <item>Іврит</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 13 must: 9 -->
      <string-array name="preferred_network_mode_choices">
-        <item>LTE</item>
-        <item>Global</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>LTE/CDMA</item>
         <item>Тільки EvDo</item>
         <item>CDMA без EvDo</item>
         <item>CDMA / EvDo (автоматичний режим)</item>
