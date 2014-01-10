@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <!-- The size of the array does not match! Now: 12 must: 13 -->
      <string-array name="garbage_size_entries">
         <item>0</item>
         <item>1</item>
@@ -14,8 +13,8 @@
         <item>8</item>
         <item>9</item>
         <item>.</item>
+        <item>,</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 12 must: 13 -->
      <array name="garbage_size_entryValues">
         <item>@drawable/digit0</item>
         <item>@drawable/digit1</item>
@@ -27,6 +26,7 @@
         <item>@drawable/digit7</item>
         <item>@drawable/digit8</item>
         <item>@drawable/digit9</item>
+        <item>@drawable/point</item>
         <item>@drawable/point</item>
      </array>
 </resources>

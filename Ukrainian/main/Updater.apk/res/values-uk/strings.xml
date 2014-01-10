@@ -58,13 +58,18 @@
      <string name="file_not_found_error_message">Запитаний файл не знайдений</string>
      <string name="finish">Готово</string>
      <string name="finish_download">Завантаження завершено</string>
+     <string name="fourgrid_hint_text">Благодарим вас за использование сборки разработчиков MIUI. Расскажите, что вы думаете о прошивку, этим вы поможете нам сделать MIUI лучше.</string>
+     <string name="fourgrid_no_notificaiont">Не показывать в статусбарі</string>
+     <string name="fourgrid_notificaiont">Показывать в статусбарі</string>
      <string name="get_update_error">Не вдалось отримати інформацію про оновлення</string>
      <string name="install_email">Встановити E-mail</string>
      <string name="install_file_explorer">Встановити програму Файли</string>
      <string name="install_qq">Встановити QQ</string>
      <string name="install_rom_from_sd">Прошивка</string>
+     <string name="install_sina">Встановити Sina Weibo</string>
      <string name="install_whole_rom">Ми рекомендуємо вам завантажити повний пакет для оновлення системи</string>
      <string name="internal_build">внутрішня збірка</string>
+     <string name="later">Позже</string>
      <string name="loading">Завантаження MIUI</string>
      <string name="md5_check_cancelled">MD5 перевірка зупинена</string>
      <string name="mione_update_fail_description">Оновлення MI-ONE завершено з помилкою</string>
@@ -85,7 +90,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Есть новая версия! -->
+     <!-- Original string: "Нова версія " -->
      <string name="new_update_content_title">Оновлення: %s</string>
      <string name="new_update_download_complete_body">Готова до встановлення: %s</string>
      <string name="new_update_downloading_body">Завантаження нової версії:%s</string>
@@ -98,6 +103,7 @@
      <string name="no_updates_warning">Немає нових версій</string>
      <string name="no_updates_warning2">Немає нових версій</string>
      <string name="not_recommend">Не рекомендую</string>
+     <string name="now">Негайно</string>
      <string name="paused_queued_for_network">Очікування підключення</string>
      <string name="paused_queued_for_wifi">Очікування підключення Wi-Fi</string>
      <string name="previous">Назад</string>
@@ -162,9 +168,10 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Обновлено до %s -->
+     <!-- Original string: Версія %s -->
      <string name="update_success_body">Вітаємо, система успішно оновлена</string>
      <string name="update_success_title">Оновлення</string>
+     <string name="updater_finish_download">Загрузка прошивки закончена</string>
      <string name="upgrade_close">Закрити</string>
      <string name="upgrade_kernel">Оновлення ядра</string>
      <string name="upgrade_kernel_msg">"Ваше ядро несумісне з прошивкою MIUI. Вам необхідно оновити його вручну. Зайдіть на сайт, щоб дізнатись як оновити ядро:

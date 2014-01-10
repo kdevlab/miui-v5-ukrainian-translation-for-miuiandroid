@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="AudioScenesTitleVideo">
+     <string-array name="AudioScenesTitleVideo">
         <item>Відкл.</item>
         <item>Вулиця</item>
         <item>Концерт</item>
         <item>Сюжет</item>
-        <item>Об\'єкт</item>
-    </string-array>
+        <item>"Об\'єкт"</item>
+     </string-array>
 </resources>

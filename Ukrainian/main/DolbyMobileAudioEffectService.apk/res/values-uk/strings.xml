@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-  <string name="app_label">Аудіоефекти Dolby Mobile</string>
-	<string name="dm_audio_effect_controller">Керування Dolby Mobile</string>
-	<string name="remote_call_failed">Скасування виклику віддаленої служби</string>
-	<string name="remote_service_connected">Підключено до віддаленої службі</string>
-	<string name="remote_service_disconnected">Відключено від віддаленої служби</string>
-	<string name="remote_service_label">Приклад служби</string>
-	<string name="remote_service_started">Cлужба запущена</string>
-	<string name="remote_service_stopped">Cлужба зупинена</string>
+     <string name="app_label">Аудіоефекти Dolby Mobile</string>
+     <string name="dm_audio_effect_controller">Керування Dolby Mobile</string>
+     <string name="remote_call_failed">Скасування виклику віддаленої служби</string>
+     <string name="remote_service_connected">Підключено до віддаленої службі</string>
+     <string name="remote_service_disconnected">Відключено від віддаленої служби</string>
+     <string name="remote_service_label">Приклад служби</string>
+     <string name="remote_service_started">Cлужба запущена</string>
+     <string name="remote_service_stopped">Cлужба зупинена</string>
 </resources>

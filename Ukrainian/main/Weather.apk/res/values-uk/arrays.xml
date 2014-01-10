@@ -1,298 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string-array name="act_weather_main_listview_json_key">
-        <item>wind1</item>
-        <item>紫外线指数</item>
-        <item>穿衣指数</item>
-        <item>舒适度指数</item>
-        <item>洗车指数</item>
-        <item>晾晒指数</item>
-        <item>晨练指数</item>
-        <item>旅游指数</item>
-     </string-array>
-     <string-array name="act_weather_main_listview_key">
-        <item>Wind speed:　　</item>
-        <item>UV index:　</item>
-        <item>Clothing index:</item>
-        <item>Comfort index:</item>
-        <item>Car wash index:</item>
-        <item>Drying index:</item>
-        <item>Morning excerise index:</item>
-        <item>Leisure index:</item>
-     </string-array>
-     <string-array name="send_item">
+     <array name="act_weather_main_listview_key">
+        <item>Швидкість вітру:　　</item>
+        <item>UV індекс:　</item>
+        <item>Індекс одягу:</item>
+        <item>Індекс комфортц:</item>
+        <item>Індекс миття машини:</item>
+        <item>Індекс вологості:</item>
+        <item>Індекс ранкових занять:</item>
+        <item>Індекс дозвілля:</item>
+     </array>
+     <array name="send_item">
         <item>SMS</item>
-        <item>Email</item>
-     </string-array>
-     <string-array name="weather_details_key">
-        <item>Temporarily unavaliable</item>
-        <item>Suitable</item>
-        <item>Good</item>
-        <item>Avoid if possible</item>
-        <item>Not recommended</item>
-        <item>Very suitable conditions</item>
-        <item>Moderate</item>
-        <item>Weak</item>
-        <item>Medium</item>
-        <item>Strong</item>
-        <item>Very strong</item>
-        <item>Cool</item>
-        <item>Comfortable</item>
-        <item>Very hot</item>
-        <item>Hot</item>
-        <item>Warm</item>
-        <item>Cool</item>
-        <item>Cooler</item>
-        <item>Cold</item>
-        <item>Freezing</item>
-        <item>Quite comfortable</item>
-        <item>Cozy</item>
-        <item>Not quite comfortable</item>
-        <item>Very uncomfortable - clear skies</item>
-        <item>Ver uncomfortable - cloudy skies</item>
-        <item>Not recommended - rain</item>
-        <item>Not recommended - sandstorm</item>
-        <item>Not recommended - snow</item>
-        <item>Relatively suitable conditions</item>
-        <item>Suitable conditions_clear skies</item>
-        <item>Suitable conditions_cloudy</item>
-        <item>Not very suitable</item>
-        <item>Perfect conditions</item>
-        <item>Not suitable conditions</item>
-        <item>Average conditions</item>
-     </string-array>
-     <string-array name="weather_image">
-        <item>Clear</item>
-        <item>Cloudy</item>
-        <item>Hazy</item>
-        <item>Foggy</item>
-        <item>Severe rainstorm</item>
-        <item>Rainstorm</item>
-        <item>Very heavy rainfall</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Rain</item>
-        <item>Drizzle</item>
-        <item>Sleet</item>
-        <item>Snowstorm</item>
-        <item>Patches of snowfall</item>
-        <item>Heavy snowfall</item>
-        <item>Snowfall</item>
-        <item>Light snowfall</item>
-        <item>Strong sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Light sandstorm</item>
-        <item>Sandstorm</item>
-        <item>Hail</item>
+        <item>E-mail</item>
+     </array>
+     <array name="weather_image">
+        <item>Чисто</item>
+        <item>Хмарно</item>
+        <item>Хмарность</item>
+        <item>Туман</item>
+        <item>Сильна гроза</item>
+        <item>Гроза з сильним проливним дощем</item>
+        <item>Гроза</item>
+        <item>T-Гроза</item>
+        <item>Злива</item>
+        <item>Сильна злива</item>
+        <item>Дощ</item>
+        <item>Мряка</item>
+        <item>Дощ з снігом</item>
+        <item>Завірюха</item>
+        <item>Снігопад</item>
+        <item>Сильний снігопад</item>
+        <item>Сніг</item>
+        <item>Сніг</item>
+        <item>Сильна пилова буря</item>
+        <item>Пилова буря</item>
+        <item>Пил</item>
+        <item>Піщана буря</item>
+        <item>Град</item>
         <item>Floating Dust</item>
-        <item>Haze</item>
-     </string-array>
-     <string-array name="weather_image_tips">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>"It's raining heavily, so remember to bring an umbrella and if you have, wear rainboots too."</item>
-        <item>"It's raining heavily, so remember to bring an umbrella and if you have, wear rainboots too."</item>
-        <item>"It's raining heavily, so remember to bring an umbrella and if you have, wear rainboots too."</item>
-        <item>If you are coming out, remember to bring an umbrella!</item>
-        <item>If you are coming out, remember to bring an umbrella!</item>
-        <item>The weather forecasts heavy rains; remember to bring an umbrella and not catch a cold.</item>
-        <item>"It's going to rain today, remember to bring an umbrella!"</item>
-        <item>"It's drizzling outside, recommend to bring an umbrella!"</item>
-        <item>"It's rainy and snowy outside, recommend to bring an umbrella! It's also cold out, so make sure you wear proper clothing."</item>
-        <item>"It's snowing heavily, remember to wear a hat and scarf!"</item>
-        <item>"It's forcasted to snow today, remember to bring a hat and scarf."</item>
-        <item>"It's snowing a lot, remember to wear a hat and scarf!"</item>
-        <item>"It's snowing quite a bit, remember to wear a hat and scarf!"</item>
-        <item>There is a light snowfall, so remember to wear a hat and scarf.</item>
-        <item>There is a very strong sandstorm. Recommend to wear a hat and mask.</item>
-        <item>"It's raining quite a bit, remember to bring an umbrella."</item>
-        <item>There is a sandstorm, it is recommended to bring a hat and mask.</item>
-        <item>There is a sandstorm, it is recommended to bring a hat and mask.</item>
-        <item>"It's not everyday you see hail, remember to walk carefully!"</item>
-     </string-array>
-     <string-array name="weather_info_comfort">
-        <item>0</item>
-        <item>Comfort index update is temporarily unavaliable, please check back later.</item>
-        <item>20</item>
-        <item>Temperatures are stable and quite comfortable</item>
-        <item>21</item>
-        <item>"Today's weather is not too hot or cold nor too windy. It should be relatively cool and comfortable."</item>
-        <item>22</item>
-        <item>The range in temperature today may cause les comfortable weather conditions.</item>
-        <item>23</item>
-        <item>Clear skies but the temperature is not ideal. You may feel uncomfortable.</item>
-        <item>24</item>
-        <item>It is cloudy out with hot tempuratures and high humidity, you will feel very hot and uncomfortable.</item>
-     </string-array>
-     <string-array name="weather_info_dress">
-        <item>0</item>
-        <item>Clothing index update is temporarily unavaliable, please check back later.</item>
-        <item>11</item>
-        <item>It is recommended to wear a light jacket.</item>
-        <item>12</item>
-        <item>It is recommended to wear a light jacket.</item>
-        <item>13</item>
-        <item>It is hot out, recommend to wear summer clothing.</item>
-        <item>14</item>
-        <item>It is pretty hot out and recommend to wear summer apparel.</item>
-        <item>15</item>
-        <item>It is warm out and recommended to wear spring or autumn apparel.</item>
-        <item>16</item>
-        <item>The weather is getting cooler, recommend to wear spring or autumn apparel.</item>
-        <item>17</item>
-        <item>The weather is getting quite cool now, it is recommended to wear warmer apparel such as a thicker jacket for Spring or Autumn.</item>
-        <item>18</item>
-        <item>The weather is cold, it is recommended to wear appropriate winter apparel.</item>
-        <item>19</item>
-        <item>The weather is freezing, it is recommended to wear appropriate winter apparel.</item>
-     </string-array>
-     <string-array name="weather_info_fl">
-        <item></item>
-        <item>"It's windy today so please wear appropriate apparel."</item>
-        <item>微风</item>
-        <item>Breezy weather outside, recommended to go outdoors and relax for a bit.</item>
-        <item>暂缺</item>
-        <item>Wind index is temporarily unavaliable, please check back later.</item>
-     </string-array>
-     <string-array name="weather_info_hung">
-        <item>0</item>
-        <item>Drying index update is temporarily unavaliable, please check back later.</item>
-        <item>28</item>
-        <item>Sunny weather but the temperatures are cool. However, the sun will warm in the afternoon and allow for your clothes to dry quickly.</item>
-        <item>29</item>
-        <item>Clear skies and adequate sunlight allows for clothes to dry quickly.</item>
-        <item>30</item>
-        <item>Cloudy but with the hot temperatures, clothes will still dry.</item>
-        <item>1</item>
-        <item>The weather is good and suitable for drying clothes.</item>
-        <item>3</item>
-        <item>Patches of rain may get your clothes wet. If your drying your clothes, pay attention to the weather changes.</item>
-        <item>5</item>
-        <item>Clear skies and adequate sunlight allow for good drying conditions.</item>
-        <item>4</item>
-        <item>Clothes should not be dried outside due to the rain. Recommended to dry your clothes indoors.</item>
-        <item>31</item>
-        <item>Clothes should not be dried outside due to the rain. Recommended to dry your clothes indoors.</item>
-     </string-array>
-     <string-array name="weather_info_msport">
-        <item>0</item>
-        <item>Morning excercise index update is temporarily unavaliable, please check back later.</item>
-        <item>1</item>
-        <item>With sunny skies and fresh air, it is great time to go do your morning excercise. Appropriate weather for all age.</item>
-        <item>2</item>
-        <item>Morning weather is good for moring excerise. Recommend to wear warmer clothing and be in more sheltered areas during windy periods to prevent catching a cold.</item>
-        <item>3</item>
-        <item>There will be drastic weather change this morning, so it is recommended to not excercise or shorten excercise time. Wear appropriate gear.</item>
-        <item>4</item>
-        <item>The weather is bad this morning so it is recommended to do your exercise indoors.</item>
-     </string-array>
-     <string-array name="weather_info_travel">
-        <item>0</item>
-        <item>Leisure index update is temporarily unavaliable, please check back later.</item>
-        <item>32</item>
-        <item>Clear and sunny weather with good temperatures. Weather is recommended for leisure and outdoor activities.</item>
-        <item>2</item>
-        <item>Mild and stable temperatures makes for favorable leisure and outdoor activity conditions.</item>
-        <item>1</item>
-        <item>Mild and stable temperatures makes for favorable leisure and outdoor activity conditions.</item>
-        <item>3</item>
-        <item>The weather will change quite a bit today and it is recommended to stay indoors.</item>
-        <item>33</item>
-        <item>There will be drastic weather change and it is recommended to stay indoors.</item>
-        <item>34</item>
-        <item>Clear skies, mild temperatures with a bit of wind. Be aware of the windy periods while enjoy your leisure and outdoor activities.</item>
-     </string-array>
-     <string-array name="weather_info_uv">
-        <item>0</item>
-        <item>UV index update is temporarily unavaliable, please check back later.</item>
-        <item>6</item>
-        <item>The UV index indicates moderate intensity. It is recommended to put on sunscreen, hat and sunglasses when outdoors.</item>
-        <item>7</item>
-        <item>The UV index indicates weak intensity, so no extra protection is required. If you are outdoors for a long time, it is recommended to put on sunscreen with SPF 8-12.</item>
-        <item>8</item>
-        <item>The UV index indicates medium intensity, it is recommended to put on SPF of 12 - 15 sunblock and PA+ skin care product.</item>
-        <item>9</item>
-        <item>The UV index indicates strong intensity, it is recommended to put on SPF 20 sunblock and PA++ skin care product. Avoid the sun between 10:00 to 14:00.</item>
-        <item>10</item>
-        <item>The UV index indicates very strong intensity, it is recommended to put on SPF 20+ sunblock and PA++ skin care product. Avoid the sun if possible.</item>
-     </string-array>
-     <string-array name="weather_info_wcar">
-        <item>0</item>
-        <item>Car wash index update is temporarily unavaliable, please check back later.</item>
-        <item>1</item>
-        <item>Weather conditions are suitable for car wash today - good outdoor weather for a car wash and no rain is predicted for the next to days</item>
-        <item>2</item>
-        <item>Weather conditions are good for a car wash today - good outdoor weather for a car wash and no rain is predicted for the next day.</item>
-        <item>3</item>
-        <item>"If you don't need to wash the car, than don't. There will be scattered showers in the next 12 hours. If car is washed be prepared for it to get a bit dirty from puddles and mud on the road."</item>
-        <item>25</item>
-        <item>Weather is not suitable for a car wash today. It will rain in the next 24 hours and the mud on the road will get the car dirty again.</item>
-        <item>26</item>
-        <item>Weather is not suitable for a car wash today. There will be a sandstorm in the next 24 hours and the sand will get the car dusty.</item>
-        <item>27</item>
-        <item>Weather is not suitable for a car wash today. It will snow in the next 24 hours and the slush on the road will get the car dirty.</item>
-        <item>4</item>
-        <item>Weather is not suitable for a car wash today. Weather will change for the worse in the next 24 hours so your car may get dirty from the road conditions.</item>
-     </string-array>
-     <string-array name="weather_sms_addons">
-        <item>Today @ forecast $。</item>
-        <item>Temperature %。</item>
-        <item>Remember to bring an umbrella.</item>
-        <item>If your clothes got wet, remember to change and careful not to catch a cold :)</item>
-        <item>If your drying your clothes outside, remember to take them in later...</item>
-        <item>"If possibly, don't drive. Safety first."</item>
-        <item>Remember to drive safetly, and not to fast.</item>
-        <item>"Remember to be careful out there, it's slippery."</item>
-        <item>"Don't be too rush, careful not to fall."</item>
-        <item>Remember to be careful outside.</item>
-        <item>"If you don't need to go out today, then don't go out."</item>
-        <item>It is very sunny today, remember to bring sunscreen, wear sunglasses or bring an umbrella...</item>
-        <item>"It is very sunny today, if you don't need to go out, then don't go out today."</item>
-        <item>"It's windy out, remember to wear a jacket^^"</item>
-        <item>The air quality is bad today, if you have a mask, wear it.</item>
-        <item>When going out, remember to bring a jacket.</item>
-        <item>Remember to bring a hat and mask^^</item>
-        <item>Remember to bring gloves and hat.</item>
-        <item>"It's very hot out, drink more fluids but not a lot of icy drinks."</item>
-        <item>Make sure your room has ventilation, and the aircon is at low to prevent from getting sick!</item>
-        <item>Wear more to keep warm.</item>
-        <item>It will be cold for the next couple of days, remember to wear a bit more.</item>
-        <item>"Don't choose something that is trendy and thin :D"</item>
-        <item>I recently saw some ear muffs that are bad looking and seem warm. If you have a pair, wear one:)</item>
-        <item>"The weather isn't that bad, it isn't too sunny and you can go for a run."</item>
-        <item>Go for a run and get some sun :)</item>
-        <item>Can take the bed quilts out and dry them in the sun...</item>
-        <item>The weather is getting cool, remember to wear a jacket.</item>
-     </string-array>
-     <string-array name="weather_sms_content">
-        <item>A suitable amount of excerise and travel is recommended. Remember to wear sunscreen.</item>
-        <item>"It will be cloudy but it won't rain today."</item>
-        <item>The weather will get worse, it is not recommended to stay indoors for a while.</item>
-        <item>When going outside, please pay attention to the traffic. If driving, please drive safetly :)</item>
-        <item>"It's raining heavily, remember to bring an umbrella, and if you have, wear rainboots too."</item>
-        <item>"It's raining heavily, remember to bring an umbrella, and if you have, wear rainboots too."</item>
-        <item>"It's raining heavily, remember to bring an umbrella, and if you have, wear rainboots too."</item>
-        <item>When going out, be mindful of the rain and bring an umbrella!</item>
-        <item>When going out, be mindful of the rain and bring an umbrella!</item>
-        <item>"It's raining heavily, remember to bring an umbrella and not catch a cold^^"</item>
-        <item>"It's raining quite a bit, remember to bring an umbrella!"</item>
-        <item>"It's drizzling outside, recommend to bring an umbrella!"</item>
-        <item>"It's a snowy-rainy day, it is recommended to bring an umbrealla! Also remember to wear proper clothing."</item>
-        <item>"It's snowing heavily, remember to wear a hat and scarf!"</item>
-        <item>It will snow today, so remember to bring a hat and scarf.</item>
-        <item>"It's snowing heavily, remember to wear a hat and scarf!"</item>
-        <item>"It's snowing quite a bit, remember to wear a hat and scarf!"</item>
-        <item>"It's snowing, remember to wear a hat and scarf!"</item>
-        <item>The sandstorm is very strong, it is recommeded to wear a hat and mask.</item>
-        <item>The sandstorm is strong, it is recommended to wear a hat and mask.</item>
-        <item>There is a sandstorm, it is recommended to bring a hat and mask.</item>
-        <item>There is a sandstorm, it is recommended to bring a hat and mask.</item>
-        <item>"It's not everyday you see hail, remember to walk carefully!"</item>
-        <item>There is a floating dust, it is recommended to bring a hat and mask.</item>
-        <item>There is a haze, it is not recommended to stay indoors for a while.</item>
-     </string-array>
+     </array>
 </resources>

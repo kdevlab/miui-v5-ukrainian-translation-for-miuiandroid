@@ -12,14 +12,13 @@
      <string name="credential_password">Введіть пароль для вилучення сертифікатів</string>
      <string name="extracting_pkcs12">Витяг...</string>
      <string name="generic_no_cert_file_found">Файл сертифікату не знайдений.</string>
-     <string name="generic_sdcard_not_present">Карта пам\'яті відсутня.</string>
+     <string name="generic_sdcard_not_present">"Карта пам\'яті відсутня."</string>
      <string name="invalid_cert">Сертифікат недійсний</string>
      <string name="n_cacrts">Сертифікатів центру сертифікації: %d</string>
      <string name="name_char_error">"Назва повинна складатися з букв і цифр"</string>
      <string name="name_credential_dialog_title">Вкажіть назву сертифікату</string>
      <string name="name_empty_error">Введіть назву</string>
      <string name="no_cert_file_found">На SD-карті відсутній файл сертифіката</string>
-     <string name="no_cert_file_found_sd">На SD-карті відсутній файл сертифіката</string>
      <string name="no_cert_to_saved">Відсутній сертифікат для встановлення</string>
      <string name="one_cacrt">один сертифікат центру сертифікації</string>
      <string name="one_usercrt">один користувацький сертифікат</string>
@@ -34,7 +33,6 @@
      <string name="pkcs12_file_password_dialog_title">Витяг з %s</string>
      <string name="pkcs12_password_dialog_title">Витяг сертифікату</string>
      <string name="sdcard_not_present">SD-карта відсутня</string>
-     <string name="sdcard_not_present_sd">SD-карта відсутня</string>
      <string name="storage_error">Не вдається зберегти сертифікат. Натисніть ОК і повторіть спробу</string>
      <string name="unable_to_save_cert">Не вдається зберегти сертифікат. Сховище реєстраційних даних не включено або некоректно ініціалізоване</string>
 </resources>

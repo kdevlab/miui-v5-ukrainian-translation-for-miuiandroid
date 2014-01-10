@@ -85,6 +85,10 @@
      <string name="HIPS_Perm_CallLog_Hint">%1$s програми, що мають доступ до вашого журналу викликів</string>
      <string name="HIPS_Perm_CallMonitor">Управління викликами</string>
      <string name="HIPS_Perm_CallMonitor_Desc">Управління вхідними та вихідними викликами, контроль гучності, і т.д.</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: %1$s додаткам дозволено відслідковувати вхідні та вихідні виклики, контролювати гучність виклику: %1$s -->
      <string name="HIPS_Perm_CallMonitor_Hint">%1$s програми які мають доступ до управління вашими вхідними та вихідними викликами, контролем гучності</string>
      <string name="HIPS_Perm_CallState">Стан телефону</string>
      <string name="HIPS_Perm_CallState_Desc">Отримати стан телефону</string>

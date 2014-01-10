@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="author">Google</string>
      <string name="vis2_desc">Малює форму звуку відтвореного треку</string>
      <string name="vis3_desc">Частотний спектр відтвореного треку</string>

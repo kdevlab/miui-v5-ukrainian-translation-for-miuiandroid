@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="powermanage_entries">
-        <item>Тільки набір номеру</item>
-        <item>Заощадження енергії</item>
-        <item>Нормальний</item>
-        <item>Продуктивність</item>
-        <item>Супер продуктивність</item>
-    </string-array>
-    <string-array name="lowmem_entries">
+     <string-array name="lowmem_entries">
         <item>За замовчуванням</item>
         <item>Агресивний</item>
         <item>Збалансований</item>
         <item>Мультизадачный</item>
         <item>Ігровий</item>
-    </string-array>
+     </string-array>
+     <string-array name="powermanage_entries">
+        <item>Тільки набір номеру</item>
+        <item>Заощадження енергії</item>
+        <item>Нормальний</item>
+        <item>Продуктивність</item>
+        <item>Супер продуктивність</item>
+     </string-array>
 </resources>
-

@@ -75,8 +75,9 @@
         <item>Будильник</item>
      </string-array>
      <string-array name="reminder_minutes_labels">
-        <item>0 хвилин</item>
-        <item>через 1 хвилину</item>
+        <item>нічого</item>
+        <item>одразу</item>
+        <item>за 1 хвилину</item>
         <item>за 5 хвилин</item>
         <item>за 10 хвилин</item>
         <item>за 15 хвилин</item>
@@ -84,13 +85,13 @@
         <item>за 25 хвилин</item>
         <item>за 30 хвилин</item>
         <item>за 45 хвилин</item>
-        <item>за 1 годину</item>
+        <item>за 1 година</item>
         <item>за 2 години</item>
         <item>за 3 години</item>
-        <item>через 12 годин</item>
-        <item>через 24 години</item>
-        <item>через 2 дні</item>
-        <item>через 1 тиждень</item>
+        <item>за 12 годин</item>
+        <item>за 24 години</item>
+        <item>за 2 доби</item>
+        <item>за 1 тиждень</item>
      </string-array>
      <string-array name="response_labels1">
         <item>Немає відповідей</item>
@@ -188,5 +189,9 @@
         <item>За замовчуванням</item>
         <item>Закрите</item>
         <item>Для всіх</item>
+     </string-array>
+     <string-array name="widget_style_list">
+        <item>Прозорий</item>
+        <item>Білий</item>
      </string-array>
 </resources>

@@ -21,6 +21,8 @@
      <string name="default_folder_title_recommend">Рекомендовані</string>
      <string name="default_folder_title_security">Безпека</string>
      <string name="default_folder_title_tools">Інструменти</string>
+     <string name="default_name">По умолчанию</string>
+     <string name="default_shortcut_title_10086">Мобильный портал</string>
      <string name="edit_folder_title">Змінення</string>
      <string name="editing_tips">Додати чи змінити віджет</string>
      <string name="emptyplaylist">Плейлист порожній</string>
@@ -64,8 +66,6 @@
      <string name="gadget_weather_loading">Немає даних про погоду</string>
      <string name="gadget_weather_low_temp">Мін.</string>
      <string name="gadget_weather_theme_type">Тип віджета</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="gadget_weather_time_format">EEE, d.MM</string>
      <string name="gadget_weather_title_14">Погода 1X4</string>
      <string name="gadget_weather_title_24">Погода 2X4</string>
      <string name="global_search_hint">Натисніть, щоб відкрити пошук</string>
@@ -78,6 +78,7 @@
      <string name="install">Встановити</string>
      <string name="invalid_contact_shortcut">Неприпустимий ярлик</string>
      <string name="loading_desktop">Оновлення робочого столу...</string>
+     <string name="maml_component_customization_title">Настройки</string>
      <string name="menu_add">Додати</string>
      <string name="menu_back_desktop">Додому</string>
      <string name="menu_customize">Налаштування</string>
@@ -123,6 +124,7 @@
      <string name="preferences_general_title">Основні налаштування</string>
      <string name="preferences_title">Параметри робочого столу</string>
      <string name="reset_scene_prompt">Розміщення іконок на вільному робочому столі буде скинуто до стандартного</string>
+     <string name="resource_select">Выбрать</string>
      <string name="screen_button_disabled_message">Кнопки внизу екрану відключені. Ви можете включити їх знову, натиснувши клавіші \"Додому\" та \"Живлення\".</string>
      <string name="screen_button_enabled_message">Кнопки на нижній частині екрана включені</string>
      <string name="screen_rotation_freeze_message">Поворот екрану заблокований в ландшафтному режимі</string>
@@ -184,7 +186,6 @@
      <string name="uninstall_dialog_title_format">Видалити \"%s\"?</string>
      <string name="unknown_artist_name">Невідомий артист</string>
      <string name="unnamed_folder_name">Папка</string>
-     <string name="wallpaper_scrolling">всі</string>
      <string name="widget_favorite_contacts_edit">Змінити</string>
      <string name="widget_favorite_contacts_label">Контакти</string>
      <string name="widget_favorite_contacts_style">Вигляд</string>

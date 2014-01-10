@@ -12,7 +12,7 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 0
 	%d: 0 must: 1 -->
-     <!-- Original string: Запись вызова (%d) -->
+     <!-- Original string: Записи викликів (%d) -->
      <string name="call_record">Запис виклику</string>
      <string name="call_record_or">або</string>
      <string name="default_record_name">Аудіозапис</string>
@@ -20,6 +20,7 @@
      <string name="delete_dialog_message">Ви дійсно хочете видалити поточний запис?</string>
      <string name="deleting_message">Видалення...</string>
      <string name="dialog_content_storage_full">Через брак місця для збереження, запис був зупинений. Відкрити файловий менеджер для очищення непотрібних файлів?</string>
+     <string name="dialog_delete">Видалити</string>
      <string name="dialog_play">Грати</string>
      <string name="dialog_send">Відправити</string>
      <string name="dialog_title_storage_full">Місце для збереження заповнено</string>
@@ -29,30 +30,47 @@
      <string name="duration_format_second">%sс</string>
      <string name="error_app_internal">Внутрішня помилка програми</string>
      <string name="error_app_internal_title">Помилка диктофону</string>
+     <string name="error_filename_illegal_char">Имя файла содержит недопустимые символы</string>
      <string name="error_filename_too_long">Занадто довга назва файлу</string>
      <string name="error_mediadb_new_record">Неможливо зберегти записаний звук</string>
      <string name="error_sdcard_access">Не вдалося отримати доступ до SD-карти</string>
      <string name="fm_record">Запис радіо (%d)</string>
      <string name="hour">%d годин</string>
      <string name="insert_sd_card">Вставте SD-карту</string>
+     <string name="loading_duration">Загружается продолжительность...</string>
      <string name="low_battery_error">Акумулятор телефону заряджений менш, ніж 5%. Для того, щоб не втратити запис, він був зупинений і збережений. Несподіване відключення може призвести до втрати запису, рекомендується записувати при повній зарядці.</string>
      <string name="low_battery_message_title">Низький заряд батареї</string>
      <string name="low_battery_warning">Несподіване відключення може призвести до втрати запису. Рекомендується записувати при повній зарядці.</string>
      <string name="mark_now">(Зараз)</string>
      <string name="max_length_reached">Досягнута максимальна довжина</string>
+     <string name="menu_setting">Настройки</string>
      <string name="menu_settings">Налаштування</string>
      <string name="menu_view_record_list">Відкрити список записів</string>
      <string name="message_file_size_error">Запис досягyed максимальної довжини (%s)</string>
      <string name="minute">%d хвилин</string>
+     <string name="miui_preiew_list_actionmode_title">Обрано: %d</string>
      <string name="no_file">Немає записів</string>
      <string name="notification_playback">Відтворення...</string>
+     <string name="notification_playback_paused">Воспроизведение остановлено...</string>
      <string name="notification_recording">Запис</string>
      <string name="notification_stopped">Запис зупинено</string>
      <string name="notification_warning">Мало місця (менше ніж на %d хвилин)...</string>
      <string name="open_file_explorer">Відкрити Файли</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Запис з таким іменем вже існує. Перезаписати? -->
      <string name="overwrite_dialog_message">%s вже існує. Ви хочете перезаписати його?</string>
      <string name="pause">пауза</string>
      <string name="play_record">програти</string>
+     <string name="prefDialogTitle_recordType">Выберите тип файла</string>
+     <string name="pref_summary_enable_high_quality">Аудио с высоким качеством будет большего размера</string>
+     <string name="pref_summary_enable_sound_effect">Использовать звуковые эффекты при изменении состояния диктофона</string>
+     <string name="pref_title_enable_high_quality">Высокое качество</string>
+     <string name="pref_title_enable_sound_effect">Звуковые эффекты</string>
+     <string name="pref_title_record_type">Тип файлу</string>
+     <string name="preference_enable_earpiece_summary">Использовать приемник для внешнего воспроизведения аудио</string>
+     <string name="preference_enable_earpiece_title">Использовать приемник</string>
      <string name="preference_led_indicator">Індикатор запису</string>
      <string name="preference_led_indicator_prompt">Блимати світлодіодом при записі в заблокованому режимі</string>
      <string name="preference_record_scenes_dialog_title">Вибір режима запису</string>
@@ -60,6 +78,9 @@
      <string name="preference_record_type_title">Тип запису</string>
      <string name="preference_scenes">Режим запису</string>
      <string name="preference_silent_mode">Запис у режимі \"Без звуку\"</string>
+     <string name="preference_silent_mode_summary">Нажмите для включения режима без звука во время записи</string>
+     <string name="preferences_title">Настройки</string>
+     <string name="preparing_playback">Загрузка записей...</string>
      <string name="record_list">Список записів</string>
      <string name="record_loading">Завантаження записів, будь ласка, зачекайте.</string>
      <string name="record_picker_title">Виберіть запис</string>
@@ -83,6 +104,7 @@
      <string name="stop_recording">зупинка запису</string>
      <string name="storage_is_full">SD-карта заповнена</string>
      <string name="toast_max_record_time">Додаток: %1$s максимально підтримує %2$s записів вкладення</string>
+     <string name="toast_uninstall_fileexplorer">Менеджер Файлов не установлен</string>
      <string name="unknown_caller">Невідомий виклик</string>
      <string name="view_list_of_recordings">перегляд спуску записів</string>
 </resources>

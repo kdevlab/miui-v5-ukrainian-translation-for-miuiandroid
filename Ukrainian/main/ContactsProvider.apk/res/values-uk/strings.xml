@@ -13,6 +13,7 @@
      <string name="read_write_all_voicemail_label">Доступ до всієї голосової пошти</string>
      <string name="send_sms">Надіслати повідомлення</string>
      <string name="sharedUserLabel">Програми ядра Android</string>
+     <string name="third_party_delete_contact_info">Приложение \"%s\" удалит ваши контакты. Пожалуйста, используйте стандартное приложение \"Контакты\" для безопасности.</string>
      <string name="upgrade_msg">Оновлення бази контактів</string>
      <string name="upgrade_out_of_memory_notification_text">Виберіть для поновлення контакту</string>
      <string name="upgrade_out_of_memory_notification_ticker">"Для поновлення контакту потрібно більше пам'яті"</string>

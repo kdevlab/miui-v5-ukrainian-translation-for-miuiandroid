@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="app_name">Блокування</string>
+     <string name="app_name">Блокування</string>
 </resources>

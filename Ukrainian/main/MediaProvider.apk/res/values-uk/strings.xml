@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="Add_More_Ringtones">Больше мелодий...</string>
      <string name="app_label">Сховище мультимедіа</string>
      <string name="artist_label">Виконавець</string>
      <string name="uid_label">Мультимедіа</string>

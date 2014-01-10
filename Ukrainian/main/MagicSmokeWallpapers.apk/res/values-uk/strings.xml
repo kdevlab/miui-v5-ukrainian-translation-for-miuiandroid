@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="author">Google</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="taptochange">Натисніть на екран для зміни</string>
      <string name="wallpaper_magicsmoke">Чарівний дим</string>

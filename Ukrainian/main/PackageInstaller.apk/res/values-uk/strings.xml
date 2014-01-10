@@ -36,6 +36,7 @@ Sure to install?"</string>
      <string name="install_failed_invalid_apk">Файл пошкоджений</string>
      <string name="install_failed_msg">Встановити програму %1$s не вдалося</string>
      <string name="install_failed_older_sdk">Цей пакет підтримується тільки в системі Android більш пізніших версій</string>
+     <string name="install_failed_system_incompatible">Это приложение не совместимо с системой MIUI.</string>
      <string name="install_failed_verify_failed">Пакет не перевірений і не може бути встановлений</string>
      <string name="install_failed_verify_timeout">Не вдалося перевірити пакет. Спробуйте встановити його пізніше</string>
      <string name="installing">Встановлення програми...</string>
@@ -82,4 +83,8 @@ Sure to install?"</string>
      <string name="unknown_apps_dlg_text">З міркувань безпеки на вашому телефоні заблоковано встановлення програм, отриманих не з Google Play</string>
      <string name="unknown_apps_dlg_title">Встановлення заблоковано</string>
      <string name="unknown_installer">Невідомий інсталятор</string>
+     <string name="virus_scan_clear">Видалити</string>
+     <string name="virus_scan_install">" <u>Продолжить установку</u> "</string>
+     <string name="virus_scan_is_risk">Я понимаю опасность, продолжить установку.</string>
+     <string name="virus_scan_is_virus">Это приложение содержит вирус, рекомендуется его удалить!</string>
 </resources>

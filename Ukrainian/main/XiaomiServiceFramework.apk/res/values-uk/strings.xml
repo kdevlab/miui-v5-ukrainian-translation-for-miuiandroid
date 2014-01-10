@@ -10,12 +10,48 @@
      <string name="account_hint_text">Електронна пошта</string>
      <string name="account_name">Обліковий запис: %1$s</string>
      <string name="activate_phone_failed_notif_title">Помилка включення служб MiCloud</string>
+     <string name="activate_phone_failed_notif_title_msim">Ошибка активации сервисов MiCloud для SIM карты %s</string>
      <string name="activate_phone_send_sms_fail">Помилка відправки SMS активації - не можливо включити службу синхронізації</string>
      <string name="activate_phone_send_sms_failed_notif">Помилка відправки активації через SMS</string>
      <string name="activate_phone_server_error">Помилка сервера - не можливо включити сервіс синхронізації</string>
      <string name="activate_phone_server_error_notif">Помилка сервера</string>
+     <string name="activate_status_desc_acquire_phone_number">Получение номера телефона с сервера</string>
+     <string name="activate_status_desc_acquire_phone_number_server_error">Произошла ошибка сервера при получении номера</string>
+     <string name="activate_status_desc_acquire_phone_number_server_error_wait">Произошла ошибка сервера при получении номера. Ожидания повтора...</string>
+     <string name="activate_status_desc_acquire_phone_number_server_io_error">Произошла ошибка ввода/вывода при получении номера</string>
+     <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Произошла ошибка ввода/вывода при получении номера. Ожидания повтора...</string>
+     <string name="activate_status_desc_acquire_phone_number_server_no_info">Не удается получить номер телефона</string>
+     <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Не удается получить номер телефона. Ожидания повтора...</string>
+     <string name="activate_status_desc_acquire_sim_pass_token">Получение сведений безопасности с сервера</string>
+     <string name="activate_status_desc_acquire_sim_pass_token_password_error">Не удается получить сведения безопасности через неверный пароль</string>
+     <string name="activate_status_desc_acquire_sim_pass_token_server_error">Произошла ошибка сервера при получении сведений</string>
+     <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">Произошла ошибка сервера при получении сведений. Ожидания повтора...</string>
+     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">Произошла ошибка ввода/вывода при получении сведений</string>
+     <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Произошла ошибка ввода/вывода при получении сведений. Ожидания повтора...</string>
+     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Не удается получить сведения безопасности</string>
+     <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Не удается получить сведения безопасности. Ожидания повтора...</string>
+     <string name="activate_status_desc_acquire_sim_user_id">Получение информации о регистрации с сервера</string>
+     <string name="activate_status_desc_acquire_sim_user_id_server_error">Произошла ошибка сервера при получении информации</string>
+     <string name="activate_status_desc_acquire_sim_user_id_server_error_wait">Произошла ошибка сервера при получении информации. Ожидания повтора...</string>
+     <string name="activate_status_desc_acquire_sim_user_id_server_io_error">Произошла ошибка ввода/вывода при получении информации</string>
+     <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Произошла ошибка ввода/вывода при получении информации. Ожидания повтора...</string>
+     <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Не удается получить информацию</string>
+     <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Не удается получить информацию. Ожидания повтора...</string>
+     <string name="activate_status_desc_failed_getting_device_info">Не удалось получить информацию об устройстве</string>
+     <string name="activate_status_desc_failed_getting_gateway">Ошибка получения SMS шлюза</string>
+     <string name="activate_status_desc_failed_getting_sim_info">Ошибка получения информации SIM карты</string>
+     <string name="activate_status_desc_getting_device_info">Получение информации об устройстве</string>
+     <string name="activate_status_desc_getting_gateway">Получение SMS шлюза</string>
+     <string name="activate_status_desc_getting_sim_info">Получение информации SIM карты</string>
+     <string name="activate_status_desc_prepare_sending_sms">Подготовка к отправке сообщения для активации шлюза</string>
+     <string name="activate_status_desc_sending_sms">Отправка сообщения для активации шлюза</string>
+     <string name="activate_status_desc_sim_absent">SIM карта отсутствует</string>
+     <string name="activate_status_desc_sms_sent">Сообщение удачно отправлено</string>
+     <string name="activate_status_title_activating">Активация SIM карты</string>
+     <string name="activate_status_title_activating_msim">Активация SIM карты %s</string>
      <string name="activating">Активація...</string>
      <string name="add_weibo_account">Додати облік. запис</string>
+     <string name="alert_notif_title_dspt">Вы можете восстановить синхронизацию для обеспечения безопасности данных</string>
      <string name="alert_title_remove_account">Видалити облік. запис</string>
      <string name="app_name">Менеджер облік. записів Xiaomi</string>
      <string name="available_functionality">Доступні функції</string>
@@ -48,7 +84,6 @@
      <string name="bankcall_province">Провінція</string>
      <string name="bankcall_saved_card_info">%1$s - закінчується %2$s</string>
      <string name="bankcall_saved_phone">Номер телефону: %1$s</string>
-     <string name="bankcall_xiaomi_company">Корпорація Xiaomi</string>
      <string name="bind_sina_weibo">"Прив\’язати Sina WeiBo"</string>
      <string name="bind_weibo_description">Знайти, телефонні контакти, мікроблоги, друзів, додаткову інформацію, таку як аватар, день народження тощо</string>
      <string name="binded">"Прив\'язано"</string>
@@ -79,9 +114,11 @@
      <string name="button_pay">Оплатити</string>
      <string name="button_recharge">Поповнити</string>
      <string name="button_retry">Повторити</string>
+     <string name="captcha">Код на рисунке</string>
      <string name="check_phone_error_title">Помилка синхронізації</string>
      <string name="check_phone_io_error">Помилка мережі</string>
      <string name="checking_account">Перевірка облік. запису...</string>
+     <string name="checking_input">Проверка данных...</string>
      <string name="cloud_messaging">MiCloud повідомлення</string>
      <string name="cmcc_data_sync_notice">Використовуйте свій аккаунт Xiaomi, щоб синхронізувати повідомлення, контакти та інші дані. Тим часом, насолодитеся хмарних сервісів.</string>
      <string name="cmcc_micloud_dspt">Хмарні сервіси включають мобільну синхронізацію, виявлення пристроїв та інші функції. Ви також можете керувати своїми даними онлайн в будь-який час!</string>
@@ -91,11 +128,17 @@
      <string name="data_keep_in_phone">Залишити на моєму пристої</string>
      <string name="data_sync_notice">Використовувати обліковий запис Xiaomi для синхронізації повідомлень, контактів та інших даних</string>
      <string name="data_wipe_from_phone">Видалити з мого пристрою</string>
+     <string name="dirty_contacts_count">Контактов: %d</string>
+     <string name="dirty_mms_count">Сообщений: %d</string>
+     <string name="dirty_note_count">Нотаток: %d</string>
      <string name="disable_find_device_error">%1$s, помилка вимкнення функції пошуку пристрою</string>
      <string name="disable_micloud"><u>Не включати MiCloud</u></string>
      <string name="email_already_be_used">Ця адреса пошти вже використовується</string>
+     <string name="enableAll">Включить все</string>
      <string name="enable_find_device_error">%1$s, помилка увімкнення функції пошуку пристрою</string>
      <string name="enable_micloud">Включити хмарні служби</string>
+     <string name="enable_sync">Включити</string>
+     <string name="enable_sync_dspt">Синхронизация отключена</string>
      <string name="error_account_changed_summary">Ваш облік. запис змінився. Будь ласка, перевірте й запустіть знову</string>
      <string name="error_account_changed_title">Облік. запис змінено</string>
      <string name="error_auth_summary">Помилка аутентифікації облік. запису. Будь ласка, спробуйте ще раз</string>
@@ -128,10 +171,11 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Неизвестная ошибка -->
+     <!-- Original string: Невідома помилка. -->
      <string name="error_unknown">Помилка: %1$s</string>
      <string name="error_user_id_mismatch_summary">Будь ласка, перевірте налаштування облік. запису й спробуйте ще раз</string>
      <string name="error_user_id_mismatch_title">Помилка аутентифікації!</string>
+     <string name="error_user_name">Неверное имя пользователя.</string>
      <string name="error_verify_summary">Додаток не має дозволу на запит цього сервісу</string>
      <string name="error_verify_title">Немає доступу</string>
      <string name="failed_to_send_activate_email">Неможливо відправити активацію по пошті</string>
@@ -151,7 +195,6 @@
      <string name="frozen">(Заморожений)</string>
      <string name="get_back_pwd">Отримати пароль облікового запису</string>
      <string name="giftcard_acitivity_and_denomination">%2$s-MiCredit подарунковий сертифікат для %1$s</string>
-     <string name="giftcard_denom">MiCredit(и)</string>
      <string name="giftcard_denom_available">MiCredit(и) доступні</string>
      <string name="giftcard_denom_frozen">MiCredit(и) заморожені</string>
      <string name="giftcard_empty">Немає подарункових сертифікатів</string>
@@ -161,180 +204,29 @@
      <string name="giftcard_record">MiCredit отримано</string>
      <string name="giftcard_value">(%1$s-MiCredit подпрунковий сертифікат)</string>
      <string name="header_data_and_synchronization">Дані й синхронізація</string>
-     <string name="hfb_app_name">话付宝</string>
-     <string name="hfb_dialog_exit_content">交易尚未完成，确定放弃交易？</string>
-     <string name="hfb_fail_label">购买失败</string>
-     <string name="hfb_fail_result">"此手机号码暂时无法完成支付，请稍后再试或使用其他支付方式购买，感谢您的支持！
-客服电话：4006125880"</string>
-     <string name="hfb_goods_price_value_format">&lt;font color=red>%1$s&lt;/font>(不含通信费)</string>
-     <string name="hfb_network_progress">正在请求订单，请保持网络通畅</string>
-     <string name="hfb_order_confirm">确认支付</string>
-     <string name="hfb_order_pay">订单支付</string>
-     <string name="hfb_return">返 回</string>
-     <string name="hfb_sms1_progress_label">正在以短信提交订单，请稍候......</string>
-     <string name="hfb_sms2_progress_label">正在以短信形式确认支付，请稍候......</string>
-     <string name="hfb_sms_error">短信发送失败！</string>
-     <string name="hfb_sms_pay">您的订单已提交，点击“确认支付”即同意再次向10658008发送短信以完成购买。</string>
-     <string name="hfb_succ_label">购买成功</string>
-     <string name="hfb_succ_result">"感谢您使用通信账户支付服务。
-购买【%1$s】费用为【%2$s元】
-客服电话：%3$s"</string>
-     <string name="hfb_trans_error_label">未查到支付结果，请保持网络通畅</string>
-     <string name="hfb_trans_result_progress_label">正在查询支付结果....</string>
-     <string name="hfb_umpay_info">* 10658008是中国移动通信账户支付专用短信特服号码</string>
-     <string name="hfb_upgrade_download_fail">新版本下载失败，请稍后再试.</string>
-     <string name="hfb_upgrade_download_sucess">新版本下载成功,开始安装.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="i_know">OK</string>
+     <string name="input_captcha_hint">Ввод кода с рисунке</string>
      <string name="input_password_hint">Введіть пароль</string>
+     <string name="input_vcode_hint">Введите проверочный код</string>
+     <string name="input_vcode_prompt">Введите проверочный код</string>
      <string name="int_phone_user_notice">При авторизації в Xiaomi обліковому записі за допомогою мобільного номеру, вказуйте код країни. Наприклад: +380xxxxxxxxx</string>
      <string name="internet_comm">Служба повідомлень</string>
      <string name="internet_message">MiCloud повідомлення</string>
      <string name="label_order_name">"Продукт: "</string>
      <string name="label_order_price">"Ціна: "</string>
-     <string name="linkpay_account">卡号:</string>
-     <string name="linkpay_account_cannot_be_null">账号不能为空</string>
-     <string name="linkpay_achieve_charge">完成充值</string>
-     <string name="linkpay_app_name">支付</string>
-     <string name="linkpay_back_game">返回游戏</string>
-     <string name="linkpay_cancel">取消</string>
-     <string name="linkpay_charge_account">充值账户:</string>
-     <string name="linkpay_charge_game">充值游戏</string>
-     <string name="linkpay_charge_money">充值金额:</string>
-     <string name="linkpay_charge_operating">充值操作</string>
-     <string name="linkpay_charge_platform">充值平台</string>
-     <string name="linkpay_china_unicom">中国联通</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="linkpay_china_unicom_english">China Unicom</string>
-     <string name="linkpay_china_unicom_sms_pay">联通短信支付</string>
-     <string name="linkpay_chinamobile">移动</string>
-     <string name="linkpay_chinatelecom">电信</string>
-     <string name="linkpay_chinaunicom">联通</string>
-     <string name="linkpay_choice_charge_style">请选择支付方式</string>
-     <string name="linkpay_choice_charge_style_left">选择支付方式</string>
-     <string name="linkpay_choice_charge_type">选择充值卡类型</string>
-     <string name="linkpay_choice_pay_money">选择充值金额</string>
-     <string name="linkpay_choose_pay_way">选择支付方式</string>
-     <string name="linkpay_choose_paycard_type">选择支付卡类型</string>
-     <string name="linkpay_choose_paycard_value">选择支付卡面值</string>
-     <string name="linkpay_commodity_name">商品：</string>
-     <string name="linkpay_company_title">提供商：</string>
-     <string name="linkpay_confirm_char">确定</string>
-     <string name="linkpay_confirm_order">确认订单</string>
-     <string name="linkpay_consumer_records">消费记录</string>
-     <string name="linkpay_consumer_records_thirtydays">您在游戏中的最近30天消费记录如下：</string>
-     <string name="linkpay_copyright">版权所有    中国联通</string>
-     <string name="linkpay_deal_time">交易时间</string>
-     <string name="linkpay_dear_user">亲爱的用户：</string>
-     <string name="linkpay_determine">确定</string>
-     <string name="linkpay_enter_phonenum_msg">亲爱的联通用户：支付功能短信验证失败，请输入手机号获取验证码验证。</string>
-     <string name="linkpay_enter_right_phonenumber">请输入正确手机号</string>
-     <string name="linkpay_enter_right_verificationcode">验证码不正确</string>
-     <string name="linkpay_enter_verificationcode_msg">请输入验证码</string>
-     <string name="linkpay_error">出错了！</string>
-     <string name="linkpay_exit">退出</string>
-     <string name="linkpay_exit_dialog_title">退出支付</string>
-     <string name="linkpay_fifty_yuan">50元</string>
-     <string name="linkpay_game_company">游戏公司：</string>
-     <string name="linkpay_game_name">应用名称：</string>
-     <string name="linkpay_game_provider">提供商:</string>
-     <string name="linkpay_gamename_title">应用名称：</string>
-     <string name="linkpay_getsmsresult">获取</string>
-     <string name="linkpay_getsmsresult_error">商品支付中，请稍后点击下方获取按钮重新获取支付信息</string>
-     <string name="linkpay_hundred_yuan">100元</string>
-     <string name="linkpay_id">ID:</string>
-     <string name="linkpay_mobile_calls_pay">联通手机游戏充值平台</string>
-     <string name="linkpay_morethen_300_thismonth">对不起，本月支付额已超300元</string>
-     <string name="linkpay_next_step">下一步</string>
-     <string name="linkpay_next_step_btn">下一步</string>
-     <string name="linkpay_no_payment">未支付</string>
-     <string name="linkpay_ordernum">序号</string>
-     <string name="linkpay_paidamount_title">支付金额：</string>
-     <string name="linkpay_password">密码:</string>
-     <string name="linkpay_password_cannot_be_null">密码不能为空</string>
-     <string name="linkpay_pay_money_wrong">支付金额错误</string>
-     <string name="linkpay_pay_result">支付结果</string>
-     <string name="linkpay_pay_way">支付方式</string>
-     <string name="linkpay_payment_alert">欢迎使用中国联通手机话费支付功能，支付成功后系统会向您发送提示短信。</string>
-     <string name="linkpay_payment_faild">支付失败</string>
-     <string name="linkpay_paymoney">支付金额:</string>
-     <string name="linkpay_please_choose_paycard_type">请选择支付卡类型</string>
-     <string name="linkpay_please_choose_paycard_value">请选择支付卡面值</string>
-     <string name="linkpay_please_enter_verificationcode">请输入验证码：</string>
-     <string name="linkpay_please_enter_verificationcode_toast">请输入验证码</string>
-     <string name="linkpay_please_use_3gnet">请使用3G网络进行支付</string>
-     <string name="linkpay_price">价格(分)</string>
-     <string name="linkpay_product">商品内容</string>
-     <string name="linkpay_product_title">商品：</string>
-     <string name="linkpay_prompt">提示</string>
-     <string name="linkpay_recharge">充值</string>
-     <string name="linkpay_request_exception">请求异常</string>
-     <string name="linkpay_rmb_10">10元</string>
-     <string name="linkpay_rmb_100">100元</string>
-     <string name="linkpay_rmb_20">20元</string>
-     <string name="linkpay_rmb_30">30元</string>
-     <string name="linkpay_rmb_50">50元</string>
-     <string name="linkpay_searching_payed">正在查询支付状态</string>
-     <string name="linkpay_searching_record">正在查询支付记录</string>
-     <string name="linkpay_send_sms_faild">发送信息失败</string>
-     <string name="linkpay_send_sms_text_char">亲爱的联通用户，短信支付功能需要点击“确定”发送一条短信对手机号码进行验证。</string>
-     <string name="linkpay_sendsms_fail">短信发送失败!!</string>
-     <string name="linkpay_sendsms_ok">短信发送成功!!</string>
-     <string name="linkpay_sendsms_outoftime">信息发送超时</string>
-     <string name="linkpay_server_connection_error">服务器请求异常</string>
-     <string name="linkpay_service_phone">客服电话:</string>
-     <string name="linkpay_service_phonenum">客服电话：</string>
-     <string name="linkpay_service_system_error">服务器系统错误</string>
-     <string name="linkpay_shenzhoufu">神州付</string>
-     <string name="linkpay_shenzhoufu_alert">请选择正确的支付卡类型与面值，否则可能导致支付失败或者余额丢失，后果自负。</string>
-     <string name="linkpay_shenzhoufu_charge">神州付支付</string>
-     <string name="linkpay_sms_chargeing">正在充值</string>
-     <string name="linkpay_sms_confirm_sendsms_content">欢迎使用联通短信支付功能，点击下方充值按钮，即可发送一条短信购买本物品。</string>
-     <string name="linkpay_sms_exit_getresult_dialog_message">如果强行退出支付，可能会导致扣费并且得不到游戏物品！</string>
-     <string name="linkpay_sms_getresult_error">服务器连接异常，请稍后查看物品状态</string>
-     <string name="linkpay_sms_pay_faild">支付失败</string>
-     <string name="linkpay_sms_pay_success">支付成功</string>
-     <string name="linkpay_sms_pay_success_thanks">感谢您使用联通手机游戏支付平台，祝您游戏愉快！</string>
-     <string name="linkpay_sms_payed">已付款</string>
-     <string name="linkpay_sms_paying">支付中</string>
-     <string name="linkpay_sms_payment_agreement">短信支付协议</string>
-     <string name="linkpay_sms_payment_agreement_details">短信支付协议内容</string>
-     <string name="linkpay_sms_sending">短信发送中</string>
-     <string name="linkpay_sms_timeout_dialog_message">如果未进行短信拦截，请不要退出支付，退出可能会导致扣费并且得不到游戏物品！</string>
-     <string name="linkpay_sms_timeout_prompt">支付短信息经过30秒未发送成功，请确认短信息是否被拦截。如果被拦截，请点击下方退出按钮退出支付，如果未被拦截，请等待支付短信息发送。</string>
-     <string name="linkpay_soft_data_error">应用支付参数错误</string>
-     <string name="linkpay_step_1_text">确认订单</string>
-     <string name="linkpay_step_2_text">选择支付方式</string>
-     <string name="linkpay_step_3_text">充值操作</string>
-     <string name="linkpay_step_4_text">完成充值</string>
-     <string name="linkpay_szf_getresult_error">获取支付信息失败，请稍后查看物品信息</string>
-     <string name="linkpay_ten_yuan">10元</string>
-     <string name="linkpay_thirty_yuan">30元</string>
-     <string name="linkpay_to_buy">用于购买</string>
-     <string name="linkpay_twenty_yuan">20元</string>
-     <string name="linkpay_unicom_msg_pay">联通短信支付</string>
-     <string name="linkpay_verification_faild">验证失败</string>
-     <string name="linkpay_verificationcode">验证码：</string>
-     <string name="linkpay_verificationcode_wrong">验证码输入错误</string>
-     <string name="linkpay_wait_verificationcode_sms">验证码短信已发送，请稍等</string>
-     <string name="linkpay_waiting_SMS_pay">短信支付中</string>
-     <string name="linkpay_waiting_detail_a">商品状态验证中</string>
-     <string name="linkpay_waiting_title">请稍等</string>
-     <string name="linkpay_wo_money_pay">WO币支付</string>
-     <string name="linkpay_wrong_channelid">渠道信息错误</string>
-     <string name="linkpay_you_not_unicon">您的SIM卡目前不能使用短信支付功能</string>
-     <string name="linkpay_you_will_pay">您将支付</string>
-     <string name="linkpay_yuan">元</string>
-     <string name="linkpay_zhifubao">支付宝</string>
      <string name="login">Вхід</string>
      <string name="login_failed">Помилка входу</string>
      <string name="login_instead_reg">Увійти за допомогою цього телефону</string>
      <string name="login_notice">Вхід...</string>
+     <string name="master_alert_notif_dspt" formatted="false">В этот период добавлено контактов: %s, сообщений: %s, фотографий: %s, заметок и других данных: %s. Если телефон утерян или очищено, эти данные будут навсегда утрачены. Рекомендуется восстанавливать синхронизацию для обеспечения безопасности данных.</string>
+     <string name="master_alert_notif_title">Данные не синхронизировались более %s дн.</string>
      <string name="memu_refresh">Оновити</string>
      <string name="mibi_license_message">Ви будете використовувати сервіс Xiaomi Mi Credit. Натискаючи кнопку ОК, Ви погоджуєтеся дотримувати %1$s.</string>
      <string name="mibi_license_message_span">Угода Mi Credit</string>
      <string name="mibi_license_title">Угода</string>
      <string name="micloud_account">Облік. запис</string>
+     <string name="micloud_account_details">Информация аккаунта</string>
      <string name="micloud_account_label">Облік. запис: %1$s</string>
      <string name="micloud_account_name">Облік. запис Xiaomi</string>
      <string name="micloud_account_not_actived">Облік. запис не активований</string>
@@ -346,21 +238,28 @@
      <string name="micloud_activating_account_notify_title">Активується обліковий запис Xiaomi...</string>
      <string name="micloud_active_alert_title">Активувати обліковий запис</string>
      <string name="micloud_active_email_sent_1">Мі відправили Вам лист з посиланням активації на пошту:</string>
-     <string name="micloud_active_email_sent_2" />
      <string name="micloud_active_email_visit">Відвідати %s</string>
      <string name="micloud_activing_account">Активація облік. запису</string>
      <string name="micloud_activing_account_delayed">"До завершення активації залишилося близько 30 секунд.
 Ви можете зробити щось ще..."</string>
      <string name="micloud_activing_account_failed">Помилка активації</string>
+     <string name="micloud_app_data">Резервные копии программ</string>
      <string name="micloud_click_email">Натисніть на посилання в листі активації для активації облік. запису Xiaomi</string>
      <string name="micloud_click_email_to_valid">Натисніть на посилання активації в поштовій скринці</string>
+     <string name="micloud_data_loading">Загрузка...</string>
      <string name="micloud_delete_account">Видалити облік. запис</string>
      <string name="micloud_dspt">Хмарні сервіси включають хмарні повідомлення, синхронізацію, пошук пристрої та інше. Ви також можете керувати своїми даними онлайн в будь-який час!</string>
      <string name="micloud_email">Пошта</string>
      <string name="micloud_error_email">Неправильний e-mail</string>
+     <string name="micloud_error_empty_captcha_code">Введите код с рисунка/</string>
      <string name="micloud_error_empty_pwd">Немає паролю</string>
      <string name="micloud_error_empty_username">Немає імені</string>
+     <string name="micloud_error_empty_vcode">Введите проверочный код/	</string>
      <string name="micloud_error_illegal_pwd">Неправильний пароль</string>
+     <string name="micloud_full_influence_dspt">Все фото, видео, заметки и данные программ будут синхронизированы с MiCloud. Таким образом, если вы потеряете или сломаете телефон, ваши данные останутся в безопасности. Когда память в MiCloud заполнена, ваши старые данные не исчезнут, однако, новые данные не смогут синхронизироваться с MiCloud. Чтобы это исправить, необходимо будет удалить ненужные данные с MiCloud.</string>
+     <string name="micloud_full_influence_title">Информация о память</string>
+     <string name="micloud_gallery_image">Изображения</string>
+     <string name="micloud_gallery_video">Видео</string>
      <string name="micloud_input_password_prompt">Введіть пароль</string>
      <string name="micloud_intro_01_part_01">Заощадити на витратах SMS</string>
      <string name="micloud_intro_01_part_02">MIUI дозволяє відправляти безкоштовні повідомлення через хмарний сервіс</string>
@@ -370,18 +269,36 @@
      <string name="micloud_intro_03_part_02">Управління вашими даними, блокування і пошук пристрою на i.xiaomi.com</string>
      <string name="micloud_is_what">Що таке MiCloud?</string>
      <string name="micloud_more">Взнати ще</string>
+     <string name="micloud_none">Пусто</string>
      <string name="micloud_password_confirm_hint">Підтвердіть пароль</string>
      <string name="micloud_password_error_inconsistent">Паролі не співпадають</string>
      <string name="micloud_password_req_notice">8~16 символів, містить цифри, букви алфавіту, з врахуванням регістру</string>
      <string name="micloud_proceed">Продовжити</string>
      <string name="micloud_reg_new">Створити новий</string>
      <string name="micloud_resend_active_email">Знову відправити лист активації</string>
+     <string name="micloud_space_full_influence"><u>Что делать, если закончилось свободное место в MiCloud?</u></string>
+     <string name="micloud_storage_space">Пам\'ять</string>
      <string name="micloud_summary">Увійти в облік. запис Xiaomi для синхронізації контактів, Галереї, Альбомів та інш.</string>
+     <string name="micloud_title_dspt" formatted="false">Всего: %s Занято: %s | Свободно: %s</string>
+     <string name="micloud_title_full_dspt">Пам\'ять заповнена!</string>
      <string name="micloud_use_existing">Існуючий</string>
+     <string name="micloud_user_base_info">Информация пользователя</string>
+     <string name="micloud_user_email">Пошта</string>
+     <string name="micloud_user_id">ID пользователя</string>
+     <string name="micloud_user_name">Они\'я користувача</string>
+     <string name="micloud_user_phone">Номер телефону</string>
+     <string name="micloud_user_space_usage">Занято памяти</string>
+     <string name="micloud_val_sms_alert">Для проверки номера будет отправлено SMS. Продолжить?</string>
      <string name="micloud_via_int_sms_alert">Для перевірки Вашого номеру Буде відправлене міжнародне повідомлення. Продовжити?</string>
      <string name="micloud_via_sms_alert">Буде відправлене повідомлення для підтвердження вашого телефонного номеру. Продовжити?</string>
+     <string name="micloud_warn_full_msg">Пам\'ять заповнена!</string>
+     <string name="micloud_warn_full_sum">Данные не могут быть синхронизированы с MiCloud в данный момент.</string>
+     <string name="micloud_warn_full_title">Пам\'ять заповнена!</string>
+     <string name="micloud_warn_low_sum">Пам\'ять заповнена на 90%</string>
+     <string name="micloud_warn_low_title">Память почти заполнена \u2026</string>
+     <string name="micloud_web_discription_01">Посетите сайт i.xiaomi.com</string>
+     <string name="micloud_web_discription_02">для просмотра и управления файлами</string>
      <string name="micloud_welcome_skip_login">Пропустити цей крок</string>
-     <string name="mili_center">Центр Micredit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_denomination_type">MiCredit</string>
      <string name="msg_error">Помилка поповненя через SMS</string>
@@ -399,7 +316,6 @@
      <string name="msg_send_send_fail_error">Не вдалося відправити повідомлення</string>
      <string name="msg_telecom_order_denom">%1s юанів (не включає в себе мобільну мережу）</string>
      <string name="msg_telecom_order_denom_label">Сума:</string>
-     <string name="msg_telecom_order_goods">%1sMiCredit</string>
      <string name="msg_telecom_order_goods_label">Опис товара:</string>
      <string name="msg_telecom_picker_hint_1_1">Підтвердіть покупку</string>
      <string name="msg_telecom_picker_hint_1_2">Автоматично отримати у постачальника послуг</string>
@@ -409,18 +325,34 @@
      <string name="my_mili_record">Мій MiCredit</string>
      <string name="my_xiaomi_account">Мій поточний облік. запис Xiaomi</string>
      <string name="next">Далі</string>
+     <string name="noRemind">Не напоминать</string>
+     <string name="no_sim">Отсутствует SIM карта. Сервис недоступен</string>
      <string name="nobind">"Не прив\'язаний"</string>
-     <string name="order_price">%1$s Micredit</string>
      <string name="other_settings">Інші параметри</string>
      <string name="password">Пароль</string>
      <string name="password_error"> Будь ласка, введіть Ваш пароль</string>
      <string name="password_hint"> Будь ласка, введіть Ваш пароль облік. запису Xiaomi:</string>
      <string name="pay_record">Платіжна історія</string>
      <string name="pay_record_empty">Немає платіжної історії</string>
+     <string name="paytool_edit_hint">&gt;Сумма зачисления (RMB)</string>
+     <string name="paytool_edit_limit">Меньше чем %1$s</string>
+     <string name="paytool_error_denomination">Введите корректную сумму для зачисления</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Не вдалося завершити встановлення плагіна безпеки Alipay -->
      <string name="paytool_error_install">Встановлення мобільного плагіну безпеки %1$s не вдалий</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Не вдалося поповнити рахунок за допомогою Alipay -->
      <string name="paytool_error_msp">%1$s помилка поповнення</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Не встановлено плагін безпеки Alipay, встановити зараз? -->
      <string name="paytool_msp_not_installed">Ви не встановили плагін захисту %1$s. Встановити його зараз?</string>
-     <string name="prepaid_china_telcom">Оператор 2</string>
+     <string name="paytool_picker_hint">Укажите сумму Mi Credit для зачисления</string>
      <string name="prepaid_edit_limit">знаків</string>
      <string name="prepaid_error_card_length"> Будь ласка, введіть правильний номер карти передплати або пароль</string>
      <string name="prepaid_error_card_number">Введіть правильну суму для поповнення рахунку</string>
@@ -452,10 +384,19 @@
      <string name="progress_submit_hint">Поповнення буде відображено протягом 3-х хвилин</string>
      <string name="progress_submit_pay_summary">Оплата: %1$s Юань</string>
      <string name="progress_submit_recharge_summary">Поповнення: %1$s Юань</string>
+     <string name="progress_submit_summary">Сумма зачисления: %1$s CNY</string>
      <string name="progress_submit_title">Запит на поповнення підтверджено</string>
      <string name="progress_success_pay_summary">Ваше замовлення було успішно оплачена!</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Оплату завершено -->
      <string name="progress_success_pay_title">Оплата %1$s Mi Credit завершена</string>
      <string name="progress_success_recharge_summary">Баланс: %1$s Mi Credits</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Операція платежу виконано вдало. -->
      <string name="progress_success_recharge_title">Поповнення на %1$s Mi Credit завершено</string>
      <string name="progress_voucher_creating">Поповнення карти Mi Credit…</string>
      <string name="progress_warning_check">"Пока не перевірено.
@@ -464,23 +405,40 @@
 1. Будь ласка, зв\’яжіться зі службою підтримки в Шеньчжоу: %1$s 
 2. Повідомте свій серійний номер: %2$s"</string>
      <string name="progress_warning_waiting">Ще не підтверджений. Будь ласка, спробуйте ще раз пізніше.</string>
+     <string name="quick_login_step2_title">Защита входа</string>
      <string name="quick_login_title">Потрібно увійти в облік. запис, будь ласка введіть ваш пароль</string>
+     <string name="recharge_alipay_summary">Поддержка уплаты за Alipay</string>
      <string name="recharge_bankcall_title">Банківська карта</string>
      <string name="recharge_denomination">%1$s Юань</string>
      <string name="recharge_grid_edit_hint">Розмір (RMB)</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 1
+	%s: 2 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Менше %1$s -->
      <string name="recharge_grid_edit_limit">%1$s~%2$sRMB</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 0
+	%s: 0 must: 0
+	%d: 2 must: 0 -->
+     <!-- Original string: Введіть коректну суму для зарахування -->
      <string name="recharge_grid_error_denomination">Введіть правильний розмір поповнення (між %1$d~%2$dRMB)</string>
      <string name="recharge_grid_picker_hint">Вибір розміру поповнення MiCredit</string>
+     <string name="recharge_group_1to1">1 юань равен 1 MiCredit</string>
+     <string name="recharge_group_2to1">2 юаня уровне 1 MiCredit</string>
      <string name="recharge_group_favorite">Використовувані методи поповнення</string>
      <string name="recharge_group_others">Інші методи поповнення</string>
      <string name="recharge_hint">1 Micredit рівний 1,5 Гривні</string>
+     <string name="recharge_message_summary">Поддержка оплаты через телефон</string>
      <string name="recharge_message_title">Поповнення через SMS</string>
      <string name="recharge_notification">Поповнення на %1$s кредитів Mi</string>
      <string name="recharge_other">Виберіть інший спосіб оплати</string>
+     <string name="recharge_pcpay_summary">Поддерживает более методов пополнения</string>
      <string name="recharge_pcpay_title">"Поповненя через комп\'ютер"</string>
+     <string name="recharge_prepaid_summary">Поддерживаются карты предоплаты China Mobile, China Unicom и China Telecom</string>
      <string name="recharge_prepaid_title">Карти оплати</string>
      <string name="recharge_record">Історія поповнень</string>
      <string name="recharge_record_empty">Немає історії поповнень</string>
+     <string name="recharge_tenpay_summary">Поддержка уплаты за Tenpay</string>
+     <string name="recharge_voucher_summary">Поддержка переводов Mi Credit карт</string>
      <string name="recharge_voucher_title">Карти Mi Credit</string>
      <string name="reg_by_email_failure">Помилка реєстрації: %1$s</string>
      <string name="reg_failed">Помилка реєстрації</string>
@@ -494,6 +452,7 @@
      <string name="remove_confirm">Вилучити</string>
      <string name="remove_unactivated_account_notice">Облік. запис Xiaomi не активований. Видалити його?</string>
      <string name="removing_account">Видалення облік. запису...</string>
+     <string name="restoreSync">Восстановить</string>
      <string name="send_int_sms_for_sync_notice">Для активації синхронізації повідомлень буде надіслано SMS. Продовжити?</string>
      <string name="send_sms_for_sync_notice"> Для активації потрібно відправити SMS, продовжити?</string>
      <string name="send_sms_for_sync_title">Не активовано</string>
@@ -501,9 +460,12 @@
      <string name="show_password">Показати пароль</string>
      <string name="sim_changed_notification_content">SIM не активована, будь ласка активуйте</string>
      <string name="skip_login">Пропустити</string>
+     <string name="skip_login_u"><u>Пропустити</u></string>
      <string name="skip_setup_account_msg">Використання облік. запису Xiaomi дозволить вам синхронізувати й резервувати повідомлення, контакти, фотографії, нотатки й т.д. Продовжити й налаштувати пізніше?</string>
      <string name="skip_setup_account_title">Пропустити налаштування облік. запису</string>
      <string name="start_micloud">Старт</string>
+     <string name="sub_alert_notif_dspt" formatted="false">У вас есть несинхронизированные данные. Контактов: %s, сообщений: %s, фотографий: %s, заметок и других данных: %s. Если телефон утерян или очищено, эти данные будут навсегда утрачены. Рекомендуется восстанавливать синхронизацию для обеспечения безопасности данных.</string>
+     <string name="sub_alert_notif_title">Сервисы синхронизации не включен</string>
      <string name="sync_dspt">Використовувати облік. запис Xiaomi для синхронізації даних</string>
      <string name="sync_off">ВИКЛ</string>
      <string name="sync_on">ВКЛ</string>
@@ -513,22 +475,45 @@
      <string name="title_mili_center">Центр Micredit</string>
      <string name="title_pay">Оплата Mi Credits</string>
      <string name="title_pay_record">%1$s - історія поповнень</string>
+     <string name="title_paytool">Пополнение через %1$s</string>
+     <string name="title_prepaid">Пополнение через карту оплаты</string>
      <string name="title_recharge">"Поповнити Micredit'и"</string>
      <string name="title_recharge_record">Історія поповнень</string>
      <string name="title_reg">Реєстрація в мережі Xiaomi</string>
+     <string name="title_voucher">Пополнение через Mi Credit карту</string>
+     <string name="trust_device">Я доверяю этому устройству</string>
      <string name="unactivated_user">Не активований</string>
      <string name="unbind">"Відв\'язати"</string>
      <string name="update_contacts">Оновлення адресної книги</string>
      <string name="update_contacts_description">Sina micro Fair оновить Ваші контакти </string>
      <string name="updated_contacts">Оновлено %s контактів</string>
+     <string name="updated_nothing">Ничего не обновлен</string>
      <string name="user_agreement_p1">"Входячи в облік. запис, ви погоджуєтесь з "</string>
      <string name="user_agreement_p2">Умовами угоди Xiaomi </string>
      <string name="user_agreement_p3"> та </string>
      <string name="user_agreement_p4">Політикою безпеки</string>
      <string name="user_agreement_p5">"Реєструючись, ви погоджуєтесь з"</string>
      <string name="value">Значення</string>
+     <string name="vcode">Проверочный код</string>
+     <string name="vcode_notification_title">Проверку авторизации не завершено</string>
+     <string name="vcode_prompt_long">Введите проверочный код, полученный от Xiaomi.</string>
+     <string name="voucher_btn_exchange">Обмен</string>
+     <string name="voucher_btn_exchange_error">Неверно</string>
+     <string name="voucher_btn_has_exchanged">Поменяно</string>
+     <string name="voucher_denom">Ми Кредитов</string>
      <string name="voucher_edit_hint">Пароль</string>
      <string name="voucher_edit_limit">символів</string>
+     <string name="voucher_empty">Нет Mi Credit карты</string>
      <string name="voucher_error_code">Введено невірний пароль Mi Credit карти</string>
+     <string name="voucher_exchange">Обмен</string>
+     <string name="voucher_exchange_count">Обмен (%1$s)</string>
+     <string name="voucher_exchange_success">%1$s Mi Credits обмен завершен</string>
+     <string name="voucher_expire">%1$s-%2$s-%3$s прострочено</string>
+     <string name="voucher_input">Пополнение</string>
      <string name="voucher_input_password_prompt">Введіть пароль</string>
+     <string name="wipe_data_dialog_msg">%s не синхронизированы (при продолжении данные будут потеряны)</string>
+     <string name="wipe_data_dialog_title">Некоторые данные не удалось синхронизировать.</string>
+     <string name="wrong_captcha">Неверный код с рисунка</string>
+     <string name="wrong_vcode">Неверный проверочный код</string>
+     <string name="xiaomi_money_service">MiCredit центр</string>
 </resources>

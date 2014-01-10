@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
- <string name="app_name">Адаптивний контроль яскравості</string>
-	<string name="cabl_enable_summary_off">Підсвічування не регулюватиметься на основі вмісту екрану</string>
-	<string name="cabl_enable_summary_on">Підсвічування буде регулюватися на основі вмісту екрану</string>
-	<string name="cabl_enable_title">Включити адаптивний контроль яскравості</string>
-	<string name="cabl_info_default">Невідомо</string>
-	<string name="cabl_levels_summary">Зменшений рівень підсвічування сприяє зменшенню енергоспоживанню, але рівень підсвічування буде нижче</string>
-	<string name="cabl_levels_title">Рівень підсвічування</string>
-	<string name="cabl_settings_title">Адаптивний контроль яскравості</string>
-	<string name="cabl_version_title">Версія програми</string>
+     <string name="app_name">Адаптивний контроль яскравості</string>
+     <string name="cabl_enable_summary_off">Підсвічування не регулюватиметься на основі вмісту екрану</string>
+     <string name="cabl_enable_summary_on">Підсвічування буде регулюватися на основі вмісту екрану</string>
+     <string name="cabl_enable_title">Включити адаптивний контроль яскравості</string>
+     <string name="cabl_info_default">Невідомо</string>
+     <string name="cabl_levels_summary">Зменшений рівень підсвічування сприяє зменшенню енергоспоживанню, але рівень підсвічування буде нижче</string>
+     <string name="cabl_levels_title">Рівень підсвічування</string>
+     <string name="cabl_settings_title">Адаптивний контроль яскравості</string>
+     <string name="cabl_version_title">Версія програми</string>
 </resources>
-

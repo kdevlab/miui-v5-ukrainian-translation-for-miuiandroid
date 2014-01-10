@@ -28,11 +28,6 @@
         <item>8 сек</item>
         <item>9 сек</item>
      </string-array>
-     <string-array name="traffic_sort_type">
-        <item>По імені</item>
-        <item>По трафіку 2G/3G</item>
-        <item>По загальному трафіку</item>
-     </string-array>
      <string-array name="traffic_uints">
         <item>" байт"</item>
         <item>КБ</item>

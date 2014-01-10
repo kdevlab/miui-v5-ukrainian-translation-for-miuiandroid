@@ -33,12 +33,6 @@
         <item>Тільки GSM</item>
         <item>GSM / WCDMA (краща мережа)</item>
      </string-array>
-     <string-array name="tty_mode_entries">
-        <item>Телетайп вимкнений</item>
-        <item>Повнофункціональний телетайп</item>
-        <item>Телетайп з можливістю чути співрозмовника</item>
-        <item>Телетайп з можливістю передачі голосу</item>
-     </string-array>
      <string-array name="voicemail_notification_vibrate_when_entries">
         <item>Завжди</item>
         <item>Якщо без звуку</item>

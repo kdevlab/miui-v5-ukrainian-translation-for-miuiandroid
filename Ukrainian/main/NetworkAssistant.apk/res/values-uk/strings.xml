@@ -20,6 +20,7 @@
      <string name="adjust_traffic_sms_template_update">Обновити шаблон SMS</string>
      <string name="adjust_traffic_title">Регулювання трафіку</string>
      <string name="adjust_traffic_update">Оновити</string>
+     <string name="another_sim_card_adjusting">Устанавливаем вторую SIM карту.</string>
      <string name="app_detail_internet_background">Включити у фоновому режимі</string>
      <string name="app_detail_internet_background_traffic">Передній план: %1$s Задній план: %2$s</string>
      <string name="app_detail_internet_control_category">Управління мережею</string>
@@ -40,6 +41,15 @@
      <string name="close_txt">Закрити</string>
      <string name="control_app_internet">Використання мережі програмами</string>
      <string name="current_warning_value">Попереджувати при досягненні: %s</string>
+     <string name="custom_adjust_command">Сообщение</string>
+     <string name="custom_adjust_command_hit">Сообщение</string>
+     <string name="custom_adjust_is_empty">%s: пусто</string>
+     <string name="custom_adjust_receiver">Номер получателя</string>
+     <string name="custom_adjust_receiver_hint">Номер телефона, с которого оператор связи посылает пользователю сообщение с информацией о тарифный план.</string>
+     <string name="custom_adjust_recevier_same_with_sender">Номера получателя и отправителя одинаковые.</string>
+     <string name="custom_adjust_sender">Номер отправителя</string>
+     <string name="custom_adjust_sender_hint">Сообщение должно содержать запрос информации о тарифный план</string>
+     <string name="custom_adjust_title">Настройки синхронизации</string>
      <string name="daily_limit_dialog_disconnect_hint">Інтернет відключається, коли трафік перевищує встановлену межу</string>
      <string name="daily_limit_dialog_hint">Денний ліміт трафіку (0 означає безлімітний)</string>
      <string name="daily_limit_result">Нагадати і відключити Інтернет, коли щоденний трафік перевищує %d МБ</string>
@@ -80,8 +90,15 @@
      <string name="menu_traffic_adjust">Регулювання трафіку</string>
      <string name="menu_traffic_settings">Налаштування трафіку</string>
      <string name="month_traffic_settings_title">Налаштування місячного трафіку</string>
+     <string name="network_control_service_notification_text">Нажмите для настройки доступа</string>
+     <string name="network_control_service_notification_title_mutiple">%1$d: запрет сети %2$s</string>
+     <string name="network_control_service_notification_title_nettype_mobile">2G/3G</string>
+     <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+     <string name="network_control_service_notification_title_single">%1$s: запрет сети %2$s</string>
+     <string name="notify_carrier_settings_format">%s не был налажен поставщик услуг связи .Налагодити?</string>
      <string name="notify_carrier_settings_title">"Ви не налаштували постачальника послуг зв'язку. Налаштувати зараз?"</string>
      <string name="notify_traffic_settings_cancel_hint">Сповіщення і контроль за трафіком будуть вимкнені. Вийти зараз?</string>
+     <string name="notify_traffic_settings_format">%s не было налажено ваш тарифный план. Наладить?</string>
      <string name="notify_traffic_settings_title">Ви не налаштували ваш тарифний план. Налаштувати зараз?</string>
      <string name="overseas_menu_traffic_adjust">Налаштувати вручну</string>
      <string name="overseas_menu_traffic_settings">Межа трафіку</string>
@@ -89,12 +106,13 @@
      <string name="plate_traffic_already_used">Використано</string>
      <string name="plate_traffic_exceed">Перевищено</string>
      <string name="plate_traffic_remain">Залишилось</string>
-     <string name="powered_by">Технічна підтримка: ROMZ.bz</string>
      <string name="pref_category_adjust_traffic">Регулювання трафіку</string>
      <string name="pref_connect_settings_enable_backgroung">Включити фонові служби</string>
      <string name="pref_connect_settings_enable_backgroung_hint">Дозволити автоматичне підключення до мережі, коли програма працює в фоновому режимі</string>
      <string name="pref_connect_settings_exceed_limit">Відключити передачу даних</string>
      <string name="pref_connect_settings_exceed_limit_hint">Повідомити і відключити Інтернет, коли перевищений щомісячний ліміт трафіку</string>
+     <string name="pref_connect_settings_monitor_running_app">Уведомление о запрете</string>
+     <string name="pref_connect_settings_monitor_running_app_summary">Показывать уведомление при запуске приложения с запретом использования с\соединений.</string>
      <string name="pref_connect_settings_notify_in_statusbar">Показувати сповіщення в панелі сповіщень</string>
      <string name="pref_connect_settings_title">Налаштування програми Монітор</string>
      <string name="pref_network_speed_internal_title">Інтервал оновлень</string>
@@ -104,9 +122,8 @@
      <string name="pref_traffic_adjust_title">Регулювання трафіку</string>
      <string name="pref_traffic_daily_limit_settings">Налаштування денного ліміту</string>
      <string name="pref_traffic_settings">Налаштування трафіку</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="process_kernel_label">Android OS</string>
      <string name="retry">Повторити</string>
+     <string name="running_apps_activity_title">Запущенные приложения</string>
      <string name="save">Зберегти</string>
      <string name="settings_page_adjust_summary_no_carrier">Оператор не налаштований, керування трафіком відключене</string>
      <string name="settings_page_traffic_summary">Доступно: %1$s, Попереджень: %2$s, дата останнього поповнення: %3$d</string>
@@ -123,10 +140,18 @@
      <string name="sync_traffic_fail_title">Не вдалося отримати інформацію</string>
      <string name="sync_traffic_ing">Отримання інформації від оператора, будь ласка, заочекайте...</string>
      <string name="sync_traffic_no_cmd_detail">"Вкажіть ваше місто, провінцію, ICC і оператора зв'язку тут: http://www.miui.com/forum-172-1.html. Дякуєм."</string>
+     <string name="sync_traffic_no_cmd_detail_custom_config">Для налаживания SMS-шаблона перейдите в Настройки &gt; Тарифный план &gt; Информация о трафике.</string>
      <string name="sync_traffic_no_cmd_title">Немає шаблону</string>
      <string name="sync_traffic_success">Інформація про пакети трафіку отримана, налаштування оновлені</string>
      <string name="text_done">Готово</string>
      <string name="text_save">Зберегти</string>
+     <string name="this_month_mobile_format">%s трафик за місяць</string>
+     <string name="this_month_total_traffic_format">%s трафик за місяць</string>
+     <string name="this_month_wlan">За місяць (Wi-Fi)</string>
+     <string name="today_mobile_format">%s трафик за сегодня</string>
+     <string name="today_total_traffic_format">%s трафик за сегодня</string>
+     <string name="today_wlan">За сегодня (Wi-Fi)</string>
+     <string name="traffic_bought">Покупка трафика</string>
      <string name="traffic_none">Немає даних</string>
      <string name="traffic_remain">Залишилось</string>
      <string name="traffic_settings_error">Є помилка в налаштуваннях Вашого щомісячного безплатного трафіку. Згідно налаштувань, щомісячний безплатний трафік: %1$s і залишиться трафік: %2$s.</string>
@@ -151,4 +176,7 @@
      <string name="warning_title">Попередження</string>
      <string name="wifi_traffic">Wi-Fi: %s</string>
      <string name="wifi_type">Wi-Fi</string>
+     <string name="yesterday_mobile_format">%s трафик за вчера</string>
+     <string name="yesterday_total_traffic_format">%s трафик за вчера</string>
+     <string name="yesterday_wlan">За вчора (Wi-Fi)</string>
 </resources>

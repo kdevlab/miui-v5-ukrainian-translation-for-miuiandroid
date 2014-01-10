@@ -39,15 +39,13 @@
         <item>Чорний список</item>
         <item>Обліковий запис</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 9 must: 8 -->
      <string-array name="system_package_label">
         <item>Браузер</item>
-        <item>Програма Файли</item>
         <item>Галерея</item>
-        <item>Безпека</item>
+        <item>Суперкористувач</item>
         <item>Камера</item>
-        <item>Трафік</item>
-        <item>Сервер погоди</item>
+        <item>Моніторинг трафіку</item>
+        <item>Сховище погоди</item>
         <item>Погода</item>
      </string-array>
 </resources>

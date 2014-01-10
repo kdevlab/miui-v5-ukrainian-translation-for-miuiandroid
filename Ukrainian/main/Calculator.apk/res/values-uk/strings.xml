@@ -13,7 +13,8 @@
      <string name="lnDesc">Натуральний логарифм</string>
      <string name="minusDesc">Мінус</string>
      <string name="rightParenDesc">Права скобка</string>
-     <string name="scientific">Науковий</string>
      <string name="sqrtDesc">Квадратний корінь</string>
+     <string name="switch_to_scientific_pad">науковий режим</string>
+     <string name="switch_to_standard_pad">базовий режим</string>
      <string name="text_copied_toast">Текст скопійований</string>
 </resources>

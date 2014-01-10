@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_no2_title">NO2</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_pm10_title">PM10</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_pm25_title">PM2.5</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="act_aqi_so2_title">SO2</string>
      <string name="act_city_find_gps_error">Помилка. Виберіть вручну</string>
      <string name="act_find_city_hint">Пошук по 2,400 містам Китаю</string>
      <string name="act_find_city_hot_title">Популярні міста</string>
      <string name="act_find_city_null_data">Дане місто відсутнє</string>
      <string name="act_find_city_title">Додати місто</string>
+     <string name="act_init_dialog_finish">Добавлено глобальную информацию о погоде</string>
      <string name="act_set_city_find_side">Виявлення місцезнаходження…</string>
      <string name="act_set_city_find_side_error">Визначити місцезнаходження не вдалося</string>
      <string name="act_set_city_find_side_on">Відкрити визначення місцезнаходження</string>
@@ -22,7 +15,11 @@
      <string name="act_weather_aqi_title">Індекс чистоти повітря</string>
      <string name="act_weather_cycle_low_temp">низька темп.</string>
      <string name="act_weather_cycle_update">Оновлення…</string>
+     <string name="act_weather_find_city_connect_net">Под\'отсоедините интернет и повторите попытку</string>
+     <string name="act_weather_find_city_search_online">знайти</string>
+     <string name="act_weather_find_city_searching">Пошук…</string>
      <string name="act_weather_main_aqi_index">Якість повітря %s</string>
+     <string name="act_weather_main_aqi_title">Чистота воздуха</string>
      <string name="act_weather_main_data_null">Немає даних про погоду, оновіть</string>
      <string name="act_weather_range_select">Виберіть місто</string>
      <string name="act_weather_range_title">Навколишній прогноз погоди</string>
@@ -59,25 +56,23 @@
      <string name="button_allow">Згоден</string>
      <string name="button_not_allow">Не згоден</string>
      <string name="cancel">Закрити</string>
+     <string name="chart_weather_title">Диаграмма погоды</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="enable_gps">GPS</string>
      <string name="enable_notification">Включити оповіщення про місцезнаходження</string>
      <string name="enable_notification_city">Буде відкрито %s погодне повідомлення, системне оповіщення повідомлення при зміні погоди</string>
      <string name="enable_notification_summary">Посилати системні повідомлення при зміні погоди</string>
      <string name="first_start_network_toast_text">Доступ до мережі, для отримання інформ. про погоду</string>
-     <string name="format_date_md">M/d kk:mm</string>
-     <string name="format_date_trend_md">M/d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="format_date_week">EEE</string>
-     <string name="format_date_wmd">M/d EEE</string>
      <string name="install_sina">Натисніть для встановлення Sina Weibo</string>
      <string name="install_tencent">Натисніть для встановлення Tencent Weibo</string>
+     <string name="loading_weather">Загрузка...</string>
      <string name="local_city">Місцеві міста</string>
      <string name="location_allow_err">Відкриття визначення місцезнаходження не вдалося</string>
      <string name="location_management">Місцезнаходження</string>
      <string name="location_notification">Оповіщення про місцезнаходження</string>
      <string name="menu_about"> Про програму</string>
      <string name="menu_around">Навколишнє</string>
+     <string name="menu_chart">Диаграмма</string>
      <string name="menu_delete">Вилучити</string>
      <string name="menu_location">Керування розміщенням</string>
      <string name="menu_main">Індекс</string>
@@ -110,6 +105,11 @@
      <string name="share_weather_content">"\#MIUI weather#
 Сьогодні %1$s погода є %2$s, %3$s, %4$s. %5$s опублікована."</string>
      <string name="share_weather_title">Поділитися даними про погоду</string>
+     <string name="sina_share_fail">Ошибка отправки!</string>
+     <string name="sina_share_pendding">Отправка...</string>
+     <string name="sina_share_success">Удачное отправки!</string>
+     <string name="sina_token_expired_warning">В учетной записи Weibo закончился срок действия, переоформіть его</string>
+     <string name="sina_token_invalid_warning">Ложный учетную запись Weibo, переоформіть его</string>
      <string name="sms_notification">SMS повідомлення</string>
      <string name="tip_weather">Повідомлення MIUI погоди</string>
      <string name="tip_weather_info_content_1">Виходячи на вулицю, одягайте відповідний одяг</string>

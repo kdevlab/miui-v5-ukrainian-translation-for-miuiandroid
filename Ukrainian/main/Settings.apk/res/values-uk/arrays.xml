@@ -29,6 +29,17 @@
         <item>Максимум 3 процеси</item>
         <item>Максимум 4 процеси</item>
      </string-array>
+     <string-array name="auto_time_entries">
+        <item>Мобільна мережа - умовний час</item>
+        <item>GPS - умовний час</item>
+        <item>Вимк</item>
+     </string-array>
+     <string-array name="back_long_press_timeout">
+        <item>0.5 секунд</item>
+        <item>1 секунда</item>
+        <item>1.5 секунд</item>
+        <item>2 секунд</item>
+     </string-array>
      <string-array name="battery_indicator_style_entries">
         <item>Графічний</item>
         <item>Відсотки</item>
@@ -80,18 +91,32 @@
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
      </string-array>
+     <string-array name="entries_dolby_control">
+        <item>Немає</item>
+        <item>Музика</item>
+        <item>Кіно</item>
+     </string-array>
      <string-array name="entries_font_size">
         <item>Дрібний</item>
         <item>Звичайний</item>
         <item>Великий</item>
         <item>Величезний</item>
      </string-array>
-     <integer-array name="font_size_preference_preview_size">
-        <item>14</item>
-        <item>18</item>
-        <item>22</item>
-        <item>27</item>
-     </integer-array>
+     <string-array name="gemini_sim_info_number_display_format_entries">
+        <item>Перші 4 цифри</item>
+        <item>Останні 4 цифри</item>
+        <item>Не показувати</item>
+     </string-array>
+     <string-array name="gemini_sim_roaming_reminder_entries">
+        <item>Один раз</item>
+        <item>Завжди</item>
+        <item>Ніколи</item>
+     </string-array>
+     <string-array name="gsm_umts_network_preferences_choices">
+        <item>GSM/WCDMA (Авторежим)</item>
+        <item>Тільки WCDMA</item>
+        <item>Тільки GSM</item>
+     </string-array>
      <string-array name="haptic_feedback_level_entries">
         <item>Слабкий</item>
         <item>Середній</item>
@@ -107,6 +132,11 @@
         <item>Перевіряти тільки для DRM вмісту</item>
         <item>Перевіряти завжди</item>
      </string-array>
+     <string-array name="hdmi_video_mode_entries">
+        <item>Повний екран</item>
+        <item>Підходяща орієнтація</item>
+        <item>Оригінальний розмір</item>
+     </string-array>
      <string-array name="led_color_entries">
         <item>Синій</item>
         <item>Червоний</item>
@@ -116,14 +146,16 @@
         <item>Білий</item>
         <item>Фіолетовий</item>
      </string-array>
-     <string-array name="led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>yellow</item>
-        <item>green</item>
-        <item>cyan</item>
-        <item>white</item>
-        <item>\#FFAA00AA</item>
+     <string-array name="led_color_entries_for_mione">
+        <item>Синій</item>
+        <item>Червоний</item>
+        <item>Зелений</item>
+        <item>Рожевий</item>
+        <item>Фіолетовий</item>
+        <item>Пурпурний</item>
+        <item>Смарагдовий</item>
+        <item>Блакитний</item>
+        <item>Сапфір</item>
      </string-array>
      <string-array name="led_freq_entries">
         <item>2 секунди</item>
@@ -159,13 +191,9 @@
         <item>Ліловий</item>
         <item>Фіолетовий</item>
      </string-array>
-     <string-array name="mi1_led_color_values">
-        <item>blue</item>
-        <item>red</item>
-        <item>green</item>
-        <item>\#FFFF0033</item>
-        <item>\#FF5500FF</item>
-        <item>\#FFAA00AA</item>
+     <string-array name="msd_install_status">
+        <item>Встановлення драйверу</item>
+        <item>Драйвер вже встановлено</item>
      </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP або старіша версія</item>
@@ -197,6 +225,32 @@
         <item>"Комп'ютер буде автоматично відкривати й читати дані телефону\nТепер ви можете передавати файли"</item>
         <item></item>
      </string-array>
+     <string-array name="multi_sim_entries">
+        <item>Підписка 1</item>
+        <item>Підписка 2</item>
+     </string-array>
+     <string-array name="multi_sim_entries_voice">
+        <item>Підписка 1</item>
+        <item>Підписка 2</item>
+        <item>Запит</item>
+     </string-array>
+     <string-array name="multi_sim_entries_voice_without_prompt">
+        <item>Підписка 1</item>
+        <item>Підписка 2</item>
+     </string-array>
+     <string-array name="multi_sim_summaries">
+        <item>Підписка 1</item>
+        <item>Підписка 2</item>
+     </string-array>
+     <string-array name="multi_sim_summaries_voice">
+        <item>Підписка 1</item>
+        <item>Підписка 2</item>
+        <item>Запит користувача</item>
+     </string-array>
+     <string-array name="network_use_entry">
+        <item>Тільки дім</item>
+        <item>Дім + роумінг</item>
+     </string-array>
      <string-array name="overlay_display_devices_entries">
         <item>Немає</item>
         <item>720x480 mdpi</item>
@@ -213,10 +267,59 @@
         <item>Один микрофон</item>
         <item>Два микрофона</item>
      </string-array>
+     <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Через 1 хвилину</item>
+        <item>Через 5 хвилин</item>
+        <item>Через 10 хвилин</item>
+        <item>Ніколи</item>
+     </string-array>
+     <string-array name="power_dialog_cpu_state_items">
+        <item>Потужність</item>
+        <item>Баланс</item>
+        <item>Енергозбереження</item>
+     </string-array>
+     <string-array name="power_dialog_sleep_items">
+        <item>15 секунд</item>
+        <item>30 секунд</item>
+        <item>1 хвилина</item>
+        <item>2 хвилини</item>
+        <item>5 хвилин</item>
+        <item>10 хвилин</item>
+        <item>Ніколи</item>
+     </string-array>
+     <string-array name="power_dialog_vibration_items">
+        <item>Ніколи</item>
+        <item>В режимі \"Без звуку\"</item>
+        <item>Завжди</item>
+     </string-array>
      <string-array name="power_mode_entries">
         <item>Продуктивний</item>
         <item>Збалансований</item>
         <item>Енергозберігаючий</item>
+     </string-array>
+     <string-array name="preferred_app_entries">
+        <item>Лаунчер</item>
+        <item>Телефон</item>
+        <item>Повідомлення</item>
+        <item>Браузер</item>
+        <item>Камера</item>
+        <item>Галерея</item>
+        <item>Музика</item>
+        <item>Пошта</item>
+     </string-array>
+     <string-array name="score_descriptions">
+        <item>Чорний список вимкнено</item>
+        <item>Керування дозволами вимкнено</item>
+        <item>Дуже багато сміття</item>
+        <item>Час очікування сканування вірусів сплив</item>
+        <item>Дуже багато фонових процесів</item>
+     </string-array>
+     <string-array name="score_suggests">
+        <item>Увімкнути чорний список</item>
+        <item>Включіть додаток для керування дозволами</item>
+        <item>Звільніть сміття</item>
+        <item>Оновіть вірусну базу</item>
+        <item>Контролюйте кількість фонових процесів</item>
      </string-array>
      <string-array name="screen_color_title">
         <item>Теплий тон</item>
@@ -254,9 +357,24 @@
         <item>Заборонити</item>
         <item>Дозволити</item>
      </string-array>
-     <string-array name="special_locale_names">
-        <item>Китайський (спрощений)</item>
-        <item>Китайський (традиційний)</item>
+     <string-array name="silent_mode_entries">
+        <item>Вимк.</item>
+        <item>Вібросигнал</item>
+        <item>Увмк.</item>
+     </string-array>
+     <string-array name="sim_slot">
+        <item>(не вказано)</item>
+        <item>Слот SIM 1</item>
+        <item>Слот SIM2</item>
+     </string-array>
+     <string-array name="slideshow_time_entries">
+        <item>1 хвилина</item>
+        <item>3 хвилини</item>
+        <item>5 хвилин</item>
+        <item>15 хвилин</item>
+        <item>30 хвилин</item>
+        <item>1 час</item>
+        <item>Нескінченно</item>
      </string-array>
      <string-array name="startup_hips_action">
         <item>Дозволити</item>
@@ -335,25 +453,58 @@
         <item>Минув час очікування, повтор...</item>
         <item>Пристрій підключений</item>
      </string-array>
+     <string-array name="wifi_WEP_security_type">
+        <item>Авто</item>
+        <item>WEP ASCII</item>
+        <item>WEP hexadecimal</item>
+     </string-array>
+     <string-array name="wifi_ap_channel_width">
+        <item>20 МГц</item>
+        <item>Авто 20/40 МГц</item>
+     </string-array>
+     <string-array name="wifi_ap_max_connection_entries">
+        <item>1 користувач</item>
+        <item>2 користувачі</item>
+        <item>3 користувачі</item>
+        <item>4 користувачі</item>
+        <item>5 користувачів</item>
+        <item>6 користувачів</item>
+        <item>7 користувачів</item>
+        <item>8 користувачів</item>
+     </string-array>
      <string-array name="wifi_ap_security">
         <item>Без шифрування</item>
         <item>WPA PSK</item>
         <item>WPA2 PSK</item>
      </string-array>
-     <string-array name="wifi_eap_method">
-        <item>PEAP</item>
-        <item>TLS</item>
-        <item>TTLS</item>
-        <item>PWD</item>
+     <string-array name="wifi_ap_wps_mode_entries">
+        <item>Push кнопка</item>
+        <item>PIN від клієнта</item>
+     </string-array>
+     <string-array name="wifi_connect_type_entries">
+        <item>"Автопід\'єднання"</item>
+        <item>"Під\'єднання вручну"</item>
+        <item>Завжди запитувати</item>
      </string-array>
      <string-array name="wifi_frequency_band_entries">
         <item>Автоматично</item>
         <item>5 ГГц</item>
         <item>2.4 ГГц</item>
      </string-array>
+     <string-array name="wifi_hotspot_disable_policy_entries">
+        <item>Завжди</item>
+        <item>Вимикати при неактивності 5 хв.</item>
+        <item>Вимикати при неактивності 10 хв.</item>
+     </string-array>
      <string-array name="wifi_ip_settings">
         <item>Автоматично (DHCP)</item>
         <item>Статичний</item>
+     </string-array>
+     <string-array name="wifi_network_setup">
+        <item>Вимк.</item>
+        <item>Push-кнопка</item>
+        <item>PIN код точки доступу</item>
+        <item>PIN код цього пристрою</item>
      </string-array>
      <string-array name="wifi_p2p_status">
         <item>Підключено</item>
@@ -377,12 +528,6 @@
      <string-array name="wifi_proxy_settings">
         <item>Немає</item>
         <item>Вручну</item>
-     </string-array>
-     <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Слабкий</item>

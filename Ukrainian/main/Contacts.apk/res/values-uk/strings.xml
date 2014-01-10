@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="AirPlane_mode_on">Невозможно сохранить контакт когда активен режим самолета.</string>
+     <string name="AirPlane_mode_on_edit">Невозможно отредактировать контакт когда активен режим самолета.</string>
+     <string name="FDNEnabled">Невозможно сохранить контакт когда FDN активный.</string>
+     <string name="accessibility_calllog_detail">Инфо вызовов</string>
      <string name="account_abnormal_state">Невірна інформація облікового запису. Спробуйте увійти знову або поторіть спробу пізніше!</string>
      <string name="account_container_title">Із облік. запису</string>
      <string name="account_default">Телефон</string>
      <string name="account_phone">Тільки телефон, без синхронізації</string>
      <string name="account_sim">SIM-карта</string>
      <string name="account_type_format">Контакт %1$s</string>
+     <string name="account_unactivated">Учетная запись Xiaomi не активирован.</string>
      <string name="actionIncomingCall">Вхідний виклик</string>
      <string name="action_menu_overflow_description">Додаткові опції</string>
+     <string name="activity_not_found_uri">Приложения для открытия файлов данного формата не найдено</string>
      <string name="activity_title_confirm_add_detail">Додавання даних</string>
      <string name="activity_title_contacts_filter">Фільтр контактів</string>
      <string name="activity_title_settings">Налаштування</string>
@@ -18,6 +24,7 @@
      <string name="add_blacklist">Чорний список</string>
      <string name="add_connection_button">Додати соцмережу</string>
      <string name="add_contact_dlg_message_fmt">Додати в контакти %s?</string>
+     <string name="add_contact_dlg_title">Добавить контакт</string>
      <string name="add_field">Додати поле</string>
      <string name="add_new_account">Додати облік. запис</string>
      <string name="add_new_entry_for_section">Додати</string>
@@ -30,6 +37,7 @@
      <string name="aggregation_suggestion_edit_dialog_message">Переключитися на редагування вибраного контакту? Введена інформація буде скопійована.</string>
      <string name="aggregation_suggestion_edit_dialog_title">Редагувати вибрані контакти</string>
      <string name="aggregation_suggestion_join_dialog_message">"Об'єднати поточний контакт з обраним контактом?"</string>
+     <string name="aggregation_suggestion_join_dialog_title">"Об\'соединять контакты"</string>
      <string name="all_list_empty">Немає контактів</string>
      <string name="all_resources">Все</string>
      <string name="antispam_mark_my_contribution">Мій внесок в спам-фільтр</string>
@@ -56,6 +64,7 @@
      <string name="callBack">Передзвонити</string>
      <string name="callDetailTitle">Відомості про виклик</string>
      <string name="callDetailsDurationFormat" formatted="false">%s:%s</string>
+     <string name="callNoAnswerTimeFormat">Вызов: %s гудков</string>
      <string name="callShortcutActivityTitle">Виберіть номер для виклику</string>
      <string name="call_assistant">Виклик: %s</string>
      <string name="call_callback">Зворотній виклик</string>
@@ -94,15 +103,23 @@
      <string name="callrecordview_item_op_time_rejected">Відхилений</string>
      <string name="callrecordview_item_op_time_short_incoming">|</string>
      <string name="callrecordview_item_op_time_short_outgoing">|</string>
+     <string name="callrecordview_menu_add_call_note">Добавить заметки вызова</string>
      <string name="callrecordview_menu_delete">Видалити виклик</string>
      <string name="callrecordview_menu_delete_accepted">Очистити журнал прийнятих дзвінків</string>
      <string name="callrecordview_menu_delete_all">Очистити всі дзвінки</string>
      <string name="callrecordview_menu_delete_called">Очистити журнал вихідних дзвінків</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Підтвердіть дію
+%s? -->
      <string name="callrecordview_menu_delete_confirm">Журнал дзвінків буде очищений</string>
      <string name="callrecordview_menu_delete_missed">Очистити пропущені виклики</string>
      <string name="callrecordview_menu_delete_new">Очистити журнали викликів нових контактів</string>
      <string name="callrecordview_menu_delete_one">Видалити з журналу викликів</string>
+     <string name="callrecordview_menu_delete_sim">Очистить журнал вызовов %s</string>
      <string name="callrecordview_menu_delete_stranger">Відкрити пропущені дзвінки</string>
+     <string name="callrecordview_menu_edit_call_note">Редактировать заметки вызова</string>
      <string name="callrecordview_menu_paste">Вставити</string>
      <string name="callrecordview_menu_settings">Налаштування</string>
      <string name="callrecordview_menu_show">Фільтр</string>
@@ -111,14 +128,19 @@
      <string name="callrecordview_menu_show_called">Тільки вихідні</string>
      <string name="callrecordview_menu_show_missed">Тільки пропущені</string>
      <string name="callrecordview_menu_show_new">Нові контакти</string>
+     <string name="callrecordview_menu_show_sim">Вызовов: %s</string>
      <string name="callrecordview_menu_show_stranger">Тільки незнайомі</string>
      <string name="callrecordview_menu_show_title">Налаштування відображення</string>
      <string name="cancel_confirmation_dialog_message">Скасувати зміни?</string>
+     <string name="cancel_confirmation_dialog_title">Отменить изменения</string>
      <string name="cancel_export_confirmation_message">Скасувати експорт файлу \"%s\"?</string>
+     <string name="cancel_export_confirmation_title">Отменить экспорт vCard</string>
      <string name="cancel_import_confirmation_message">Скасувати імпорт файлу \"%s\"?</string>
+     <string name="cancel_import_confirmation_title">Отменить импорта vCard</string>
      <string name="cancel_import_dialog_message">Ви впевнені, що бажаєте зупинити імпорт контактів?</string>
      <string name="cancel_import_dialog_title">Зупинити імпорт</string>
      <string name="cancel_vcard_import_or_export_failed">Не вдалося скасувати імпорт/експорт vCard</string>
+     <string name="cannot_insert_null_number">Невозможно сохранить контакт, имя и номер пустые.</string>
      <string name="chat">Чат</string>
      <string name="chat_aim">Чат через AIM</string>
      <string name="chat_gtalk">Чат через Google Talk</string>
@@ -141,6 +163,7 @@
      <string name="click_close">Торкніться екрану, щоб закрити</string>
      <string name="close_dial_pad">закрыть клавиатуру</string>
      <string name="cloud_antispam_mark">Спам</string>
+     <string name="cloud_antispam_summary">Сетевые запросы только при Wi-Fi или 3G</string>
      <string name="cloud_antispam_title">Визначити спам номера</string>
      <string name="composer_failed_to_get_database_infomation">База даних недоступна</string>
      <string name="composer_has_no_exportable_contact">Не знайдені контакти для експорту. Можливо, експорт контактів з телефону не підтримується постачальником послуг передачі даних</string>
@@ -148,9 +171,10 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Удалить из журнала вызовов? -->
+     <!-- Original string: Видалити журнал викликів? -->
      <string name="confirm_delete_contact_all_call_logs">Видалити всі виклики контакту \"%s\"?</string>
      <string name="confirm_delete_selected_all_call_logs">Видалити всі виклики?</string>
+     <string name="confirm_delete_selected_call_log">Удалить выбранное из журнала?</string>
      <string name="confirm_delete_sim_entry_miui">Видалити обрані контакти з SIM-картb? (%d шт.)</string>
      <string name="confirm_export_message">Список контактів буде експортований у файл \"%s\"</string>
      <string name="confirm_export_title">Експорт контактів</string>
@@ -185,6 +209,7 @@
      <string name="contactsJoinedMessage">"Контакти об'єднані"</string>
      <string name="contactsList">Контакти</string>
      <string name="contacts_unavailable_add_account">Увійдіть в облік. запис</string>
+     <string name="contacts_unavailable_add_xiaomi_account">Синхронизация контактов Xiaomi</string>
      <string name="contacts_unavailable_create_contact">Створити новий контакт</string>
      <string name="contacts_unavailable_import_contacts">Імпорт контактів з файлу</string>
      <string name="copy_text">Копіювати в буфер обміну</string>
@@ -253,6 +278,7 @@
      <string name="description_summary">Інфо:</string>
      <string name="description_uploadtime">Оновлено:</string>
      <string name="description_version">Версія:</string>
+     <string name="description_version_szie">Версия: %1$s | Размер: %2$s</string>
      <string name="description_view_contact">Переглянути дані: %1$s</string>
      <string name="description_view_contact_detail">Дані контакту</string>
      <string name="description_voicemail_button">Голосова пошта</string>
@@ -260,6 +286,7 @@
      <string name="device_bluetooth_title">Підготовчі роботи</string>
      <string name="device_brand_title">Виберіть марку мобільного телефону</string>
      <string name="device_import_account_dialog_title">Виберіть облік. запис для імпорту</string>
+     <string name="device_import_account_dialog_title_prefix">"Найдено контактов: %1$s "</string>
      <string name="device_import_account_dialog_title_suffix">"
 (найдено %1$s контактов)"</string>
      <string name="device_import_done_toast">%1$d контактів імпортовано</string>
@@ -324,16 +351,22 @@
      <string name="editGroupDescription">Редагувати групу</string>
      <string name="edit_contact">Змінити контакт</string>
      <string name="edit_contact_card_title">Редагувати контакт</string>
+     <string name="edit_hint">Редактировать</string>
+     <string name="edit_photo">Редактировать изображения</string>
      <string name="email">Ел.пошта</string>
      <string name="emailLabelsGroup">Адреса ел. пошти</string>
+     <string name="email_2g_invalid">Невозможно сохранить e-mail на 2G SIM, выберите 3G SIM для сохранения.</string>
      <string name="email_custom">Ел.пошта (%s)</string>
      <string name="email_home">Особиста ел.пошта</string>
+     <string name="email_invalid">Невозможно сохранить неверный e-mail.</string>
      <string name="email_mobile">Моб. ел.пошта</string>
      <string name="email_other">Написати листа</string>
+     <string name="email_too_long">E-mail очень длинный.</string>
      <string name="email_work">Робоча ел.пошта</string>
      <string name="emptyGroup">Люди відсутні в групі</string>
      <string name="empty_divider_title">Ви можете</string>
      <string name="enter_contact_name">"Ім'я контакту"</string>
+     <string name="error_save_usim_contact_email_lost">Не удалось сохранить адрес электронной почты, память USIM для сохранения электронной почты заполнено.</string>
      <string name="eventLabelsGroup">Події</string>
      <string name="event_edit_field_hint_text">Дата</string>
      <string name="export_sim_contact_finish">Експорт на SIM-карту завершено</string>
@@ -345,6 +378,7 @@
      <string name="export_sim_contacts_dialog_message">На SIM-карту можні зберегти %d контактів, продовжити?</string>
      <string name="export_to_sdcard">Експорт на SD-карту</string>
      <string name="export_to_sim">Експорт на SIM-карту</string>
+     <string name="export_to_sim2">Експорт на SIM карту 2</string>
      <string name="export_to_sim_title">Експорт на SIM-карту...</string>
      <string name="export_vcard_description">Експортувати vCard на SD-карту</string>
      <string name="exporting_contact_failed_message">"Не вдалося експортувати дані.
@@ -369,15 +403,18 @@
      <string name="fail_reason_too_many_vcard">Занадто багато файлів VCard на SD-карті</string>
      <string name="fail_reason_unknown">Невідома помилка</string>
      <string name="fail_reason_vcard_parse_error">Не можливо відкрити vCard по невідомим причинам</string>
+     <string name="fail_to_add_account">Не удалось добавить учетную запись.</string>
      <string name="favoritesFrequentCalled">Часто викликаються</string>
      <string name="favoritesFrequentContacted">Часто контактують</string>
      <string name="favorites_list_empty">Немє обраних</string>
+     <string name="fix_number_too_long">Очень длинный номер.</string>
      <string name="foundTooManyContacts">Знайдено більше %d</string>
      <string name="frequency_none">Ніколи</string>
      <string name="frequency_three_days">Кожні 3 дні</string>
      <string name="frequency_weekly">Щотижня</string>
      <string name="frequentList">Часто викликаються</string>
      <string name="full_name">"Ім'я"</string>
+     <string name="generic_failure">Загальна помилка.</string>
      <string name="generic_no_account_prompt">Тримайте свої контакти в безпеці, навіть якщо Ви загубили свій телефон: синхронізація с онлайн-сервісом</string>
      <string name="generic_no_account_prompt_title">Додати облік. запис</string>
      <string name="ghostData_company">Організація</string>
@@ -390,6 +427,11 @@
      <string name="group_delete_success_toast">Группа успішно видалена</string>
      <string name="group_edit_field_hint_text">Назва групи</string>
      <string name="group_member_remove_toast">Контакт успішно видалений з групи</string>
+     <string name="group_name">Групи</string>
+     <string name="group_name_contacts">Контакти</string>
+     <string name="group_name_coworkers">Сотрудники</string>
+     <string name="group_name_family">"Сим\'я"</string>
+     <string name="group_name_friends">Друзья</string>
      <string name="group_name_hint">Назва групи</string>
      <string name="group_read_only">Доступно тільки для читання</string>
      <string name="group_rename_dialog_title">Змінення назви групи</string>
@@ -398,19 +440,20 @@
      <string name="group_sms_progress_msg">Підготовка до группової відправлення SMS...</string>
      <string name="groupsLabel">Групи</string>
      <string name="groups_list_empty">Немає груп</string>
-     <string name="hint_distance">Тримати дистанцію</string>
+     <string name="has_double_phone_number">Не удается сохранить тот же тип номера дважды, проверьте правильность введенных данных.</string>
      <string name="hint_findContacts">Знайти контакти</string>
      <string name="hint_more_contact">Використовувати злиття контакту, при його виході з контактів дублікатів</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 0
 	%d: 0 must: 1 -->
-     <!-- Original string: Контактов: %d -->
+     <!-- Original string: Контактів: %d -->
      <string name="hint_search_contacts">Пошук контактів</string>
      <string name="hint_search_emails">Адресів ел. пошти: %d</string>
      <string name="hint_search_phone_numbers">Телефонів: %d</string>
      <string name="ic_menu_back">Назад</string>
      <string name="ic_menu_done">Готово</string>
      <string name="imLabelsGroup">Чат</string>
+     <string name="imei_invalid">Недействительный IMEI</string>
      <string name="import_all_sim_entries_miui">Імпорт всих контактів</string>
      <string name="import_all_vcard_string">Імпорт всіх файлів VCard</string>
      <string name="import_contact_card_button">Імпорт</string>
@@ -418,6 +461,7 @@
      <string name="import_from_other_phone">З іншого телефону</string>
      <string name="import_from_sdcard">Імпорт з SD-карти</string>
      <string name="import_from_sim">Імпортувати з SIM-картки</string>
+     <string name="import_from_sim2">Импорт с SIM карты 2</string>
      <string name="import_multiple_vcard_string">Імпорт декількох файлів vCard</string>
      <string name="import_name">"Ім'я"</string>
      <string name="import_one_vcard_string">Імпорт одного файлу VCard</string>
@@ -437,11 +481,13 @@
      <string name="import_weibo_error_unknown">Оновлення контактів: невідома помилка</string>
      <string name="import_weibo_error_user_cancel">Оновлення контактів: скасовано користувачем</string>
      <string name="import_weibo_fetch_followers">Отримання користувачів weibo…</string>
+     <string name="import_weibo_notification_title">Импорт контактов Sina Weibo...</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Обновлено контактов sina weibo: %s -->
+     <!-- Original string: Оновлено контактів: %s -->
      <string name="import_weibo_notification_title_done">Імпортування контактів sina weibo завершено</string>
+     <string name="import_weibo_progress_hint">Импорт...</string>
      <string name="import_weibo_progress_name">Співпадіння \"%1$s\"…</string>
      <string name="importing_sim_contacts_miui">Импорт контактов с SIM-карты…</string>
      <string name="importing_vcard_canceled_title">Імпорт файлу \"%s\" скасовано</string>
@@ -457,6 +503,7 @@
      <string name="label_notes">Примітки</string>
      <string name="label_sip_address">Інтернет виклик</string>
      <string name="launcherDialer">Телефон</string>
+     <string name="listAllContactsInAccount">Контактов в %s</string>
      <string name="listCustomView">Контакти в користувацькому вигляді</string>
      <string name="listFoundAllContactsZero">Нічого не знайдено</string>
      <string name="listSingleContact">Одиночний контакт</string>
@@ -471,6 +518,12 @@
      <string name="list_filter_customize">Налаштувати</string>
      <string name="list_filter_phones">Всі контакти з номерами телефонів</string>
      <string name="list_filter_single">Контакт</string>
+     <string name="liveFolderAll">Все контакты</string>
+     <string name="liveFolderFavorites">Отмеченные контакты</string>
+     <string name="liveFolderPhone">Контакты с номерами телефонов</string>
+     <string name="liveFolder_all_label">Все контакты</string>
+     <string name="liveFolder_favorites_label">Отмечены</string>
+     <string name="liveFolder_phones_label">Телефони</string>
      <string name="loading">Завантаження...</string>
      <string name="loading_group_members">Завантаження контактів...</string>
      <string name="loading_groups">Завантаження груп...</string>
@@ -481,6 +534,8 @@
      <string name="local_profile_title">Мій профіль</string>
      <string name="local_search_label">Всі контакти</string>
      <string name="locale_change_in_progress">Список контактів оновиться після зміни мови інтерфейсу</string>
+     <string name="login_before_recharging">Сначала надо авторизоваться.</string>
+     <string name="login_ok">Вход</string>
      <string name="lunarBirthdayLabelsGroup">Місячний день народження</string>
      <string name="make_primary">"Запам'ятати вибране"</string>
      <string name="map_custom">Перегляд адреси: %s</string>
@@ -495,6 +550,7 @@
      <string name="menu_bar_group_ringtone">Мелодія групи</string>
      <string name="menu_bar_group_ringtone_largeui">Мелодія</string>
      <string name="menu_bar_group_sms">SMS групі</string>
+     <string name="menu_batch_delete">Пакетное удаление контактов</string>
      <string name="menu_call">Подзвонити</string>
      <string name="menu_callNumber">Виклик: %s</string>
      <string name="menu_call_ip_number">Виклик через IP (виклик %s)</string>
@@ -505,6 +561,7 @@
      <string name="menu_create_contact_shortcut">На робочий стіл</string>
      <string name="menu_deleteContact">Видалити</string>
      <string name="menu_deleteGroup">Видалити</string>
+     <string name="menu_dial_ip_number">Вызов IP телефонии</string>
      <string name="menu_dialpad_text">Клавіатура</string>
      <string name="menu_discard">Скасувати</string>
      <string name="menu_display_all">Показати все</string>
@@ -513,6 +570,9 @@
      <string name="menu_done">Готово</string>
      <string name="menu_editContact">Змінити</string>
      <string name="menu_editGroup">Змінити</string>
+     <string name="menu_group_add_members">Добавить в группу</string>
+     <string name="menu_group_ringtone">Мелодия группы</string>
+     <string name="menu_group_sms">SMS группе</string>
      <string name="menu_help">Допомога</string>
      <string name="menu_import_export">Імпорт/експорт</string>
      <string name="menu_joinAggregate">"Об'єднати"</string>
@@ -522,12 +582,14 @@
      <string name="menu_new_group_action_bar">Нова група</string>
      <string name="menu_not_redirect_calls_to_vm">Включити голосову пошту</string>
      <string name="menu_redirect_calls_to_vm">Тільки голосова пошта</string>
+     <string name="menu_refresh">Оновити</string>
      <string name="menu_removeStar">Видалити з обраних</string>
      <string name="menu_search">Пошук</string>
      <string name="menu_select_all">Вибрати все</string>
      <string name="menu_select_none">Відмінити все</string>
      <string name="menu_sendSMS">Відправити SMS/MMS</string>
      <string name="menu_sendTextMessage">Відправити повідомлення</string>
+     <string name="menu_send_to_desktop">Отправить на домашний экран</string>
      <string name="menu_set_ring_tone">Поставити рингтон</string>
      <string name="menu_settings">Налаштування</string>
      <string name="menu_share">Надіслати</string>
@@ -539,11 +601,12 @@
      <!-- The count of MNPS does not match! Now: 2 must: 1
 	%s: 0 must: 0
 	%d: 2 must: 1 -->
-     <!-- Original string: Похожих контактов: %1$d -->
+     <!-- Original string: Контактів з однаковими даними: %1$d -->
      <string name="merge_contact_message">"(%1$d) контактів з частково дублюючими даними, (%2$d) об'єднано"</string>
      <string name="messageShortcutActivityTitle">Вибрати номер для відправки повідомлення</string>
      <string name="missing_name">(без імені)</string>
      <string name="move_and_resize">Зміна розміру і положення</string>
+     <string name="msg_loading_sim_contacts_toast">Загрузка SIM контактов в фоновом режиме, подождите минутку.</string>
      <string name="multipleContactDeleteConfirmation">Видалення цього контакту видалить всю інформацію про цей контакт із облік. записів</string>
      <string name="multipleContactDeleteConfirmationDetail">Видалення \"%s\" видалить всю інформацію про цей контакт із облік. записів</string>
      <string name="my_phone_not_provider_bluetooth">немає провайдера bluetooth</string>
@@ -558,6 +621,7 @@
      <string name="name_phonetic_middle">По батькові (транскрипція)</string>
      <string name="name_prefix">Форма звернення</string>
      <string name="name_suffix">Звання/титул</string>
+     <string name="name_too_long">Имя очень длинное.</string>
      <string name="next">далі</string>
      <string name="next_birthday">Наступний День народження: %s</string>
      <string name="nfc_vcard_file_name">Отримано з NFC</string>
@@ -633,12 +697,15 @@
  
 Завжди мати під рукою оновлені дані - на будь-якому пристрої.
 Синхронізувати всі контакти - ви ніколи не втратите їх "</string>
+     <string name="no_connection_dialog_title">"Ошибка\'соединение Bluetooth"</string>
      <string name="no_contact_details">Немає інших даних про ці контакти</string>
      <string name="no_contact_in_other_phone">Немає контактів</string>
+     <string name="no_contact_name">Имя контакта не сохранен</string>
      <string name="no_contacts_dialog_message">Людина не знайдена у Ваших контактах. Можливо він знаходиться в списку контактів на SIM-карті. Для пошуку, зробіть імпорт всих контактів з SIM-карти.</string>
      <string name="no_contacts_dialog_title">Контакт не знайдений</string>
      <string name="no_contacts_selected">Контакти не вибрані</string>
      <string name="no_sdcard_message">SD-карта не виявлена</string>
+     <string name="no_sdcard_title">Нет SD карты</string>
      <string name="non_phone_add_to_contacts">Додати в контакти</string>
      <string name="non_phone_caption">Номер телефону</string>
      <string name="non_phone_close">Закрити</string>
@@ -647,6 +714,7 @@
      <string name="not_applied">Не підтримується</string>
      <string name="notification_action_voicemail_play">Прослухати</string>
      <string name="notification_new_voicemail_ticker">Нове гол. повідомлення: %1$s</string>
+     <string name="number_too_long">Номер очень длинный.</string>
      <string name="online_no_network">"Не можливо під'єднатися до мережі"</string>
      <string name="online_search_hint">Введіть ключові слова</string>
      <string name="openDialKeyboard">Номеронабирач</string>
@@ -668,6 +736,7 @@
      <string name="payphone">Телефон-автомат</string>
      <string name="people">Контакти</string>
      <string name="phoneLabelsGroup">Телефон</string>
+     <string name="phone_book_busy">Телефонная книга сейчас занята, попробуйте позже.</string>
      <string name="phone_primary">Основний</string>
      <string name="photoPickerNotFoundText">В телефоні немає зображень</string>
      <string name="photo_package_activity_title">Фото пакет</string>
@@ -703,10 +772,15 @@
      <string name="pref_key_photo_word_title">Автоматичний вибір фото для контактів</string>
      <string name="pref_key_rebuild_t9_index_message">Індексація контактів для пошуку за допомогою T9</string>
      <string name="pref_key_rebuild_t9_index_title">Індексація</string>
+     <string name="pref_key_sim_manage">Управление SIM</string>
      <string name="pref_summary_import_from_account">Імпорт контактів з облік. запису Google в облік. запис Xiaomi</string>
      <string name="pref_title_account_import">Імпорт із облік. запису</string>
      <string name="pref_title_import_from_account">Імпорт в облік. запис Xiaomi</string>
      <string name="preference_auto_ip_summary_disable">Не ввімкнено</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Префікс IP провайдера -->
      <string name="preference_auto_ip_summary_on">Префікс оператора: %s</string>
      <string name="preference_auto_ip_title">Автоматичний IP</string>
      <string name="preference_contacts">Налаштування контактів</string>
@@ -728,6 +802,7 @@
      <string name="preference_phone">Нлаштування телефону</string>
      <string name="preference_phone_more_title">Інші налаштування</string>
      <string name="preference_remove_duplicate">Злиття дублікатів контактів</string>
+     <string name="preference_select_account_display">Отображения аккаунта</string>
      <string name="preference_simple_mode_description">Не відображати аватари, атрибуції, компанії і т.п.</string>
      <string name="preference_simple_mode_title">Простий режим</string>
      <string name="preference_smart_group_company_summary">Групування контактів по інформації про організацію</string>
@@ -746,12 +821,17 @@
      <string name="prepare_import">Підготовка імпорту</string>
      <string name="preview_contact_card_title">Імпортувати</string>
      <string name="previous">Назад</string>
+     <string name="primary_indicator">Основний</string>
      <string name="private_num">Прихований номер</string>
+     <string name="processing">Обробка…</string>
      <string name="profile_display_name">Налаштувати профіль</string>
      <string name="profile_name">Мій профіль</string>
      <string name="profile_name_photo">Я</string>
+     <string name="progress_notifier_message" formatted="false">Импорт %s/%s: %s</string>
      <string name="quickcontact_missing_app">Дія не підтримується в жодній з програм</string>
      <string name="quit_dialog_confirm_title">"Ви дійсно хочете вийти з об'єднання контактів?"</string>
+     <string name="raw_contact_account_label">Аккаунт: %1$s</string>
+     <string name="raw_contact_list_title">Этот контакт содержит в себе следующие %1$d основные контакты, выберите контакт для редактирования</string>
      <string name="readOnlyContactDeleteConfirmation">Цей контакт містить інформацію з різних облік. записів. Інформація з облік. записів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
      <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" містить інформацію з різних облік. записів. Інформація з облік. записів, доступних тільки для читання, буде прихована в ваших списках контактів, але не вилучена</string>
      <string name="readOnlyContactWarning">Неможливо видалити контакти з облік. запису, доступного тільки для читання, проте їх можна приховати в списках контактів</string>
@@ -774,6 +854,7 @@
      <string name="recent_updates">Недавні оновлення</string>
      <string name="redirect_calls_to_vm_confirm_message">Якщо ви не застосували це у оператора, будь ласка, не включайте. Інакше, можливо, ви не зможете отримувати виклики від цього контакту.</string>
      <string name="redirect_calls_to_vm_confirm_text">Увімкнути</string>
+     <string name="refresh">Оновити</string>
      <string name="relationLabelsGroup">Відносини</string>
      <string name="remind_btn_ignore">Пізніше</string>
      <string name="remind_btn_sync_now">Зараз</string>
@@ -782,67 +863,195 @@
      <string name="remove_duplicate">"MIUI допоможе Вам знайти та об'єднати дубльовані контакти. Вони не будуть об'єднані автоматично. Будь ласка, об'єнайте їх вручну.
 
 Натисніть на об'єднання та трошки зачекайте, поки автоматичне об'єднання не завершиться."</string>
+     <string name="resource_account_abnormal_state">Ошибка учетной записи: попробуйте позже.</string>
+     <string name="resource_account_current">Аккаунт: %1$s</string>
+     <string name="resource_account_fail_to_add">Ошибка добавления учетной записи.</string>
+     <string name="resource_account_login">Вход</string>
+     <string name="resource_account_login_before_action">Сначала необходимо авторизоваться в аккаунте Xiaomi</string>
+     <string name="resource_account_login_title">Вход</string>
+     <string name="resource_account_switch">Перемкнути</string>
      <string name="resource_alarm_default">Будильник</string>
      <string name="resource_app_name">Браузер ресурсів</string>
      <string name="resource_apply">Застосувати</string>
+     <string name="resource_apply_trial">Применить</string>
      <string name="resource_buy">Купити</string>
      <string name="resource_can_not_selected">%1$s не може бути вибраний!</string>
+     <string name="resource_category">Категории</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_1_star">1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_2_star">2</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_3_star">3</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_4_star">4</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_comment_5_star">5</string>
+     <string name="resource_comment_account_need_activitied">Активируйте свою учетную запись Xiaomi</string>
+     <string name="resource_comment_all_comments">Все</string>
+     <string name="resource_comment_average_score">Оценка</string>
+     <string name="resource_comment_bad_comments">Плохие</string>
+     <string name="resource_comment_current_version">Текущая версия</string>
+     <string name="resource_comment_date">%1$02d.%2$02d</string>
+     <string name="resource_comment_edit_comment">Додати коментар</string>
+     <string name="resource_comment_edit_comment_waiting">Загрузка истории...</string>
+     <string name="resource_comment_edit_text_default">Лишити коментар</string>
+     <string name="resource_comment_edit_title">Редактировать комментарий: %1$s</string>
+     <string name="resource_comment_entry_tips">Показать комментарии</string>
+     <string name="resource_comment_expand_full_text">Розгорнути▼</string>
+     <string name="resource_comment_footer">Пустые комментарии не показываются.</string>
+     <string name="resource_comment_good_comments">Хорошие</string>
+     <string name="resource_comment_invalid">Нажмите на звезды, чтобы оценить</string>
+     <string name="resource_comment_loading_list">Загрузка...</string>
+     <string name="resource_comment_name_default">Користувач %1$s</string>
+     <string name="resource_comment_no_average_score">-.-</string>
+     <string name="resource_comment_no_comment">Нет комментариев.</string>
+     <string name="resource_comment_publish">Отправить</string>
+     <string name="resource_comment_rate">Рейтинг:</string>
+     <string name="resource_comment_score_count">Пользователей: %1$s</string>
+     <string name="resource_comment_sending">Отправка комментария...</string>
+     <string name="resource_comment_title">Комментариев: %1$s</string>
+     <string name="resource_comment_upload_data_invalid">Неверный комментарий.</string>
+     <string name="resource_comment_upload_failed">Ошибка отправки комментария.</string>
+     <string name="resource_comment_upload_hint">Ваш комментарий будет показываться после небольшой проверки.</string>
+     <string name="resource_comment_upload_not_bought">Перед всем чем оставить комментарий, необходимо применить тему.</string>
+     <string name="resource_comment_upload_not_logined">Сначала необходимо авторизоваться</string>
+     <string name="resource_comment_upload_success">Комментарий отправлено! Ваш комментарий будет показываться после небольшой проверки.</string>
      <string name="resource_default">Стандарт</string>
      <string name="resource_default_name">Ресурс</string>
      <string name="resource_delete_all">Видалити вибрані ресурси (%1$d)?</string>
      <string name="resource_delete_confirm">Видалити ці ресурси?</string>
      <string name="resource_delta_update_failed">Ошибка обновления, нужно скачать полный ресурс</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 0
+	%s: 1 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: Вдале оновлення -->
      <string name="resource_delta_update_successful">Обновление завершено, сохраняю %1$s.</string>
+     <string name="resource_delta_update_total">%1$d обновление сохранены %2$s</string>
      <string name="resource_detail">Детально</string>
+     <string name="resource_detail_comment_title">Комментарии</string>
+     <string name="resource_detail_jump_to_online_title">Онлайн</string>
+     <string name="resource_detail_jump_to_same_author_title">От автора</string>
+     <string name="resource_detail_recommend_desiner_other_themes">Другие темы от автора %1$s</string>
+     <string name="resource_detail_recommend_desiner_themes">Тем: %1$s</string>
+     <string name="resource_detail_recommend_other_themes">Пользователям также понравилось</string>
+     <string name="resource_detail_update_log_title">Оновлення</string>
+     <string name="resource_detail_window_title">%1$s инфо</string>
      <string name="resource_download">Завантажити</string>
+     <string name="resource_download_trial">Пробна версия</string>
      <string name="resource_downloaded_title">Завантажені</string>
      <string name="resource_downloading">Завантаження</string>
+     <string name="resource_exchange">Викупити</string>
+     <string name="resource_exchange_confirm">Подтвердит</string>
+     <string name="resource_exchange_empty_format">Введите подарочный код!</string>
+     <string name="resource_exchange_has_bought">Вы уже купили эту тему.</string>
+     <string name="resource_exchange_has_expired">Срок действия кода истек.</string>
+     <string name="resource_exchange_has_used">Введенный код уже используется.</string>
+     <string name="resource_exchange_hint">Введите подарочный код</string>
+     <string name="resource_exchange_purchase_unkown_error">Произошла неизвестная ошибка. Перейдите по ссылке http://market.xiaomi.com для просмотра статуса платежа.</string>
+     <string name="resource_exchange_share_code_content">Вы получили подарочный код для темы %1$s. Код темы: %2$s. Нажмите для использования: %3$s.</string>
+     <string name="resource_exchange_share_code_dlg_content">Подарочный код, который вы приобрели для темы %1$sis: %2$s. Когда вы отправляете код другому пользователю MIUI, он сможет использовать его для загрузки этой темы.</string>
+     <string name="resource_exchange_share_code_dlg_title">Отправка</string>
+     <string name="resource_exchange_success">Готово! :)</string>
+     <string name="resource_exchange_unavailable">Тема с этим кодом недоступна.</string>
+     <string name="resource_exchange_universal_finish">Используйте этот код для загрузки темы из маркета.</string>
+     <string name="resource_exchange_universal_goon">Этот код может использоваться для загрузки любой теме в маркете.</string>
+     <string name="resource_exchange_window_title">Викупити</string>
+     <string name="resource_exchange_wrong_format_by_local">Неверный формат кода.</string>
+     <string name="resource_exchange_wrong_format_by_server">Ошибка проверки кода. Убедитесь, что вы ввели его корректно.</string>
+     <string name="resource_expand_full_text">Розгорнути</string>
      <string name="resource_get_auth_checking">Перевірка...</string>
      <string name="resource_get_auth_exceed_max_limit_tips">Тема не може працювати на цьому пристрої з Вашого облік. запису, так як обмеження складає до 10 мобільних пристроїв кожен рік. Будь ласка, спробуйте інші облік. записи Xiaomi.</string>
      <string name="resource_get_auth_exceed_max_limit_title">Перевищено межу авторизацій</string>
      <string name="resource_get_auth_missing">Тема завантажена з неофіційного маркету. Будь ласка, завантажте аналогічну тему з офіційного маркету.</string>
      <string name="resource_get_auth_retrieving">Отримання авторизації...</string>
+     <string name="resource_hint">Сигнал</string>
+     <string name="resource_import_failed">Ошибка импорта</string>
      <string name="resource_import_successful">Скачано.</string>
      <string name="resource_importing">Імпорт...</string>
      <string name="resource_list_title">Останні</string>
      <string name="resource_local">Локально %1$s</string>
+     <string name="resource_menu_refresh">Оновити</string>
      <string name="resource_mute">Без звуку</string>
+     <string name="resource_my">Локальные</string>
      <string name="resource_no_result">Немає результатів</string>
      <string name="resource_notification_default">Сповіщення</string>
+     <string name="resource_on_trial">Применение пробной версии: %1$s</string>
      <string name="resource_online">Онлайн %1$s</string>
+     <string name="resource_pack_confirm">Вы уже купили компонентов темы: %1$d, будет полезнее купить полный комплект, чем покупать по одному компоненту.</string>
+     <string name="resource_pack_discount_info">%1$s сохранен!</string>
+     <string name="resource_pack_price_info">%1$s оригинал</string>
+     <string name="resource_pack_warning">Вы уже купили компонентов темы: %1$d, будет полезнее купить другие компоненты по одному, чем полный комплект.</string>
+     <string name="resource_present">Подарунок</string>
      <string name="resource_price_free">Безкошт.</string>
      <string name="resource_price_unit">кредити MI</string>
+     <string name="resource_purchase_getting_order">Получение информации заказ...</string>
+     <string name="resource_purchase_verifying_payment">Проверка платежа...</string>
+     <string name="resource_purchase_waiting_payment">Ожидание информации по платежу...</string>
+     <string name="resource_ranking">Популярные</string>
+     <string name="resource_ranking_free">Бесплатные</string>
+     <string name="resource_ranking_purchase">Платные</string>
      <string name="resource_ringtone_default">Мелодиї</string>
+     <string name="resource_ringtone_playing_error">Ошибка воспроизведения</string>
+     <string name="resource_ringtone_volume_mute">Звук мелодии выключен.</string>
+     <string name="resource_save_to_note">Сохранить в заметки</string>
      <string name="resource_see_more">Детальніше</string>
      <string name="resource_select">Вибрати</string>
+     <string name="resource_selected">Новые</string>
+     <string name="resource_send">Отправить</string>
+     <string name="resource_server_alert_dialog_title">Ми скоро повернемося…</string>
      <string name="resource_server_out_of_service">Сервіс не доступний. Спробуйте пізніше.</string>
+     <string name="resource_share_subject">Отправить тему: %1$s</string>
+     <string name="resource_share_text">Я прислал вам тему: %1$s! Скачать можно по ссылке: %2$s</string>
+     <string name="resource_share_title">Отправить</string>
      <string name="resource_switch_account">Перекл.</string>
      <string name="resource_system_title">Системні</string>
      <string name="resource_tip_select_ringtone">Мелодія не вибрана</string>
      <string name="resource_title">Відомості</string>
      <string name="resource_title_select_ringtone">Виберіть мелодію</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Пробний період %1$s закінчився. Якщо вам сподобалося, ви можете придбати повну версію. -->
+     <string name="resource_trial_end_message">Пробный период"% 1$s закончился. Если вам понравилось, вы можете приобрести полную версию.</string>
+     <string name="resource_trial_end_purchase">Купить</string>
+     <string name="resource_trial_end_restore">Отменить</string>
+     <string name="resource_trial_end_title">Пробный время вышло</string>
+     <string name="resource_trial_time">(пробный время: %1$d мин.)</string>
+     <string name="resource_unable_to_access">Извините, в данный момент этот контент не доступен в вашем регионе.</string>
+     <string name="resource_unknow_error">Неизвестная ошибка.</string>
      <string name="resource_update">Онов.</string>
+     <string name="resource_user_know">Гаразд</string>
      <string name="resource_waiting_download">Очікування</string>
      <string name="restore_nickname">Відновити</string>
      <string name="returnCall">Зворотній виклик</string>
      <string name="ringLabelsGroup">Рінгтон</string>
+     <string name="ringtone_volume_mute">Звук отключен</string>
+     <string name="save">Сохранить</string>
      <string name="save_photo_progress">Збереження фото...</string>
      <string name="savingContact">Контакт зберігається...</string>
      <string name="savingDisplayGroups">Варіанти відображення зберігаються...</string>
      <string name="scan">Сканувати пристрій</string>
+     <string name="scan_duplicate">Поиск одинаковых данных, подождите</string>
      <string name="scan_duplicate_message">Контакти з повним дублюванням даних (%1$d)</string>
      <string name="scan_merge">Пошук можливих дублікатів контактів, будь ласка, почекайте...</string>
      <string name="scanning">Пошук пристроїв...</string>
      <string name="scanning_sdcard_failed_message">Не вдалося просканувати SD-карту. Причина: %s</string>
      <string name="scanning_sdcard_failed_title">SD-карта не просканована</string>
+     <string name="sdcard_not_mounted_dialog_message">"Вставте SD карту 
+"</string>
+     <string name="sdcard_not_mounted_dialog_title">SD карта отсутствует</string>
      <string name="sdcard_status_changed_dialog_message">Потрібен вихід. \ NБудь ласка, відкрийте це додаток ще раз, для оновлення ресурсів.</string>
      <string name="sdcard_status_changed_dialog_title">Змінився статус SD-карти</string>
      <string name="searchHint">Пошук контактів</string>
+     <string name="search_bar_hint">Поиск контактов</string>
      <string name="search_results_searching">Пошук...</string>
      <string name="search_settings_description">Імена контактів</string>
      <string name="searching_vcard_message">Пошук даних vCard на SD-карті...</string>
+     <string name="searching_vcard_title">Пошук vCard</string>
      <string name="select_all">Вибрати все</string>
      <string name="select_device">Виберіть пристрій для підключення</string>
+     <string name="select_groups">Выбрать группы</string>
      <string name="select_new_photo_from_photo_package">Вибрати нове фото з фото-пакету</string>
      <string name="select_none">Виберіть хоча б 1 контакт</string>
      <string name="select_photo_from_photo_package">Виберіть фотографію</string>
@@ -867,14 +1076,31 @@
      <string name="simContacts_empty">Немає контактів SIM-карті</string>
      <string name="simContacts_emptyLoading">Завантаження з SIM-карти...</string>
      <string name="simContacts_title">Контакти на SIM-картці</string>
+     <string name="sim_capacity">Просмотреть емкость SIM карты</string>
+     <string name="sim_capacity_content" formatted="false">Всего доступно: %d. Занято: %d。</string>
      <string name="sim_card_no_free_space_message">"Пам'ять SIM-карти заповнена. Будь ласка, очистіть SIM-карту і спробуйте ще раз."</string>
      <string name="sim_card_no_free_space_title">SIM-карта заповнена!</string>
      <string name="sim_contact_dropdown_menu_deselect_all_miui">Зняти все</string>
      <string name="sim_contact_dropdown_menu_select_all_miui">Обрати все</string>
+     <string name="sim_contact_existing">Контакт на SIM-карте уже существует.</string>
+     <string name="sim_contact_invalid">Некоректний контакт SIM</string>
+     <string name="sim_contact_number_missing">Номер контакта на SIM карте отсутствует.</string>
      <string name="sim_contact_search_error">Помилка при пошуку контактів на SIM-карті</string>
      <string name="sim_contacts">Контакти на SIM-карті</string>
+     <string name="sim_error_anr_full">Память для номеров заполнено.</string>
+     <string name="sim_error_email_full">Память для электронной почты заполнено.</string>
+     <string name="sim_error_email_too_long">Адрес электронной почты очень длинный.</string>
+     <string name="sim_error_generic_failure">Помилка.</string>
+     <string name="sim_error_not_ready">Загрузка контактов SIM карты, подождите...</string>
+     <string name="sim_error_number_too_long">Номер очень длинный.</string>
+     <string name="sim_error_password_error">Хибний пароль</string>
+     <string name="sim_error_storage_full">"Пам\'ять заповнено."</string>
+     <string name="sim_error_text_too_long">Имя очень длинное.</string>
      <string name="sim_export_loading">SIM-карта зчитується. Операція може зайняти декілька хвилин, будь ласка, зачекайте...</string>
      <string name="sim_indexed_contact_not_exist">Позиція %1$d не є припустимою на SIM-картці, повинна бути між %2$dі%3$d</string>
+     <string name="sim_invalid">Невозможно сохранить контакт, SIM карта недействительна.</string>
+     <string name="sim_invalid_fix_number">Невозможно сохранить, недопустимое количество исправлений.</string>
+     <string name="sim_invalid_number">Невозможно сохранить неверный номер.</string>
      <string name="sim_no_contact">Немає контактів на SIM-картці</string>
      <string name="single_group_list_empty">Немає контактів у групі</string>
      <string name="smart_group_company_label">За організаціями</string>
@@ -921,15 +1147,19 @@
      <string name="status_available">На місці</string>
      <string name="status_away">Відсутній(я)</string>
      <string name="status_busy">Не турбувати</string>
+     <string name="storage_full">"Пам\'ять заповнено."</string>
      <string name="strequentList">Уподобання</string>
      <string name="success_message_import_from_account">Імпорт завершено</string>
      <string name="summary_kind_title">Основна інформація</string>
      <string name="t9_search_guide">Введіть номер телефону або знайдіть контакт за допомогою T9</string>
+     <string name="t9_search_guide_pinyin">Введите номер или найдите его с помощью T9</string>
+     <string name="t9_search_guide_zhuyin">Введите номер телефона или выберите контакт с помощью T9</string>
      <string name="take_new_photo">Створити нове фото</string>
      <string name="take_photo">Сфотографувати</string>
      <string name="titleJoinContactDataWith">"Об'єднати контакти"</string>
      <string name="title_other_devices">Інші доступні пристрої</string>
      <string name="title_paired_devices">Сполучення пристроїв</string>
+     <string name="to_activate_the_account">Активируйте учетную запись Xiaomi.</string>
      <string name="toast_call_detail_error">Не вдається отримати відомості про виклик</string>
      <string name="toast_copy_done">Копіювання завершено</string>
      <string name="toast_copying">Копіювання…</string>
@@ -943,10 +1173,13 @@
      <string name="today">Сьогодні</string>
      <string name="type_incoming">Вхідний дзвінок</string>
      <string name="type_missed">Пропущений дзвінок</string>
+     <string name="type_mx_msg">Облачные сообщение</string>
      <string name="type_outgoing">Вихідний виклик</string>
      <string name="type_voicemail">Голосова пошта</string>
      <string name="unknown">Невідомо</string>
      <string name="unknown_contact_name">Невідомий контакт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="unkown_location"></string>
      <string name="upgrade_in_progress">Список контактів оновлюється...</string>
      <string name="upgrade_out_of_memory">"Контакти оновлюються.
  
@@ -987,5 +1220,17 @@
      <string name="voicemail_status_voicemail_not_available">Не вдалося підключитися до сервера голосової пошти</string>
      <string name="websiteLabelsGroup">Веб-сайт</string>
      <string name="wipe_data">Очистити дані</string>
+     <string name="yellowPageNavigationIconLabel">Сервисы</string>
+     <string name="yellowPageNavigationLabel">Сервисы</string>
+     <string name="yellowpage_navigation_menu_order">Мой заказ</string>
+     <string name="yellowpage_navigation_no_content">Нет результатов поиска</string>
+     <string name="yellowpage_navigation_search_city_name_hint">Город</string>
+     <string name="yellowpage_navigation_search_hint">Пошук</string>
+     <string name="yellowpage_navigation_search_offline_hint">Нет доступа к интернету</string>
+     <string name="yellowpage_navigation_search_result_network_error">Ошибка подключения к сети</string>
+     <string name="yellowpage_navigation_search_result_no_more">Больше результата нет</string>
+     <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
+     <string name="yellowpage_navigation_search_result_unknown_error">Неизвестная ошибка</string>
+     <string name="yellowpage_navigation_search_select_city">Выберите город</string>
      <string name="zero_items_selected">Виберіть контакти</string>
 </resources>

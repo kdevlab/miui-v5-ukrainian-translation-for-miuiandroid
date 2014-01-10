@@ -29,6 +29,14 @@
         <item quantity="other">виконавці</item>
         <item quantity="one">виконавець</item>
      </plurals>
+     <plurals name="Nexpiration_reminder">
+        <item quantity="other">Термін дії закінчується через% d дн.</item>
+        <item quantity="one">Термін дії закінчується через% d дн.</item>
+     </plurals>
+     <plurals name="Nexpired_remind">
+        <item quantity="other">Залишилося днів: %d</item>
+        <item quantity="one">Залишилося днів:: %d</item>
+     </plurals>
      <plurals name="Nfolders">
         <item quantity="other">"папки"</item>
         <item quantity="one">"папка"</item>
@@ -69,6 +77,10 @@
         <item quantity="other">Пісень видалено з плейлиста: %d</item>
         <item quantity="one">Пісень видалено з плейлиста: 1</item>
      </plurals>
+     <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">Пісні видалено з плейлиста: %d</item>
+        <item quantity="one">Пісню видалено з плейлиста: 1</item>
+     </plurals>
      <plurals name="Ntracks_search_result_format">
         <item quantity="other">Знайдено пісень: %d</item>
         <item quantity="one">Знайдено пісень: %d</item>
@@ -80,6 +92,9 @@
      <plurals name="Ntracks_total">
         <item quantity="other">Пісень: %d</item>
         <item quantity="one">Пісень: %d</item>
+     </plurals>
+     <plurals name="Nvip_expired_remind">
+        <item quantity="other">Закінчується термін дії доступу до музики високої якості (залишилося днів:% d)</item>
      </plurals>
      <plurals name="album_details_format">
         <item quantity="other">%1$s, %2$d пісень</item>

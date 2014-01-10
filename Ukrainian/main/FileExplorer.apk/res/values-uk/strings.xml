@@ -20,9 +20,12 @@
      <string name="bind_account_summary">"Якщо у вас вже є обліковий запис kuaipan, то її можна прив'язати до профілю Xiaomi, щоб синхронізувати дані"</string>
      <string name="binded_accout_description">"Ці два облік. записа були об'єднані. Тепер Ви можете увійти використовуючи або облік. запис Xiaomi, або облік. запис Kuaipan. У них обох будуть одні і тіж файли."</string>
      <string name="binded_accout_title">"В даний час Ви вже пов'язані з обліковим записом KuaiPan"</string>
+     <string name="binded_accout_warning">Внимание! Эта операция необратимое!</string>
+     <string name="binding_accout_title">"Прив\'вязкая к существующей учетной записи KuaiPan"</string>
      <string name="cache_size_label">Кеш</string>
      <string name="cancel">Скасувати</string>
      <string name="cancel_app_garbage_cleanup">Не очищати</string>
+     <string name="cancel_cleanup">Отменить очистки</string>
      <string name="cancel_with_count_down">Відміна (%d)</string>
      <string name="category_all">Всі</string>
      <string name="category_apk">Програми</string>
@@ -38,13 +41,19 @@
      <string name="choose_send_type">Вибір методу надсилання</string>
      <string name="choose_upload_location">Виберіть місце завантаження</string>
      <string name="clean_app_garbage">Очистити сміття (%d)</string>
+     <string name="clean_complete">Очищено</string>
      <string name="clean_message">Видалення %1$s</string>
      <string name="clean_title">Видаляти файли з кошика, якщо вони лежать там довше 30 днів</string>
      <string name="clean_trash_box">Очистити кошик</string>
+     <string name="clean_trash_box_failed">Ошибка удаления файлов предшествующих 30 суток с Помойки</string>
      <string name="cleaned">Очищено</string>
      <string name="cleaning">Очищення...</string>
      <string name="cleanup_complete">Готово</string>
+     <string name="cleanup_help">Удалите ненужные файлы. Освободите место для сохранения</string>
      <string name="cleanup_stopped">Очищення зупинено</string>
+     <string name="cleanup_tab_app">Очистка приложений</string>
+     <string name="cleanup_tab_garbage">Очистка системы</string>
+     <string name="clear_cache">Очистити кеш</string>
      <string name="close">Закрити</string>
      <string name="compress_fail">Помилка архівування, файл вже існує</string>
      <string name="compress_message">Архівувати в...</string>
@@ -57,7 +66,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Не удалось создать папку -->
+     <!-- Original string: Помилка створення теки -->
      <string name="create_new_folder_failed">Не вдалось створити папку %1$s</string>
      <string name="create_share_link_description">Створення посилання···</string>
      <string name="cution">Поради</string>
@@ -85,6 +94,7 @@
      <string name="dlg_error_unmount_text">"Couldn't unmount USB storage. Try again later."</string>
      <string name="download_failed">Помилка завантаження</string>
      <string name="download_link_completed">Я поділився %1$s через MiDrive. Натисніть посилання внизу для перегляду:</string>
+     <string name="download_successful">Загрузка завершена</string>
      <string name="downloading">Завантаження</string>
      <string name="empty_dir_cleanup_indication">%s пустих папок</string>
      <string name="empty_dir_title">Пусті папки</string>
@@ -123,6 +133,18 @@
 Мусор"</string>
      <string name="gbk_summary">Якщо ви використовуєте кодування GBK, наприклад, в Windows Explorer, оберіть цей тип кодування, щоб запобігти спотворенню тексту на китайській мові</string>
      <string name="give_up_cleaning">Відміна</string>
+     <string name="guide_access_files_through_phone">Загружены через интернет файлы будут отображаться в телефоне в разделе KuaiPan</string>
+     <string name="guide_access_files_through_web">"Они будут доступны через интернет на любом комп\'ютере"</string>
+     <string name="guide_advance_tech">Передовые технологии</string>
+     <string name="guide_begin_to_use">Начать использовать KuaiPan</string>
+     <string name="guide_changes_sync">Изменения синхронизируются на всех устройствах</string>
+     <string name="guide_congratulation_know_all">Посздоровляю! Теперь вы изучили KuaiPan! Начните использовать его прямо сейчас!</string>
+     <string name="guide_copy_to_sdcard">Вы можете копировать файлы с SD карты в KuaiPan</string>
+     <string name="guide_download_install_apk">Загрузите и установите клиент KuaiPan</string>
+     <string name="guide_install_app_on_several_computers">"Установите клиент KuaiPan на несколько комп\'компьютеров"</string>
+     <string name="guide_login_url">Посетите на своем ПК pan.xiaomi.com</string>
+     <string name="guide_manage_files_through_computer">Управляйте файлами в KuaiPan на своем ПК</string>
+     <string name="guide_senior_tech">"Обмен между комп\'компьютерами"</string>
      <string name="header_text_cleaned">сміття очищено</string>
      <string name="header_text_cleaning">сміття залишилось</string>
      <string name="header_text_scanned">можна очистити</string>
@@ -130,6 +152,7 @@
      <string name="instruction">Адреса синхронізації:</string>
      <string name="instruction_pre">Обмін файлами з ПК або Mac по FTP через мережу Wi-Fi</string>
      <string name="item_name">Без імені</string>
+     <string name="kingsoft_account">Учетная запись Kingsoft KuaiPan</string>
      <string name="kuaipan_over_space">В вашому MiDrive немає більше вільного місця</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">MiDrive</string>
@@ -137,9 +160,11 @@
      <string name="kuaipan_tech_support">Технічна підтримка: Kingsoft Kuaipan</string>
      <string name="load_err">Помилка завантаження</string>
      <string name="loading">Завантаження</string>
+     <string name="local_cache">Локальний кеш</string>
      <string name="local_cache_size">Розмір локального кешу: %s</string>
      <string name="login_reg_content">MiDrive дозволяє зберігати файли і синхронізувати їх між декількома пристроями.</string>
      <string name="login_reg_content0">KuaiPan - ваш інтернет диск</string>
+     <string name="login_reg_login_xiaomi">Вход в учетную запись Xiaomi</string>
      <string name="menu_item_cleanup">Очистка</string>
      <string name="menu_item_search">Пошук</string>
      <string name="menu_item_sort">Сортування</string>
@@ -154,6 +179,7 @@
      <string name="name_illegal">"Ім'я не може бути порожнім"</string>
      <string name="net_lose_connected">Мережа недоступна, не може отримати розмір</string>
      <string name="networkView_notConnected">Немає доступних мереж</string>
+     <string name="networkView_offline">Невозможно обновить в оффлайн режиме</string>
      <string name="new_folder_name">Нова папка</string>
      <string name="no">Ні</string>
      <string name="no_app_cache_indication">Немає кешу додатків</string>
@@ -177,6 +203,7 @@
      <string name="open_changed_file_title">файл змінено</string>
      <string name="operating">Обробка...</string>
      <string name="operation_cancel">Скасувати</string>
+     <string name="operation_cancel_selectall">Убрать выделение</string>
      <string name="operation_compress">Архівувати</string>
      <string name="operation_compressing">Архівація...</string>
      <string name="operation_copy">Копіювати</string>
@@ -207,6 +234,7 @@
      <string name="operation_rename_message">"Введіть нове ім'я"</string>
      <string name="operation_resume">Почати</string>
      <string name="operation_resume_all">Почати все</string>
+     <string name="operation_selectall">Вибрати все</string>
      <string name="operation_send">Надіслати</string>
      <string name="operation_show_sys">Показати системні</string>
      <string name="operation_unfavorite">Видалити з обраного</string>
@@ -215,6 +243,7 @@
      <string name="pull_to_signin">Потягніть вниз, щоб увійти в систему і отримати вільний простір</string>
      <string name="query_bind_state">Запит стану, будь ласка, почекайте ...</string>
      <string name="release_to_signin">Відпустіть для входу</string>
+     <string name="rename">Переименовать</string>
      <string name="rename_description">Перейменовується···</string>
      <string name="rename_failed">Перейменування《%1$s》не вдалось</string>
      <string name="restart_cleaning">Повтор</string>
@@ -222,15 +251,16 @@
      <!-- The count of MNPS does not match! Now: 0 must: 2
 	%s: 0 must: 0
 	%d: 0 must: 2 -->
-     <!-- Original string: Сканирование %d из %d... -->
+     <!-- Original string: Сканування %d додатків… (Всього: %d) -->
      <string name="scanning">Сканування...</string>
      <string name="scanning_on_going">Сканування...</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Свободно: %1$s -->
+     <!-- Original string: Доступно: %1$s -->
      <string name="sd_card_available">"Вільно: "</string>
      <string name="sd_card_size">SD-карта: %1$s</string>
+     <string name="sd_folder">SD карта</string>
      <string name="sd_full">SD-карта повна</string>
      <string name="sd_size_label">Сховище користувача</string>
      <string name="search_hint">"Введіть частину або всю назву файлу"</string>
@@ -245,6 +275,11 @@
      <string name="signin_error">Немає мережі або мережа нестабільна. Повторіть спробу пізніше :)</string>
      <string name="signin_success">"Ви успішно увійшли!
 Отримано %1$s."</string>
+     <string name="slide_left_text">Сдвиньте влево</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 2
+	%s: 2 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: KuaiPan: %1$ доступно, %2$s всього -->
      <string name="space_info">"Об'єм в мережі: %1$s доступно，всього: %2$s"</string>
      <string name="space_usage">Зайнято</string>
      <string name="start_cleanup">Очистка</string>
@@ -276,12 +311,12 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 0
 	%d: 0 must: 1 -->
-     <!-- Original string: Скачивание файлов (Осталось: %1$d)... -->
+     <!-- Original string: Лишилось завантажити файлів: %1$d -->
      <string name="ui_bar_txt_download_progress">Завантаження...</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 0
 	%d: 0 must: 1 -->
-     <!-- Original string: Загрузка файлов (Осталось: %1$d)... -->
+     <!-- Original string: Лишилось завантажити файлів: %1$d -->
      <string name="ui_bar_txt_upload_progress">Відправка...</string>
      <string name="ui_filechange_btn_download">Завантаження файла</string>
      <string name="ui_filechange_btn_upload">Завантажити файли</string>
@@ -291,10 +326,10 @@
      <string name="ui_main_toast_favorite_removed">Уподобання видалено</string>
      <string name="ui_main_toast_operation_failed">Помилка видаления %1$s</string>
      <string name="uninstall_app_data">Видалити додаток і всі дані</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unmount_inform_text">USB Storage буде демонтовано</string>
      <string name="upload_failed">Помилка завантаження</string>
      <string name="upload_file_toolarge_message">%1$d файлів розміром більше 300 Мб не можуть бути відправлені. Будь ласка, перевірте в Управлінні передачами</string>
+     <string name="upload_successful">Загрузка завершена</string>
      <string name="uploading">Завантаження</string>
      <string name="used">Використовується(но)</string>
      <string name="user_guide">Інструкція користувача</string>

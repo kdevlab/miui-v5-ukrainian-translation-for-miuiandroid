@@ -25,6 +25,18 @@
         <item quantity="other">Пароль повинен містити заголовні букви (не меньш ніж %d)</item>
         <item quantity="one">Пароль повинен містити хоча б 1 заголовну букву</item>
      </plurals>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d дн.</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">%d г.</item>
+        <item quantity="one">%d г.</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">%d хв.</item>
+        <item quantity="one">%d хв.</item>
+     </plurals>
      <plurals name="show_dev_countdown">
         <item quantity="other">Вам залишолось %1$d кроків, щоб стати розробником</item>
         <item quantity="one">Ви тепер у %1$d кроці(ів) від роробника.</item>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <plurals name="make_albums_available_offline">
+        <item quantity="other">Завантаження альбомів для офлайн-доступу.</item>
+        <item quantity="one">Завантаження альбома для офлайн-доступу</item>
+     </plurals>
      <plurals name="number_of_cloudimages">
         <item quantity="other">%1$d зображень</item>
         <item quantity="zero">%1$d зображення</item>

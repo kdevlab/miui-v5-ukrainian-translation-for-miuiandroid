@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="alert_sound_duration_summary" />
      <string name="alert_sound_duration_title">Тривалість звукового сигналу</string>
      <string name="app_label">Широкомовна передача повідомлень</string>
      <string name="button_cancel">Відміна</string>

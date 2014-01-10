@@ -18,6 +18,12 @@
         <item>"З пон. до п\'ятн."</item>
         <item>Встановити самому</item>
      </string-array>
+     <string-array name="alarm_repeat_type_no_workdays">
+        <item>Один раз</item>
+        <item>Щоденно</item>
+        <item>С ПН по ПТ</item>
+        <item>Свої налаштування</item>
+     </string-array>
      <string-array name="alarm_set">
         <item>Будильник задзвонить менш ніж за хвилину</item>
         <item>Будильник задзвонить через %1$s</item>
@@ -28,9 +34,9 @@
         <item>Будильник задзвонить через %2$s та %3$s</item>
         <item>Будильник задзвонить через %1$s, %2$s та %3$s</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 8 must: 9 -->
      <string-array name="auto_silence_entries">
-        <item>Відключено</item>
+        <item>Выкл</item>
+        <item>1 хвилина</item>
         <item>5 хвилин</item>
         <item>10 хвилин</item>
         <item>15 хвилин</item>
@@ -43,8 +49,8 @@
         <item>Сьогодні</item>
         <item>Завтра</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 7 must: 8 -->
      <string-array name="snooze_duration_entries">
+        <item>1 хвилина</item>
         <item>5 хвилин</item>
         <item>10 хвилин</item>
         <item>15 хвилин</item>

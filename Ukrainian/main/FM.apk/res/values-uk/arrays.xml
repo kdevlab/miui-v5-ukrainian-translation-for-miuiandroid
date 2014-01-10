@@ -1,16 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="ster_mon_entries">
-        <item>Стерео</item>
-        <item>Моно</item>
-    </string-array>
-    <string-array name="sleep_duration_values">
-        <item>15 хв</item>
-        <item>30 хв </item>
-        <item>45 хв </item>
-        <item>1 година</item>
-    </string-array>
-    <string-array name="search_category_rbds_entries">
+     <string-array name="cfg_rf">
+        <item>Установити FM RSSI Delta</item>
+        <item>Установити поріг сигналу</item>
+        <item>RF статистика</item>
+     </string-array>
+     <string-array name="presetlist_edit_category">
+        <item>Перейменувати</item>
+        <item>Автовибір</item>
+        <item>Видалити</item>
+     </string-array>
+     <string-array name="regional_band_entries">
+        <item>Північна Америка</item>
+        <item>Європа</item>
+        <item>Японія</item>
+        <item>Японія (Wide)</item>
+        <item>Австралія</item>
+        <item>Австрія</item>
+        <item>Бельгія</item>
+        <item>Бразилія</item>
+        <item>Китай</item>
+        <item>Чехія</item>
+        <item>Данія</item>
+        <item>Фінляндія</item>
+        <item>Франція</item>
+        <item>Германія</item>
+        <item>Греція</item>
+        <item>Гонконг</item>
+        <item>Індія</item>
+        <item>Ірландія</item>
+        <item>Італія</item>
+        <item>Корея</item>
+        <item>Мексика</item>
+        <item>Нідерланди</item>
+        <item>Нова Зеландія</item>
+        <item>Норвегія</item>
+        <item>Польша</item>
+        <item>Португалія</item>
+        <item>Росія</item>
+        <item>Сінгапур</item>
+        <item>Словаччина</item>
+        <item>Іспанія</item>
+        <item>Швейцарія</item>
+        <item>Швеція</item>
+        <item>Тайвань</item>
+        <item>Туреччина</item>
+        <item>Великобританія</item>
+        <item>США</item>
+        <item>Венесуела</item>
+     </string-array>
+     <string-array name="rf_cfg">
+        <item>Одержати поточні параметри станції</item>
+        <item>Одержати параметри станції з повторенням в 20 раз</item>
+        <item>Одержати параметри пошуку станцій</item>
+        <item>Одержати параметри розгорнення діапазону</item>
+        <item>Настроїти пошукові параметри радіо</item>
+     </string-array>
+     <string-array name="search_category_rbds_entries">
         <item>Усі станції</item>
         <item>Старі хіти</item>
         <item>Класика</item>
@@ -38,8 +85,8 @@
         <item>Розмова</item>
         <item>Топ 40</item>
         <item>Погода</item>
-    </string-array>
-    <string-array name="search_category_rds_entries">
+     </string-array>
+     <string-array name="search_category_rds_entries">
         <item>Усі станції</item>
         <item>Культура</item>
         <item>Поточні події</item>
@@ -72,104 +119,20 @@
         <item>Подорожі</item>
         <item>Разноe</item>
         <item>Погода</item>
-    </string-array>
-    <string-array name="presetlist_edit_category">
-        <item>Перейменувати</item>
-        <item>Автовибір</item>
-        <item>Видалити</item>
-    </string-array>
-    <string-array name="regional_band_entries">
-        <item>Північна Америка</item>
-        <item>Європа</item>
-        <item>Японія</item>
-        <item>Японія (Wide)</item>
-        <item>Австралія</item>
-        <item>Австрія</item>
-        <item>Бельгія</item>
-        <item>Бразилія</item>
-        <item>Китай</item>
-        <item>Чехія</item>
-        <item>Данія</item>
-        <item>Фінляндія</item>
-        <item>Франція</item>
-        <item>Німеччина</item>
-        <item>Греція</item>
-        <item>Гонконг</item>
-        <item>Індія</item>
-        <item>Ірландія</item>
-        <item>Італія</item>
-        <item>Корея</item>
-        <item>Мексика</item>
-        <item>Нідерланди</item>
-        <item>Нова Зеландія</item>
-        <item>Норвегія</item>
-        <item>Польща</item>
-        <item>Португалія</item>
-        <item>Росія</item>
-        <item>Сінгапур</item>
-        <item>Словаччина</item>
-        <item>Іспанія</item>
-        <item>Швейцарія</item>
-        <item>Швеція</item>
-        <item>Тайвань</item>
-        <item>Туреччина</item>
-        <item>Великобританія</item>
-        <item>США</item>
-    </string-array>
-    <string-array name="regional_band_summary">
-        <item>North America (87.5Mhz To 108.0Mhz In 200 Khz Steps)</item>
-        <item>Europe (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Japan (76.0Mhz To 90.0Mhz In 100 Khz Steps)</item>
-        <item>Japan (Wide) (90.0Mhz To 108.0Mhz In 50 Khz Steps)</item>
-        <item>Australia (87.7Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Austria (87.5Mhz To 108.0Mhz In 50 Khz Steps)</item>
-        <item>Belgium (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Brazil (87.8Mhz To 108.0Mhz In 200 Khz Step)</item>
-        <item>China (87.0Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Czech (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Denmark (87.5Mhz To 108.0Mhz In 50 Khz Steps)</item>
-        <item>Finland (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>France (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Germany (87.5Mhz To 108.0Mhz In 50 Khz Steps)</item>
-        <item>Greece (87.5Mhz To 108.0Mhz In 50 Khz Steps)</item>
-        <item>Hong Kong (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>India (91.0Mhz To 106.4Mhz In 100 Khz Steps)</item>
-        <item>Ireland (87.5Mhz To 108.0Mhz In 50 Khz Steps)</item>
-        <item>Italy (87.5Mhz To 108.0Mhz In 50 Khz Steps)</item>
-        <item>Korea (87.5Mhz To 108.0Mhz In 200 Khz Steps)</item>
-        <item>Mexico (88.1Mhz To 107.9Mhz In 200 Khz Steps)</item>
-        <item>Netherlands (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>New Zealand (88.0Mhz To 107.0Mhz In 100 Khz Steps)</item>
-        <item>Norway (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Poland (88.0Mhz To 108.0Mhz In 50 Khz Steps)</item>
-        <item>Portugal (87.5Mhz To 108.0Mhz In 50 Khz Steps)</item>
-        <item>Russia (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Singapore (88.0Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Slovakia (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Spain (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Switzerland (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Sweden (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Taiwan (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>Turkey (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>United Kingdom (87.5Mhz To 108.0Mhz In 100 Khz Steps)</item>
-        <item>United States (88.1Mhz To 107.9Mhz In 200 Khz Steps)</item>
-    </string-array>
-    <string-array name="rf_cfg">
-        <item>Одержати поточні параметри станції</item>
-        <item>Одержати параметри станції з повторенням в 20 раз</item>
-        <item>Одержати параметри пошуку станцій</item>
-        <item>Одержати параметри розгорнення діапазону</item>
-        <item>Настроїти пошукові параметри радіо</item>
-    </string-array>
-    <string-array name="cfg_rf">
-        <item>Установити FM RSSI Delta</item>
-        <item>Установити поріг сигналу</item>
-        <item>RF статистика</item>
-    </string-array>
-    <string-array name="stats_options">
+     </string-array>
+     <string-array name="sleep_duration_values">
+        <item>15 хв</item>
+        <item>30 хв </item>
+        <item>45 хв </item>
+        <item>1 година</item>
+     </string-array>
+     <string-array name="stats_options">
         <item>Виберіть опцію</item>
         <item>Налаштування FM пошуку</item>
         <item>RF статистика</item>
-    </string-array>
+     </string-array>
+     <string-array name="ster_mon_entries">
+        <item>Стерео</item>
+        <item>Моно</item>
+     </string-array>
 </resources>
-

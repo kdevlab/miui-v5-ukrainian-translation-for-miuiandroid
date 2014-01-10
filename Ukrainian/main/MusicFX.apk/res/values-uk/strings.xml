@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="app_name">MusicFX</string>
      <string name="bass_boost_strength">Підсилення нижніх частот</string>
      <string name="ci_extreme">Підсилювач FX</string>
      <string name="eq_dialog_title">Еквалайзер</string>
+     <string name="eq_preset_classical">Класичний</string>
+     <string name="eq_preset_dance">Танцевальный</string>
+     <string name="eq_preset_flat">Легкий</string>
+     <string name="eq_preset_folk">Народний</string>
+     <string name="eq_preset_heavymetal">Хэви металл</string>
+     <string name="eq_preset_hiphop">Хип-Хоп</string>
+     <string name="eq_preset_jazz">Джаз</string>
+     <string name="eq_preset_normal">Стандартний</string>
+     <string name="eq_preset_pop">Поп</string>
+     <string name="eq_preset_rock">Рок</string>
      <string name="headset_plug">Підключіть навушники для цих ефектів</string>
      <string name="main_toggle_effects_title">Аудіоефекти</string>
      <string name="no_effects">Ефекти недоступні</string>
@@ -12,6 +21,7 @@
      <string name="pr_dialog_title">Шаблон ревербератора</string>
      <string name="pr_summary">Додаткові ефекти реверберації в приміщенні</string>
      <string name="pr_title">Реверберація:</string>
+     <string name="presetreverb_name">Профили</string>
      <string name="setup">Налаштування</string>
      <string name="user">Користувач</string>
      <string name="virtualizer_strength">Ефект 3D</string>

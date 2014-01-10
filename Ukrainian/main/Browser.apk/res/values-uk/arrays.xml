@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <!-- The size of the array does not match! Now: 17 must: 29 -->
      <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
@@ -19,15 +18,6 @@
         <item>http://www.wikipedia.org/</item>
         <item>ROMZ.bz</item>
         <item>http://www.romz.bz/</item>
-     </string-array>
-     <string-array name="menu_theme_setting">
-        <item>Біла</item>
-        <item>Жовта</item>
-        <item>Сіра</item>
-        <item>Коричнева</item>
-        <item>Зелена</item>
-        <item>Синя</item>
-        <item>Темна</item>
      </string-array>
      <string-array name="pref_content_plugins_choices">
         <item>Так</item>
@@ -58,14 +48,9 @@
         <item>Кнопки назад або вперед</item>
         <item>Переключення вкладок</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 7 must: 4 -->
      <string-array name="pref_homepage_choices">
-        <item>Поточна сторінка</item>
-        <item>Домашня MIUI</item>
-        <item>Пуста сторінка</item>
-        <item>Сторінка за замовчуванням</item>
-        <item>Часто відвідувані веб-сайти</item>
-        <item>Інша</item>
+        <item>Популярні сайти</item>
+        <item>Іньша</item>
      </string-array>
      <string-array name="pref_images_preload_choices">
         <item>Ніколи</item>
@@ -92,15 +77,5 @@
      <string-array name="pref_volume_key_choices">
         <item>Прокрутка сторінки</item>
         <item>Переключення вкладок</item>
-     </string-array>
-     <string-array name="search_engines">
-        <item>google</item>
-        <item>yandex_ru</item>
-        <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
      </string-array>
 </resources>

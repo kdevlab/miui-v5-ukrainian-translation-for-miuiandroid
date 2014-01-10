@@ -6,13 +6,11 @@
      <string name="account_delete_dlg_title">Видалити облік. запис</string>
      <string name="account_duplicate_dlg_message_fmt">"Це ім'я вже використовується в облік. записі \"%s\""</string>
      <string name="account_duplicate_dlg_title">Копіювати облік. запис</string>
-     <string name="account_error">Не вдалося отримати дані облік. записа</string>
      <string name="account_folder_list_summary_drafts">Чернетки</string>
      <string name="account_folder_list_summary_inbox">Вхідні</string>
      <string name="account_folder_list_summary_outbox">Вихідні</string>
      <string name="account_folder_list_summary_starred">Помічені</string>
      <string name="account_name_display_all">Усі облік. записи</string>
-     <string name="account_out_of_quota">Перевищено дискову квоту для облік. запису</string>
      <string name="account_password_spaces_error">Пароль починається або закінчується пробілом. Деякі сервери не підтримують паролі з пробілами</string>
      <string name="account_security_dialog_content_fmt">Для облік. записа %s потрібно оновити налаштування безпеки</string>
      <string name="account_security_dialog_title">Оновлення безпеки</string>
@@ -36,7 +34,7 @@
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Неверное имя пользователя или пароль аккаунта %s. Обновить их сейчас? -->
+     <!-- Original string: Хибне ім\'я користувача або пароль облікового запису %s. Оновити їх зараз? -->
      <string name="account_settings_login_dialog_content_fmt">"Невірне ім'я користувача або пароль облік. запису% s. Оновити їх зараз?"</string>
      <string name="account_settings_login_dialog_title">Не вдалося увійти в облік. запис</string>
      <string name="account_settings_mail_check_frequency_label">Частота перевірки папки \"Вхідні\"</string>
@@ -216,7 +214,6 @@
      <string name="choosertitle_sharevia">Відправити через</string>
      <string name="cleared_trusted_senders_message">Очистити \"Показати фотографію\", зображення в повідомленнях не будуть показані автоматично.</string>
      <string name="close_action">Закрити</string>
-     <string name="completed_no_file">Файл не знайдений</string>
      <string name="compose_action">Нове повідомлення</string>
      <string name="compose_title">Нове повідомлення</string>
      <string name="contextmenu_add_contact">Додати контакт</string>
@@ -238,16 +235,8 @@
      <string name="default_signature">З повагою, </string>
      <string name="delete_action">Видалити</string>
      <string name="delete_quick_response_action">Видалити</string>
-     <string name="destination_format">%1$s \"%2$s\"</string>
      <string name="device_admin_description">Включення серверних політик безпеки</string>
      <string name="device_admin_label">Електронна пошта</string>
-     <string name="dialog_first_wifi">"Великі файли будуть завантажуватися тільки через з'єднання Wi-Fi"</string>
-     <string name="dialog_sync_all_canceled">Команда \"Синхронізувати всі\" скасована</string>
-     <string name="dialog_sync_all_error_title">Cинхронізувати все</string>
-     <string name="dialog_sync_all_found_none">Додаткових фотографій або відеороликів не знайдено</string>
-     <string name="dialog_sync_all_preparing">Підготовка %1$d фото та %2$d відео до завантаження...</string>
-     <string name="dialog_sync_all_scanning">Пошук файлів...</string>
-     <string name="dialog_sync_all_server_error">"Не вдалося зв'язатись з сервером. Повторіть спробу пізніше"</string>
      <string name="disable_admin_warning">"УВАГА! Відключення прав на адміністрування вашого пристрою для програми Email призведе до видалення всих облік. записів електронної пошти, які використовують ці права. Крім того, будуть видалені всі листи, контакти, календарі та інші дані, пов'язані з цими облік. записами"</string>
      <string name="discard_action">Відмінити</string>
      <string name="done">Назад</string>
@@ -258,12 +247,7 @@
      <string name="exchange_name">Корпоративний</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
-     <string name="failed_bad_response">Помилка служби</string>
-     <string name="failed_network_error">Помилка мережі</string>
-     <string name="failed_server_auth">Не вдалося виконати аутентифікацію</string>
      <string name="favorite_action">Помітити</string>
-     <string name="finished_empty">Список завершених завантажень порожній</string>
-     <string name="format_date_uploaded">Завантажено %s</string>
      <string name="forward_action">Переслати</string>
      <string name="forward_download_failed_ticker">Збій при пересиланні прикріплених файлів</string>
      <string name="forward_download_failed_title">Не вдалося переслати вкладення</string>
@@ -308,30 +292,8 @@
      <string name="mailbox_settings_mailbox_check_frequency_label">Частота перевірки</string>
      <string name="mailbox_settings_mailbox_sync_window_label">Період синхронізації</string>
      <string name="mailbox_shortcut_picker_title">Виберіть папку</string>
-     <string name="manager_activity_last_sync_format">"Остання синхронизація: 
-%1$s
-%2$s"</string>
-     <string name="manager_do_not_upload">Не завантажувати</string>
-     <string name="manager_list_switcher_completed_format">Завершені завантаження [%d]</string>
-     <string name="manager_list_switcher_pending_format">Незавершені завантаження [%d]</string>
-     <string name="manager_pause">Призупинити завантаження</string>
-     <string name="manager_resume">Продовжити завантаження</string>
-     <string name="manager_retry">Повторити спробу</string>
-     <string name="manager_sync_all">Синхронізувати все</string>
-     <string name="manager_toast_canceled">Завантаження відмінено</string>
-     <string name="manager_toast_not_canceled">Завантаження вже завершено</string>
-     <string name="manager_upload_later">Завантажити пізніше</string>
-     <string name="manager_upload_now">Завантажити</string>
-     <string name="manager_view_completed">Переглянути завершені</string>
-     <string name="manager_view_media">Переглянути</string>
-     <string name="manager_view_pending">Переглянути незавершені</string>
      <string name="mark_as_unread_action">Позначити як непрочитане</string>
-     <string name="menu_hide_completed_items">Приховати деталі</string>
-     <string name="menu_hide_pending_items">Приховати незавершені завантаження</string>
      <string name="menu_settings">Налаштування</string>
-     <string name="menu_show_completed_items">Показати деталі</string>
-     <string name="menu_show_pending_items">Показати незавершені завантаження</string>
-     <string name="menu_view_online">Переглянути в Інтернеті</string>
      <string name="message_compose_attachment_size">Файл має занадто великий розмір і не може бути прикладений</string>
      <string name="message_compose_bcc_hint">Прихована копія</string>
      <string name="message_compose_cc_hint">Копія</string>
@@ -411,15 +373,13 @@
      <string name="move_action">Перемістити</string>
      <string name="move_to_folder_dialog_title">Перемістити в папку</string>
      <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+     <string name="newer_action">Новые</string>
      <string name="next_action">Далі</string>
      <string name="notification_multiple_new_messages_fmt">Нових повідомлень: %1$d</string>
      <string name="notification_to_account">Кому: %1$s</string>
-     <string name="notify_activation_reminder">Функція завантаження з телефону ще не активовано</string>
-     <string name="notify_paused">Завантаження припинені</string>
-     <string name="notify_resolved">Завантаження завершені</string>
-     <string name="notify_uploads">Завантаження з телефону</string>
      <string name="ok">ОК</string>
      <string name="okay_action">ОК</string>
+     <string name="older_action">Старые</string>
      <string name="password_expire_warning_content_title">Закінчується строк дії пароля</string>
      <string name="password_expire_warning_dialog_content_fmt">Вам необхідно найближчим часом змінити PIN-код чи пароль блокування екрану, інакше дані облік. запису %s будуть видалені. Змінити зараз?</string>
      <string name="password_expire_warning_dialog_title">Завершується термін дії пароля</string>
@@ -428,68 +388,16 @@
      <string name="password_expired_dialog_content_fmt">Дані облік. запису %s видаляються з вашого пристрою. Ви можете відновити їх, змінивши свій PIN-код або пароль блокування екрану. Змінити його зараз?</string>
      <string name="password_expired_dialog_title">Пароль блокування екрану застарів</string>
      <string name="password_expired_ticker">Термін дії вашого PIN-коду або пароля блокування екрана минув</string>
-     <string name="pause_state_low_battery">призупинено – низький рівень заряду батареї</string>
-     <string name="pause_state_manually_paused">призупинено вручну</string>
-     <string name="pause_state_need_charger">призупинено – до закінчення зарядки</string>
-     <string name="pause_state_need_connectivity">призупинено – очікування підключення</string>
-     <string name="pause_state_need_media">призупинено – відсутня SD-карта</string>
-     <string name="pause_state_need_photos_quota">призупинено – перевищена квота для Веб-альбомів Picasa</string>
-     <string name="pause_state_need_wifi">призупинено – очікування підключення Wi-Fi</string>
-     <string name="pause_state_retrying">очікування повторної спроби</string>
-     <string name="pause_state_roaming">призупинено – роумінг</string>
-     <string name="pause_state_running">Завантаження</string>
      <string name="permission_access_provider_desc">Додаток отримає доступ до бази даних програми електронної пошти, яка включає отримані і відправлені листи, імена користувачів і паролі</string>
      <string name="permission_access_provider_label">Доступ до даних сервісу ел. пошти</string>
      <string name="permission_read_attachment_desc">Додаток отримає доступ до прикріплених файлів у повідомленнях ел. пошти</string>
      <string name="permission_read_attachment_label">Відкривати прикріплені файли</string>
-     <string name="photos_upload_dimension_1600">Рекомендується: 1600 пікселів (для публікації, друку і заставок)</string>
-     <string name="photos_upload_dimension_original">Початковий розмір файлу (мінімальна швидкість завантаження)</string>
      <string name="picasa_default_destination">Альбом для завантаження з телефону</string>
      <string name="picker_combined_view_fmt">Комбіновиний вигляд(%s)</string>
      <string name="picker_mailbox_name_all_inbox">Вхідні (усі)</string>
      <string name="picker_mailbox_name_all_unread">Вхідні (непрочитані)</string>
      <string name="plus_cc_label">Додати копію</string>
      <string name="position_of_count">%1$d из %2$s</string>
-     <string name="preference_category_title_about">Відомості</string>
-     <string name="preference_category_title_general">Загальні</string>
-     <string name="preference_category_title_photos">Фото</string>
-     <string name="preference_category_title_videos">Відео</string>
-     <string name="preference_mobile_data_usage_for_all_media">Фото та відео через мобільну мережу</string>
-     <string name="preference_mobile_data_usage_for_photos_only">Тільки фото через мобільну мережу</string>
-     <string name="preference_mobile_data_usage_never">Фото та відео тільки через Wi-Fi</string>
-     <string name="preference_plus_category_advanced">Додатково</string>
-     <string name="preference_plus_delay_sync_until_charging">Завантаження при зарядці</string>
-     <string name="preference_plus_delay_sync_until_charging_summary">Завантажувати фотографії і відео тільки під час зарядки</string>
-     <string name="preference_plus_enable_cs">Завантаження з телефону</string>
-     <string name="preference_plus_enable_cs_summary">Автоматично завантажувати Фотографії та відео до особистого веб-альбому</string>
-     <string name="preference_plus_mobile_data_connection">Завантаження з мобільного пристрою</string>
-     <string name="preference_plus_sync_all">Завантажити наявні фото</string>
-     <string name="preference_plus_sync_all_description">Завантажити усі наявні на телефоні фотографії и відеоролики</string>
-     <string name="preference_plus_sync_all_prompt_no">Ні</string>
-     <string name="preference_plus_sync_all_prompt_text">Додавання фотографій і відеороликів, не завантажених з телефону в особистий веб-альбом, може зайняти деякий час. Цей процес буде виконуватись у фоновому режимі. Продовжити?</string>
-     <string name="preference_plus_sync_all_prompt_title">Завантажити відповідні фотографії</string>
-     <string name="preference_plus_sync_all_prompt_yes">Так</string>
-     <string name="preference_plus_sync_while_roaming">Завантаження в роумингу</string>
-     <string name="preference_plus_sync_while_roaming_summary">Завантажувати фото та відео в роумингу через канал передачі даних</string>
-     <string name="preference_plus_title">Налаштування завантаження</string>
-     <string name="preference_plus_upload_status">Статус завантаження</string>
-     <string name="preference_summary_header_format">%1$s: %2$s</string>
-     <string name="preference_summary_need_power">Завантажувати тільки під час зарядки телефону</string>
-     <string name="preference_summary_need_wifi">"Завантажувати тільки за наявності з'єднання Wi-Fi"</string>
-     <string name="preference_summary_uploading_format">: %1$d из %2$d</string>
-     <string name="preference_summary_uploading_paused">Призупинено: натисніть, щоб продовжити завантаження</string>
-     <string name="preference_summary_uploading_percent">Завантаження (%1$d%%)</string>
-     <string name="preference_title_camera_sync_version">Завантаження з телефону</string>
-     <string name="preference_title_need_power">Заряджання</string>
-     <string name="preference_title_need_wifi">Wi-Fi</string>
-     <string name="preference_title_pause_all_uploads">Призупинити усі завантаження</string>
-     <string name="preference_title_photo_size">Размір фото</string>
-     <string name="preference_title_photos_account">Облік. запис</string>
-     <string name="preference_title_photos_upload_connectivity">Умови завантаження</string>
-     <string name="preference_title_videos_account">Облік. запис</string>
-     <string name="preference_title_videos_account_summary">Облік. запис для фотографій буде використовуватися для завантаження відео</string>
-     <string name="preference_title_videos_upload_connectivity">Умови завантаження</string>
-     <string name="preference_title_videos_upload_connectivity_summary">"Налаштування з'єднання для фотографій зараз зайняті"</string>
      <string name="previous_action">Назад</string>
      <string name="provider_note_live">Доступ через протокол POP, дозволяє цій програмі підключатися, дозволений тільки в деяких облік. записах Plus. Якщо вам не вдається увійти за допомогою своєї адреси електронної пошти та пароля, швидше за все, у вас безкоштовний облік. запис (не Plus). Щоб увійти в такий облік. запис, використовуйте браузер</string>
      <string name="provider_note_t_online">"Перш ніж налаштовувати облік. запис, перейдіть на веб-сайт оператора зв'язку та встановіть пароль для доступу до електронної пошти через протокол POP3"</string>
@@ -500,17 +408,13 @@
      <string name="reply_action">Відповісти</string>
      <string name="reply_all_action">Відповісти всим</string>
      <string name="require_manual_sync_message">Фонова синхронізація відключена для цього облікового запису в роумінгу</string>
-     <string name="retry_in_1min">1 хвилина</string>
-     <string name="retry_in_2min">2 хвилини</string>
-     <string name="retry_in_5min">5 хвилин</string>
-     <string name="retry_no_data">Відсутнє підключення для передачі даних</string>
      <string name="save_action">Зберегти</string>
      <string name="save_draft_action">Зберегти черновик</string>
      <string name="search_action">Пошук</string>
      <!-- The count of MNPS does not match! Now: 1 must: 0
 	%s: 1 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: Результаты поиска -->
+     <!-- Original string: Результати пошуку -->
      <string name="search_header_text_fmt">Результати пошуку для \"%1$s\"</string>
      <string name="search_hint">Шукати в електронній пошті</string>
      <string name="search_mailbox_hint">Шукати у папці \"%1$s\"</string>
@@ -526,47 +430,13 @@
      <string name="status_loading_messages">Завантаження повідомлень...</string>
      <string name="status_network_error">Помилка підключення</string>
      <string name="subject_hint">Тема:</string>
-     <string name="summary_menu_show_finished">Показати завершені завантаження</string>
-     <string name="summary_menu_show_pending">Показати незавершені завантаження</string>
-     <string name="summary_subtitle_counts_format">%1$d фото • %2$d відео</string>
-     <string name="summary_subtitle_disabled">Відключено</string>
-     <string name="summary_subtitle_paused_low_battery">низький рівень заряду батареї</string>
-     <string name="summary_subtitle_paused_need_charger">призупинено до зарядки</string>
-     <string name="summary_subtitle_paused_need_media">SD-карта недоступна</string>
-     <string name="summary_subtitle_paused_need_network">очікування підключення</string>
-     <string name="summary_subtitle_paused_need_wifi">очікування підключення Wi-Fi</string>
-     <string name="summary_subtitle_paused_photos_quota">перевищена квота на фотографії</string>
-     <string name="summary_subtitle_paused_retry_format">повторна спроба через %s</string>
-     <string name="summary_subtitle_paused_roaming">роумінг</string>
-     <string name="summary_subtitle_uploading_format">%1$d%% • %2$d фото • %3$d відео</string>
-     <string name="summary_title_finished">Завершені</string>
-     <string name="summary_title_paused">Призупинено</string>
-     <string name="summary_title_uploading">Завантаження</string>
      <string name="system_account_create_failed">Не вдалося створити облік. запис. Повторіть спробу</string>
      <string name="to">Кому:</string>
      <string name="toast_account_not_found">Облік. запис не знайдений. Можливо, він видалений</string>
-     <string name="toast_failed_auth">Не вдалося увійти в облік. запис</string>
-     <string name="toast_file_error">Файл недоступний</string>
-     <string name="toast_intent_error">Не вдалося почати завантаження</string>
      <string name="toast_mailbox_not_found">Папка не знайдена. Можливо, вона видалена</string>
      <string name="trusted_senders_cleared">Показ зображень відключений</string>
      <string name="unread_action">Помітити як непрочитане</string>
      <string name="upload">Завантажити</string>
-     <string name="upload_state_completed">Завершено</string>
-     <string name="upload_state_failed">Збій</string>
-     <string name="upload_state_uploading">Завантаження</string>
-     <string name="upload_state_waiting_retry">Очікування повторної спроби</string>
-     <string name="upload_state_waiting_wifi">Очікування підключення Wi-Fi</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: " для "<b>%s</b> -->
-     <string name="uploading_for">" для користувача "</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Загрузка в <b>%s</b> -->
-     <string name="uploading_to">Завантаження в</string>
      <string name="waitinf_for_sync_message_1">Очікування синхронізації</string>
      <string name="waitinf_for_sync_message_2">Ваши повідомлення незабаром завантажаться</string>
      <string name="widget_all_mail">Усі вхідні</string>

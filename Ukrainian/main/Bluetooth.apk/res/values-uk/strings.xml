@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with Cloudbuildr -->
+<!-- Builded with CloudBuildr -->
 <resources>
-     <string name="Errortoomanyrequests">Обробляється занадто багато запитів. Повторіть спробу пізніше</string>
+     <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Попробуйте позже.</string>
      <string name="ack_record">Запис підтвердження</string>
      <string name="airplane_error_msg">У режимі польоту не можна використовувати Bluetooth</string>
      <string name="airplane_error_title">Режим польоту</string>
@@ -31,7 +31,7 @@
      <string name="bt_toast_6">Відправлення файлу на \"%1$s\" зупинено</string>
      <string name="btopp_live_folder">Отримано по Bluetooth</string>
      <string name="defaultname">Автомобільний комплект</string>
-     <string name="deleteall_record">Видалити всі записи</string>
+     <string name="deleteAll_record">Удалить все записи</string>
      <string name="delete_record">Видалити запис</string>
      <string name="download_cancel">Зупинити</string>
      <string name="download_fail_line1">Файл не отримано.</string>
@@ -59,7 +59,6 @@
      <string name="ftp_notif_title">Запит ключа ссесії FTP</string>
      <string name="ftp_session_key_dialog_header">Потрібен ключ Bluetooth сеансу</string>
      <string name="ftp_session_key_dialog_title">Введіть ключ сесії для %1$s</string>
-     <string name="hello">"Hello, World! (перевірка зв\’язку)"</string>
      <string name="inbound_history_title">Вхідні передачі</string>
      <string name="inbound_noti_title">Bluetooth: отримані файли</string>
      <string name="incoming_file_confirm_Notification_caption">Прийняти файл?</string>
@@ -74,8 +73,12 @@
      <string name="incoming_file_confirm_title">Надсилання файлу</string>
      <string name="incoming_file_toast_msg">Вхідний файл з іншого пристрою. Підтвердіть, якщо бажаєте завантажити його.</string>
      <string name="insert_record">Вставити запис</string>
-     <string name="localphonename">Моя назва</string>
+     <string name="localPhoneName">Мое имя</string>
      <string name="map_acceptance_dialog_header">Доступ до папок телефону</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: \"%1$s\" хоче отримати доступ до ваших папок. Дозволити доступ до %2$s? -->
      <string name="map_acceptance_dialog_title">%1$s хоче отримати доступ до папок телефону</string>
      <string name="map_acceptance_timeout_message">"Час минув для прийняття з'єднання з %1$s"</string>
      <string name="map_alert_conn_failed_message">Bluetooth Map-підключення не вдалось</string>
@@ -85,6 +88,9 @@
      <string name="map_notif_title">Запит ключа сесії для MAP</string>
      <string name="map_session_key_dialog_header"> Потрібен ключ сесії для Bluetooth сеансу</string>
      <string name="map_session_key_dialog_title">Введіть ключ сесії для %1$s</string>
+     <string name="miui_transfer_history_title">Передачи Bluetooth</string>
+     <string name="miui_transfer_inbound_title">Входные</string>
+     <string name="miui_transfer_outbound_title">Выходные</string>
      <string name="no_transfers">Немає даних</string>
      <string name="not_exist_file">Немає файлу</string>
      <string name="not_exist_file_desc">Файл не існує</string>
@@ -104,12 +110,12 @@
      <string name="pbap_authentication_timeout_message">"Вичерпано час очікування введення ключа сеансу для зв\’язку з %1$s."</string>
      <string name="pbap_session_key_dialog_header">Необхідний ключ сеансу Bluetooth</string>
      <string name="pbap_session_key_dialog_title">Введіть ключ сеансу для %1$s</string>
-     <string name="permdesc_bluetoothsharemanager">Програма отримає доступ до диспечера обміну файлами по Bluetooth і зможе використовувати його для передачі файлів.</string>
-     <string name="permdesc_bluetoothwhitelist">Дозволяє додаткам тимчасовий доступ до білого списку Bluetooth пристрою. Дозволяє пристроям відправляти файли без підтвердження користувача.</string>
-     <string name="permdesc_handoverstatus">Дозволяє отримувати інформацію статусу передачі Bluetooth</string>
-     <string name="permlab_bluetoothsharemanager">Доступ до диспечера завантажень</string>
-     <string name="permlab_bluetoothwhitelist">Білий список доступу пристрою Bluetooth</string>
-     <string name="permlab_handoverstatus">Отримувати BT передачі мовлення</string>
+     <string name="permdesc_bluetoothShareManager">Программа получит доступ к диспетчеру обмена файлами по Bluetooth и сможет использовать его для передачи файлов.</string>
+     <string name="permdesc_bluetoothWhitelist">Разрешить программе добавлять устройство Bluetooth в белый список, что позволяет отправлять на устройство файлы без согласия пользователя.</string>
+     <string name="permdesc_handoverStatus">Позволяет получать от Bluetooth информацию о статусе передачи сессии.</string>
+     <string name="permlab_bluetoothShareManager">Доступ к диспетчеру загрузки.</string>
+     <string name="permlab_bluetoothWhitelist">Доступ к белого списка устройств Bluetooth.</string>
+     <string name="permlab_handoverStatus">Получать уведомления о хэндовер по BT.</string>
      <string name="share_prepare">Підготовка Bluetooth Share</string>
      <string name="start_server">Запустити Tcp-сервер</string>
      <string name="status_bpp_aborted_by_printer">Друк не вдався, відхилено друкуючим пристроєм</string>
@@ -146,8 +152,8 @@
      <string name="transfer_menu_clear">Видалити зі списку</string>
      <string name="transfer_menu_clear_all">Очистити список</string>
      <string name="transfer_menu_open">Відкрити</string>
-     <string name="unknownname">"Невідоме ім\’я"</string>
-     <string name="unknownnumber">Невідомо</string>
+     <string name="unknownName">Без имени</string>
+     <string name="unknownNumber">Неизвестно</string>
      <string name="unknown_device">Невідомий пристрій</string>
      <string name="unknown_file">Невідомий файл</string>
      <string name="unknown_file_desc">Немає програм для роботи з файлами цього типу</string>
@@ -163,5 +169,3 @@
      <string name="upload_succ_ok">ОК</string>
      <string name="upload_success">Відправлено: %1$s</string>
 </resources>
-
-
