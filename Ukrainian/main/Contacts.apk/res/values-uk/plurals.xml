@@ -15,15 +15,15 @@
      </plurals>
      <plurals name="listFoundAllContacts">
         <item quantity="other">Знайдено: %d</item>
-        <item quantity="one">Знайдено: 1</item>
+        <item quantity="one">Знайдено: %d</item>
      </plurals>
      <plurals name="listTotalAllContacts">
         <item quantity="other">Контактів: %d</item>
-        <item quantity="one">Контактів: 1</item>
+        <item quantity="one">Контактів: %d</item>
      </plurals>
      <plurals name="listTotalPhoneContacts">
         <item quantity="other">Контакти з номерами телефонів: %d</item>
-        <item quantity="one">Контакти з номерами телефону: 1</item>
+        <item quantity="one">Контакти з номерами телефону: %d</item>
      </plurals>
      <plurals name="merge_info">
         <item quantity="other">"Об\'єднано з декількох джерел (%0$d)"</item>
@@ -54,10 +54,10 @@
      </plurals>
      <plurals name="searchFoundContacts">
         <item quantity="other">Знайдено: %d</item>
-        <item quantity="one">Знайдено: 1</item>
+        <item quantity="one">Знайдено: %d</item>
      </plurals>
      <plurals name="smart_group_member_count">
         <item quantity="other">%d людей</item>
-        <item quantity="one">1 людина</item>
+        <item quantity="one">%d людина</item>
      </plurals>
 </resources>
