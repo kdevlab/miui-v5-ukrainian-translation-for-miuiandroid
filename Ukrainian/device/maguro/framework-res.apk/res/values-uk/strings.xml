@@ -251,7 +251,6 @@
   <string name="defaultVoiceMailAlphaTag">Голосова пошта</string>
   <string name="default_permission_group">По умолчанию</string>
   <string name="default_text_encoding">Latin-1</string>
-  <string name="default_wallpaper_component">com.android.wallpaper/.nexus.NexusWallpaper</string>
   <string name="delete">Видалити</string>
   <string name="deleteText">видалити</string>
   <string name="deny">Отклонить</string>
