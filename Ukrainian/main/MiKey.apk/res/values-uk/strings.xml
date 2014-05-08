@@ -31,7 +31,7 @@
   <string name="cancel">Відмінити</string>
   <string name="category_app">програми</string>
   <string name="category_system_settings">Налаштування</string>
-  <string name="clean_memory">Очистити пам'ять</string>
+  <string name="clean_memory">"Очистити пам'ять"</string>
   <string name="click_to_open">Відкрити</string>
   <string name="close_all">Закрити все</string>
   <string name="cn_0">0</string>
