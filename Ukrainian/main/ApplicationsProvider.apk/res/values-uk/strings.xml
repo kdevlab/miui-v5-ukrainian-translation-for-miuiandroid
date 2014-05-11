@@ -3,7 +3,7 @@
 <resources>
      <string name="app_label">Програми</string>
      <string name="application_desc">Програми</string>
-     <string name="search_empty">Нет совпадений</string>
+     <string name="search_empty">Немає співпадінь</string>
      <string name="search_label">Програми</string>
      <string name="settings_description">Пошук програм</string>
 </resources>
